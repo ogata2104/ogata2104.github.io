@@ -1,17 +1,7 @@
 # [あなたの名前] のポートフォリオ
 
-## 👤 自己紹介
-プログラミングを勉強中の[名前]です。
-〇〇（言語や技術）に興味があります！
+# 📱 Connect with me
 
-## 🛠 スキル
-- 言語: Python, HTML/CSS
-- ツール: GitHub, VS Code
-
-## 📂 制作物
-- [プロジェクト名1](リンク) : 〇〇ができるアプリです。
-- [プロジェクト名2](リンク) : △△を自動化しました。
-
-## ✉️ 連絡先
-- [Twitter/X](リンク)
-- [お問合せメールアドレス]
+[ ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ](https://x.com/あなたのID)
+[ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/あなたのID)
+[ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](https://www.instagram.com/あなたのID)
