@@ -5,6 +5,7 @@
 
 | Cover | Track | Artist |
 | :--- | :--- | :--- |
+| <a href="https://open.spotify.com/track/2hlKwI5994FIs9yJY33EDW"><img src="https://i.scdn.co/image/ab67616d00004851c43ffc2f1746ca0011f7fb1f" width="50" height="50" alt="cover"></a> | [Ain't That a Lot of Love](https://open.spotify.com/track/2hlKwI5994FIs9yJY33EDW) | [Simply Red](https://open.spotify.com/track/2hlKwI5994FIs9yJY33EDW) |
 | <a href="https://open.spotify.com/track/1DWfjSM4lKBjg7hQLwYkr2"><img src="https://i.scdn.co/image/ab67616d000048517d2d24d8a6bf7578a140db55" width="50" height="50" alt="cover"></a> | [ひと夏のタペストリー](https://open.spotify.com/track/1DWfjSM4lKBjg7hQLwYkr2) | [Tomoko Aran](https://open.spotify.com/track/1DWfjSM4lKBjg7hQLwYkr2) |
 | <a href="https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc"><img src="https://i.scdn.co/image/ab67616d0000485199c0ecaf5aca482a51acf628" width="50" height="50" alt="cover"></a> | [街のドルフィン](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) | [Kingo Hamada](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) |
 | <a href="https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc"><img src="https://i.scdn.co/image/ab67616d0000485153cf43170dc29787984cf6b4" width="50" height="50" alt="cover"></a> | [Every Little Step](https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc) | [Bobby Brown](https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc) |
@@ -14,7 +15,6 @@
 | <a href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo"><img src="https://i.scdn.co/image/ab67616d00004851f29e14e8fd0ccec63bd30ad1" width="50" height="50" alt="cover"></a> | [Lady Love Me (One More Time)](https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo) | [George Benson](https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo) |
 | <a href="https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO"><img src="https://i.scdn.co/image/ab67616d00004851d1c328f80ee86ad7f306e9e7" width="50" height="50" alt="cover"></a> | [Smiles And Smiles To Go](https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO) | [Larry Carlton](https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO) |
 | <a href="https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv"><img src="https://i.scdn.co/image/ab67616d00004851555dab2807e811549783e812" width="50" height="50" alt="cover"></a> | [15の夜](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) | [Yutaka Ozaki](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) |
-| <a href="https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS"><img src="https://i.scdn.co/image/ab67616d00004851dd51f0bf670da32e46f18af8" width="50" height="50" alt="cover"></a> | [Look Up! - Remastered](https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS) | [Patrice Rushen](https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS) |
 
 <!-- SPOTIFY_END -->
 
