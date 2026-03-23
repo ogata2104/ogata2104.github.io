@@ -25,36 +25,55 @@ def get_access_token():
 def get_recently_played():
     token = get_access_token()
     print("Fetching recently played tracks...")
-    url = "https://api.spotify.com/v1/me/player/recently-played"
+    url = "https://api.spotify.com/v1/me/player/recently-played?limit=50" # 重複除外を考慮して多めに取得
     res = requests.get(url, headers={"Authorization": f"Bearer {token}"})
     data = res.json()
-    
-    print(f"API Response: {data}") 
     return data.get("items", [])
     
 # 3. README.md を書き換える
 def update_readme():
-    items = get_recently_played()
-    items = items[:10] # 表示曲数はここで指定
+    raw_items = get_recently_played()
+    
+    # --- 【修正1】重複を除外するロジック ---
+    seen_ids = set()
+    unique_tracks = []
+    for item in raw_items:
+        track_id = item['track']['id']
+        if track_id not in seen_ids:
+            unique_tracks.append(item['track'])
+            seen_ids.add(track_id)
+    
+    # 表示したい件数（例：5件）に絞る
+    unique_tracks = unique_tracks[:5] 
+
     spotify_content = "### 🎧 Recently Played\n\n"
     
-    if not items:
+    if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        for item in items:
-            track = item['track']
+        # テーブル形式で綺麗に並べる（お好みでリスト形式にも戻せます）
+        spotify_content += "| Cover | Track | Artist |\n"
+        spotify_content += "| :--- | :--- | :--- |\n"
+        
+        for track in unique_tracks:
             name = track['name']
             artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
-            spotify_content += f"- [{name}]({url}) - {artist}\n"
+            # --- 【修正2】ジャケット写真のURLを取得 ---
+            # images[0]が最大サイズ、[1]が中サイズ、[2]が最小サイズ（64x64）
+            img_url = track['album']['images'][2]['url'] 
+            
+            # Markdownの中にHTMLのimgタグを埋め込む（サイズ調整がしやすいため）
+            cover_img = f'<img src="{img_url}" width="50" height="50" alt="cover">'
+            
+            spotify_content += f"| {cover_img} | [{name}]({url}) | {artist} |\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 【修正箇所】マーカーをしっかり指定する
-    start_marker = "<!-- SPOTIFY_START -->"
-    end_marker = "<!-- SPOTIFY_END -->"
+    start_marker = ""
+    end_marker = ""
     
     if start_marker in content and end_marker in content:
         print("Markers found! Updating content...")
@@ -68,9 +87,7 @@ def update_readme():
         print("Successfully updated README.md")
     else:
         print(f"Error: Markers not found in {filename}!")
-        print(f"Looking for: '{start_marker}' and '{end_marker}'")
 
-# 【最重要】スクリプトを実行する「号令」を追加
 if __name__ == "__main__":
     print("--- Script Starting ---")
     update_readme()
