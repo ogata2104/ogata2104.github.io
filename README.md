@@ -5,6 +5,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+- [I Saw The Light](https://open.spotify.com/track/1qFu6w2VX4gJJyU1v96yTE) - Workshy
+- [Sign 'O' the Times](https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz) - Prince
+- [15の夜](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) - Yutaka Ozaki
+- [Breakout](https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5) - Swing Out Sister
 - [15の夜](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) - Yutaka Ozaki
 - [Don't Save Me](https://open.spotify.com/track/2g92k9vKTmpAUbjvGLA2xq) - HAIM
 - [Days Are Gone](https://open.spotify.com/track/5l46pkiZiSyfCpB6kxKIjd) - HAIM
@@ -21,11 +25,7 @@
 - [Bridges (Travessia)](https://open.spotify.com/track/1THt7Fbo13MSMW9nTzwhE2) - Milton Nascimento
 - [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) - N.W.A.
 - [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) - TOTO
-- [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) - The Beach Boys
-- [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) - The Mamas & The Papas
-- [Blank Space](https://open.spotify.com/track/1kHEuJRasudLhjvnbfc4yS) - Taylor Swift
-- [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) - Avril Lavigne
-- 
+
 <!-- SPOTIFY_END -->
 
 [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](https://www.instagram.com/ogata2104)
