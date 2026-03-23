@@ -46,7 +46,7 @@ def update_readme():
     # 表示したい件数（例：5件）に絞る
     unique_tracks = unique_tracks[:5] 
 
-    spotify_content = "### 🎧 Recently Played\n\n"
+    spotify_content = "### 🎧 Recently Played by Spotify\n\n"
     
     if not unique_tracks:
         spotify_content += "No recent tracks found."
