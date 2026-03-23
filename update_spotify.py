@@ -36,16 +36,21 @@ def update_readme():
             spotify_content += f"- [{name}]({url}) - {artist}\n"
 
     # README.md の特定のコメントの間を書き換える
-    with open("README.md", "r", encoding="utf-8") as f:
+    filename = "README.md" # あなたのファイル名に合わせてください
+    with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
 
     start_marker = ""
     end_marker = ""
     
     if start_marker in content and end_marker in content:
-        new_content = content.split(start_marker)[0] + start_marker + "\n" + spotify_content + "\n" + end_marker + content.split(end_marker)[1]
-        with open("README.md", "w", encoding="utf-8") as f:
+        parts_start = content.split(start_marker)
+        parts_end = parts_start[1].split(end_marker)
+        
+        new_content = parts_start[0] + start_marker + "\n" + spotify_content + "\n" + end_marker + parts_end[1]
+        
+        with open(filename, "w", encoding="utf-8") as f:
             f.write(new_content)
-
-if __name__ == "__main__":
-    update_readme()
+    else:
+        print(f"Error: Markers not found in {filename}!")
+        print(f"Looking for: {start_marker} and {end_marker}")
