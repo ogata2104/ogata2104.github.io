@@ -2,7 +2,7 @@
 
 
 ## 🎵 Recently Played
-__music_start__
+<!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
 - [15の夜](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) - Yutaka Ozaki
@@ -25,8 +25,8 @@ __music_start__
 - [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) - The Mamas & The Papas
 - [Blank Space](https://open.spotify.com/track/1kHEuJRasudLhjvnbfc4yS) - Taylor Swift
 - [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) - Avril Lavigne
-
-__music_end__
+- 
+<!-- SPOTIFY_END -->
 
 [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](https://www.instagram.com/ogata2104)
 
