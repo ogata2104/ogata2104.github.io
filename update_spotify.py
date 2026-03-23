@@ -49,8 +49,8 @@ def update_readme():
         content = f.read()
 
     # 【修正箇所】マーカーをしっかり指定する
-    start_marker = "__music_start__"
-    end_marker = "__music_end__"
+    start_marker = "<!-- SPOTIFY_START -->"
+    end_marker = "<!-- SPOTIFY_END -->"
     
     if start_marker in content and end_marker in content:
         print("Markers found! Updating content...")
