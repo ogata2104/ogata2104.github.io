@@ -2,7 +2,7 @@ name: Update Spotify Tracks
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # 10分に1回実行
+    - cron: '0,10,20,30,40,50 * * * *' # 10分に1回実行
   workflow_dispatch: # 手動実行ボタンも追加
 
 jobs:
