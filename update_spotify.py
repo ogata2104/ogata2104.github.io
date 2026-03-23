@@ -72,8 +72,8 @@ def update_readme():
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
 
-    start_marker = ""
-    end_marker = ""
+    start_marker = "<!-- SPOTIFY_START -->"
+    end_marker = "<!-- SPOTIFY_END -->"
     
     if start_marker in content and end_marker in content:
         print("Markers found! Updating content...")
