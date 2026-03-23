@@ -32,6 +32,7 @@ def get_recently_played():
 # 3. README.md を書き換える
 def update_readme():
     items = get_recently_played()
+    items = items[:5]
     spotify_content = "### 🎧 Recently Played\n\n"
     
     if not items:
