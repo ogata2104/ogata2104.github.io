@@ -1,7 +1,7 @@
 # ogata2104 のポートフォリオ
 
 <!-- SPOTIFY_START -->
-### 🎧 Recently Played
+### 🎧 Recently Played by Spotify
 
 | Cover | Track | Artist |
 | :--- | :--- | :--- |
