@@ -5,6 +5,8 @@
 __music_start__
 ### 🎧 Recently Played
 
+- [Everybody's trying to figure me out](https://open.spotify.com/track/05cgsOxewNNIazarjeC7eV) - HAIM
+- [Don't Save Me - Cyril Hahn Remix](https://open.spotify.com/track/0epfTkPlZPB7iVAg9caWNK) - HAIM
 - [Try to feel my pain](https://open.spotify.com/track/0cCVOHvUyqKp9f1a4fTZzF) - HAIM
 - [Now I'm In It - Bonus Track](https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt) - HAIM
 - [Gone](https://open.spotify.com/track/6NYjJd75ozQfVk9XN3KdTf) - HAIM
@@ -23,8 +25,6 @@ __music_start__
 - [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) - David Lee Roth
 - [Don't You (Forget About Me)](https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl) - Simple Minds
 - [St. Elmos Fire (Man in Motion)](https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo) - John Parr
-- [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) - Bruce Springsteen
-- [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) - Lizzo
 
 __music_end__
 
