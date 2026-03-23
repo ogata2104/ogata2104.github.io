@@ -43,8 +43,7 @@ def update_readme():
             unique_tracks.append(item['track'])
             seen_ids.add(track_id)
     
-    # 表示したい件数（例：5件）に絞る
-    unique_tracks = unique_tracks[:5] 
+    unique_tracks = unique_tracks[:10] # 表示したい件数
 
     spotify_content = "### 🎧 Recently Played by Spotify\n\n"
     
@@ -59,14 +58,14 @@ def update_readme():
             name = track['name']
             artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
-            # --- 【修正2】ジャケット写真のURLを取得 ---
-            # images[0]が最大サイズ、[1]が中サイズ、[2]が最小サイズ（64x64）
             img_url = track['album']['images'][2]['url'] 
             
-            # Markdownの中にHTMLのimgタグを埋め込む（サイズ調整がしやすいため）
-            cover_img = f'<img src="{img_url}" width="50" height="50" alt="cover">'
+            # 全ての要素を <a> タグで囲んで、どこを押しても飛べるようにする
+            cover_link = f'<a href="{url}"><img src="{img_url}" width="50" height="50" alt="cover"></a>'
+            track_link = f'[{name}]({url})'
+            artist_link = f'[{artist}]({url})'
             
-            spotify_content += f"| {cover_img} | [{name}]({url}) | {artist} |\n"
+            spotify_content += f"| {cover_link} | {track_link} | {artist_link} |\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
