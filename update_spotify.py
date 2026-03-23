@@ -20,7 +20,7 @@ def get_recently_played():
     res = requests.get(url, headers={"Authorization": f"Bearer {token}"})
     return res.json().get("items", [])
 
-# 3. index.md を書き換える
+# 3. README.md を書き換える
 def update_readme():
     items = get_recently_played()
     spotify_content = "### 🎧 Recently Played\n\n"
@@ -35,8 +35,8 @@ def update_readme():
             url = track['external_urls']['spotify']
             spotify_content += f"- [{name}]({url}) - {artist}\n"
 
-    # index.md の特定のコメントの間を書き換える
-    with open("index.md", "r", encoding="utf-8") as f:
+    # README.md の特定のコメントの間を書き換える
+    with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
     start_marker = ""
@@ -44,7 +44,7 @@ def update_readme():
     
     if start_marker in content and end_marker in content:
         new_content = content.split(start_marker)[0] + start_marker + "\n" + spotify_content + "\n" + end_marker + content.split(end_marker)[1]
-        with open("index.md", "w", encoding="utf-8") as f:
+        with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
 
 if __name__ == "__main__":
