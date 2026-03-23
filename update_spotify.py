@@ -1,3 +1,6 @@
+# (c) 2026 ogata2104. All rights reserved.
+# 無断転載・営利目的の利用を禁じます。
+
 import os
 import requests
 import base64
