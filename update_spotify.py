@@ -16,10 +16,16 @@ def get_access_token():
 # 2. 最近聴いた曲を取得
 def get_recently_played():
     token = get_access_token()
-    url = "https://api.spotify.com/v1/me/player/recently-played?limit=5"
+    url = "https://api.spotify.com/v1/me/player/recently-played"
     res = requests.get(url, headers={"Authorization": f"Bearer {token}"})
-    return res.json().get("items", [])
-
+    data = res.json()
+    
+    # --- ここを追加 ---
+    print(f"API Response: {data}") 
+    # ------------------
+    
+    return data.get("items", [])
+    
 # 3. README.md を書き換える
 def update_readme():
     items = get_recently_played()
