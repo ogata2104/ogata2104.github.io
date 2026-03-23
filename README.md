@@ -1,7 +1,5 @@
 # ogata2104 のポートフォリオ
 
-
-## 🎵 Recently Played
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
