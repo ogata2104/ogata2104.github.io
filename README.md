@@ -5,6 +5,7 @@
 __music_start__
 ### 🎧 Recently Played
 
+- [15の夜](https://open.spotify.com/track/0YNeru49spP2PYOMAnM5cv) - Yutaka Ozaki
 - [Don't Save Me](https://open.spotify.com/track/2g92k9vKTmpAUbjvGLA2xq) - HAIM
 - [Days Are Gone](https://open.spotify.com/track/5l46pkiZiSyfCpB6kxKIjd) - HAIM
 - [Everybody's trying to figure me out](https://open.spotify.com/track/05cgsOxewNNIazarjeC7eV) - HAIM
@@ -24,7 +25,6 @@ __music_start__
 - [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) - The Mamas & The Papas
 - [Blank Space](https://open.spotify.com/track/1kHEuJRasudLhjvnbfc4yS) - Taylor Swift
 - [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) - Avril Lavigne
-- [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) - David Lee Roth
 
 __music_end__
 
