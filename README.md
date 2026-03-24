@@ -5,6 +5,11 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><img src="https://i.scdn.co/image/ab67616d0000485109626051fff7098acfafefd0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp">DEAR BREEZE</a> | S. Kiyotaka & Omega Tribe |
+| <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"><img src="https://i.scdn.co/image/ab67616d00004851ca11e986d5799c681096499e" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH">DOWN TOWN</a> | EPO |
+| <a href="https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn"><img src="https://i.scdn.co/image/ab67616d0000485168a5d2cd77f7abef0b964981" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn">Fly-day Chinatown</a> | Yasuha |
+| <a href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze"><img src="https://i.scdn.co/image/ab67616d00004851cfd93d36fe2365f9436587d1" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze">悲しみがとまらない　I CAN'T STOP THE LONELINESS</a> | Anri |
+| <a href="https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg"><img src="https://i.scdn.co/image/ab67616d00004851af12a920f8a4256f4fe32d35" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg">4:00A.M.</a> | Taeko Onuki |
 | <a href="https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"><img src="https://i.scdn.co/image/ab67616d0000485102dbd34372e6f84b2ec7e562" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB">君は天然色</a> | 大滝詠一 |
 | <a href="https://open.spotify.com/track/1Z1fN0KFNu0aG2EpbBVwvN"><img src="https://i.scdn.co/image/ab67616d0000485187828495cbe9ed95f3fee3f6" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1Z1fN0KFNu0aG2EpbBVwvN">プラスティック・ラブ</a> | Mariya Takeuchi |
 | <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM"><img src="https://i.scdn.co/image/ab67616d00004851d2d1c44c2767567810b051ef" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM">真夜中のドア〜stay with me</a> | Miki Matsubara |
@@ -15,11 +20,6 @@
 | <a href="https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"><img src="https://i.scdn.co/image/ab67616d00004851dadce998f88dba71c98adf88" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO">Flash Light</a> | Parliament |
 | <a href="https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"><img src="https://i.scdn.co/image/ab67616d00004851e7248738c2f7ce3b5584b15d" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA">Father And Son</a> | Yusuf / Cat Stevens |
 | <a href="https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"><img src="https://i.scdn.co/image/ab67616d00004851661e6ba2981201a3e36a46f6" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA">Surrender</a> | Cheap Trick |
-| <a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"><img src="https://i.scdn.co/image/ab67616d0000485151d98ff76da5ca1f82c8cbc8" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU">Wham Bam Shang-A-Lang</a> | Silver |
-| <a href="https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"><img src="https://i.scdn.co/image/ab67616d000048513fb91f6d6c412ef519dd3dee" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP">Come A Little Bit Closer</a> | Jay & The Americans |
-| <a href="https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"><img src="https://i.scdn.co/image/ab67616d000048517d12d6d8dcffd1594123b3bd" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA">Brandy (You're a Fine Girl)</a> | Looking Glass |
-| <a href="https://open.spotify.com/track/2H4ortLFvgm9h8sTcvISbu"><img src="https://i.scdn.co/image/ab67616d00004851c30b0e705d20d4dd45c7591e" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2H4ortLFvgm9h8sTcvISbu">Let Go Your Love</a> | Jack Burns |
-| <a href="https://open.spotify.com/track/53wDkiyFwtOxjRaZOCdy48"><img src="https://i.scdn.co/image/ab67616d00004851175353a69a0d6f8960905474" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/53wDkiyFwtOxjRaZOCdy48">My Sweet Lord - 2014 Remaster</a> | George Harrison |
 
 <!-- SPOTIFY_END -->
 
