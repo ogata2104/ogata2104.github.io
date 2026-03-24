@@ -50,7 +50,7 @@ def update_readme():
             seen_ids.add(track['id'])
     
     # 最新の5曲に絞る
-    unique_tracks = unique_tracks[:5] 
+    unique_tracks = unique_tracks[:10] 
 
     spotify_content = "### 🎧 Recently Played\n\n"
     
