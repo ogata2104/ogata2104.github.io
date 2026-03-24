@@ -5,6 +5,9 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><img src="https://i.scdn.co/image/ab67616d000048513ceb47b2ea5f9f3799def18b" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1">テレフォン・ナンバー</a> | Junko Ohashi |
+| <a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><img src="https://i.scdn.co/image/ab67616d00004851bb3e3d846d40ce8deb6084a7" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq">SUMMER BLUE</a> | Bread And Butter |
+| <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><img src="https://i.scdn.co/image/ab67616d00004851cd5b908e46076b347c9d7580" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA">MIDNIGHT DRIVER</a> | Minako Yoshida |
 | <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><img src="https://i.scdn.co/image/ab67616d0000485109626051fff7098acfafefd0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp">DEAR BREEZE</a> | S. Kiyotaka & Omega Tribe |
 | <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"><img src="https://i.scdn.co/image/ab67616d00004851ca11e986d5799c681096499e" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH">DOWN TOWN</a> | EPO |
 | <a href="https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn"><img src="https://i.scdn.co/image/ab67616d0000485168a5d2cd77f7abef0b964981" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn">Fly-day Chinatown</a> | Yasuha |
@@ -17,9 +20,6 @@
 | <a href="https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"><img src="https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv">Bohemian Rhapsody - Remastered 2011</a> | Queen |
 | <a href="https://open.spotify.com/track/6vFN0uVMQxHofQFnNhGBq8"><img src="https://i.scdn.co/image/ab67616d000048514353fc20f3405b963e88b3aa" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/6vFN0uVMQxHofQFnNhGBq8">Guardians Inferno - From "Guardians of the Galaxy Vol. 2"</a> | The Sneepers |
 | <a href="https://open.spotify.com/track/62FiWSotxKBaBj1K2I3TFO"><img src="https://i.scdn.co/image/ab67616d0000485138834c1c1da8801a1988e1b0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/62FiWSotxKBaBj1K2I3TFO">Let's Go</a> | Nick Phoenix |
-| <a href="https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"><img src="https://i.scdn.co/image/ab67616d00004851dadce998f88dba71c98adf88" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO">Flash Light</a> | Parliament |
-| <a href="https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"><img src="https://i.scdn.co/image/ab67616d00004851e7248738c2f7ce3b5584b15d" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA">Father And Son</a> | Yusuf / Cat Stevens |
-| <a href="https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"><img src="https://i.scdn.co/image/ab67616d00004851661e6ba2981201a3e36a46f6" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA">Surrender</a> | Cheap Trick |
 
 <!-- SPOTIFY_END -->
 
