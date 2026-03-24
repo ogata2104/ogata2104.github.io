@@ -5,7 +5,6 @@ import os
 import requests
 import base64
 import sys
-from datetime import datetime, timedelta, timezone
 
 # リアルタイムでログを出力させる設定
 sys.stdout.reconfigure(line_buffering=True)
@@ -32,53 +31,44 @@ def get_recently_played():
 def update_readme():
     raw_items = get_recently_played()
     
-    # 重複を除外しつつ、再生時間も保持
+    # 重複を除外
     seen_ids = set()
     unique_tracks = []
     for item in raw_items:
         track = item['track']
         if track['id'] not in seen_ids:
-            # 日本時間に変換
-            utc_dt = datetime.strptime(item['played_at'], '%Y-%m-%dT%H:%M:%S.%fZ').replace(tzinfo=timezone.utc)
-            jst_dt = utc_dt.astimezone(timezone(timedelta(hours=9)))
-            played_at_str = jst_dt.strftime('%m/%d %H:%M')
-            
-            unique_tracks.append({
-                'track': track,
-                'played_at': played_at_str
-            })
+            unique_tracks.append(track)
             seen_ids.add(track['id'])
-    
-    # 最新の5曲に絞る
-    unique_tracks = unique_tracks[:10] 
+            
+    unique_tracks = unique_tracks[:15] # 表示曲数はここで指定
 
     spotify_content = "### 🎧 Recently Played\n\n"
     
     if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        # テーブルヘッダー
-        spotify_content += "| Cover | Track | Artist | Played At |\n"
-        spotify_content += "| :---: | :--- | :--- | :--- |\n"
+        # テーブルヘッダー（時刻を削除）
+        spotify_content += "| Cover | Track | Artist |\n"
+        spotify_content += "| :---: | :--- | :--- |\n"
         
-        for item in unique_tracks:
-            track = item['track']
+        for track in unique_tracks:
+            name = track['name']
+            artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
             img_url = track['album']['images'][2]['url'] 
             
-            # 全てをリンクで囲む
+            # 画像と曲名のみリンクを貼り、アーティストはテキストにする
             cover_link = f'<a href="{url}"><img src="{img_url}" width="50" height="50" alt="cover"></a>'
-            track_link = f'<a href="{url}">{track["name"]}</a>'
-            artist_link = f'<a href="{url}">{track["artists"][0]["name"]}</a>'
-            time_link = f'<a href="{url}">{item["played_at"]}</a>'
+            track_link = f'<a href="{url}">{name}</a>'
+            artist_text = artist
             
-            spotify_content += f"| {cover_link} | {track_link} | {artist_link} | {time_link} |\n"
+            spotify_content += f"| {cover_link} | {track_link} | {artist_text} |\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 記号の間にスペースを入れず、正確に指定（全角に見えますが半角で打ち込んでください）
+    # マーカーの指定（ここが空になっていないか確認してください）
     start_marker = "<!-- SPOTIFY_START -->"
     end_marker = "<!-- SPOTIFY_END -->"
     
@@ -89,7 +79,7 @@ def update_readme():
         
         with open(filename, "w", encoding="utf-8") as f:
             f.write(new_content)
-        print("Successfully updated README.md with full features!")
+        print("Successfully updated README.md (Privacy-focused version)")
     else:
         print("Error: Markers not found!")
 
