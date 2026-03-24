@@ -5,6 +5,7 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/2l87IVFxZYLKKuRZCCIyV9"><img src="https://i.scdn.co/image/ab67616d00004851201e417b261e3e65ecff9681" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2l87IVFxZYLKKuRZCCIyV9">真夜中のジョーク</a> | 間宮貴子 |
 | <a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><img src="https://i.scdn.co/image/ab67616d000048513ceb47b2ea5f9f3799def18b" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1">テレフォン・ナンバー</a> | Junko Ohashi |
 | <a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><img src="https://i.scdn.co/image/ab67616d00004851bb3e3d846d40ce8deb6084a7" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq">SUMMER BLUE</a> | Bread And Butter |
 | <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><img src="https://i.scdn.co/image/ab67616d00004851cd5b908e46076b347c9d7580" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA">MIDNIGHT DRIVER</a> | Minako Yoshida |
@@ -19,7 +20,6 @@
 | <a href="https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"><img src="https://i.scdn.co/image/ab67616d00004851e8f69ab903901064b1f19249" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1">The Boys Are Back In Town</a> | Thin Lizzy |
 | <a href="https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"><img src="https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv">Bohemian Rhapsody - Remastered 2011</a> | Queen |
 | <a href="https://open.spotify.com/track/6vFN0uVMQxHofQFnNhGBq8"><img src="https://i.scdn.co/image/ab67616d000048514353fc20f3405b963e88b3aa" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/6vFN0uVMQxHofQFnNhGBq8">Guardians Inferno - From "Guardians of the Galaxy Vol. 2"</a> | The Sneepers |
-| <a href="https://open.spotify.com/track/62FiWSotxKBaBj1K2I3TFO"><img src="https://i.scdn.co/image/ab67616d0000485138834c1c1da8801a1988e1b0" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/62FiWSotxKBaBj1K2I3TFO">Let's Go</a> | Nick Phoenix |
 
 <!-- SPOTIFY_END -->
 
