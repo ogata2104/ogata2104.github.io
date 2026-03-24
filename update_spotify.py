@@ -79,8 +79,8 @@ def update_readme():
         content = f.read()
 
     # 記号の間にスペースを入れず、正確に指定（全角に見えますが半角で打ち込んでください）
-    start_marker = ""
-    end_marker = ""
+    start_marker = "<!-- SPOTIFY_START -->"
+    end_marker = "<!-- SPOTIFY_END -->"
     
     if start_marker in content and end_marker in content:
         parts_start = content.split(start_marker)
