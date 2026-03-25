@@ -47,11 +47,11 @@ def update_readme():
     if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        # タイル状（3列のグリッド）にするための設定
-        spotify_content += "| | | |\n"
-        spotify_content += "| :---: | :---: | :---: |\n"
+        # 1行1曲のリスト形式にするための設定
+        # Cover / Track / Artist の3列構成
+        spotify_content += "| Cover | Track | Artist |\n"
+        spotify_content += "| :---: | :--- | :--- |\n"
         
-        count = 0
         for track in unique_tracks:
             name = track['name']
             artist = track['artists'][0]['name']
@@ -59,26 +59,19 @@ def update_readme():
             # 大きめの画像URLを取得（[1]は300x300サイズ）
             img_url = track['album']['images'][1]['url'] 
             
-            # 【ここを修正】カード1つ分のHTML/Markdown
-            # style属性で「正方形を維持」「枠に合わせてトリミング」「角丸」を指定します
-            card = (
+            # 【ここを大幅修正】
+            # 画像をこれまで以上に大きく（150px）表示し、リンクを画像と曲名に限定
+            # 角丸（8px）でモダンな印象にします
+            cover_html = (
                 f'<a href="{url}">'
                 f'<img src="{img_url}" '
-                f'style="width: 100px; height: 100px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
-                f'<br><b>{name}</b></a><br>'
-                f'<font size="2">{artist}</font>'
+                f'style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
+                f'</a>'
             )
+            track_link = f'<a href="{url}"><b>{name}</b></a>'
+            artist_text = artist
             
-            spotify_content += f"| {card} "
-            count += 1
-            
-            # 3つ並んだら改行して次の行へ
-            if count % 3 == 0:
-                spotify_content += "|\n"
-        
-        # 最後に閉じタグがなければ追加
-        if count % 3 != 0:
-            spotify_content += "|\n"
+            spotify_content += f"| {cover_html} | {track_link} | {artist_text} |\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
