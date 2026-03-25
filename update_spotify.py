@@ -40,7 +40,7 @@ def update_readme():
             unique_tracks.append(track)
             seen_ids.add(track['id'])
             
-    unique_tracks = unique_tracks[:9] # 表示曲数はここで指定
+    unique_tracks = unique_tracks[:15] # 表示曲数はここで指定
 
     spotify_content = "### 🎧 Recently Played\n\n"
     
