@@ -47,22 +47,37 @@ def update_readme():
     if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        # テーブルヘッダー（時刻を削除）
-        spotify_content += "| Cover | Track | Artist |\n"
-        spotify_content += "| :---: | :--- | :--- |\n"
+        # タイル状（3列のグリッド）にするための設定
+        spotify_content += "| | | |\n"
+        spotify_content += "| :---: | :---: | :---: |\n"
         
+        count = 0
         for track in unique_tracks:
             name = track['name']
             artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
-            img_url = track['album']['images'][2]['url'] 
+            # 大きめの画像URLを取得（[1]は300x300サイズ）
+            img_url = track['album']['images'][1]['url'] 
             
-            # 画像と曲名のみリンクを貼り、アーティストはテキストにする
-            cover_link = f'<a href="{url}"><img src="{img_url}" width="50" height="50" alt="cover"></a>'
-            track_link = f'<a href="{url}">{name}</a>'
-            artist_text = artist
+            # カード1つ分のHTML/Markdown
+            # 画像が潰れないよう、widthのみ指定してアスペクト比を維持します
+            card = (
+                f'<a href="{url}">'
+                f'<img src="{img_url}" width="150" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"><br>'
+                f'<b>{name}</b></a><br>'
+                f'<font size="2">{artist}</font>'
+            )
             
-            spotify_content += f"| {cover_link} | {track_link} | {artist_text} |\n"
+            spotify_content += f"| {card} "
+            count += 1
+            
+            # 3つ並んだら改行して次の行へ
+            if count % 3 == 0:
+                spotify_content += "|\n"
+        
+        # 最後に閉じタグがなければ追加
+        if count % 3 != 0:
+            spotify_content += "|\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
