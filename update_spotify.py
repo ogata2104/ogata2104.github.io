@@ -59,11 +59,10 @@ def update_readme():
             # 大きめの画像URLを取得（[1]は300x300サイズ）
             img_url = track['album']['images'][1]['url'] 
             
-            # 画像を150pxの正方形に強制固定する設定
             cover_html = (
                 f'<a href="{url}">'
                 f'<img src="{img_url}" '
-                f'style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
+                f'style="width: 120px; height: 120px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
                 f'</a>'
             )
             track_link = f'<a href="{url}"><b>{name}</b></a>'
