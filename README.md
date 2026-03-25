@@ -5,6 +5,11 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO"><img src="https://i.scdn.co/image/ab67616d000048515190706dec2eaabebd08059e" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO">Just a Joke</a> | Yurie Kokubu |
+| <a href="https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"><img src="https://i.scdn.co/image/ab67616d000048518aad5eb8cd4c838b5864d853" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE">この軽い感じが…</a> | 今井裕 |
+| <a href="https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"><img src="https://i.scdn.co/image/ab67616d000048516ea298ba6eba5cd1d76cf6bb" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK">F・L・Y</a> | Spectrum |
+| <a href="https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M"><img src="https://i.scdn.co/image/ab67616d00004851d6e7d2749ffe70c27e9c2480" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M">日付変更線</a> | Yoshitaka Minami |
+| <a href="https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD"><img src="https://i.scdn.co/image/ab67616d00004851302d7aff6c1be67e23b2b230" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD">私達を信じていて</a> | Cindy |
 | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL"><img src="https://i.scdn.co/image/ab67616d0000485199c0ecaf5aca482a51acf628" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL">midnight cruisin'</a> | Kingo Hamada |
 | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4"><img src="https://i.scdn.co/image/ab67616d000048518ce8ca6bace6b1f5cbe744ac" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4">サンセット・ロード</a> | 高橋玲子 |
 | <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"><img src="https://i.scdn.co/image/ab67616d0000485168550e35d1b59a7b306247ba" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD">On the Coast</a> | Shigeru Suzuki |
@@ -15,11 +20,6 @@
 | <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a"><img src="https://i.scdn.co/image/ab67616d00004851e3999c2a5bcf80a80742d8ea" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a">Love Was Really Gone - 2018 Remaster</a> | Makoto Matsushita |
 | <a href="https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"><img src="https://i.scdn.co/image/ab67616d00004851a63b2759c95bdb8726060c5f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh">フロントガラス越しに</a> | Kaoru Sudo |
 | <a href="https://open.spotify.com/track/2wGP0BOE95loERMZWGNuok"><img src="https://i.scdn.co/image/ab67616d000048519167521aa3558b2365e2ea68" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2wGP0BOE95loERMZWGNuok">Silly Crush</a> | Masaki Matsubara |
-| <a href="https://open.spotify.com/track/10YIL8lN5EVE10GuRS8kGF"><img src="https://i.scdn.co/image/ab67616d00004851081f52770aa0bf54e15ce67a" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/10YIL8lN5EVE10GuRS8kGF">Ocean Side</a> | Momoko Kikuchi |
-| <a href="https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD"><img src="https://i.scdn.co/image/ab67616d000048511647f5ec9c5750774c5a4eef" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD">雨</a> | Kei Ishiguro |
-| <a href="https://open.spotify.com/track/3vVGZQyXfwv706H7l08XUJ"><img src="https://i.scdn.co/image/ab67616d00004851b491d63e17d07d8c69bac2af" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/3vVGZQyXfwv706H7l08XUJ">アクアマリンのままでいて</a> | Carlos Toshiki And Omega Tribe |
-| <a href="https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN"><img src="https://i.scdn.co/image/ab67616d00004851836acd8a3ec906b36c3e2ccf" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN">Dress Down</a> | Kaoru Akimoto |
-| <a href="https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs"><img src="https://i.scdn.co/image/ab67616d000048517d2d24d8a6bf7578a140db55" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs">Midnight Pretenders</a> | Tomoko Aran |
 
 <!-- SPOTIFY_END -->
 
