@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b2738a0182cacc71be785ef2f206" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>色・ホワイトブレンド</b></font><br><font size="3">中山美穂</font></div></div></a>
+
 <a href="https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b27341e51cc1cccfbea1a181b432" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>都会</b></font><br><font size="3">Taeko Onuki</font></div></div></a>
 
 <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b27375092a5642136cce4341626e" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>The Power Of Love</b></font><br><font size="3">Huey Lewis & The News</font></div></div></a>
@@ -18,8 +20,6 @@
 <a href="https://open.spotify.com/track/5j8spy92007sroFlupH176"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b273c39a380ee8ddfd407619043f" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>Lucky stars</b></font><br><font size="3">HAIM</font></div></div></a>
 
 <a href="https://open.spotify.com/track/5kC1tqf7XOpoXqERIgtfas"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b273c39a380ee8ddfd407619043f" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>The farm</b></font><br><font size="3">HAIM</font></div></div></a>
-
-<a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee"><div style="margin-bottom: 20px; position: relative;"><img src="https://i.scdn.co/image/ab67616d0000b273c39a380ee8ddfd407619043f" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);"><div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"><font size="5"><b>Love you right</b></font><br><font size="3">HAIM</font></div></div></a>
 
 
 <!-- SPOTIFY_END -->
