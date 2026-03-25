@@ -57,7 +57,7 @@ def update_readme():
             # 2. 文字：そのすぐ下に曲名とアーティスト
             spotify_content += (
                 f'<a href="{url}">'
-                f'<img src="{img_url}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;">'
+                f'<img src="{img_url}" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;">'
                 f'</a><br>'
                 f'<a href="{url}"><b>{name}</b></a> / {artist}<br><br>\n\n'
             )
