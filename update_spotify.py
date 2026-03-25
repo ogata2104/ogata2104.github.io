@@ -59,9 +59,7 @@ def update_readme():
             # 大きめの画像URLを取得（[1]は300x300サイズ）
             img_url = track['album']['images'][1]['url'] 
             
-            # 【ここを大幅修正】
-            # 画像をこれまで以上に大きく（150px）表示し、リンクを画像と曲名に限定
-            # 角丸（8px）でモダンな印象にします
+            # 画像を150pxの正方形に強制固定する設定
             cover_html = (
                 f'<a href="{url}">'
                 f'<img src="{img_url}" '
