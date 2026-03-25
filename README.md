@@ -5,6 +5,7 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/5kC1tqf7XOpoXqERIgtfas"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5kC1tqf7XOpoXqERIgtfas">The farm</a> | HAIM |
 | <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee">Love you right</a> | HAIM |
 | <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1">Take me back</a> | HAIM |
 | <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn">Down to be wrong</a> | HAIM |
@@ -19,7 +20,6 @@
 | <a href="https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD"><img src="https://i.scdn.co/image/ab67616d00004851302d7aff6c1be67e23b2b230" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD">私達を信じていて</a> | Cindy |
 | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL"><img src="https://i.scdn.co/image/ab67616d0000485199c0ecaf5aca482a51acf628" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL">midnight cruisin'</a> | Kingo Hamada |
 | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4"><img src="https://i.scdn.co/image/ab67616d000048518ce8ca6bace6b1f5cbe744ac" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4">サンセット・ロード</a> | 高橋玲子 |
-| <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"><img src="https://i.scdn.co/image/ab67616d0000485168550e35d1b59a7b306247ba" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD">On the Coast</a> | Shigeru Suzuki |
 
 <!-- SPOTIFY_END -->
 
