@@ -47,28 +47,27 @@ def update_readme():
     if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        # 1行1曲のリスト形式にするための設定
-        # Cover / Track / Artist の3列構成
-        spotify_content += "| Cover | Track | Artist |\n"
-        spotify_content += "| :---: | :--- | :--- |\n"
-        
+        # テーブルは使わず、1曲ごとに<div>のように配置
         for track in unique_tracks:
             name = track['name']
             artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
-            # 大きめの画像URLを取得（[1]は300x300サイズ）
-            img_url = track['album']['images'][1]['url'] 
+            img_url = track['album']['images'][0]['url'] # 高画質を使用
             
-            cover_html = (
+            # --- ここがポイント：横長に切り抜いた画像 ---
+            # width=100% で画面いっぱいに広げ、heightを固定して object-fit: cover
+            # これにより、上下が見切れた「横長背景」のような見た目になります
+            spotify_content += (
                 f'<a href="{url}">'
-                f'<img src="{img_url}" '
-                f'style="width: 120px; height: 120px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
-                f'</a>'
+                f'<div style="margin-bottom: 20px; position: relative;">'
+                f'<img src="{img_url}" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);">'
+                f'<div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">'
+                f'<font size="5"><b>{name}</b></font><br>'
+                f'<font size="3">{artist}</font>'
+                f'</div>'
+                f'</div>'
+                f'</a>\n\n'
             )
-            track_link = f'<a href="{url}"><b>{name}</b></a>'
-            artist_text = artist
-            
-            spotify_content += f"| {cover_html} | {track_link} | {artist_text} |\n"
 
     filename = "README.md"
     with open(filename, "r", encoding="utf-8") as f:
