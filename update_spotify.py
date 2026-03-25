@@ -40,7 +40,7 @@ def update_readme():
             unique_tracks.append(track)
             seen_ids.add(track['id'])
             
-    unique_tracks = unique_tracks[:15] # 表示曲数はここで指定
+    unique_tracks = unique_tracks[:9] # 表示曲数はここで指定
 
     spotify_content = "### 🎧 Recently Played\n\n"
     
@@ -59,12 +59,13 @@ def update_readme():
             # 大きめの画像URLを取得（[1]は300x300サイズ）
             img_url = track['album']['images'][1]['url'] 
             
-            # カード1つ分のHTML/Markdown
-            # 画像が潰れないよう、widthのみ指定してアスペクト比を維持します
+            # 【ここを修正】カード1つ分のHTML/Markdown
+            # style属性で「正方形を維持」「枠に合わせてトリミング」「角丸」を指定します
             card = (
                 f'<a href="{url}">'
-                f'<img src="{img_url}" width="150" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"><br>'
-                f'<b>{name}</b></a><br>'
+                f'<img src="{img_url}" '
+                f'style="width: 100px; height: 100px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">'
+                f'<br><b>{name}</b></a><br>'
                 f'<font size="2">{artist}</font>'
             )
             
