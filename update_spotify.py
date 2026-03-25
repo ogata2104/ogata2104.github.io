@@ -47,26 +47,19 @@ def update_readme():
     if not unique_tracks:
         spotify_content += "No recent tracks found."
     else:
-        # テーブルは使わず、1曲ごとに<div>のように配置
         for track in unique_tracks:
             name = track['name']
             artist = track['artists'][0]['name']
             url = track['external_urls']['spotify']
-            img_url = track['album']['images'][0]['url'] # 高画質を使用
+            img_url = track['album']['images'][0]['url'] 
             
-            # --- ここがポイント：横長に切り抜いた画像 ---
-            # width=100% で画面いっぱいに広げ、heightを固定して object-fit: cover
-            # これにより、上下が見切れた「横長背景」のような見た目になります
+            # 1. 画像：画面幅いっぱいの横長（height固定で上下トリミング）
+            # 2. 文字：そのすぐ下に曲名とアーティスト
             spotify_content += (
                 f'<a href="{url}">'
-                f'<div style="margin-bottom: 20px; position: relative;">'
-                f'<img src="{img_url}" style="width: 100%; height: 120px; object-fit: cover; border-radius: 12px; filter: brightness(0.7);">'
-                f'<div style="margin-top: -110px; padding: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">'
-                f'<font size="5"><b>{name}</b></font><br>'
-                f'<font size="3">{artist}</font>'
-                f'</div>'
-                f'</div>'
-                f'</a>\n\n'
+                f'<img src="{img_url}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;">'
+                f'</a><br>'
+                f'<a href="{url}"><b>{name}</b></a> / {artist}<br><br>\n\n'
             )
 
     filename = "README.md"
