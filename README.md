@@ -5,6 +5,7 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><img src="https://i.scdn.co/image/ab67616d00001e0275092a5642136cce4341626e" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><b>The Power Of Love</b></a> | Huey Lewis & The News |
 | <a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><img src="https://i.scdn.co/image/ab67616d00001e0292d0747a634fcc351c6ac3c2" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><b>Mamma Mia</b></a> | ABBA |
 | <a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><img src="https://i.scdn.co/image/ab67616d00001e02ec5de82891e542d4877c6d98" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><b>Dancing Queen</b></a> | ABBA |
 | <a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><img src="https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><b>Waterloo</b></a> | ABBA |
@@ -13,7 +14,6 @@
 | <a href="https://open.spotify.com/track/5kC1tqf7XOpoXqERIgtfas"><img src="https://i.scdn.co/image/ab67616d00001e02c39a380ee8ddfd407619043f" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/5kC1tqf7XOpoXqERIgtfas"><b>The farm</b></a> | HAIM |
 | <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee"><img src="https://i.scdn.co/image/ab67616d00001e02c39a380ee8ddfd407619043f" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee"><b>Love you right</b></a> | HAIM |
 | <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1"><img src="https://i.scdn.co/image/ab67616d00001e02c39a380ee8ddfd407619043f" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1"><b>Take me back</b></a> | HAIM |
-| <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn"><img src="https://i.scdn.co/image/ab67616d00001e02c39a380ee8ddfd407619043f" style="width: 150px; height: 150px; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;"></a> | <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn"><b>Down to be wrong</b></a> | HAIM |
 
 <!-- SPOTIFY_END -->
 
