@@ -1,9 +1,8 @@
 name: Update Spotify Tracks
 
 on:
-  schedule:
-    - cron: '3,13,23,33,43,53 * * * *'
   workflow_dispatch: # 手動実行ボタンも追加
+  repository_dispatch:    # ← これを追加！外からの命令を受け取る設定
 
 jobs:
   update:
