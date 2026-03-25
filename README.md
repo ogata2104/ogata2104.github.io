@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><img src="https://i.scdn.co/image/ab67616d0000b273bb3e3d846d40ce8deb6084a7" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><b>SUMMER BLUE</b></a> / Bread And Butter<br><br>
+
 <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><img src="https://i.scdn.co/image/ab67616d0000b273cd5b908e46076b347c9d7580" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><b>MIDNIGHT DRIVER</b></a> / Minako Yoshida<br><br>
 
 <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><img src="https://i.scdn.co/image/ab67616d0000b27309626051fff7098acfafefd0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><b>DEAR BREEZE</b></a> / S. Kiyotaka & Omega Tribe<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><img src="https://i.scdn.co/image/ab67616d0000b27311c24dc7f5ef909381c0a7d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><b>Waterloo</b></a> / ABBA<br><br>
 
 <a href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"><img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"><b>Gimme! Gimme! Gimme! (A Man After Midnight)</b></a> / ABBA<br><br>
-
-<a href="https://open.spotify.com/track/5j8spy92007sroFlupH176"><img src="https://i.scdn.co/image/ab67616d0000b273c39a380ee8ddfd407619043f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5j8spy92007sroFlupH176"><b>Lucky stars</b></a> / HAIM<br><br>
 
 
 <!-- SPOTIFY_END -->
