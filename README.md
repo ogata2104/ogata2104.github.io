@@ -5,6 +5,9 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/5rLte4QfYuimUsPyHEYsDN"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5rLte4QfYuimUsPyHEYsDN">All over me</a> | HAIM |
+| <a href="https://open.spotify.com/track/1lFDo4Gnmo4R6eVQZI1bAc"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1lFDo4Gnmo4R6eVQZI1bAc">Gone</a> | HAIM |
+| <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR"><img src="https://i.scdn.co/image/ab67616d00004851d9d09c63e88feeb23c1d759f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR">電話しても - 2020 Remaster</a> | Kazuhito Murata |
 | <a href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO"><img src="https://i.scdn.co/image/ab67616d000048515190706dec2eaabebd08059e" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO">Just a Joke</a> | Yurie Kokubu |
 | <a href="https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"><img src="https://i.scdn.co/image/ab67616d000048518aad5eb8cd4c838b5864d853" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE">この軽い感じが…</a> | 今井裕 |
 | <a href="https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"><img src="https://i.scdn.co/image/ab67616d000048516ea298ba6eba5cd1d76cf6bb" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK">F・L・Y</a> | Spectrum |
@@ -16,10 +19,7 @@
 | <a href="https://open.spotify.com/track/0EaWi0WP5FY3TghSiwPtGK"><img src="https://i.scdn.co/image/ab67616d00004851b997d8971020fb9cfcd83c06" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0EaWi0WP5FY3TghSiwPtGK">恋は最高（I'M IN LOVE）</a> | 高村亜留 |
 | <a href="https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL"><img src="https://i.scdn.co/image/ab67616d00004851cb77824f19d9ff9a2e24f14f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL">純情</a> | Ami Ozaki |
 | <a href="https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9"><img src="https://i.scdn.co/image/ab67616d000048515e671cbb2780bbdd4b73964b" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9">堤防</a> | Atsuko Nina |
-| <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR"><img src="https://i.scdn.co/image/ab67616d00004851d9d09c63e88feeb23c1d759f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR">電話しても - 2020 Remaster</a> | Kazuhito Murata |
 | <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a"><img src="https://i.scdn.co/image/ab67616d00004851e3999c2a5bcf80a80742d8ea" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a">Love Was Really Gone - 2018 Remaster</a> | Makoto Matsushita |
-| <a href="https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"><img src="https://i.scdn.co/image/ab67616d00004851a63b2759c95bdb8726060c5f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh">フロントガラス越しに</a> | Kaoru Sudo |
-| <a href="https://open.spotify.com/track/2wGP0BOE95loERMZWGNuok"><img src="https://i.scdn.co/image/ab67616d000048519167521aa3558b2365e2ea68" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2wGP0BOE95loERMZWGNuok">Silly Crush</a> | Masaki Matsubara |
 
 <!-- SPOTIFY_END -->
 
