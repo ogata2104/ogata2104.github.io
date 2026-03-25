@@ -5,6 +5,10 @@
 
 | Cover | Track | Artist |
 | :---: | :--- | :--- |
+| <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2Roi5u9Ti9Y8vcgIx4V8Ee">Love you right</a> | HAIM |
+| <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4rznptEWIky9V8pR8pfyD1">Take me back</a> | HAIM |
+| <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0nU48Hr0Zm9wzlOWwrNebn">Down to be wrong</a> | HAIM |
+| <a href="https://open.spotify.com/track/7658rzFVWbbPNQvRIvkYOb"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/7658rzFVWbbPNQvRIvkYOb">Relationships</a> | HAIM |
 | <a href="https://open.spotify.com/track/5rLte4QfYuimUsPyHEYsDN"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5rLte4QfYuimUsPyHEYsDN">All over me</a> | HAIM |
 | <a href="https://open.spotify.com/track/1lFDo4Gnmo4R6eVQZI1bAc"><img src="https://i.scdn.co/image/ab67616d00004851c39a380ee8ddfd407619043f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/1lFDo4Gnmo4R6eVQZI1bAc">Gone</a> | HAIM |
 | <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR"><img src="https://i.scdn.co/image/ab67616d00004851d9d09c63e88feeb23c1d759f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR">電話しても - 2020 Remaster</a> | Kazuhito Murata |
@@ -16,10 +20,6 @@
 | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL"><img src="https://i.scdn.co/image/ab67616d0000485199c0ecaf5aca482a51acf628" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL">midnight cruisin'</a> | Kingo Hamada |
 | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4"><img src="https://i.scdn.co/image/ab67616d000048518ce8ca6bace6b1f5cbe744ac" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/28SzTQNZIuGRNoR2U1lCW4">サンセット・ロード</a> | 高橋玲子 |
 | <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"><img src="https://i.scdn.co/image/ab67616d0000485168550e35d1b59a7b306247ba" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD">On the Coast</a> | Shigeru Suzuki |
-| <a href="https://open.spotify.com/track/0EaWi0WP5FY3TghSiwPtGK"><img src="https://i.scdn.co/image/ab67616d00004851b997d8971020fb9cfcd83c06" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/0EaWi0WP5FY3TghSiwPtGK">恋は最高（I'M IN LOVE）</a> | 高村亜留 |
-| <a href="https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL"><img src="https://i.scdn.co/image/ab67616d00004851cb77824f19d9ff9a2e24f14f" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL">純情</a> | Ami Ozaki |
-| <a href="https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9"><img src="https://i.scdn.co/image/ab67616d000048515e671cbb2780bbdd4b73964b" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9">堤防</a> | Atsuko Nina |
-| <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a"><img src="https://i.scdn.co/image/ab67616d00004851e3999c2a5bcf80a80742d8ea" width="50" height="50" alt="cover"></a> | <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a">Love Was Really Gone - 2018 Remaster</a> | Makoto Matsushita |
 
 <!-- SPOTIFY_END -->
 
