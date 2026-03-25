@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/5m6U35nlhyEeVuemPykrs2"><img src="https://i.scdn.co/image/ab67616d0000b273ea7c9dfe985c5a34a959e047" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5m6U35nlhyEeVuemPykrs2"><b>十戒(1984)</b></a> / Akina Nakamori<br><br>
+
 <a href="https://open.spotify.com/track/5FpDcoYidwo7pWTWDWPBOc"><img src="https://i.scdn.co/image/ab67616d0000b2737feaca7228e636641863c47b" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5FpDcoYidwo7pWTWDWPBOc"><b>ビリーヴ</b></a> / Iyo Matsumoto<br><br>
 
 <a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><img src="https://i.scdn.co/image/ab67616d0000b273b83acdd1cc43b5f5041b62fd" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><b>恋の呪文はスキトキメキトキス</b></a> / Sayaka Ito<br><br>
@@ -18,8 +20,6 @@
 <a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><img src="https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><b>Mamma Mia</b></a> / ABBA<br><br>
 
 <a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><b>Dancing Queen</b></a> / ABBA<br><br>
-
-<a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><img src="https://i.scdn.co/image/ab67616d0000b27311c24dc7f5ef909381c0a7d6" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><b>Waterloo</b></a> / ABBA<br><br>
 
 
 <!-- SPOTIFY_END -->
