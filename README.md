@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><img src="https://i.scdn.co/image/ab67616d0000b27306dfb9eef026a9e31f5ca6fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><b>サブタレニアン二人ぼっち - 2017 リマスター</b></a> / Nanako Sato<br><br>
+
+<a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><img src="https://i.scdn.co/image/ab67616d0000b273303182ae800623af02d16e47" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><b>夏の光に</b></a> / Sumiko Yamagata<br><br>
+
 <a href="https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"><img src="https://i.scdn.co/image/ab67616d0000b273febc843856e242b43f3efc1e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"><b>こぬか雨</b></a> / Ginji Ito<br><br>
 
 <a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><img src="https://i.scdn.co/image/ab67616d0000b2733ceb47b2ea5f9f3799def18b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><b>テレフォン・ナンバー</b></a> / Junko Ohashi<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"><img src="https://i.scdn.co/image/ab67616d0000b27341e51cc1cccfbea1a181b432" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"><b>都会</b></a> / Taeko Onuki<br><br>
 
 <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><img src="https://i.scdn.co/image/ab67616d0000b27375092a5642136cce4341626e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><b>The Power Of Love</b></a> / Huey Lewis & The News<br><br>
-
-<a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><img src="https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><b>Mamma Mia</b></a> / ABBA<br><br>
-
-<a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><b>Dancing Queen</b></a> / ABBA<br><br>
 
 
 <!-- SPOTIFY_END -->
