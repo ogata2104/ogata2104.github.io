@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><b>Last Summer Whisper</b></a> / Anri<br><br>
+
 <a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><img src="https://i.scdn.co/image/ab67616d0000b27306dfb9eef026a9e31f5ca6fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><b>サブタレニアン二人ぼっち - 2017 リマスター</b></a> / Nanako Sato<br><br>
 
 <a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><img src="https://i.scdn.co/image/ab67616d0000b273303182ae800623af02d16e47" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><b>夏の光に</b></a> / Sumiko Yamagata<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l"><img src="https://i.scdn.co/image/ab67616d0000b2738a0182cacc71be785ef2f206" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l"><b>色・ホワイトブレンド</b></a> / 中山美穂<br><br>
 
 <a href="https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"><img src="https://i.scdn.co/image/ab67616d0000b27341e51cc1cccfbea1a181b432" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"><b>都会</b></a> / Taeko Onuki<br><br>
-
-<a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><img src="https://i.scdn.co/image/ab67616d0000b27375092a5642136cce4341626e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ"><b>The Power Of Love</b></a> / Huey Lewis & The News<br><br>
 
 
 <!-- SPOTIFY_END -->
