@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><img src="https://i.scdn.co/image/ab67616d0000b2734f17560ff0f45b59f15fda7e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><b>Sweet Love</b></a> / Junko Ohashi<br><br>
+
 <a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><img src="https://i.scdn.co/image/ab67616d0000b273b37c407747fca1dae74c228a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><b>砂の女</b></a> / Shigeru Suzuki<br><br>
 
 <a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><b>Last Summer Whisper</b></a> / Anri<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><img src="https://i.scdn.co/image/ab67616d0000b273b83acdd1cc43b5f5041b62fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><b>恋の呪文はスキトキメキトキス</b></a> / Sayaka Ito<br><br>
 
 <a href="https://open.spotify.com/track/1304Tru5WdV8wJujr9u1MN"><img src="https://i.scdn.co/image/ab67616d0000b273d8f049d9303d6d6b65efbef3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1304Tru5WdV8wJujr9u1MN"><b>誘惑光線・クラッ!</b></a> / Yu Hayami<br><br>
-
-<a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l"><img src="https://i.scdn.co/image/ab67616d0000b2738a0182cacc71be785ef2f206" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l"><b>色・ホワイトブレンド</b></a> / 中山美穂<br><br>
 
 
 <!-- SPOTIFY_END -->
