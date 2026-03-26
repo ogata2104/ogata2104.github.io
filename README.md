@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/6nIzLLf9Inv8ck7XrNYaOt"><img src="https://i.scdn.co/image/ab67616d0000b2733e6c3999ad72dd2da94643f6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6nIzLLf9Inv8ck7XrNYaOt"><b>Older Girl</b></a> / 1986 OMEGA TRIBE<br><br>
+
 <a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><b>GATSBY WOMAN</b></a> / Kingo Hamada<br><br>
 
 <a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><img src="https://i.scdn.co/image/ab67616d0000b273676ca4dc8c635709448286ef" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><b>夢の続き</b></a> / Mariya Takeuchi<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><img src="https://i.scdn.co/image/ab67616d0000b273bb3e3d846d40ce8deb6084a7" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/35LBwzEadcu4deLQ0XTkHq"><b>SUMMER BLUE</b></a> / Bread And Butter<br><br>
 
 <a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><img src="https://i.scdn.co/image/ab67616d0000b273cd5b908e46076b347c9d7580" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA"><b>MIDNIGHT DRIVER</b></a> / Minako Yoshida<br><br>
-
-<a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><img src="https://i.scdn.co/image/ab67616d0000b27309626051fff7098acfafefd0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp"><b>DEAR BREEZE</b></a> / S. Kiyotaka & Omega Tribe<br><br>
 
 
 <!-- SPOTIFY_END -->
