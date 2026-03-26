@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><img src="https://i.scdn.co/image/ab67616d0000b273d0efae3fccc5cdc679f94d48" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><b>カラパナ・ブラック・サンド・ビーチ</b></a> / Atsuko Nina<br><br>
+
 <a href="https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43"><img src="https://i.scdn.co/image/ab67616d0000b273af5f2dff7a8135d701043bf0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43"><b>夢で逢えたら</b></a> / Minako Yoshida<br><br>
 
 <a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><img src="https://i.scdn.co/image/ab67616d0000b2734f17560ff0f45b59f15fda7e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><b>Sweet Love</b></a> / Junko Ohashi<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/5m6U35nlhyEeVuemPykrs2"><img src="https://i.scdn.co/image/ab67616d0000b273ea7c9dfe985c5a34a959e047" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5m6U35nlhyEeVuemPykrs2"><b>十戒(1984)</b></a> / Akina Nakamori<br><br>
 
 <a href="https://open.spotify.com/track/5FpDcoYidwo7pWTWDWPBOc"><img src="https://i.scdn.co/image/ab67616d0000b2737feaca7228e636641863c47b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5FpDcoYidwo7pWTWDWPBOc"><b>ビリーヴ</b></a> / Iyo Matsumoto<br><br>
-
-<a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><img src="https://i.scdn.co/image/ab67616d0000b273b83acdd1cc43b5f5041b62fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3"><b>恋の呪文はスキトキメキトキス</b></a> / Sayaka Ito<br><br>
 
 
 <!-- SPOTIFY_END -->
