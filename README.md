@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><b>Heaven Can Wait</b></a> / Michael Jackson<br><br>
+
 <a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><b>Heal the World</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><b>Off the Wall</b></a> / Michael Jackson<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><img src="https://i.scdn.co/image/ab67616d0000b273b37c407747fca1dae74c228a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><b>砂の女</b></a> / Shigeru Suzuki<br><br>
 
 <a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><b>Last Summer Whisper</b></a> / Anri<br><br>
-
-<a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><img src="https://i.scdn.co/image/ab67616d0000b27306dfb9eef026a9e31f5ca6fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><b>サブタレニアン二人ぼっち - 2017 リマスター</b></a> / Nanako Sato<br><br>
 
 
 <!-- SPOTIFY_END -->
