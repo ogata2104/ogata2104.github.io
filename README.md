@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><img src="https://i.scdn.co/image/ab67616d0000b273ce4081b6a3e970986ef3c331" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><b>創造</b></a> / Gen Hoshino<br><br>
+
+<a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><b>Dirty Diana - 2012 Remaster</b></a> / Michael Jackson<br><br>
+
 <a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><b>Love Never Felt So Good</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><b>Heaven Can Wait</b></a> / Michael Jackson<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><img src="https://i.scdn.co/image/ab67616d0000b273d0efae3fccc5cdc679f94d48" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><b>カラパナ・ブラック・サンド・ビーチ</b></a> / Atsuko Nina<br><br>
 
 <a href="https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43"><img src="https://i.scdn.co/image/ab67616d0000b273af5f2dff7a8135d701043bf0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43"><b>夢で逢えたら</b></a> / Minako Yoshida<br><br>
-
-<a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><img src="https://i.scdn.co/image/ab67616d0000b2734f17560ff0f45b59f15fda7e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/331324p242li0OzI2bu6ZI"><b>Sweet Love</b></a> / Junko Ohashi<br><br>
-
-<a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><img src="https://i.scdn.co/image/ab67616d0000b273b37c407747fca1dae74c228a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"><b>砂の女</b></a> / Shigeru Suzuki<br><br>
 
 
 <!-- SPOTIFY_END -->
