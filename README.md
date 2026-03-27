@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><b>Human Nature</b></a> / Michael Jackson<br><br>
+
 <a href="https://open.spotify.com/track/01ANsQiZq0LI6LWDQUDoTl"><img src="https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/01ANsQiZq0LI6LWDQUDoTl"><b>Dançando Lambada - Original Version 1989</b></a> / Kaoma<br><br>
 
 <a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><img src="https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><b>Lambada - Original Version 1989</b></a> / Kaoma<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><img src="https://i.scdn.co/image/ab67616d0000b273303182ae800623af02d16e47" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><b>夏の光に</b></a> / Sumiko Yamagata<br><br>
 
 <a href="https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"><img src="https://i.scdn.co/image/ab67616d0000b273febc843856e242b43f3efc1e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"><b>こぬか雨</b></a> / Ginji Ito<br><br>
-
-<a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><img src="https://i.scdn.co/image/ab67616d0000b2733ceb47b2ea5f9f3799def18b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"><b>テレフォン・ナンバー</b></a> / Junko Ohashi<br><br>
 
 
 <!-- SPOTIFY_END -->
