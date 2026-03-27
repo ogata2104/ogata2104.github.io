@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><b>Heal the World</b></a> / Michael Jackson<br><br>
+
 <a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><b>Off the Wall</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><b>Human Nature</b></a> / Michael Jackson<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"><b>Last Summer Whisper</b></a> / Anri<br><br>
 
 <a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><img src="https://i.scdn.co/image/ab67616d0000b27306dfb9eef026a9e31f5ca6fd" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"><b>サブタレニアン二人ぼっち - 2017 リマスター</b></a> / Nanako Sato<br><br>
-
-<a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><img src="https://i.scdn.co/image/ab67616d0000b273303182ae800623af02d16e47" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"><b>夏の光に</b></a> / Sumiko Yamagata<br><br>
 
 
 <!-- SPOTIFY_END -->
