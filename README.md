@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><img src="https://i.scdn.co/image/ab67616d0000b2733dd7d442806684ef3fc84b3f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><b>Say It Isn't So</b></a> / Daryl Hall & John Oates<br><br>
+
 <a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><b>Knocks Me Off My Feet</b></a> / Stevie Wonder<br><br>
 
 <a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><b>Waiting for Your Love</b></a> / TOTO<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><b>Dirty Diana - 2012 Remaster</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><b>Love Never Felt So Good</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><b>Heaven Can Wait</b></a> / Michael Jackson<br><br>
 
 
 <!-- SPOTIFY_END -->
