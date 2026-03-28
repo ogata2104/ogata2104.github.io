@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><b>Smooth Criminal - 2012 Remaster</b></a> / Michael Jackson<br><br>
+
 <a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><img src="https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><b>SUN</b></a> / Gen Hoshino<br><br>
 
 <a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><b>Syntax Error</b></a> / Ken Ishii<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><b>GATSBY WOMAN</b></a> / Kingo Hamada<br><br>
 
 <a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><img src="https://i.scdn.co/image/ab67616d0000b273676ca4dc8c635709448286ef" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><b>夢の続き</b></a> / Mariya Takeuchi<br><br>
-
-<a href="https://open.spotify.com/track/0Azi3j0YHmlLSef19BkJ3k"><img src="https://i.scdn.co/image/ab67616d0000b2736d9227cac6ec1550a983ab20" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Azi3j0YHmlLSef19BkJ3k"><b>Love Is Easy</b></a> / Ami Ozaki<br><br>
 
 
 <!-- SPOTIFY_END -->
