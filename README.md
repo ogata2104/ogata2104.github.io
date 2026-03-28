@@ -1,7 +1,11 @@
 # ogata2104 のポートフォリオ
 
 <!-- SPOTIFY_START -->
-### 🎧 Recently Played
+### 🎧 Recently Played by Spotify
+
+<a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><b>Knocks Me Off My Feet</b></a> / Stevie Wonder<br><br>
+
+<a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><b>Waiting for Your Love</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><b>Time Out Of Mind</b></a> / Steely Dan<br><br>
 
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"><b>Love Never Felt So Good</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"><b>Heaven Can Wait</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><b>Heal the World</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><b>Off the Wall</b></a> / Michael Jackson<br><br>
 
 
 <!-- SPOTIFY_END -->
