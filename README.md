@@ -3,6 +3,12 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><b>Time Out Of Mind</b></a> / Steely Dan<br><br>
+
+<a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><b>Syntax Error - html_ remix</b></a> / Ken Ishii<br><br>
+
+<a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><img src="https://i.scdn.co/image/ab67616d0000b2733b41cace8f81a47aeffd9ac1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><b>Georgie Porgy</b></a> / TOTO<br><br>
+
 <a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><b>Love X Love</b></a> / George Benson<br><br>
 
 <a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><b>Kiss on My List</b></a> / Daryl Hall & John Oates<br><br>
@@ -26,12 +32,6 @@
 <a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"><b>Heal the World</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"><b>Off the Wall</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"><b>Human Nature</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/01ANsQiZq0LI6LWDQUDoTl"><img src="https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/01ANsQiZq0LI6LWDQUDoTl"><b>Dançando Lambada - Original Version 1989</b></a> / Kaoma<br><br>
-
-<a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><img src="https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><b>Lambada - Original Version 1989</b></a> / Kaoma<br><br>
 
 
 <!-- SPOTIFY_END -->
