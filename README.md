@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><b>Kiss on My List</b></a> / Daryl Hall & John Oates<br><br>
+
 <a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><img src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><b>One On One</b></a> / Daryl Hall & John Oates<br><br>
 
 <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><b>Smooth Criminal - 2012 Remaster</b></a> / Michael Jackson<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><img src="https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"><b>Lambada - Original Version 1989</b></a> / Kaoma<br><br>
 
 <a href="https://open.spotify.com/track/6nIzLLf9Inv8ck7XrNYaOt"><img src="https://i.scdn.co/image/ab67616d0000b2733e6c3999ad72dd2da94643f6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6nIzLLf9Inv8ck7XrNYaOt"><b>Older Girl</b></a> / 1986 OMEGA TRIBE<br><br>
-
-<a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd"><b>GATSBY WOMAN</b></a> / Kingo Hamada<br><br>
 
 
 <!-- SPOTIFY_END -->
