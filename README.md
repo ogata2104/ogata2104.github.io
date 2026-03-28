@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played
 
+<a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><b>Syntax Error</b></a> / Ken Ishii<br><br>
+
 <a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><img src="https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><b>SUN</b></a> / Gen Hoshino<br><br>
 
 <a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><img src="https://i.scdn.co/image/ab67616d0000b273ce4081b6a3e970986ef3c331" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><b>創造</b></a> / Gen Hoshino<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><img src="https://i.scdn.co/image/ab67616d0000b273676ca4dc8c635709448286ef" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BnODvOuKbTnAZYkMVzJCL"><b>夢の続き</b></a> / Mariya Takeuchi<br><br>
 
 <a href="https://open.spotify.com/track/0Azi3j0YHmlLSef19BkJ3k"><img src="https://i.scdn.co/image/ab67616d0000b2736d9227cac6ec1550a983ab20" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Azi3j0YHmlLSef19BkJ3k"><b>Love Is Easy</b></a> / Ami Ozaki<br><br>
-
-<a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><img src="https://i.scdn.co/image/ab67616d0000b273d0efae3fccc5cdc679f94d48" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO"><b>カラパナ・ブラック・サンド・ビーチ</b></a> / Atsuko Nina<br><br>
 
 
 <!-- SPOTIFY_END -->
