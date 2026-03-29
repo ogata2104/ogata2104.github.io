@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><b>I'm Coming Out</b></a> / Diana Ross<br><br>
+
 <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><b>Stop Loving You</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><img src="https://i.scdn.co/image/ab67616d0000b2733dd7d442806684ef3fc84b3f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><b>Say It Isn't So</b></a> / Daryl Hall & John Oates<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><b>Syntax Error</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><img src="https://i.scdn.co/image/ab67616d0000b273ce4081b6a3e970986ef3c331" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><b>創造</b></a> / Gen Hoshino<br><br>
-
-<a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"><b>Dirty Diana - 2012 Remaster</b></a> / Michael Jackson<br><br>
 
 
 <!-- SPOTIFY_END -->
