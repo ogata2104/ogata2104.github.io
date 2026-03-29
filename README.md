@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
+
 <a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
 
 <a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><img src="https://i.scdn.co/image/ab67616d0000b273c1faca501ed4c2752524da96" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><b>Fast Car</b></a> / Jonas Blue<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><img src="https://i.scdn.co/image/ab67616d0000b2733b41cace8f81a47aeffd9ac1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><b>Georgie Porgy</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><b>Love X Love</b></a> / George Benson<br><br>
-
-<a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><b>Kiss on My List</b></a> / Daryl Hall & John Oates<br><br>
 
 
 <!-- SPOTIFY_END -->
