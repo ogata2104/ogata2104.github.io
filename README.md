@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
+
 <a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
 
 <a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><img src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><b>One On One</b></a> / Daryl Hall & John Oates<br><br>
 
 <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><b>Smooth Criminal - 2012 Remaster</b></a> / Michael Jackson<br><br>
-
-<a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><img src="https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><b>SUN</b></a> / Gen Hoshino<br><br>
 
 
 <!-- SPOTIFY_END -->
