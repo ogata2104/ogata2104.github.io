@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
+
+<a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
+
 <a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><b>I'm Coming Out</b></a> / Diana Ross<br><br>
 
 <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><b>Stop Loving You</b></a> / TOTO<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><b>Smooth Criminal - 2012 Remaster</b></a> / Michael Jackson<br><br>
 
 <a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><img src="https://i.scdn.co/image/ab67616d0000b273b70bdd96ad09d1c7cdb4d720" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"><b>SUN</b></a> / Gen Hoshino<br><br>
-
-<a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><b>Syntax Error</b></a> / Ken Ishii<br><br>
-
-<a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><img src="https://i.scdn.co/image/ab67616d0000b273ce4081b6a3e970986ef3c331" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"><b>創造</b></a> / Gen Hoshino<br><br>
 
 
 <!-- SPOTIFY_END -->
