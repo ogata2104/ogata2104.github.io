@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
+
+<a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><img src="https://i.scdn.co/image/ab67616d0000b273c1faca501ed4c2752524da96" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><b>Fast Car</b></a> / Jonas Blue<br><br>
+
 <a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
 
 <a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><b>Love X Love</b></a> / George Benson<br><br>
 
 <a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"><b>Kiss on My List</b></a> / Daryl Hall & John Oates<br><br>
-
-<a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><img src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6eC4sNMBJi1e6F5kheD5K3"><b>One On One</b></a> / Daryl Hall & John Oates<br><br>
-
-<a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"><b>Smooth Criminal - 2012 Remaster</b></a> / Michael Jackson<br><br>
 
 
 <!-- SPOTIFY_END -->
