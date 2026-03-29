@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><b>Modern Love - 2018 Remaster</b></a> / David Bowie<br><br>
+
 <a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
 
 <a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><b>Syntax Error - html_ remix</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><img src="https://i.scdn.co/image/ab67616d0000b2733b41cace8f81a47aeffd9ac1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><b>Georgie Porgy</b></a> / TOTO<br><br>
-
-<a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"><b>Love X Love</b></a> / George Benson<br><br>
 
 
 <!-- SPOTIFY_END -->
