@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><img src="https://i.scdn.co/image/ab67616d0000b273754d6cc8630ff4e76279fa7b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><b>Just Like Heaven - Remastered 2006</b></a> / The Cure<br><br>
+
 <a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><b>Modern Love - 2018 Remaster</b></a> / David Bowie<br><br>
 
 <a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><b>Time Out Of Mind</b></a> / Steely Dan<br><br>
 
 <a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><b>Syntax Error - html_ remix</b></a> / Ken Ishii<br><br>
-
-<a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><img src="https://i.scdn.co/image/ab67616d0000b2733b41cace8f81a47aeffd9ac1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4xX8POcBUofvfiXujpe9zy"><b>Georgie Porgy</b></a> / TOTO<br><br>
 
 
 <!-- SPOTIFY_END -->
