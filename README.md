@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5ImWkue7NEmo6uqdX8vVsA"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5ImWkue7NEmo6uqdX8vVsA"><b>バレエ</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
+
 <a href="https://open.spotify.com/track/1eZYPl1jqsPG2IeVenCIwb"><img src="https://i.scdn.co/image/ab67616d0000b2736d0936c54681c673d42ecfd5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1eZYPl1jqsPG2IeVenCIwb"><b>Showing Out (Get Fresh At the Weekend) [7''Version]</b></a> / Mel & Kim<br><br>
 
 <a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><img src="https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><b>Time After Time</b></a> / Cyndi Lauper<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
 
 <a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
-
-<a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><b>I'm Coming Out</b></a> / Diana Ross<br><br>
 
 
 <!-- SPOTIFY_END -->
