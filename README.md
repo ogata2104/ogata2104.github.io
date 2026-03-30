@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/1eZYPl1jqsPG2IeVenCIwb"><img src="https://i.scdn.co/image/ab67616d0000b2736d0936c54681c673d42ecfd5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1eZYPl1jqsPG2IeVenCIwb"><b>Showing Out (Get Fresh At the Weekend) [7''Version]</b></a> / Mel & Kim<br><br>
+
 <a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><img src="https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><b>Time After Time</b></a> / Cyndi Lauper<br><br>
 
 <a href="https://open.spotify.com/track/4iKknA8dy14G5uQ445ikX7"><img src="https://i.scdn.co/image/ab67616d0000b2731f12cb48abf26dd1cf9e4066" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4iKknA8dy14G5uQ445ikX7"><b>Mama</b></a> / Kim Appleby<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
 
 <a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><b>I'm Coming Out</b></a> / Diana Ross<br><br>
-
-<a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><b>Stop Loving You</b></a> / TOTO<br><br>
 
 
 <!-- SPOTIFY_END -->
