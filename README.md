@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5yg8PU0WvswUS2vyspmoWn"><img src="https://i.scdn.co/image/ab67616d0000b2736d0936c54681c673d42ecfd5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5yg8PU0WvswUS2vyspmoWn"><b>F L M</b></a> / Mel & Kim<br><br>
+
+<a href="https://open.spotify.com/track/7iX5w8E5jcXSyvZFJlk99K"><img src="https://i.scdn.co/image/ab67616d0000b27379a975856f8516d9fc24cfd1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7iX5w8E5jcXSyvZFJlk99K"><b>G.L.A.D. - 7" Remix</b></a> / Kim Appleby<br><br>
+
 <a href="https://open.spotify.com/track/71ucHTKi9couPlPaPxDu57"><img src="https://i.scdn.co/image/ab67616d0000b2736d0936c54681c673d42ecfd5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/71ucHTKi9couPlPaPxDu57"><b>Respectable</b></a> / Mel & Kim<br><br>
 
 <a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><img src="https://i.scdn.co/image/ab67616d0000b273754d6cc8630ff4e76279fa7b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><b>Just Like Heaven - Remastered 2006</b></a> / The Cure<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><img src="https://i.scdn.co/image/ab67616d0000b2733dd7d442806684ef3fc84b3f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><b>Say It Isn't So</b></a> / Daryl Hall & John Oates<br><br>
 
 <a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><b>Knocks Me Off My Feet</b></a> / Stevie Wonder<br><br>
-
-<a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"><b>Waiting for Your Love</b></a> / TOTO<br><br>
-
-<a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL"><b>Time Out Of Mind</b></a> / Steely Dan<br><br>
 
 
 <!-- SPOTIFY_END -->
