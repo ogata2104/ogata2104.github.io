@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4iKknA8dy14G5uQ445ikX7"><img src="https://i.scdn.co/image/ab67616d0000b2731f12cb48abf26dd1cf9e4066" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4iKknA8dy14G5uQ445ikX7"><b>Mama</b></a> / Kim Appleby<br><br>
+
 <a href="https://open.spotify.com/track/5yg8PU0WvswUS2vyspmoWn"><img src="https://i.scdn.co/image/ab67616d0000b2736d0936c54681c673d42ecfd5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5yg8PU0WvswUS2vyspmoWn"><b>F L M</b></a> / Mel & Kim<br><br>
 
 <a href="https://open.spotify.com/track/7iX5w8E5jcXSyvZFJlk99K"><img src="https://i.scdn.co/image/ab67616d0000b27379a975856f8516d9fc24cfd1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7iX5w8E5jcXSyvZFJlk99K"><b>G.L.A.D. - 7" Remix</b></a> / Kim Appleby<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"><b>Stop Loving You</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><img src="https://i.scdn.co/image/ab67616d0000b2733dd7d442806684ef3fc84b3f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1ATq1R2bLeKXOSti9kzj5f"><b>Say It Isn't So</b></a> / Daryl Hall & John Oates<br><br>
-
-<a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"><b>Knocks Me Off My Feet</b></a> / Stevie Wonder<br><br>
 
 
 <!-- SPOTIFY_END -->
