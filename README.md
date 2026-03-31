@@ -3,13 +3,13 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6GBW2xTXuEPEeiq0Nkp7ah"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6GBW2xTXuEPEeiq0Nkp7ah"><b>Circuit Saver</b></a> / Ken Ishii<br><br>
+
 <a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739"><b>Syntax Error - html_ remix</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/2NP5h1U4wOepMRnrV5uupw"><img src="https://i.scdn.co/image/ab67616d0000b273c3d9c4ca7e4821bcc690994f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2NP5h1U4wOepMRnrV5uupw"><b>Loop</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/64XeZGg0YE7heFVTqMFqqL"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/64XeZGg0YE7heFVTqMFqqL"><b>Circuit Saver - Dub Mix</b></a> / Ken Ishii<br><br>
-
-<a href="https://open.spotify.com/track/6GBW2xTXuEPEeiq0Nkp7ah"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6GBW2xTXuEPEeiq0Nkp7ah"><b>Circuit Saver</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/79xVgLWMWnp4Ti2gkndcdR"><b>Syntax Error</b></a> / Ken Ishii<br><br>
 
