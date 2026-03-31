@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2pYjNb5r7gh8KNF2Q1lFf6"><img src="https://i.scdn.co/image/ab67616d0000b2734c8e34fd2577f2788000fd61" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2pYjNb5r7gh8KNF2Q1lFf6"><b>A Brief Look In Your Eyes - Mixed</b></a> / Sofia Kourtesis<br><br>
+
 <a href="https://open.spotify.com/track/1odjfdFLnJC1KkzcwkqeXQ"><img src="https://i.scdn.co/image/ab67616d0000b273a3a9e67fd0d4b812cfade2da" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1odjfdFLnJC1KkzcwkqeXQ"><b>Urban Rave</b></a> / Nexor rone<br><br>
 
 <a href="https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q"><img src="https://i.scdn.co/image/ab67616d0000b273edf20900eff12e7a1e29c72d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q"><b>Split Second</b></a> / Ken Ishii<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/4Xvm8Z2bIf9PuTXGppGeWd"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4Xvm8Z2bIf9PuTXGppGeWd"><b>千のナイフ</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
 
 <a href="https://open.spotify.com/track/6MyOsZCr7QN6GiDaatFb6W"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6MyOsZCr7QN6GiDaatFb6W"><b>ハッピーエンド</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
-
-<a href="https://open.spotify.com/track/1XDcCUpXjz3K12YeTnfrqS"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1XDcCUpXjz3K12YeTnfrqS"><b>ラップ現象</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
 
 
 <!-- SPOTIFY_END -->
