@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><img src="https://i.scdn.co/image/ab67616d0000b273841c8f567b42b8b9a1aa54ec" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><b>Ghostbusters - from the "Ghostbusters" Original Motion Picture Soundtrack</b></a> / Ray Parker Jr.<br><br>
+
+<a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><img src="https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><b>Turn to Stone</b></a> / Electric Light Orchestra<br><br>
+
 <a href="https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"><b>MacArthur Park - Single Version</b></a> / Donna Summer<br><br>
 
 <a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><img src="https://i.scdn.co/image/ab67616d0000b273377198e5b790b5ebf137bd83" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><b>Nothing's Gonna Stop Us Now</b></a> / Starship<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"><img src="https://i.scdn.co/image/ab67616d0000b27316bc2538761c1d9f71505a9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"><b>The Heron</b></a> / Antony Szmierek<br><br>
 
 <a href="https://open.spotify.com/track/1UCRPLaBzomuR1bqjNriPV"><img src="https://i.scdn.co/image/ab67616d0000b273abd065a7410fa2ecfef522d1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1UCRPLaBzomuR1bqjNriPV"><b>Cowboy Without a Clue</b></a> / Yumi Zouma<br><br>
-
-<a href="https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc"><img src="https://i.scdn.co/image/ab67616d0000b2730830f3b1547e0e8c398da454" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc"><b>Forge</b></a> / Tycho<br><br>
-
-<a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><img src="https://i.scdn.co/image/ab67616d0000b2735c4cb7c587cdc57b37b7a249" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><b>THE THING</b></a> / TOMORA<br><br>
 
 
 <!-- SPOTIFY_END -->
