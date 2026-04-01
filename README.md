@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><img src="https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><b>Ma Baker</b></a> / Boney M.<br><br>
+
 <a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><b>Last Train to London</b></a> / Electric Light Orchestra<br><br>
 
 <a href="https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"><img src="https://i.scdn.co/image/ab67616d0000b2730320feb23e4090969b931fac" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"><b>Out of Touch</b></a> / Daryl Hall & John Oates<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><img src="https://i.scdn.co/image/ab67616d0000b27361abed04e41921f99efef5b3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><b>U Can't Come Home</b></a> / DJ Seinfeld<br><br>
 
 <a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><img src="https://i.scdn.co/image/ab67616d0000b2732ce3471ceca332307251def4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><b>COME CLOSER</b></a> / TOMORA<br><br>
-
-<a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><img src="https://i.scdn.co/image/ab67616d0000b27317012ffa2fd2e418939fa7b5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><b>Jupiter and Mars</b></a> / Avalon Emerson<br><br>
 
 
 <!-- SPOTIFY_END -->
