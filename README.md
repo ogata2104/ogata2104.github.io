@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><b>Superstition</b></a> / Stevie Wonder<br><br>
+
 <a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><img src="https://i.scdn.co/image/ab67616d0000b273aa5ebc681f9b8a07fd8274e6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><b>I Want You</b></a> / Savage Garden<br><br>
 
 <a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><img src="https://i.scdn.co/image/ab67616d0000b273f05cf0af79d057704dc994f4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><b>Rasputin</b></a> / Majestic<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><img src="https://i.scdn.co/image/ab67616d0000b27341f185fc30af51cdba12c4a8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><b>Gotta Go Home</b></a> / Boney M.<br><br>
 
 <a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><img src="https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><b>Rasputin</b></a> / Boney M.<br><br>
-
-<a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><img src="https://i.scdn.co/image/ab67616d0000b273528f41b9db60ce18ba04f252" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><b>Dance The Pain Away</b></a> / Haute & Freddy<br><br>
 
 
 <!-- SPOTIFY_END -->
