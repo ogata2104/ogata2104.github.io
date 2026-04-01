@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><img src="https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><b>Rasputin</b></a> / Boney M.<br><br>
+
 <a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><img src="https://i.scdn.co/image/ab67616d0000b273528f41b9db60ce18ba04f252" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><b>Dance The Pain Away</b></a> / Haute & Freddy<br><br>
 
 <a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><img src="https://i.scdn.co/image/ab67616d0000b27361abed04e41921f99efef5b3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><b>U Can't Come Home</b></a> / DJ Seinfeld<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"><img src="https://i.scdn.co/image/ab67616d0000b27379a90e8193158a24fea29205" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"><b>Get Go</b></a> / Arlo Parks<br><br>
 
 <a href="https://open.spotify.com/track/1HZWZgXF5BZAVzKumYTuJs"><img src="https://i.scdn.co/image/ab67616d0000b2734d393af3b9b8d1e44dce9edb" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1HZWZgXF5BZAVzKumYTuJs"><b>SOMEWHERE ELSE - salute Remix</b></a> / TOMORA<br><br>
-
-<a href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb"><b>ユーティー</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
 
 
 <!-- SPOTIFY_END -->
