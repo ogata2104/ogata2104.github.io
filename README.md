@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><img src="https://i.scdn.co/image/ab67616d0000b2732d7ef73d524017e6b70e20a9" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><b>These Nights</b></a> / Cannons<br><br>
+
 <a href="https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"><img src="https://i.scdn.co/image/ab67616d0000b273e7984d153dcc387a183c1343" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"><b>Heaven</b></a> / Arlo Parks<br><br>
 
 <a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><img src="https://i.scdn.co/image/ab67616d0000b27334afe4e2ac60491f3d2256c2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><b>Doing Laps</b></a> / Art School Girlfriend<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/1RshkYuIUNkZkjWp0ynehk"><img src="https://i.scdn.co/image/ab67616d0000b273bd47c49a0dd01f23647b69ae" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1RshkYuIUNkZkjWp0ynehk"><b>Sunriser (feat. 7th Gate.)</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/0sVAo6JH6FhgiWdkPHE15h"><img src="https://i.scdn.co/image/ab67616d0000b2733457a9e6a6caaa3792170940" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0sVAo6JH6FhgiWdkPHE15h"><b>METAN</b></a> / Josef Tumari<br><br>
-
-<a href="https://open.spotify.com/track/5W9B07DcQ1wROMRJCHcqXT"><img src="https://i.scdn.co/image/ab67616d0000b273711f82535b3000d6106aa9fc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5W9B07DcQ1wROMRJCHcqXT"><b>Arboreal</b></a> / Seigg<br><br>
 
 
 <!-- SPOTIFY_END -->
