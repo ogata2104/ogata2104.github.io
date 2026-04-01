@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><img src="https://i.scdn.co/image/ab67616d0000b273e691caf11b86a3729899a304" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><b>Let's Groove</b></a> / Earth, Wind & Fire<br><br>
+
 <a href="https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"><img src="https://i.scdn.co/image/ab67616d0000b273eea7096e16b56a80efbba8bb" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"><b>Flash - Single Version</b></a> / Queen<br><br>
 
 <a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><img src="https://i.scdn.co/image/ab67616d0000b273c134462a3ef4af6966a3076d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><b>Hot Stuff - Single Version</b></a> / Donna Summer<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><b>Sunny</b></a> / Boney M.<br><br>
 
 <a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><img src="https://i.scdn.co/image/ab67616d0000b273841c8f567b42b8b9a1aa54ec" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><b>Ghostbusters - from the "Ghostbusters" Original Motion Picture Soundtrack</b></a> / Ray Parker Jr.<br><br>
-
-<a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><img src="https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><b>Turn to Stone</b></a> / Electric Light Orchestra<br><br>
 
 
 <!-- SPOTIFY_END -->
