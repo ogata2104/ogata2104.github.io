@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><b>Sunny</b></a> / Boney M.<br><br>
+
 <a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><img src="https://i.scdn.co/image/ab67616d0000b273841c8f567b42b8b9a1aa54ec" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"><b>Ghostbusters - from the "Ghostbusters" Original Motion Picture Soundtrack</b></a> / Ray Parker Jr.<br><br>
 
 <a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><img src="https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"><b>Turn to Stone</b></a> / Electric Light Orchestra<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><img src="https://i.scdn.co/image/ab67616d0000b27334afe4e2ac60491f3d2256c2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><b>Doing Laps</b></a> / Art School Girlfriend<br><br>
 
 <a href="https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"><img src="https://i.scdn.co/image/ab67616d0000b27316bc2538761c1d9f71505a9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"><b>The Heron</b></a> / Antony Szmierek<br><br>
-
-<a href="https://open.spotify.com/track/1UCRPLaBzomuR1bqjNriPV"><img src="https://i.scdn.co/image/ab67616d0000b273abd065a7410fa2ecfef522d1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1UCRPLaBzomuR1bqjNriPV"><b>Cowboy Without a Clue</b></a> / Yumi Zouma<br><br>
 
 
 <!-- SPOTIFY_END -->
