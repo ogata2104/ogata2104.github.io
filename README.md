@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><img src="https://i.scdn.co/image/ab67616d0000b273aa5ebc681f9b8a07fd8274e6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><b>I Want You</b></a> / Savage Garden<br><br>
+
+<a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><img src="https://i.scdn.co/image/ab67616d0000b273f05cf0af79d057704dc994f4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><b>Rasputin</b></a> / Majestic<br><br>
+
 <a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><img src="https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><b>Ma Baker</b></a> / Boney M.<br><br>
 
 <a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><b>Last Train to London</b></a> / Electric Light Orchestra<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><img src="https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><b>Rasputin</b></a> / Boney M.<br><br>
 
 <a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><img src="https://i.scdn.co/image/ab67616d0000b273528f41b9db60ce18ba04f252" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"><b>Dance The Pain Away</b></a> / Haute & Freddy<br><br>
-
-<a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><img src="https://i.scdn.co/image/ab67616d0000b27361abed04e41921f99efef5b3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><b>U Can't Come Home</b></a> / DJ Seinfeld<br><br>
-
-<a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><img src="https://i.scdn.co/image/ab67616d0000b2732ce3471ceca332307251def4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><b>COME CLOSER</b></a> / TOMORA<br><br>
 
 
 <!-- SPOTIFY_END -->
