@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"><img src="https://i.scdn.co/image/ab67616d0000b2730320feb23e4090969b931fac" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"><b>Out of Touch</b></a> / Daryl Hall & John Oates<br><br>
+
+<a href="https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"><img src="https://i.scdn.co/image/ab67616d0000b2733e716266190c38e929f209cf" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"><b>Shining Star</b></a> / Earth, Wind & Fire<br><br>
+
 <a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"><img src="https://i.scdn.co/image/ab67616d0000b27351d98ff76da5ca1f82c8cbc8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"><b>Wham Bam Shang-A-Lang</b></a> / Silver<br><br>
 
 <a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><b>Sunny</b></a> / Boney M.<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><img src="https://i.scdn.co/image/ab67616d0000b27317012ffa2fd2e418939fa7b5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><b>Jupiter and Mars</b></a> / Avalon Emerson<br><br>
 
 <a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><img src="https://i.scdn.co/image/ab67616d0000b2732d7ef73d524017e6b70e20a9" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><b>These Nights</b></a> / Cannons<br><br>
-
-<a href="https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"><img src="https://i.scdn.co/image/ab67616d0000b273e7984d153dcc387a183c1343" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"><b>Heaven</b></a> / Arlo Parks<br><br>
-
-<a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><img src="https://i.scdn.co/image/ab67616d0000b27334afe4e2ac60491f3d2256c2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3qiUi5vB2Dj89Yrrm3P8O4"><b>Doing Laps</b></a> / Art School Girlfriend<br><br>
 
 
 <!-- SPOTIFY_END -->
