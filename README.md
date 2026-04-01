@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><img src="https://i.scdn.co/image/ab67616d0000b27361abed04e41921f99efef5b3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"><b>U Can't Come Home</b></a> / DJ Seinfeld<br><br>
+
+<a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><img src="https://i.scdn.co/image/ab67616d0000b2732ce3471ceca332307251def4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"><b>COME CLOSER</b></a> / TOMORA<br><br>
+
 <a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><img src="https://i.scdn.co/image/ab67616d0000b27317012ffa2fd2e418939fa7b5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6uzYz5meqzlTltQ6E15uPd"><b>Jupiter and Mars</b></a> / Avalon Emerson<br><br>
 
 <a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><img src="https://i.scdn.co/image/ab67616d0000b2732d7ef73d524017e6b70e20a9" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5pGnEOjLj3xZGWnDyChv2n"><b>These Nights</b></a> / Cannons<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb"><b>ユーティー</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
 
 <a href="https://open.spotify.com/track/3JQQap0iGnVOzcof11u5Cv"><img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JQQap0iGnVOzcof11u5Cv"><b>キュー</b></a> / YELLOW MAGIC ORCHESTRA<br><br>
-
-<a href="https://open.spotify.com/track/1vIfv2nrGdsuarCoIDSwGY"><img src="https://i.scdn.co/image/ab67616d0000b273e75f0375fc00775e2162f01a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vIfv2nrGdsuarCoIDSwGY"><b>Polytope</b></a> / Sub Basics<br><br>
-
-<a href="https://open.spotify.com/track/1RshkYuIUNkZkjWp0ynehk"><img src="https://i.scdn.co/image/ab67616d0000b273bd47c49a0dd01f23647b69ae" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1RshkYuIUNkZkjWp0ynehk"><b>Sunriser (feat. 7th Gate.)</b></a> / Ken Ishii<br><br>
 
 
 <!-- SPOTIFY_END -->
