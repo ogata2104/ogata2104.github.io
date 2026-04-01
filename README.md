@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"><img src="https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"><b>Danger Zone - From "Top Gun" Original Soundtrack</b></a> / Kenny Loggins<br><br>
+
 <a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><img src="https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"><b>Superstition</b></a> / Stevie Wonder<br><br>
 
 <a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><img src="https://i.scdn.co/image/ab67616d0000b273aa5ebc681f9b8a07fd8274e6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"><b>I Want You</b></a> / Savage Garden<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><img src="https://i.scdn.co/image/ab67616d0000b273377198e5b790b5ebf137bd83" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><b>Nothing's Gonna Stop Us Now</b></a> / Starship<br><br>
 
 <a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><img src="https://i.scdn.co/image/ab67616d0000b27341f185fc30af51cdba12c4a8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><b>Gotta Go Home</b></a> / Boney M.<br><br>
-
-<a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><img src="https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"><b>Rasputin</b></a> / Boney M.<br><br>
 
 
 <!-- SPOTIFY_END -->
