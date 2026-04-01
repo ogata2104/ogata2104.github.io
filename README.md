@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><img src="https://i.scdn.co/image/ab67616d0000b2735c4cb7c587cdc57b37b7a249" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><b>THE THING</b></a> / TOMORA<br><br>
+
 <a href="https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"><img src="https://i.scdn.co/image/ab67616d0000b27317012ffa2fd2e418939fa7b5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"><b>Happy Birthday</b></a> / Avalon Emerson<br><br>
 
 <a href="https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"><img src="https://i.scdn.co/image/ab67616d0000b27379a90e8193158a24fea29205" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"><b>Get Go</b></a> / Arlo Parks<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q"><img src="https://i.scdn.co/image/ab67616d0000b273edf20900eff12e7a1e29c72d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q"><b>Split Second</b></a> / Ken Ishii<br><br>
 
 <a href="https://open.spotify.com/track/42jrwZa5W3WJmIQJUJ0KNh"><img src="https://i.scdn.co/image/ab67616d0000b273077ca3162ba7d1d21328fe5d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/42jrwZa5W3WJmIQJUJ0KNh"><b>Unfold</b></a> / Chris Liebing<br><br>
-
-<a href="https://open.spotify.com/track/1qZzwwTYyRGdN0RDpHxR4V"><img src="https://i.scdn.co/image/ab67616d0000b2732cefc1690ff5c5517d26ce6e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1qZzwwTYyRGdN0RDpHxR4V"><b>Lax to Ams</b></a> / Temudo<br><br>
 
 
 <!-- SPOTIFY_END -->
