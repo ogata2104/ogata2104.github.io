@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><img src="https://i.scdn.co/image/ab67616d0000b27311c24dc7f5ef909381c0a7d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"><b>Waterloo</b></a> / ABBA<br><br>
+
 <a href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"><img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"><b>Gimme! Gimme! Gimme! (A Man After Midnight)</b></a> / ABBA<br><br>
 
 <a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><img src="https://i.scdn.co/image/ab67616d0000b273e691caf11b86a3729899a304" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><b>Let's Groove</b></a> / Earth, Wind & Fire<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"><img src="https://i.scdn.co/image/ab67616d0000b2733e716266190c38e929f209cf" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"><b>Shining Star</b></a> / Earth, Wind & Fire<br><br>
 
 <a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"><img src="https://i.scdn.co/image/ab67616d0000b27351d98ff76da5ca1f82c8cbc8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"><b>Wham Bam Shang-A-Lang</b></a> / Silver<br><br>
-
-<a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"><b>Sunny</b></a> / Boney M.<br><br>
 
 
 <!-- SPOTIFY_END -->
