@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"><img src="https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"><b>MacArthur Park - Single Version</b></a> / Donna Summer<br><br>
+
 <a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><img src="https://i.scdn.co/image/ab67616d0000b273377198e5b790b5ebf137bd83" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"><b>Nothing's Gonna Stop Us Now</b></a> / Starship<br><br>
 
 <a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><img src="https://i.scdn.co/image/ab67616d0000b27341f185fc30af51cdba12c4a8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4MvGHDenL4t9JW1RHB4rK2"><b>Gotta Go Home</b></a> / Boney M.<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc"><img src="https://i.scdn.co/image/ab67616d0000b2730830f3b1547e0e8c398da454" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc"><b>Forge</b></a> / Tycho<br><br>
 
 <a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><img src="https://i.scdn.co/image/ab67616d0000b2735c4cb7c587cdc57b37b7a249" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"><b>THE THING</b></a> / TOMORA<br><br>
-
-<a href="https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"><img src="https://i.scdn.co/image/ab67616d0000b27317012ffa2fd2e418939fa7b5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"><b>Happy Birthday</b></a> / Avalon Emerson<br><br>
 
 
 <!-- SPOTIFY_END -->
