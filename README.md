@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><b>gloria</b></a> / Senri Oe<br><br>
+
 <a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><img src="https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><b>Baby, I Love Your Way</b></a> / Big Mountain<br><br>
 
 <a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><b>Jump - 2015 Remaster</b></a> / Van Halen<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><img src="https://i.scdn.co/image/ab67616d0000b2735be5f807f6f0549e198a44b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><b>Radio Ga Ga - Remastered 2011</b></a> / Queen<br><br>
 
 <a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><b>Kiss Me</b></a> / Sixpence None The Richer<br><br>
-
-<a href="https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"><img src="https://i.scdn.co/image/ab67616d0000b27326c1f33d8668947d14e52946" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"><b>DRIVING</b></a> / Eddie Benjamin<br><br>
 
 
 <!-- SPOTIFY_END -->
