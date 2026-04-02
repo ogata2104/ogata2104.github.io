@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><img src="https://i.scdn.co/image/ab67616d0000b2731df9bf19642031e213d0276e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><b>Heaven Is a Place on Earth - Promo 7" Edit</b></a> / Belinda Carlisle<br><br>
+
+<a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><b>Uptown Girl</b></a> / Billy Joel<br><br>
+
 <a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><img src="https://i.scdn.co/image/ab67616d0000b2735be5f807f6f0549e198a44b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><b>Radio Ga Ga - Remastered 2011</b></a> / Queen<br><br>
 
 <a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><b>Kiss Me</b></a> / Sixpence None The Richer<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
 
 <a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
-
-<a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
-
-<a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"><b>I'm Coming Out</b></a> / Diana Ross<br><br>
 
 
 <!-- SPOTIFY_END -->
