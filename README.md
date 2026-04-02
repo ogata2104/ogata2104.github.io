@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><b>What You Know</b></a> / Two Door Cinema Club<br><br>
+
 <a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><b>A Thousand Miles</b></a> / Vanessa Carlton<br><br>
 
 <a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><b>Here Comes Your Man</b></a> / Pixies<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"><img src="https://i.scdn.co/image/ab67616d0000b273def37b5d437961fa4ba307e7" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"><b>Material Girl - 2024 Remaster</b></a> / Madonna<br><br>
 
 <a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><b>superstitious</b></a> / no na<br><br>
-
-<a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><img src="https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><b>Time After Time</b></a> / Cyndi Lauper<br><br>
 
 
 <!-- SPOTIFY_END -->
