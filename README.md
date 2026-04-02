@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><img src="https://i.scdn.co/image/ab67616d0000b273ee6a59212d632b1c2945e0c0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><b>Need Your Love</b></a> / OneRepublic<br><br>
+
 <a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><img src="https://i.scdn.co/image/ab67616d0000b2731d9a8caa24ecaa5374ecf824" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><b>Reputation (feat. Dominic Fike)</b></a> / Ravyn Lenae<br><br>
 
 <a href="https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"><img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"><b>Funny Friends</b></a> / Thundercat<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><b>Take on Me</b></a> / a-ha<br><br>
 
 <a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"><b>1979 - Remastered 2012</b></a> / The Smashing Pumpkins<br><br>
-
-<a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><img src="https://i.scdn.co/image/ab67616d0000b2731df9bf19642031e213d0276e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><b>Heaven Is a Place on Earth - Promo 7" Edit</b></a> / Belinda Carlisle<br><br>
 
 
 <!-- SPOTIFY_END -->
