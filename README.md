@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><img src="https://i.scdn.co/image/ab67616d0000b273d88971061b322e0d48cf840d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><b>GREAT PRETENDER</b></a> / Kasabian<br><br>
+
+<a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><img src="https://i.scdn.co/image/ab67616d0000b2737bbde623de6e3e32fabebed3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><b>Shine Again</b></a> / Weezer<br><br>
+
 <a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b2737f189c7a2f933b92009a09b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
 
 <a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b2732b857955a9ffa071345dc59b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><img src="https://i.scdn.co/image/ab67616d0000b27373b95b265f22cce733a38316" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><b>ルミナス - Luminous</b></a> / AiNA THE END<br><br>
 
 <a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><b>gloria</b></a> / Senri Oe<br><br>
-
-<a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><img src="https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><b>Baby, I Love Your Way</b></a> / Big Mountain<br><br>
-
-<a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><b>Jump - 2015 Remaster</b></a> / Van Halen<br><br>
 
 
 <!-- SPOTIFY_END -->
