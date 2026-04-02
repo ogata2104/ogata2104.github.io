@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
+
 <a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
 
 <a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"><b>Honey</b></a> / Taylor Swift<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><b>Heartbeat</b></a> / Childish Gambino<br><br>
 
 <a href="https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"><img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"><b>Les</b></a> / Childish Gambino<br><br>
-
-<a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"><b>Dancing Queen</b></a> / ABBA<br><br>
 
 
 <!-- SPOTIFY_END -->
