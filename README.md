@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><b>A Thousand Miles</b></a> / Vanessa Carlton<br><br>
+
 <a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><b>Here Comes Your Man</b></a> / Pixies<br><br>
 
 <a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><img src="https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><b>You Can Call Me Al</b></a> / Paul Simon<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><b>superstitious</b></a> / no na<br><br>
 
 <a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><img src="https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><b>Time After Time</b></a> / Cyndi Lauper<br><br>
-
-<a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><img src="https://i.scdn.co/image/ab67616d0000b273754d6cc8630ff4e76279fa7b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><b>Just Like Heaven - Remastered 2006</b></a> / The Cure<br><br>
 
 
 <!-- SPOTIFY_END -->
