@@ -3,6 +3,12 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><b>Africa</b></a> / TOTO<br><br>
+
+<a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><img src="https://i.scdn.co/image/ab67616d0000b2730052d1758ae8f1afc71b8ab8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><b>瞬発的に恋しよう</b></a> / Yasuyuki Okamura<br><br>
+
+<a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><img src="https://i.scdn.co/image/ab67616d0000b2733cb0db487295cb7c8070e8f5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><b>Home</b></a> / Ayumu Imazu<br><br>
+
 <a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><img src="https://i.scdn.co/image/ab67616d0000b273720da64f1a8b85e753fcbb2b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><b>DECOTORA15</b></a> / LiSA<br><br>
 
 <a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><img src="https://i.scdn.co/image/ab67616d0000b273ee6a59212d632b1c2945e0c0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><b>Need Your Love</b></a> / OneRepublic<br><br>
@@ -26,12 +32,6 @@
 <a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><b>Here Comes Your Man</b></a> / Pixies<br><br>
 
 <a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><img src="https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><b>You Can Call Me Al</b></a> / Paul Simon<br><br>
-
-<a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><img src="https://i.scdn.co/image/ab67616d0000b2736f253c0104f24caed5e3e42e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><b>Don't Look Back in Anger - Remastered</b></a> / Oasis<br><br>
-
-<a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><img src="https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><b>Don't Stop Me Now - Remastered 2011</b></a> / Queen<br><br>
-
-<a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><b>Take on Me</b></a> / a-ha<br><br>
 
 
 <!-- SPOTIFY_END -->
