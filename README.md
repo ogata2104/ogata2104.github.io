@@ -1,4 +1,4 @@
-# ogata2104 のポートフォリオ
+# ogata2104's daily life
 
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
