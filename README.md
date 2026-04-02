@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><img src="https://i.scdn.co/image/ab67616d0000b2736f253c0104f24caed5e3e42e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><b>Don't Look Back in Anger - Remastered</b></a> / Oasis<br><br>
+
 <a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><img src="https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><b>Don't Stop Me Now - Remastered 2011</b></a> / Queen<br><br>
 
 <a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><b>Take on Me</b></a> / a-ha<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
 
 <a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
-
-<a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><b>Modern Love - 2018 Remaster</b></a> / David Bowie<br><br>
 
 
 <!-- SPOTIFY_END -->
