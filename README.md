@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><b>Here Comes Your Man</b></a> / Pixies<br><br>
+
+<a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><img src="https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><b>You Can Call Me Al</b></a> / Paul Simon<br><br>
+
 <a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><img src="https://i.scdn.co/image/ab67616d0000b2736f253c0104f24caed5e3e42e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0XdgnNhVtII9CuS2wa90ZK"><b>Don't Look Back in Anger - Remastered</b></a> / Oasis<br><br>
 
 <a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><img src="https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><b>Don't Stop Me Now - Remastered 2011</b></a> / Queen<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><img src="https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"><b>Time After Time</b></a> / Cyndi Lauper<br><br>
 
 <a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><img src="https://i.scdn.co/image/ab67616d0000b273754d6cc8630ff4e76279fa7b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"><b>Just Like Heaven - Remastered 2006</b></a> / The Cure<br><br>
-
-<a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
-
-<a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
 
 
 <!-- SPOTIFY_END -->
