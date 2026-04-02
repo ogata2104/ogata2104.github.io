@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b2737f189c7a2f933b92009a09b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
+
 <a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b2732b857955a9ffa071345dc59b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
 
 <a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><img src="https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><b>Senses ft. Sampha</b></a> / Arlo Parks<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><img src="https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><b>Baby, I Love Your Way</b></a> / Big Mountain<br><br>
 
 <a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><b>Jump - 2015 Remaster</b></a> / Van Halen<br><br>
-
-<a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><b>What You Know</b></a> / Two Door Cinema Club<br><br>
 
 
 <!-- SPOTIFY_END -->
