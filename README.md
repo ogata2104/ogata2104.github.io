@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><b>Modern Love - 2018 Remaster</b></a> / David Bowie<br><br>
+
 <a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><img src="https://i.scdn.co/image/ab67616d0000b273c1faca501ed4c2752524da96" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><b>Fast Car</b></a> / Jonas Blue<br><br>
 
 <a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3MVosvEtBDGlajX6JNA8go"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3MVosvEtBDGlajX6JNA8go"><b>路上のさようなら</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><b>Redbone</b></a> / Childish Gambino<br><br>
-
-<a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><b>Heartbeat</b></a> / Childish Gambino<br><br>
 
 
 <!-- SPOTIFY_END -->
