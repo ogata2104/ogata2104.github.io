@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"><b>Heartbeat</b></a> / Childish Gambino<br><br>
+
 <a href="https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"><img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"><b>Les</b></a> / Childish Gambino<br><br>
 
 <a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><b>Redbone</b></a> / Childish Gambino<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><img src="https://i.scdn.co/image/ab67616d0000b273f05cf0af79d057704dc994f4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><b>Rasputin</b></a> / Majestic<br><br>
 
 <a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><img src="https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"><b>Ma Baker</b></a> / Boney M.<br><br>
-
-<a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"><b>Last Train to London</b></a> / Electric Light Orchestra<br><br>
 
 
 <!-- SPOTIFY_END -->
