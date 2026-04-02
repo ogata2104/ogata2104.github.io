@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><img src="https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><b>Senses ft. Sampha</b></a> / Arlo Parks<br><br>
+
+<a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><img src="https://i.scdn.co/image/ab67616d0000b273810cb03145da6ce2e68e8548" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><b>Fashion</b></a> / IVE<br><br>
+
 <a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><b>Africa</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><img src="https://i.scdn.co/image/ab67616d0000b2730052d1758ae8f1afc71b8ab8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><b>瞬発的に恋しよう</b></a> / Yasuyuki Okamura<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><b>What You Know</b></a> / Two Door Cinema Club<br><br>
 
 <a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><b>A Thousand Miles</b></a> / Vanessa Carlton<br><br>
-
-<a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"><b>Here Comes Your Man</b></a> / Pixies<br><br>
-
-<a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><img src="https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"><b>You Can Call Me Al</b></a> / Paul Simon<br><br>
 
 
 <!-- SPOTIFY_END -->
