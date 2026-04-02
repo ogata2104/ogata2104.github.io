@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"><img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"><b>1979 - Remastered 2012</b></a> / The Smashing Pumpkins<br><br>
+
 <a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><img src="https://i.scdn.co/image/ab67616d0000b2731df9bf19642031e213d0276e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><b>Heaven Is a Place on Earth - Promo 7" Edit</b></a> / Belinda Carlisle<br><br>
 
 <a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><b>Uptown Girl</b></a> / Billy Joel<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><img src="https://i.scdn.co/image/ab67616d0000b273c1faca501ed4c2752524da96" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><b>Fast Car</b></a> / Jonas Blue<br><br>
 
 <a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"><b>Kiss</b></a> / Prince<br><br>
-
-<a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"><b>September</b></a> / Earth, Wind & Fire<br><br>
 
 
 <!-- SPOTIFY_END -->
