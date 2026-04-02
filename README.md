@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5L4ny3a746EMd6588Yd2Ze"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5L4ny3a746EMd6588Yd2Ze"><b>エールをおくろう</b></a> / Senri Oe<br><br>
+
 <a href="https://open.spotify.com/track/1yGVCB7KWTMRmNixEUa5Er"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1yGVCB7KWTMRmNixEUa5Er"><b>塩屋</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/1vczDwvNrYs5wv4W1ZG4vK"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vczDwvNrYs5wv4W1ZG4vK"><b>小首をかしげるTシャツ</b></a> / Senri Oe<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><img src="https://i.scdn.co/image/ab67616d0000b273c134462a3ef4af6966a3076d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><b>Hot Stuff - Single Version</b></a> / Donna Summer<br><br>
 
 <a href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"><img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"><b>Daddy Cool</b></a> / Boney M.<br><br>
-
-<a href="https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"><img src="https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"><b>Danger Zone - From "Top Gun" Original Soundtrack</b></a> / Kenny Loggins<br><br>
 
 
 <!-- SPOTIFY_END -->
