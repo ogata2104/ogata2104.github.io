@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><img src="https://i.scdn.co/image/ab67616d0000b27373b95b265f22cce733a38316" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><b>ルミナス - Luminous</b></a> / AiNA THE END<br><br>
+
 <a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6BNgHluhlZf3HgzKHZA3Ay"><b>gloria</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><img src="https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><b>Baby, I Love Your Way</b></a> / Big Mountain<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"><b>Uptown Girl</b></a> / Billy Joel<br><br>
 
 <a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><img src="https://i.scdn.co/image/ab67616d0000b2735be5f807f6f0549e198a44b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><b>Radio Ga Ga - Remastered 2011</b></a> / Queen<br><br>
-
-<a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><b>Kiss Me</b></a> / Sixpence None The Richer<br><br>
 
 
 <!-- SPOTIFY_END -->
