@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6pwS2vgktBz2E9oJ4n1jTJ"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6pwS2vgktBz2E9oJ4n1jTJ"><b>夏渡し</b></a> / Senri Oe<br><br>
+
 <a href="https://open.spotify.com/track/2RKx9dpaRTzah1zgV0SBjy"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2RKx9dpaRTzah1zgV0SBjy"><b>贅沢なペイン</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/5L4ny3a746EMd6588Yd2Ze"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5L4ny3a746EMd6588Yd2Ze"><b>エールをおくろう</b></a> / Senri Oe<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><img src="https://i.scdn.co/image/ab67616d0000b273e691caf11b86a3729899a304" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"><b>Let's Groove</b></a> / Earth, Wind & Fire<br><br>
 
 <a href="https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"><img src="https://i.scdn.co/image/ab67616d0000b273eea7096e16b56a80efbba8bb" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"><b>Flash - Single Version</b></a> / Queen<br><br>
-
-<a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><img src="https://i.scdn.co/image/ab67616d0000b273c134462a3ef4af6966a3076d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"><b>Hot Stuff - Single Version</b></a> / Donna Summer<br><br>
 
 
 <!-- SPOTIFY_END -->
