@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><img src="https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"><b>Baby, I Love Your Way</b></a> / Big Mountain<br><br>
+
+<a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><img src="https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"><b>Jump - 2015 Remaster</b></a> / Van Halen<br><br>
+
 <a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R"><b>What You Know</b></a> / Two Door Cinema Club<br><br>
 
 <a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"><b>A Thousand Miles</b></a> / Vanessa Carlton<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"><b>Kiss Me</b></a> / Sixpence None The Richer<br><br>
 
 <a href="https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"><img src="https://i.scdn.co/image/ab67616d0000b27326c1f33d8668947d14e52946" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"><b>DRIVING</b></a> / Eddie Benjamin<br><br>
-
-<a href="https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"><img src="https://i.scdn.co/image/ab67616d0000b273def37b5d437961fa4ba307e7" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"><b>Material Girl - 2024 Remaster</b></a> / Madonna<br><br>
-
-<a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"><b>superstitious</b></a> / no na<br><br>
 
 
 <!-- SPOTIFY_END -->
