@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"><b>Lil Boo Thang</b></a> / Paul Russell<br><br>
+
+<a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><b>Yellow</b></a> / Coldplay<br><br>
+
 <a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"><b>Modern Love - 2018 Remaster</b></a> / David Bowie<br><br>
 
 <a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><img src="https://i.scdn.co/image/ab67616d0000b273c1faca501ed4c2752524da96" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"><b>Fast Car</b></a> / Jonas Blue<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/1vczDwvNrYs5wv4W1ZG4vK"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vczDwvNrYs5wv4W1ZG4vK"><b>小首をかしげるTシャツ</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/7qHImS7zVXIt85FJf7uE5p"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7qHImS7zVXIt85FJf7uE5p"><b>STELLA'S COUGH</b></a> / Senri Oe<br><br>
-
-<a href="https://open.spotify.com/track/3MVosvEtBDGlajX6JNA8go"><img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3MVosvEtBDGlajX6JNA8go"><b>路上のさようなら</b></a> / Senri Oe<br><br>
-
-<a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><b>Redbone</b></a> / Childish Gambino<br><br>
 
 
 <!-- SPOTIFY_END -->
