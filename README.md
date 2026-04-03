@@ -9,7 +9,7 @@
 
 <a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
 
-<a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b2732b857955a9ffa071345dc59b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
+<a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b273a0b1930ce3b5087ac490a8cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
 
 <a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><img src="https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><b>Senses ft. Sampha</b></a> / Arlo Parks<br><br>
 
@@ -19,7 +19,7 @@
 
 <a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><img src="https://i.scdn.co/image/ab67616d0000b2730052d1758ae8f1afc71b8ab8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><b>瞬発的に恋しよう</b></a> / Yasuyuki Okamura<br><br>
 
-<a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><img src="https://i.scdn.co/image/ab67616d0000b2733cb0db487295cb7c8070e8f5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><b>Home</b></a> / Ayumu Imazu<br><br>
+<a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><img src="https://i.scdn.co/image/ab67616d0000b273b1378be4a312febf21f26298" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><b>Home</b></a> / Ayumu Imazu<br><br>
 
 <a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><img src="https://i.scdn.co/image/ab67616d0000b273720da64f1a8b85e753fcbb2b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><b>DECOTORA15</b></a> / LiSA<br><br>
 
