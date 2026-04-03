@@ -7,7 +7,7 @@
 
 <a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><img src="https://i.scdn.co/image/ab67616d0000b2737bbde623de6e3e32fabebed3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><b>Shine Again</b></a> / Weezer<br><br>
 
-<a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b2737f189c7a2f933b92009a09b4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
+<a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
 
 <a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b2732b857955a9ffa071345dc59b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
 
