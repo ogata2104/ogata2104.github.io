@@ -43,6 +43,7 @@
 
 
 <!-- SPOTIFY_END -->
+[more](https://ogata2104.notion.site/ogata2104-s-Spotify-Log-68427f72819c49ae8dbbbcfd7f1d8220)
 <br>
 
 ---
