@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><b>夙川パーキングナイト</b></a> / Senri Oe<br><br>
+
 <a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><b>TIGER CHAMPION</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><b>Sabotage</b></a> / Beastie Boys<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><img src="https://i.scdn.co/image/ab67616d0000b273720da64f1a8b85e753fcbb2b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><b>DECOTORA15</b></a> / LiSA<br><br>
 
 <a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><img src="https://i.scdn.co/image/ab67616d0000b273ee6a59212d632b1c2945e0c0" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"><b>Need Your Love</b></a> / OneRepublic<br><br>
-
-<a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><img src="https://i.scdn.co/image/ab67616d0000b2731d9a8caa24ecaa5374ecf824" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><b>Reputation (feat. Dominic Fike)</b></a> / Ravyn Lenae<br><br>
 
 
 <!-- SPOTIFY_END -->
