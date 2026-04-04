@@ -11,6 +11,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"><b>Hold On</b></a> / Wilson Phillips<br><br>
+
 <a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><b>Wacha Wacha</b></a> / RIP SLYME<br><br>
 
 <a href="https://open.spotify.com/track/24CYAjd4OtBNNcLzOjaQLj"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/24CYAjd4OtBNNcLzOjaQLj"><b>Nyancomania Rock - Live Version</b></a> / リザード<br><br>
@@ -18,8 +20,6 @@
 <a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><b>Rockin' Doll - Live Version</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><b>Robot Love - Live Version</b></a> / リザード<br><br>
-
-<a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><b>The Steps</b></a> / HAIM<br><br>
 
 
 <!-- SPOTIFY_END -->
