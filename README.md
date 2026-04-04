@@ -1,6 +1,7 @@
 # ogata2104's daily life
 
 <!-- THREADS_START -->
+📝 **Latest Threads**: [前から気になっていた2本がUPLINK吉祥寺でいい感じの接続（？）だったので、久々に2本ハシゴ。 発券してから気づいたんだけど、どちらも同じ劇場の同じ座席、さらにどちらのタイトルも『カタカナ・カタカナ...](https://threads.net/@ogata2104/post/DWtpZYWiSLM)
 <!-- THREADS_END -->
 
 <!-- SPOTIFY_START -->
