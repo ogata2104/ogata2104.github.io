@@ -11,6 +11,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><b>Wacha Wacha</b></a> / RIP SLYME<br><br>
+
 <a href="https://open.spotify.com/track/24CYAjd4OtBNNcLzOjaQLj"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/24CYAjd4OtBNNcLzOjaQLj"><b>Nyancomania Rock - Live Version</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><b>Rockin' Doll - Live Version</b></a> / リザード<br><br>
@@ -18,28 +20,6 @@
 <a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><b>Robot Love - Live Version</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><b>The Steps</b></a> / HAIM<br><br>
-
-<a href="https://open.spotify.com/track/7lel2CiklooE5BAkuScbYV"><img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7lel2CiklooE5BAkuScbYV"><b>Days Are Gone</b></a> / HAIM<br><br>
-
-<a href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"><img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3"><b>Relationships</b></a> / HAIM<br><br>
-
-<a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><img src="https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><b>Cherry Bomb</b></a> / The Runaways<br><br>
-
-<a href="https://open.spotify.com/track/6j9HneRkFGRJtQf5GowZLh"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6j9HneRkFGRJtQf5GowZLh"><b>I CAN TELL</b></a> / Friction<br><br>
-
-<a href="https://open.spotify.com/track/3nJs7mR0osZ3T9P0ZBTKsS"><img src="https://i.scdn.co/image/ab67616d0000b273825c343c0f421f48e750770b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3nJs7mR0osZ3T9P0ZBTKsS"><b>スーパーバタフライ</b></a> / S-KEN<br><br>
-
-<a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><img src="https://i.scdn.co/image/ab67616d0000b273220efbe7e4408a5377a90040" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><b>アレルギーα</b></a> / THE STALIN<br><br>
-
-<a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><img src="https://i.scdn.co/image/ab67616d0000b273e6add0f45b623eb6798dcfeb" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><b>時折の色彩</b></a> / ZELDA<br><br>
-
-<a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><img src="https://i.scdn.co/image/ab67616d0000b273a959d2301881ccd5851cad9d" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><b>さよならプラスティック・エイジ</b></a> / リザード<br><br>
-
-<a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><b>オートマチック・フラ</b></a> / Friction<br><br>
-
-<a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><img src="https://i.scdn.co/image/ab67616d0000b2735791c2bfa9eedf704f09997f" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><b>季節のおわり</b></a> / 暗黒大陸じゃがたら<br><br>
-
-<a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><b>A-GAS</b></a> / Friction<br><br>
 
 
 <!-- SPOTIFY_END -->
