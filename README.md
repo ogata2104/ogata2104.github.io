@@ -7,6 +7,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><b>A-GAS</b></a> / Friction<br><br>
+
+<a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><img src="https://i.scdn.co/image/ab67616d0000b27330a65af5e95ea965aa81a35c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><b>バキューム</b></a> / THE STALIN<br><br>
+
 <a href="https://open.spotify.com/track/2rDJmxhFsTkx9hTZqQhHXN"><img src="https://i.scdn.co/image/ab67616d0000b273d8f784118c498612ebd98654" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2rDJmxhFsTkx9hTZqQhHXN"><b>BAD LUCK</b></a> / Friction<br><br>
 
 <a href="https://open.spotify.com/track/6Uokm4HoUHUuZ1C1ZnJLO1"><img src="https://i.scdn.co/image/ab67616d0000b273a959d2301881ccd5851cad9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6Uokm4HoUHUuZ1C1ZnJLO1"><b>サ・カ・ナ</b></a> / リザード<br><br>
@@ -32,10 +36,6 @@
 <a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
 
 <a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b273a0b1930ce3b5087ac490a8cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
-
-<a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><img src="https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"><b>Senses ft. Sampha</b></a> / Arlo Parks<br><br>
-
-<a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><img src="https://i.scdn.co/image/ab67616d0000b273810cb03145da6ce2e68e8548" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><b>Fashion</b></a> / IVE<br><br>
 
 
 <!-- SPOTIFY_END -->
