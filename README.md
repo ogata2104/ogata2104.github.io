@@ -11,6 +11,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qjWS7oMjNvp4xzFiN1aFK"><b>Rockin' Doll - Live Version</b></a> / リザード<br><br>
+
 <a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><b>Robot Love - Live Version</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg"><b>The Steps</b></a> / HAIM<br><br>
@@ -38,8 +40,6 @@
 <a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><b>A-GAS</b></a> / Friction<br><br>
 
 <a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><img src="https://i.scdn.co/image/ab67616d0000b27330a65af5e95ea965aa81a35c" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><b>バキューム</b></a> / THE STALIN<br><br>
-
-<a href="https://open.spotify.com/track/2rDJmxhFsTkx9hTZqQhHXN"><img src="https://i.scdn.co/image/ab67616d0000b273d8f784118c498612ebd98654" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2rDJmxhFsTkx9hTZqQhHXN"><b>BAD LUCK</b></a> / Friction<br><br>
 
 
 <!-- SPOTIFY_END -->
