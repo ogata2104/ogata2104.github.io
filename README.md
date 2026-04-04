@@ -13,6 +13,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3tLJ606Lf0qJEB14vXFJ2a"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3tLJ606Lf0qJEB14vXFJ2a"><b>Next To You (Someday I'll Be)</b></a> / Wilson Phillips<br><br>
+
 <a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><img src="https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><b>Cherry Bomb</b></a> / The Runaways<br><br>
 
 <a href="https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77"><b>Impulsive</b></a> / Wilson Phillips<br><br>
@@ -20,8 +22,6 @@
 <a href="https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"><b>Release Me</b></a> / Wilson Phillips<br><br>
 
 <a href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"><b>Hold On</b></a> / Wilson Phillips<br><br>
-
-<a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo"><b>Wacha Wacha</b></a> / RIP SLYME<br><br>
 
 
 <!-- SPOTIFY_END -->
