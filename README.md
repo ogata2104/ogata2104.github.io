@@ -9,6 +9,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><img src="https://i.scdn.co/image/ab67616d0000b2735791c2bfa9eedf704f09997f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><b>季節のおわり</b></a> / 暗黒大陸じゃがたら<br><br>
+
 <a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><b>A-GAS</b></a> / Friction<br><br>
 
 <a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><img src="https://i.scdn.co/image/ab67616d0000b27330a65af5e95ea965aa81a35c" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5AhnAD4waZz9gw4qRq7vBR"><b>バキューム</b></a> / THE STALIN<br><br>
@@ -36,8 +38,6 @@
 <a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><img src="https://i.scdn.co/image/ab67616d0000b2737bbde623de6e3e32fabebed3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><b>Shine Again</b></a> / Weezer<br><br>
 
 <a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
-
-<a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><img src="https://i.scdn.co/image/ab67616d0000b273a0b1930ce3b5087ac490a8cc" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"><b>Beautiful (with Joji)</b></a> / Anyma<br><br>
 
 
 <!-- SPOTIFY_END -->
