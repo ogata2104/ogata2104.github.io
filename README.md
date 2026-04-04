@@ -3,6 +3,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><b>Robot Love - Live Version</b></a> / リザード<br><br>
+
+<a href="https://open.spotify.com/track/6ppLU88Rgnu1oEH8Td3AVQ"><img src="https://i.scdn.co/image/ab67616d0000b273220efbe7e4408a5377a90040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6ppLU88Rgnu1oEH8Td3AVQ"><b>ロマンチスト</b></a> / THE STALIN<br><br>
+
 <a href="https://open.spotify.com/track/1ZKXDeh95cdBf3eeSzlyOn"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1ZKXDeh95cdBf3eeSzlyOn"><b>CRAZY DREAM</b></a> / Friction<br><br>
 
 <a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><b>夙川パーキングナイト</b></a> / Senri Oe<br><br>
@@ -28,10 +32,6 @@
 <a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><b>Africa</b></a> / TOTO<br><br>
 
 <a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><img src="https://i.scdn.co/image/ab67616d0000b2730052d1758ae8f1afc71b8ab8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><b>瞬発的に恋しよう</b></a> / Yasuyuki Okamura<br><br>
-
-<a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><img src="https://i.scdn.co/image/ab67616d0000b273b1378be4a312febf21f26298" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"><b>Home</b></a> / Ayumu Imazu<br><br>
-
-<a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><img src="https://i.scdn.co/image/ab67616d0000b273720da64f1a8b85e753fcbb2b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"><b>DECOTORA15</b></a> / LiSA<br><br>
 
 
 <!-- SPOTIFY_END -->
