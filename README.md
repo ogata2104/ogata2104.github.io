@@ -1,5 +1,8 @@
 # ogata2104's daily life
 
+<!-- THREADS_START -->
+<!-- THREADS_END -->
+
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
