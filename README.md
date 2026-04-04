@@ -11,6 +11,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><img src="https://i.scdn.co/image/ab67616d0000b273220efbe7e4408a5377a90040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><b>アレルギーα</b></a> / THE STALIN<br><br>
+
+<a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><img src="https://i.scdn.co/image/ab67616d0000b273e6add0f45b623eb6798dcfeb" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><b>時折の色彩</b></a> / ZELDA<br><br>
+
 <a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><img src="https://i.scdn.co/image/ab67616d0000b273a959d2301881ccd5851cad9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><b>さよならプラスティック・エイジ</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><b>オートマチック・フラ</b></a> / Friction<br><br>
@@ -36,10 +40,6 @@
 <a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><b>TIGER CHAMPION</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><b>Sabotage</b></a> / Beastie Boys<br><br>
-
-<a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><img src="https://i.scdn.co/image/ab67616d0000b273340fcccf617adc22da4d5b21" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><b>人誑し / ひとたらし</b></a> / Keisuke Kuwata<br><br>
-
-<a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><img src="https://i.scdn.co/image/ab67616d0000b273d88971061b322e0d48cf840d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><b>GREAT PRETENDER</b></a> / Kasabian<br><br>
 
 
 <!-- SPOTIFY_END -->
