@@ -2,7 +2,7 @@
 ### 🧵 Latest Threads
 [前から気になっていた2本がUPLINK吉祥寺でいい感じの接続（？）だったので、久々に2本ハシゴ。 発券してから気づいたんだけど、どちらも同じ劇場の同じ座席、さらにどちらのタイトルも『カタカナ・カタカナ...](https://threads.net/@ogata2104/post/DWtpZYWiSLM)
 
-<a href="https://threads.net/@ogata2104/post/DWtpZYWiSLM"><img src="https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/660753127_18582571144027991_1679867352455146710_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NzkyOTcxOTAyMjg4NzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=eQazKvI4pTwQ7kNvwE6UhCR&_nc_oc=AdolWYFzeOxy19MHqrLU75jZAE8rHtGJMynHgjmGsZMK28W8QnGJ0l3l4EbYzCyetZQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Tus1Ik6PZme362wNecZeaw&_nc_ss=7a32e&oh=00_Af3vVOOZ2zRTEn6MVZ11ec4tGFpCmiEDqxHfMirnceEHbA&oe=69D72188" width="350" style="border-radius: 12px;" alt="Threads Image"></a>
+<a href="https://threads.net/@ogata2104/post/DWtpZYWiSLM"><img src="https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/660753127_18582571144027991_1679867352455146710_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NzkyOTcxOTAyMjg4NzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=eQazKvI4pTwQ7kNvwHrJEBp&_nc_oc=Adq2rcUg8e8oXCVKPUjo3RDTzHG2Gtey_coiUlkaS3os1vQlLbV4o2w7UvzrMJ4l270&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_gid=cWZHAW0Px3jon19u46cJkQ&_nc_ss=7a32e&oh=00_Af2vecVYJQ85Ek-A1QOVDSH3WGZmgSjkwvmgCPX7jshvqA&oe=69D72188" width="350" style="border-radius: 12px;" alt="Threads Image"></a>
 
 *2026-04-04 14:32*
 <!-- THREADS_END -->
