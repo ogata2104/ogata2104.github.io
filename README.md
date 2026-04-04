@@ -6,6 +6,7 @@
 <a href="https://threads.net/@ogata2104/post/DWtpZYWiSLM"><img src="https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/660753127_18582571144027991_1679867352455146710_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NzkyOTcxOTAyMjg4NzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=eQazKvI4pTwQ7kNvwHZFs2h&_nc_oc=Adpo1YndL9dPmDgDOSLkkYGEOOu4iannVtNzTKb2hxniBLB4BMdmp-eyyx5GkVUx2IU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=geNNB-k4vQs0vxQWHgMm9w&_nc_ss=7a32e&oh=00_Af3CvXnjTc_IlLW0i9Zg0SY6mdXbLCasRwr05KfUE-x6IQ&oe=69D6E948" width="300" alt="Threads Image"></a>
 <!-- THREADS_END -->
 <br>
+
 ---
 
 <!-- SPOTIFY_START -->
@@ -44,6 +45,7 @@
 
 <!-- SPOTIFY_END -->
 <br>
+
 ---
 
 [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](https://www.instagram.com/ogata2104)
