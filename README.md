@@ -3,6 +3,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><b>Sabotage</b></a> / Beastie Boys<br><br>
+
 <a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><img src="https://i.scdn.co/image/ab67616d0000b273340fcccf617adc22da4d5b21" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><b>人誑し / ひとたらし</b></a> / Keisuke Kuwata<br><br>
 
 <a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><img src="https://i.scdn.co/image/ab67616d0000b273d88971061b322e0d48cf840d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><b>GREAT PRETENDER</b></a> / Kasabian<br><br>
@@ -30,8 +32,6 @@
 <a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><img src="https://i.scdn.co/image/ab67616d0000b2731d9a8caa24ecaa5374ecf824" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"><b>Reputation (feat. Dominic Fike)</b></a> / Ravyn Lenae<br><br>
 
 <a href="https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"><img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"><b>Funny Friends</b></a> / Thundercat<br><br>
-
-<a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><img src="https://i.scdn.co/image/ab67616d0000b27373b95b265f22cce733a38316" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"><b>ルミナス - Luminous</b></a> / AiNA THE END<br><br>
 
 
 <!-- SPOTIFY_END -->
