@@ -7,6 +7,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/6Uokm4HoUHUuZ1C1ZnJLO1"><img src="https://i.scdn.co/image/ab67616d0000b273a959d2301881ccd5851cad9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6Uokm4HoUHUuZ1C1ZnJLO1"><b>サ・カ・ナ</b></a> / リザード<br><br>
+
 <a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/59JdRw5MIbjXb0ISdLcJoP"><b>Robot Love - Live Version</b></a> / リザード<br><br>
 
 <a href="https://open.spotify.com/track/6ppLU88Rgnu1oEH8Td3AVQ"><img src="https://i.scdn.co/image/ab67616d0000b273220efbe7e4408a5377a90040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6ppLU88Rgnu1oEH8Td3AVQ"><b>ロマンチスト</b></a> / THE STALIN<br><br>
@@ -34,8 +36,6 @@
 <a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><img src="https://i.scdn.co/image/ab67616d0000b273810cb03145da6ce2e68e8548" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67"><b>Fashion</b></a> / IVE<br><br>
 
 <a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"><b>Africa</b></a> / TOTO<br><br>
-
-<a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><img src="https://i.scdn.co/image/ab67616d0000b2730052d1758ae8f1afc71b8ab8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3JWPApKcMzhQHkE0Waj9kK"><b>瞬発的に恋しよう</b></a> / Yasuyuki Okamura<br><br>
 
 
 <!-- SPOTIFY_END -->
