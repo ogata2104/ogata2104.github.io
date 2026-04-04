@@ -11,6 +11,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/3nJs7mR0osZ3T9P0ZBTKsS"><img src="https://i.scdn.co/image/ab67616d0000b273825c343c0f421f48e750770b" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3nJs7mR0osZ3T9P0ZBTKsS"><b>スーパーバタフライ</b></a> / S-KEN<br><br>
+
 <a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><img src="https://i.scdn.co/image/ab67616d0000b273220efbe7e4408a5377a90040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2wpDAcFZsD0wke4KNXMOuz"><b>アレルギーα</b></a> / THE STALIN<br><br>
 
 <a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><img src="https://i.scdn.co/image/ab67616d0000b273e6add0f45b623eb6798dcfeb" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4Hy3DB4cOihFdhvuG90HSU"><b>時折の色彩</b></a> / ZELDA<br><br>
@@ -38,8 +40,6 @@
 <a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5vkt7RFKpBNGWPrGJ5BTlN"><b>夙川パーキングナイト</b></a> / Senri Oe<br><br>
 
 <a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><img src="https://i.scdn.co/image/ab67616d0000b2734e9ab1d6bc3be9cc63ef1865" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3KbXP8XaIxRgShHcXNxImw"><b>TIGER CHAMPION</b></a> / Senri Oe<br><br>
-
-<a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"><b>Sabotage</b></a> / Beastie Boys<br><br>
 
 
 <!-- SPOTIFY_END -->
