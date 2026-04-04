@@ -9,6 +9,10 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><img src="https://i.scdn.co/image/ab67616d0000b273a959d2301881ccd5851cad9d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2lhqPMbhuS6e3WrRQ0w7Fu"><b>さよならプラスティック・エイジ</b></a> / リザード<br><br>
+
+<a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4tb5qFTrMpNnFBarUVvTRM"><b>オートマチック・フラ</b></a> / Friction<br><br>
+
 <a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><img src="https://i.scdn.co/image/ab67616d0000b2735791c2bfa9eedf704f09997f" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/16KJmu2KX0FqxFDKvjLu2P"><b>季節のおわり</b></a> / 暗黒大陸じゃがたら<br><br>
 
 <a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><img src="https://i.scdn.co/image/ab67616d0000b273782f2b77f185e2965d38e040" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4nZQkGJ4e1gJgSbS4dmZ3a"><b>A-GAS</b></a> / Friction<br><br>
@@ -34,10 +38,6 @@
 <a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><img src="https://i.scdn.co/image/ab67616d0000b273340fcccf617adc22da4d5b21" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu"><b>人誑し / ひとたらし</b></a> / Keisuke Kuwata<br><br>
 
 <a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><img src="https://i.scdn.co/image/ab67616d0000b273d88971061b322e0d48cf840d" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf"><b>GREAT PRETENDER</b></a> / Kasabian<br><br>
-
-<a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><img src="https://i.scdn.co/image/ab67616d0000b2737bbde623de6e3e32fabebed3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"><b>Shine Again</b></a> / Weezer<br><br>
-
-<a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><img src="https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"><b>Turnstile</b></a> / Dermot Kennedy<br><br>
 
 
 <!-- SPOTIFY_END -->
