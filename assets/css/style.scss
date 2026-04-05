@@ -1,0 +1,33 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* ヘッダー部分のカスタマイズ */
+.page-header {
+  /* アップロードした画像を指定 */
+  background-image: url("{{ site.baseurl }}/header_img/header.jpg");
+  
+  /* 画像の表示方法を調整 */
+  background-size: cover;      /* 枠いっぱいに広げる */
+  background-position: center;  /* 中央を基準にする */
+  background-repeat: no-repeat;
+  
+  /* 写真の上にある文字を読みやすくするためのオーバーレイ（暗幕） */
+  /* 0.4 の数字を大きくするとより暗く、小さくすると写真が明るくなります */
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: overlay;
+
+  /* 文字色を白に固定して視認性を確保 */
+  .project-name, .project-tagline {
+    color: #ffffff !important;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 文字に影をつけてよりクッキリ */
+  }
+
+  /* ボタンの色も写真に合わせて微調整したい場合はここ */
+  .btn {
+    border-color: rgba(255, 255, 255, 0.5);
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+  }
+}
