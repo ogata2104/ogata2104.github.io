@@ -1,10 +1,21 @@
 <!-- THREADS_START -->
 ### 🧵 Latest Threads
 
-<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #f6f8fa; max-width: 400px;">
-  <a href="https://threads.net/@ogata2104/post/DWvGAwyEZ2y" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 14px;">ちょっとテストさせてください。 （なんのテストかは秘密）</a><br>
-  <p style="font-size: 12px; color: #586069; margin-top: 8px; margin-bottom: 0;">2026-04-05 13:02</p>
+<div style="border: 1px solid #444; border-radius: 12px; padding: 16px; background-color: rgba(255,255,255,0.05); max-width: 400px; margin-bottom: 16px;">
+  <a href="https://threads.net/@ogata2104/post/DWvuTwSCa9p"><img src="https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/659011775_18582746770027991_8547753880428929769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg2ODUxNDI1ODcxOTk5MDIxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=CeLLL3afz28Q7kNvwF9pFwN&_nc_oc=AdpO_tz-GEMhw0geheVMisuDEdbehZT-rHZs4fuSyQhgp6-2cUC5eQgdV4A9fna-NrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=KvK0EZUsJrpwa50CyZU2lw&_nc_ss=7a32e&oh=00_Af28Veho1WroTty_TE4eEbZaUsIfmGDNAxCiAk2u71xEHA&oe=69D7FF3D" style="width: 100%; border-radius: 8px; margin-bottom: 12px;" alt="Threads Image"></a>
+  <a href="https://threads.net/@ogata2104/post/DWvuTwSCa9p" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">ここ最近、トイカメラに写っていたモノたち #トイカメラ #スリコトイカメラ  #スリコ  #3coins</a><br>
+  <p style="font-size: 12px; color: #8b949e; margin-top: 8px; margin-bottom: 0;">2026-04-05 18:54 (JST)</p>
 </div>
+<div style="border: 1px solid #444; border-radius: 12px; padding: 16px; background-color: rgba(255,255,255,0.05); max-width: 400px; margin-bottom: 16px;">
+  <a href="https://threads.net/@ogata2104/post/DWvGAwyEZ2y" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">ちょっとテストさせてください。 （なんのテストかは秘密）</a><br>
+  <p style="font-size: 12px; color: #8b949e; margin-top: 8px; margin-bottom: 0;">2026-04-05 13:02 (JST)</p>
+</div>
+<div style="border: 1px solid #444; border-radius: 12px; padding: 16px; background-color: rgba(255,255,255,0.05); max-width: 400px; margin-bottom: 16px;">
+  <a href="https://threads.net/@ogata2104/post/DWtpZYWiSLM"><img src="https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/660753127_18582571144027991_1679867352455146710_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NzkyOTcxOTAyMjg4NzYyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=eQazKvI4pTwQ7kNvwF1tDlb&_nc_oc=AdqTWnOsnucz_jdh2beTi2eZepfecez5a4cv7hURqsTEVtZstIxccnrAiDyCiV5QUF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=KvK0EZUsJrpwa50CyZU2lw&_nc_ss=7a32e&oh=00_Af06JPNWx-cl8EgUxq-YhN31i8ShHm4Q26RL05X73G5ZAg&oe=69D80288" style="width: 100%; border-radius: 8px; margin-bottom: 12px;" alt="Threads Image"></a>
+  <a href="https://threads.net/@ogata2104/post/DWtpZYWiSLM" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-size: 14px;">前から気になっていた2本がUPLINK吉祥寺でいい感じの接続（？）だったので、久々に2本ハシゴ。 発券してから気づいたんだけど、どちらも同じ劇場の同じ座席、さら... [continue]</a><br>
+  <p style="font-size: 12px; color: #8b949e; margin-top: 8px; margin-bottom: 0;">2026-04-04 23:32 (JST)</p>
+</div>
+
 <!-- THREADS_END -->
 <br>
 
