@@ -2,6 +2,3 @@ theme: jekyll-theme-cayman
 title: ogata2104's Ordinary World
 description: This will be my campsite.
 favicon: /favicon.ico
-header_pages:
-  - title: My Header
-    image: /header_img/header.jpg
