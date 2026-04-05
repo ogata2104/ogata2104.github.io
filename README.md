@@ -96,15 +96,15 @@
 <div style="display: flex; gap: 10px; align-items: center;">
 
   <a href="https://www.instagram.com/ogata2104" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-&logo=Instagram&logoColor=%23E4405F" alt="Instagram" height="32">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=%23E4405F" alt="Instagram" height="32">
   </a>
 
   <a href="https://www.facebook.com/ogata2104" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-&logo=Facebook&logoColor=%231877F2" alt="Facebook" height="32">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2.svg?style=social&logo=Facebook&logoColor=%231877F2" alt="Facebook" height="32">
   </a>
 
   <a href="https://www.linkedin.com/in/ogata2104/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-&logo=LinkedIn&logoColor=%230077B5" alt="LinkedIn" height="32">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=social&logo=LinkedIn&logoColor=%230077B5" alt="LinkedIn" height="32">
   </a>
 
 </div>
