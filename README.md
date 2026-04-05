@@ -104,7 +104,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/ogata2104/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=social&logo=LinkedIn&logoColor=%230077B5" alt="LinkedIn" height="32">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=%230077B5" alt="LinkedIn" height="32">
   </a>
 
 </div>
