@@ -15,6 +15,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273af12a920f8a4256f4fe32d35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">4:00A.M.</div>
+      <div style="font-size: 11px; color: #586069;">Taeko Onuki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27302dbd34372e6f84b2ec7e562" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">君は天然色</div>
@@ -75,13 +82,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wacha Wacha</div>
       <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/24CYAjd4OtBNNcLzOjaQLj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734936562df043e701127afe14" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Nyancomania Rock - Live Version</div>
-      <div style="font-size: 11px; color: #586069;">リザード</div>
     </a>
   </div>
 </div>
