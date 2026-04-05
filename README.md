@@ -13,6 +13,8 @@
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
+<a href="https://open.spotify.com/track/1Z1fN0KFNu0aG2EpbBVwvN"><img src="https://i.scdn.co/image/ab67616d0000b27387828495cbe9ed95f3fee3f6" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1Z1fN0KFNu0aG2EpbBVwvN"><b>プラスティック・ラブ</b></a> / Mariya Takeuchi<br><br>
+
 <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM"><img src="https://i.scdn.co/image/ab67616d0000b273d2d1c44c2767567810b051ef" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM"><b>真夜中のドア〜stay with me</b></a> / Miki Matsubara<br><br>
 
 <a href="https://open.spotify.com/track/3tLJ606Lf0qJEB14vXFJ2a"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/3tLJ606Lf0qJEB14vXFJ2a"><b>Next To You (Someday I'll Be)</b></a> / Wilson Phillips<br><br>
@@ -20,8 +22,6 @@
 <a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><img src="https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><b>Cherry Bomb</b></a> / The Runaways<br><br>
 
 <a href="https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77"><b>Impulsive</b></a> / Wilson Phillips<br><br>
-
-<a href="https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"><img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; max-width: 300px; height: 150px; object-fit: cover; border-radius: 12px;"></a><br><a href="https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"><b>Release Me</b></a> / Wilson Phillips<br><br>
 
 
 <!-- SPOTIFY_END -->
