@@ -1,8 +1,10 @@
 <!-- THREADS_START -->
 ### 🧵 Latest Threads
-[ちょっとテストさせてください。 （なんのテストかは秘密）](https://threads.net/@ogata2104/post/DWvGAwyEZ2y)
 
-*2026-04-05 04:02*
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #f6f8fa; max-width: 400px;">
+  <a href="https://threads.net/@ogata2104/post/DWvGAwyEZ2y" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 14px;">ちょっとテストさせてください。 （なんのテストかは秘密）</a><br>
+  <p style="font-size: 12px; color: #586069; margin-top: 8px; margin-bottom: 0;">2026-04-05 04:02</p>
+</div>
 <!-- THREADS_END -->
 <br>
 
