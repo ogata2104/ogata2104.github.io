@@ -96,15 +96,15 @@
 <div style="display: flex; gap: 15px; align-items: center;">
 
   <a href="https://www.instagram.com/ogata2104" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/%23E4405F" alt="Instagram" height="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">
   </a>
 
   <a href="https://www.facebook.com/ogata2104" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/%231877F2" alt="Facebook" height="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/ogata2104/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/%230077B5" alt="LinkedIn" height="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
   </a>
 
 </div>
