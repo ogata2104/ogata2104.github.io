@@ -33,6 +33,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ordinary World</div>
+      <div style="font-size: 11px; color: #586069;">Duran Duran</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Impulsive</div>
@@ -93,13 +100,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27387828495cbe9ed95f3fee3f6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">プラスティック・ラブ</div>
       <div style="font-size: 11px; color: #586069;">Mariya Takeuchi</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d2d1c44c2767567810b051ef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">真夜中のドア〜stay with me</div>
-      <div style="font-size: 11px; color: #586069;">Miki Matsubara</div>
     </a>
   </div>
 </div>
