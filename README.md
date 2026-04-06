@@ -32,6 +32,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4i06mRZuqg31xNuDvs4Lsd" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27348c551e14b553c3a63264d37" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Magic (Remastered 2022)</div>
+      <div style="font-size: 11px; color: #586069;">Olivia Newton-John</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Foolish Heart</div>
@@ -106,13 +113,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Keep Forgettin' (Every Time You're Near)</div>
       <div style="font-size: 11px; color: #586069;">Michael McDonald</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d254ca497999ae980a5a38c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cool Cat - Remastered 2011</div>
-      <div style="font-size: 11px; color: #586069;">Queen</div>
     </a>
   </div>
 </div>
