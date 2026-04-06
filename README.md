@@ -34,6 +34,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ebf2JEFwffZURH7IclI4c" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734cffb6a80f25fe0da30afb21" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">LOVE IS PSYCHEDELIC - FULL SPOKEN MIX</div>
+      <div style="font-size: 11px; color: #586069;">FPM</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7zdWwwUhsoYOJXxa01lmjt" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27359e7af0118bebf980870a8d0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Atrium Plants</div>
+      <div style="font-size: 11px; color: #586069;">パソコン音楽クラブ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7cp5ZEuJLZxRlHGeNzX3Ta" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b9d45e7c2916dfc58bb23ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Why Not?</div>
@@ -101,20 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273780ce9efd84759a464ec042d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Believe Again - 2015 Remaster</div>
       <div style="font-size: 11px; color: #586069;">浅香 唯</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1w3DHDI26nX4j8Nv4BE2pk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27391c5f87b8e8d9d78a2527f06" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">AXIA ~かなしいことり~</div>
-      <div style="font-size: 11px; color: #586069;">Yuki Saito</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1IKN3RK1FhWSKfz6DdLmkK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273baabb98eecd8a6fe3a8e5c84" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">吐息でネット</div>
-      <div style="font-size: 11px; color: #586069;">Yoko Minamino</div>
     </a>
   </div>
 </div>
