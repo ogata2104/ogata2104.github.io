@@ -47,6 +47,7 @@
   </div>
 </div>
 <!-- THREADS_END -->
+[more](https://www.threads.net/@ogata2104)
 <br>
 
 ---
