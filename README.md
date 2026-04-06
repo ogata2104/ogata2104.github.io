@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273229278d76e65060cbce7f1c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">He's so Shy</div>
+      <div style="font-size: 11px; color: #586069;">The Pointer Sisters</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735a5a012f4063c464eab6aec3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breezin'</div>
+      <div style="font-size: 11px; color: #586069;">George Benson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peg</div>
@@ -100,20 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Right</div>
       <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a24b3ee04c00abe01423e654" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Never Gonna Let You Go</div>
-      <div style="font-size: 11px; color: #586069;">Sérgio Mendes</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lowdown (2023 Remaster)</div>
-      <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
     </a>
   </div>
 </div>
