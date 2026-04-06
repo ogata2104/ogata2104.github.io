@@ -34,6 +34,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/55FkT2OOL8Hm1b7ch1Xa9l" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a0182cacc71be785ef2f206" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">色・ホワイトブレンド</div>
+      <div style="font-size: 11px; color: #586069;">中山美穂</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/48xmeRtNViFzlFSeboVeVX" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a1ffa239ca705fe2d66c89e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Stardust Memory</div>
+      <div style="font-size: 11px; color: #586069;">Kyoko Koizumi</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2ZGBEx3cyGwDP1dT2xr5pf" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f8ff5f58d0021d5acfc222d7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">十戒(1984)</div>
@@ -101,20 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273229278d76e65060cbce7f1c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">He's so Shy</div>
       <div style="font-size: 11px; color: #586069;">The Pointer Sisters</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735a5a012f4063c464eab6aec3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breezin'</div>
-      <div style="font-size: 11px; color: #586069;">George Benson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peg</div>
-      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
     </a>
   </div>
 </div>
