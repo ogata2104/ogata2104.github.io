@@ -34,6 +34,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6ecXZdsvfOQjjQcVNs4WkN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eac88ac915ee10d79d9961c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">天国のキッス</div>
+      <div style="font-size: 11px; color: #586069;">Seiko Matsuda</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27353e06a8c1f173d587c480f3a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We're in This Love Together</div>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27369c9183efed4fe011115f737" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Too Hot</div>
       <div style="font-size: 11px; color: #586069;">Kool & The Gang</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273feb84247f5e8728c8034e457" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heart to Heart</div>
-      <div style="font-size: 11px; color: #586069;">Kenny Loggins</div>
     </a>
   </div>
 </div>
