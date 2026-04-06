@@ -34,6 +34,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1izVhcdO4MhAwasyl9Y0yQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273378ef7ff9e5324e6b0b66603" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BEAUTIFUL DAYS</div>
+      <div style="font-size: 11px; color: #586069;">FPM</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3GdyivtJ8JRezCsZ5hSVeb" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fa75ceb3885d022f53c28d2f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Higher than the Sun〔FPM contact MIX〕</div>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f8ff5f58d0021d5acfc222d7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">十戒(1984)</div>
       <div style="font-size: 11px; color: #586069;">Akina Nakamori</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6ecXZdsvfOQjjQcVNs4WkN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eac88ac915ee10d79d9961c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">天国のキッス</div>
-      <div style="font-size: 11px; color: #586069;">Seiko Matsuda</div>
     </a>
   </div>
 </div>
