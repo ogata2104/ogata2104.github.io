@@ -33,6 +33,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peg</div>
+      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27369c9183efed4fe011115f737" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Too Hot</div>
+      <div style="font-size: 11px; color: #586069;">Kool & The Gang</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273feb84247f5e8728c8034e457" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heart to Heart</div>
+      <div style="font-size: 11px; color: #586069;">Kenny Loggins</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733b727f9b4af79eaa9f95c659" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So Into You</div>
@@ -93,27 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lowdown (2023 Remaster)</div>
       <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4i06mRZuqg31xNuDvs4Lsd" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27348c551e14b553c3a63264d37" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Magic (Remastered 2022)</div>
-      <div style="font-size: 11px; color: #586069;">Olivia Newton-John</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Foolish Heart</div>
-      <div style="font-size: 11px; color: #586069;">Steve Perry</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hey Nineteen</div>
-      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
     </a>
   </div>
 </div>
