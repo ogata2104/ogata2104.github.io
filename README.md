@@ -34,6 +34,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3uBuBPPHoMVQp2GFCAGbDP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3fc61d2bba6b57b80607c5e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">淋しい熱帯魚</div>
+      <div style="font-size: 11px; color: #586069;">Wink</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/68CzxegzVs4E6wlHPnMvcw" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273780ce9efd84759a464ec042d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Believe Again - 2015 Remaster</div>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27389ec4b314cae875a077bee78" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JoJo</div>
       <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0zw5bUUdOxVLBGMsb0SuBh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ff92f2df596033a0ef2b199" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FM</div>
-      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
     </a>
   </div>
 </div>
