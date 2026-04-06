@@ -33,6 +33,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e21a289d04d5f3d623807bee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Will Keep Us Together</div>
+      <div style="font-size: 11px; color: #586069;">Captain & Tennille</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">She's Gone</div>
@@ -107,13 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27325e144abecb6f12ee4dca756" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">How Much I Feel</div>
       <div style="font-size: 11px; color: #586069;">Ambrosia</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Girl Is Mine (with Paul McCartney)</div>
-      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
     </a>
   </div>
 </div>
