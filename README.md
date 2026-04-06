@@ -32,6 +32,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d254ca497999ae980a5a38c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cool Cat - Remastered 2011</div>
+      <div style="font-size: 11px; color: #586069;">Queen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27306fcef1522850ea2c72173ec" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Steal Away</div>
+      <div style="font-size: 11px; color: #586069;">Robbie Dupree</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sailing</div>
@@ -99,20 +113,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ride Like the Wind</div>
       <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Just the Two of Us (feat. Bill Withers) - Edit</div>
-      <div style="font-size: 11px; color: #586069;">Grover Washington, Jr.</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What a Fool Believes</div>
-      <div style="font-size: 11px; color: #586069;">The Doobie Brothers</div>
     </a>
   </div>
 </div>
