@@ -34,6 +34,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3GdyivtJ8JRezCsZ5hSVeb" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa75ceb3885d022f53c28d2f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Higher than the Sun〔FPM contact MIX〕</div>
+      <div style="font-size: 11px; color: #586069;">Cymbals</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5W9JRqticqZb7yiBjyeffK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27359e7af0118bebf980870a8d0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Exhibition</div>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273eac88ac915ee10d79d9961c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">天国のキッス</div>
       <div style="font-size: 11px; color: #586069;">Seiko Matsuda</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27353e06a8c1f173d587c480f3a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We're in This Love Together</div>
-      <div style="font-size: 11px; color: #586069;">Al Jarreau</div>
     </a>
   </div>
 </div>
