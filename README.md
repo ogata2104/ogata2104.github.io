@@ -32,6 +32,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Keep Forgettin' (Every Time You're Near)</div>
+      <div style="font-size: 11px; color: #586069;">Michael McDonald</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273d254ca497999ae980a5a38c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cool Cat - Remastered 2011</div>
@@ -106,13 +113,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Come Back</div>
       <div style="font-size: 11px; color: #586069;">Player</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ride Like the Wind</div>
-      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
     </a>
   </div>
 </div>
