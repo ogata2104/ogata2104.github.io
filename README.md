@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6VW8nqz1998HuFrWIwhItN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273959f011a7ae9ad76a81d81c8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Think</div>
+      <div style="font-size: 11px; color: #586069;">Senamara</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5srUbzGWEKf9xL020OOOuh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fcc84f37ae91a1ebac1fba85" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Late Show</div>
+      <div style="font-size: 11px; color: #586069;">Book Of Love</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6aVW6J80WJLIAXOTTK3HDZ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739e462a0dc44b5888b88a71bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Calypso - Radio edit</div>
@@ -100,20 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27330b723a1d7f18aa85078a660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Super Freak</div>
       <div style="font-size: 11px; color: #586069;">Hugo Vinici</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1KSbAxocNelGOFZ6ZMLUBL" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27320be44cba2effe45efe78321" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Robotic Matriarch</div>
-      <div style="font-size: 11px; color: #586069;">2 Mello</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3tGpAu3KrK84waetix6Ifb" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273246ab414484a7c5d0552a706" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ocean Sounds</div>
-      <div style="font-size: 11px; color: #586069;">Corraema</div>
     </a>
   </div>
 </div>
