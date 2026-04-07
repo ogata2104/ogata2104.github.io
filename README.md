@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/72aZIbc6cN9zdkKamDowGT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f9cccdb1469e8fa299d07ca1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">涙のクラウン</div>
+      <div style="font-size: 11px; color: #586069;">EPO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">土曜の夜はパラダイス</div>
+      <div style="font-size: 11px; color: #586069;">EPO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DOWN TOWN</div>
@@ -99,20 +113,6 @@
     <a href="https://open.spotify.com/track/7cp5ZEuJLZxRlHGeNzX3Ta" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b9d45e7c2916dfc58bb23ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Why Not?</div>
-      <div style="font-size: 11px; color: #586069;">FPM</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0H9oIb6VrOQ1zFnrqIhmXB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9d45e7c2916dfc58bb23ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Reaching for the Stars</div>
-      <div style="font-size: 11px; color: #586069;">FPM</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1iUyON0O2gRY9bj4rRWQdj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734cffb6a80f25fe0da30afb21" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">CITY LIGHTS</div>
       <div style="font-size: 11px; color: #586069;">FPM</div>
     </a>
   </div>
