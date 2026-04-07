@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3YWZ9NtsYEZc4YTOsNyVZV" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dad34dd1a4b9bf550fe09fcf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gecko Imaginarium Museum</div>
+      <div style="font-size: 11px; color: #586069;">Daniel White</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0H5mj8Sp5LVYozJLECsJvT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336eee7b2e1eb6e793673c725" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tokyo After Rain</div>
+      <div style="font-size: 11px; color: #586069;">Noah and Neoh</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5j50p9A1tLrbF66eQ9YskP" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27319737292edcb7dacfa70ab19" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lakeside</div>
@@ -100,20 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273eebd7ea9e50e6b3b73ee8a27" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">By My Side</div>
       <div style="font-size: 11px; color: #586069;">Freddy The Mee</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2bRCJYVOpqdas5Kr0UqPXL" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27331e710cf20219bc4256e2f75" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sleep Walker</div>
-      <div style="font-size: 11px; color: #586069;">Rycuzar</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1Mj1vd9nTmtjQxhkTetwSc" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305ac1d1a7ef76630ebe60727" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DANCING QUEEN</div>
-      <div style="font-size: 11px; color: #586069;">RADICAL TV</div>
     </a>
   </div>
 </div>
