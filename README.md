@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5RvitPf56ctyRnYsRn6x8u" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273151a2a145d707cc39be5e1e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bull</div>
+      <div style="font-size: 11px; color: #586069;">Yenena</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5BYhX7IWVeI3dg1YJngHAG" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27330b723a1d7f18aa85078a660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Super Freak</div>
+      <div style="font-size: 11px; color: #586069;">Hugo Vinici</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1KSbAxocNelGOFZ6ZMLUBL" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27320be44cba2effe45efe78321" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Robotic Matriarch</div>
@@ -100,20 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27310ba927912bf4b3a7fc8cd72" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">土曜日は大キライ</div>
       <div style="font-size: 11px; color: #586069;">Yumi Matsutoya</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/72aZIbc6cN9zdkKamDowGT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9cccdb1469e8fa299d07ca1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">涙のクラウン</div>
-      <div style="font-size: 11px; color: #586069;">EPO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">土曜の夜はパラダイス</div>
-      <div style="font-size: 11px; color: #586069;">EPO</div>
     </a>
   </div>
 </div>
