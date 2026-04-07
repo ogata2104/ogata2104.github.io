@@ -33,6 +33,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273214f0bd9dc1ed0c65ae81760" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Raspberry Beret</div>
+      <div style="font-size: 11px; color: #586069;">Prince</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e2829416e5011fb749cc3fde" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Purple Rain - 7" Single Edit; 2017 Remaster</div>
@@ -106,13 +113,6 @@
     <a href="https://open.spotify.com/track/2XuQtzZySv1CXMtwAr88BN" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273d9bcbe359e41c184627383fd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Steppin' Out - Costes reedit</div>
-      <div style="font-size: 11px; color: #586069;">FPM</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1izVhcdO4MhAwasyl9Y0yQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273378ef7ff9e5324e6b0b66603" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BEAUTIFUL DAYS</div>
       <div style="font-size: 11px; color: #586069;">FPM</div>
     </a>
   </div>
