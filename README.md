@@ -33,6 +33,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1KSbAxocNelGOFZ6ZMLUBL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27320be44cba2effe45efe78321" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Robotic Matriarch</div>
+      <div style="font-size: 11px; color: #586069;">2 Mello</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3tGpAu3KrK84waetix6Ifb" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273246ab414484a7c5d0552a706" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ocean Sounds</div>
+      <div style="font-size: 11px; color: #586069;">Corraema</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5lRHMFQjOArBj04HwxbdwN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e748e94e97a1db9ff87cf437" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Astral</div>
+      <div style="font-size: 11px; color: #586069;">Thetes</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/03xzXcj9YjzSiworLyQKja" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273eebd7ea9e50e6b3b73ee8a27" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">By My Side</div>
@@ -93,27 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">土曜の夜はパラダイス</div>
       <div style="font-size: 11px; color: #586069;">EPO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DOWN TOWN</div>
-      <div style="font-size: 11px; color: #586069;">EPO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273214f0bd9dc1ed0c65ae81760" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Raspberry Beret</div>
-      <div style="font-size: 11px; color: #586069;">Prince</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2829416e5011fb749cc3fde" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Purple Rain - 7" Single Edit; 2017 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Prince</div>
     </a>
   </div>
 </div>
