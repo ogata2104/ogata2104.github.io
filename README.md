@@ -33,6 +33,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/720LZsDJdKc8o5nYFWhwP9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362148ddf8b4498dcb493e553" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blessing</div>
+      <div style="font-size: 11px; color: #586069;">Iusen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6VW8nqz1998HuFrWIwhItN" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273959f011a7ae9ad76a81d81c8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Think</div>
@@ -107,13 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273151a2a145d707cc39be5e1e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bull</div>
       <div style="font-size: 11px; color: #586069;">Yenena</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5BYhX7IWVeI3dg1YJngHAG" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330b723a1d7f18aa85078a660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Super Freak</div>
-      <div style="font-size: 11px; color: #586069;">Hugo Vinici</div>
     </a>
   </div>
 </div>
