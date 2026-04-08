@@ -34,8 +34,15 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3AtKrxKsnaog8HDBgnAcKj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27349761fbe14c8317849dcf8d3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">fanfare - Re-ver.</div>
+      <div style="font-size: 11px; color: #586069;">chotokkyu</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4ctsvkvxsJXFYOzBWDgk5t" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ef8b88f078afc81b88adb983" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfa104ca188a316c3070e8a0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">C'est la vie</div>
       <div style="font-size: 11px; color: #586069;">chotokkyu</div>
     </a>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736ad6c93a4e7182ae96c70164" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BELIEVE IN LOVE</div>
       <div style="font-size: 11px; color: #586069;">LINDBERG</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0DLev8AfKjxwVGjp8QRhtB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739e753ed8c33d5f6c6d4d1b1c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Indian Reservation - Remastered</div>
-      <div style="font-size: 11px; color: #586069;">Alain Bergier</div>
     </a>
   </div>
 </div>
