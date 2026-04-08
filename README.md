@@ -33,6 +33,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732f99de6e2bfd6d6aaec707eb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You're Only Lonely</div>
+      <div style="font-size: 11px; color: #586069;">JD Souther</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1ANmX8emjTaiR5BPeswuNi" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One On One</div>
+      <div style="font-size: 11px; color: #586069;">Daryl Hall & John Oates</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">This Time I'm In It For Love</div>
@@ -100,20 +114,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2734863ca88d686e792df23052a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Anxiety</div>
       <div style="font-size: 11px; color: #586069;">Indra Sandinirwan</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/45j3GFRCL9barNjNgduxtk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303e2a1891593da9116871b6d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Elephant & Castle</div>
-      <div style="font-size: 11px; color: #586069;">Chills Affair</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2Go8mD3lDsrTOXr7HQmZyr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735c48e3f3783dd793c9499ddc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stay All Night - TD Instrumental Edit</div>
-      <div style="font-size: 11px; color: #586069;">Shy Rose</div>
     </a>
   </div>
 </div>
