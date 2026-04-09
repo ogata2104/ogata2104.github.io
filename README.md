@@ -34,6 +34,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1RJ4vjgb8jz7BkFdnCbLa3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738731d71ccbf4cf033237cb3e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Talk</div>
+      <div style="font-size: 11px; color: #586069;">Larry Lee</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273feb84247f5e8728c8034e457" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heart to Heart</div>
+      <div style="font-size: 11px; color: #586069;">Kenny Loggins</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Who's Right, Who's Wrong</div>
+      <div style="font-size: 11px; color: #586069;">Pages</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0gePGOObymhT7oGCBm17EA" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273a745ed5fc5ce1249f44cf259" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Seeing You for the First Time</div>
@@ -94,27 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27349761fbe14c8317849dcf8d3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">fanfare - Re-ver.</div>
       <div style="font-size: 11px; color: #586069;">chotokkyu</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4ctsvkvxsJXFYOzBWDgk5t" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfa104ca188a316c3070e8a0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">C'est la vie</div>
-      <div style="font-size: 11px; color: #586069;">chotokkyu</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f99de6e2bfd6d6aaec707eb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You're Only Lonely</div>
-      <div style="font-size: 11px; color: #586069;">JD Souther</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1ANmX8emjTaiR5BPeswuNi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One On One</div>
-      <div style="font-size: 11px; color: #586069;">Daryl Hall & John Oates</div>
     </a>
   </div>
 </div>
