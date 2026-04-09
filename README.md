@@ -34,6 +34,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3STjByGTUmCTxfmWShd7p6" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8756811dde5d8b4335cf180" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Change Of Heart</div>
+      <div style="font-size: 11px; color: #586069;">Eric Carmen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3wiM6jj066wDeNaCnxKsRk" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f1272bef5a8111251198085d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wait for Me</div>
@@ -108,13 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f1e0a9adf8af83986b7005f4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ためいきロカビリー - カラオケ</div>
       <div style="font-size: 11px; color: #586069;">CTA カラオケ</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2G9eWzsXMhtIFepkY71FVd" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab130b136eca8fcd0d551066" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Never Gonna Let You Go</div>
-      <div style="font-size: 11px; color: #586069;">Sérgio Mendes</div>
     </a>
   </div>
 </div>
