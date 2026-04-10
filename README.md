@@ -34,87 +34,87 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peg</div>
-      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
+    <a href="https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d8459b9829624b46e10ec722" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ReTake</div>
+      <div style="font-size: 11px; color: #586069;">OSHIKIKEIGO</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738967130dc7e51bf36b29e071" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You're the Only Woman - You & I</div>
-      <div style="font-size: 11px; color: #586069;">Ambrosia</div>
+    <a href="https://open.spotify.com/track/0V92bmqEOM8kpQlj0e8G3h" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273590dd209ca2a460096580f31" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">今この胸に滾るのは</div>
+      <div style="font-size: 11px; color: #586069;">Ai Higuchi</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6a3cnqlJpbmMQyxq2oMLoO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ff352ffb3e88f76a67e871c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Making Love Out of Nothing at All</div>
-      <div style="font-size: 11px; color: #586069;">Air Supply</div>
+    <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">章</div>
+      <div style="font-size: 11px; color: #586069;">Ryokuoushoku Shakai</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ef255849780dca4ccb991cbe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hard to Say I'm Sorry / Get Away - 2006 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Chicago</div>
+    <a href="https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735fde2d42b852042e4fdeaf76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ラストダンスあなたと</div>
+      <div style="font-size: 11px; color: #586069;">MISIA</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Arthur's Theme (Best That You Can Do)</div>
-      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
+    <a href="https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eab1bec356bd63c1541c674b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Where We Go</div>
+      <div style="font-size: 11px; color: #586069;">Marshmello</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5YTv8a8syGYReFDqKbqw11" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730569f5ae5407bf2bcfc43c6a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What It's Gonna Be</div>
-      <div style="font-size: 11px; color: #586069;">Les Dudek</div>
+    <a href="https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e474ab50fe85ba109b2bc6d6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Echo</div>
+      <div style="font-size: 11px; color: #586069;">The Chainsmokers</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5yWz65P2g7KWfBvKEq6JX6" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b682cd653bcba61cc313be0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Angel Heart</div>
-      <div style="font-size: 11px; color: #586069;">Jimmy Webb</div>
+    <a href="https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f2fc120a68d66c9b81eab654" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Awake Tonight</div>
+      <div style="font-size: 11px; color: #586069;">AFROJACK</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4SHGsWd9bBFTgIoeSdIQJ4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27351d98ff76da5ca1f82c8cbc8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Musician (It's Not an Easy Life)</div>
-      <div style="font-size: 11px; color: #586069;">Silver</div>
+    <a href="https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bac06662c5ebdd77fca91c25" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Beauty Pageant</div>
+      <div style="font-size: 11px; color: #586069;">Holly Humberstone</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3ukAkL7aLVrDf7x2XiUkNZ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc7b65dbd52148c716a9a76b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Her Town Too (with J.D. Souther)</div>
-      <div style="font-size: 11px; color: #586069;">James Taylor</div>
+    <a href="https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Gotta Try</div>
+      <div style="font-size: 11px; color: #586069;">Michael McDonald</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273697c76eeeb7de3fab4d55ea9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Just Wanna Stop</div>
-      <div style="font-size: 11px; color: #586069;">Gino Vannelli</div>
+    <a href="https://open.spotify.com/track/2UMtROJnUiXmB66uZkbG3d" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c59c06f362ac590ebef1fbab" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Madwoman</div>
+      <div style="font-size: 11px; color: #586069;">Laufey</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/37v7n21u0WBVBOfKhwK0kg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b682cd653bcba61cc313be0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Want You Anymore</div>
-      <div style="font-size: 11px; color: #586069;">Bill Champlin</div>
+    <a href="https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737836809a2028ffcbc20a7f9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Going Shopping</div>
+      <div style="font-size: 11px; color: #586069;">The Strokes</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lowdown (2023 Remaster)</div>
-      <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
+    <a href="https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c7d08a0cca98d73eb52c1ca7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fright</div>
+      <div style="font-size: 11px; color: #586069;">Creepy Nuts</div>
     </a>
   </div>
 </div>
