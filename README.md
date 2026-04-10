@@ -34,87 +34,87 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4YIrHGvbKLDa9yMfrjokWR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739af6877db078d664044bdd7f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Forever Young</div>
-      <div style="font-size: 11px; color: #586069;">スチャダラパーからのライムスター</div>
+    <a href="https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273af12a920f8a4256f4fe32d35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">4:00A.M.</div>
+      <div style="font-size: 11px; color: #586069;">Taeko Onuki</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7vF8479FDwqTSzy1QbfAlf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734d1c68890dafaff3c27816ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">B-BOYブンガク</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I'm Coming Out</div>
+      <div style="font-size: 11px; color: #586069;">Diana Ross</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7HR1hjphFpSQuVngJ18bc8" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">GET UP AND DANCE</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Give Me the Night</div>
+      <div style="font-size: 11px; color: #586069;">George Benson</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3HVY8hWXikwYvPnNDxRE5z" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273115aa08b4fee3c046743f336" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ぶぎ・ばく・べいびー</div>
-      <div style="font-size: 11px; color: #586069;">Ozawa Kenji</div>
+    <a href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738967130dc7e51bf36b29e071" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Biggest Part of Me</div>
+      <div style="font-size: 11px; color: #586069;">Ambrosia</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2XGtLt41q2Y7KRl3bKXjh1" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273066d85aa442ada3487f5cce3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ネバやんとスチャやん</div>
-      <div style="font-size: 11px; color: #586069;">スチャとネバヤン</div>
+    <a href="https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736dd11d164947e94d2c3bf381" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">NUNCA MUDA?</div>
+      <div style="font-size: 11px; color: #586069;">Scythermane</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6ZF81Gyd6PvhHLMSZ9CRkH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734d1c68890dafaff3c27816ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">サマージャム'95</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731ecd6877bf9fc8eaf5be76e6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNK UNIVERSO</div>
+      <div style="font-size: 11px; color: #586069;">Irokz</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5o6L2m6fgpVvTWwhvCuMhE" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">今夜はブギー・バック smooth rap</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df0f6e3723200ebc4b7fc6dc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">TAKA LA DENTRO</div>
+      <div style="font-size: 11px; color: #586069;">SEKIMANE</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362042e0fcab7671a4b0d1674" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pointless 5</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734c4e90204c765f7e25c7d743" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNK DO BOUNCE (Slowed)</div>
+      <div style="font-size: 11px; color: #586069;">Ariis</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4uQmjXNh6JS9y3d50DlKYn" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27348bb9c39a945db3f05dbc22b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">あけおめ！コンビニ ウーマート (Eテレ 0655/2355)</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    <a href="https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731656bb3ac07d7d88df2f7136" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">LOS VOLTAJE</div>
+      <div style="font-size: 11px; color: #586069;">Sayfalse</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273993df19f9526abdb6e1917f7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sick Of Love</div>
-      <div style="font-size: 11px; color: #586069;">Lykke Li</div>
+    <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2d1c44c2767567810b051ef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">真夜中のドア〜stay with me</div>
+      <div style="font-size: 11px; color: #586069;">Miki Matsubara</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d8459b9829624b46e10ec722" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ReTake</div>
-      <div style="font-size: 11px; color: #586069;">OSHIKIKEIGO</div>
+    <a href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Leave Me Now</div>
+      <div style="font-size: 11px; color: #586069;">Chicago</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0V92bmqEOM8kpQlj0e8G3h" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273590dd209ca2a460096580f31" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">今この胸に滾るのは</div>
-      <div style="font-size: 11px; color: #586069;">Ai Higuchi</div>
+    <a href="https://open.spotify.com/track/4czNORk5MjW5WOn98bki32" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a47127db3e929f64a2795666" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Night Long (All Night) - Single Version</div>
+      <div style="font-size: 11px; color: #586069;">Lionel Richie</div>
     </a>
   </div>
 </div>
