@@ -34,6 +34,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362042e0fcab7671a4b0d1674" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pointless 5</div>
+      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6aVEo08W0Tt1k3sR2xEXfW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Down to be wrong</div>
+      <div style="font-size: 11px; color: #586069;">HAIM</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">superstitious</div>
+      <div style="font-size: 11px; color: #586069;">no na</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346776a173428d38f2726515e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ARIGATTO</div>
+      <div style="font-size: 11px; color: #586069;">m-flo</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Time Out Of Mind</div>
+      <div style="font-size: 11px; color: #586069;">Steely Dan</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373b95b265f22cce733a38316" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ルミナス - Luminous</div>
+      <div style="font-size: 11px; color: #586069;">AiNA THE END</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/159McZhEruSeogLJqnTxMp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27309626051fff7098acfafefd0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DEAR BREEZE</div>
+      <div style="font-size: 11px; color: #586069;">S. Kiyotaka & Omega Tribe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273af12a920f8a4256f4fe32d35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">4:00A.M.</div>
@@ -66,55 +115,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736dd11d164947e94d2c3bf381" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">NUNCA MUDA?</div>
       <div style="font-size: 11px; color: #586069;">Scythermane</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731ecd6877bf9fc8eaf5be76e6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNK UNIVERSO</div>
-      <div style="font-size: 11px; color: #586069;">Irokz</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df0f6e3723200ebc4b7fc6dc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">TAKA LA DENTRO</div>
-      <div style="font-size: 11px; color: #586069;">SEKIMANE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734c4e90204c765f7e25c7d743" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNK DO BOUNCE (Slowed)</div>
-      <div style="font-size: 11px; color: #586069;">Ariis</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731656bb3ac07d7d88df2f7136" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">LOS VOLTAJE</div>
-      <div style="font-size: 11px; color: #586069;">Sayfalse</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d2d1c44c2767567810b051ef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">真夜中のドア〜stay with me</div>
-      <div style="font-size: 11px; color: #586069;">Miki Matsubara</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Leave Me Now</div>
-      <div style="font-size: 11px; color: #586069;">Chicago</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4czNORk5MjW5WOn98bki32" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a47127db3e929f64a2795666" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Night Long (All Night) - Single Version</div>
-      <div style="font-size: 11px; color: #586069;">Lionel Richie</div>
     </a>
   </div>
 </div>
