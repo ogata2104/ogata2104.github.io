@@ -12,6 +12,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rosanna</div>
+      <div style="font-size: 11px; color: #586069;">TOTO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27375fc0e961ba2028df4787966" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Top Of The World</div>
+      <div style="font-size: 11px; color: #586069;">Carpenters</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Right</div>
+      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273744ce5f9db16330eb4027f26" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Express Yourself</div>
+      <div style="font-size: 11px; color: #586069;">Madonna</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ai4nNqAjjOcNDNKQGmgOo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wacha Wacha</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smooth Criminal - 2012 Remaster</div>
@@ -58,41 +93,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peg</div>
       <div style="font-size: 11px; color: #586069;">Steely Dan</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4Wfxqaksd2ohhZM57DagnA" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344599207c878187b9b357770" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Just the Two of Us (feat. Bill Withers) - Edit</div>
-      <div style="font-size: 11px; color: #586069;">Grover Washington, Jr.</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Poison</div>
-      <div style="font-size: 11px; color: #586069;">Bell Biv DeVoe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hot Stuff - 12" Version</div>
-      <div style="font-size: 11px; color: #586069;">Donna Summer</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362042e0fcab7671a4b0d1674" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pointless 5</div>
-      <div style="font-size: 11px; color: #586069;">SCHA DARA PARR</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6aVEo08W0Tt1k3sR2xEXfW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Down to be wrong</div>
-      <div style="font-size: 11px; color: #586069;">HAIM</div>
     </a>
   </div>
 </div>
