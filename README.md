@@ -12,6 +12,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/45CtICgiBRA7qOEkxWkKOb" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273876a7ca70013e819af9ae5f7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Feel The Music In My Soul</div>
+      <div style="font-size: 11px; color: #586069;">John Gold</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/49DOGR4oq7AwdfvGRMMUHx" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">マッド・ピエロ</div>
+      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1yJy3YuWGUUE9f1JTlOQSW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734d0d45b1e7226a03e48175df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Move Your Body</div>
+      <div style="font-size: 11px; color: #586069;">John Gold</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/30vR4E5kauBtAAXNEsYVxL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736953607b8f10c4a217c81a60" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Feel The Groove</div>
+      <div style="font-size: 11px; color: #586069;">John Gold</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/48G5F1grXiE0HsRmJ0FhiM" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732593fdf93be69b38e4b1c10d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">AWAKENING</div>
@@ -65,34 +93,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2737db75d51d8069c86127e8354" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Girl U Want - 2009 Remaster</div>
       <div style="font-size: 11px; color: #586069;">DEVO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Summer Whisper</div>
-      <div style="font-size: 11px; color: #586069;">Anri</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2829416e5011fb749cc3fde" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Purple Rain - 7" Single Edit; 2017 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Prince</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735a5a012f4063c464eab6aec3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breezin'</div>
-      <div style="font-size: 11px; color: #586069;">George Benson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735423456a99eaf4218893d20a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Set Adrift On Memory Bliss</div>
-      <div style="font-size: 11px; color: #586069;">P.M. Dawn</div>
     </a>
   </div>
 </div>
