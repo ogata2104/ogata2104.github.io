@@ -12,6 +12,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1du7Za39n3M0FLdrIWUzsh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ca573a0450689d82a0e191c6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pill</div>
+      <div style="font-size: 11px; color: #586069;">BOOM BOOM SATELLITES</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3Uo8OWvVinNCgHfqEEnFQO" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273274ceabba30df8aeba185618" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">大人の言うことを聞け</div>
@@ -86,13 +93,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2731ecd6877bf9fc8eaf5be76e6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNK UNIVERSO</div>
       <div style="font-size: 11px; color: #586069;">Irokz</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gonna Fly Now - Theme From "Rocky"</div>
-      <div style="font-size: 11px; color: #586069;">Bill Conti</div>
     </a>
   </div>
 </div>
