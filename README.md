@@ -12,6 +12,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b2439940aedd2801c9ae2e5b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hooked On A Feeling</div>
+      <div style="font-size: 11px; color: #586069;">Blue Swede</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2hGD8cPmTl2SUuqtBDN8mB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27323b19bce2c58bd19d0340f26" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Chegando</div>
+      <div style="font-size: 11px; color: #586069;">Nauti Siren</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Chunky</div>
@@ -79,20 +93,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2739e5ea475ca69a8b1de79b537" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When I'm Alone</div>
       <div style="font-size: 11px; color: #586069;">Peter White</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Mde8gAkmwqBi6ONnpZCTb" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273986947da26f97fe23fca0403" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Kiss to Build a Dream On</div>
-      <div style="font-size: 11px; color: #586069;">Steve Tyrell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0eEGXFmVEvnlq91tS2zlKO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731ff1388df5a4c5461e54c311" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Shadow of Your Smile</div>
-      <div style="font-size: 11px; color: #586069;">Mark Winkler</div>
     </a>
   </div>
 </div>
