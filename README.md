@@ -3,6 +3,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4eyHf2QbZZKoPWpZBYc0KX" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731a8f7bae255d4501a4483ae6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Glossier</div>
+      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4XJzFxYZZCpwdXDtk2T79t" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273cd4bd18e267d31d84960b6d5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mug Time</div>
@@ -84,6 +91,55 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27338655310bb0320ddcfde10cd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">How to Forget</div>
       <div style="font-size: 11px; color: #586069;">Deb Never</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a693d30bc46474b26eecfbd2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Miss You</div>
+      <div style="font-size: 11px; color: #586069;">Ms Ray</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737bbd0d0b594ca7cef339b35e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Song for the Messenger</div>
+      <div style="font-size: 11px; color: #586069;">Chanel Beads</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d723083e3375634f0c72cbe7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Turnaround</div>
+      <div style="font-size: 11px; color: #586069;">54 Ultra</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1s16yZ0cyNAJJT1iUVMwam" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735dc21edad42644ab81612d9a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Want It</div>
+      <div style="font-size: 11px; color: #586069;">Niteflyte</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stop Loving You</div>
+      <div style="font-size: 11px; color: #586069;">TOTO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3atFenDUQPPMkkqlULaibT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738ed60f92e0d1144f534629e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kilakila</div>
+      <div style="font-size: 11px; color: #586069;">Hokulele</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6dGFXngaaQfXEdDplc9Mds" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317259fa13b927aa70585b2af" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Bossa</div>
+      <div style="font-size: 11px; color: #586069;">Stephen Jones/Bryan Kessler</div>
     </a>
   </div>
 </div>
