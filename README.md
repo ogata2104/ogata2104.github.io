@@ -1,12 +1,3 @@
-<!-- THREADS_START -->
-### 🧵 Latest Threads
-投稿が見つかりませんでした
-<!-- THREADS_END -->
-[more](https://www.threads.net/@ogata2104)
-<br>
-
----
-
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
