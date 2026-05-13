@@ -3,6 +3,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hold On</div>
+      <div style="font-size: 11px; color: #586069;">Wilson Phillips</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">superstitious</div>
@@ -133,13 +140,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732593fdf93be69b38e4b1c10d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SAY GOODBYE</div>
       <div style="font-size: 11px; color: #586069;">Hiroshi Sato</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6EAzbfHehVpwdWwVOlueeW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2444242b64a4b8952ea53b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Good Night Waltz</div>
-      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
     </a>
   </div>
 </div>
