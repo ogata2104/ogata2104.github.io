@@ -3,6 +3,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Summer Whisper</div>
+      <div style="font-size: 11px; color: #586069;">Anri</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1EM9pvygHqQm03as6sxLg9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273261a68dc46f0a55def87008f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">旅路</div>
+      <div style="font-size: 11px; color: #586069;">Fujii Kaze</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1rUwkDtpGOztJ0j0GUnl0I" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">う、ふ、ふ、ふ、</div>
+      <div style="font-size: 11px; color: #586069;">EPO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6l3b8BOBDRDM1ne9fpOygz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Until We Rich</div>
+      <div style="font-size: 11px; color: #586069;">Ice Cube</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2DSNIvTRktCIner1zDTt0B" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273850f0f608c3961a9d5138853" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">strangers</div>
@@ -112,34 +140,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Come Back</div>
       <div style="font-size: 11px; color: #586069;">Player</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3999c2a5bcf80a80742d8ea" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Was Really Gone - 2018 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Makoto Matsushita</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You and I</div>
-      <div style="font-size: 11px; color: #586069;">Earth, Wind & Fire</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7KYzARBusZhyZ6jygZDmVr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SHYNESS BOY</div>
-      <div style="font-size: 11px; color: #586069;">Anri</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d4f00c1ac90480a02fa6b73f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sing It Back - Boris Musical Mix - Edit</div>
-      <div style="font-size: 11px; color: #586069;">Moloko</div>
     </a>
   </div>
 </div>
