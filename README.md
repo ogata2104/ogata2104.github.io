@@ -3,6 +3,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Call Me Maybe</div>
+      <div style="font-size: 11px; color: #586069;">Carly Rae Jepsen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4aajmlOm3lXgokR5egCfKi" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb604617781ce9b2e38414a1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Material Girl</div>
+      <div style="font-size: 11px; color: #586069;">Madonna</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">WHERE IS MY HUSBAND!</div>
+      <div style="font-size: 11px; color: #586069;">RAYE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rock with You - Single Version</div>
@@ -84,27 +105,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273516fd315df754749be4e058a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">superstitious</div>
       <div style="font-size: 11px; color: #586069;">no na</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731b1d0eacb6ed6dd89d349388" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We'll Be Together Again</div>
-      <div style="font-size: 11px; color: #586069;">McCoy Tyner</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3vRPKnsTELC8KQqIjJ1xrj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273afd55efb9edf988bd1944724" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moonlight over Paris</div>
-      <div style="font-size: 11px; color: #586069;">Central Park Quartet</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/30o7jEVheG4rAiKzGBR025" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273053328c6abcd45533381f824" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stairway To The Stars</div>
-      <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
     </a>
   </div>
 </div>
