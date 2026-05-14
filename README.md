@@ -3,13 +3,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dcf4a03e78322eca87e3f3b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whoops</div>
-      <div style="font-size: 11px; color: #586069;">Meghan Trainor</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6qp5jNzMOJ5wgYccW2QmQa" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2730deb1fed24b338a3c95cf40e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Keeper</div>
@@ -35,6 +28,13 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e26ed70ca976a8e72ac89dab" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heroine</div>
       <div style="font-size: 11px; color: #586069;">Maroon 5</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dcf4a03e78322eca87e3f3b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whoops</div>
+      <div style="font-size: 11px; color: #586069;">Meghan Trainor</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
@@ -112,34 +112,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273a33adca48946bf0f1c92fb90" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fortitude</div>
       <div style="font-size: 11px; color: #586069;">Central Park Quartet</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0rIawclFlmdDdDmmoSFmwg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc59e65ab3a52730ed5a208f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hymn</div>
-      <div style="font-size: 11px; color: #586069;">The Nordic Collective</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1PLSitxhgKGicvJNvDEnPC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ab074a2d9d3249be06399b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Nearness Of You</div>
-      <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1soTBKwIxVAm1TrRfk5u25" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e8e84eddd96ff9aadc014aa3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So It Is</div>
-      <div style="font-size: 11px; color: #586069;">Preservation Hall Jazz Band</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4l8X8QVyAE2smREFZg8fkm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273116e527e4355a09dbcad8ea7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">That Rainy Day</div>
-      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
     </a>
   </div>
 </div>
