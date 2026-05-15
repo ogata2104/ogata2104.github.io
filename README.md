@@ -3,6 +3,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5QfvTteQsYV4VLX3bTbKBZ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab6742d3000053b708f6b2f97e2b1b8a1edc2368" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">シブヤ 午後6時</div>
+      <div style="font-size: 11px; color: #586069;">ICEx</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/50HJ2xsReLjwmX64tqOBWl" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739bdbc381b8b9e812cecca76f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">facetime (4g LTE)</div>
@@ -125,13 +132,6 @@
     <a href="https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738c5c1fbe02ae4e67b14bc2a1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Slippin' (feat. Meghan Trainor)</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lil Boo Thang</div>
       <div style="font-size: 11px; color: #586069;">Paul Russell</div>
     </a>
   </div>
