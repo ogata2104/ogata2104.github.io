@@ -3,6 +3,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/50HJ2xsReLjwmX64tqOBWl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739bdbc381b8b9e812cecca76f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">facetime (4g LTE)</div>
+      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735306ed42ae78f317258c51bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Power Of Love</div>
+      <div style="font-size: 11px; color: #586069;">Huey Lewis & The News</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Livin' On A Prayer</div>
@@ -119,13 +133,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27352c9bb0bd6c3f839d7c57519" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lil Boo Thang</div>
       <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lay All Your Love On Me</div>
-      <div style="font-size: 11px; color: #586069;">ABBA</div>
     </a>
   </div>
 </div>
