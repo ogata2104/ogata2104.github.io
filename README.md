@@ -3,6 +3,69 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7a2QqaqDLfw1VayPQJv5bM" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c62eeb77bf21e4ec39a5e4b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Crystal Veil</div>
+      <div style="font-size: 11px; color: #586069;">Dawn Huntley</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5Vj4eHzcf4SJNtOx2SxWxw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731fb1655c7ebec963808be2f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Soiree</div>
+      <div style="font-size: 11px; color: #586069;">Bill Evans</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6iNAi2ZU92mLYWOQpEPNYC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c411314133d7137e9f95ff87" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whisky on the Rocks</div>
+      <div style="font-size: 11px; color: #586069;">The Flax</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/22QZgO76vLjdpZY161iF72" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Ride Home</div>
+      <div style="font-size: 11px; color: #586069;">Magnus Ringblom Quartet</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0DTbUP7Wol0DDDMCj8m9qU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e58615df0c7bf81ef40f3efb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Maybe Tonight</div>
+      <div style="font-size: 11px; color: #586069;">Earl Klugh</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7uowTyXcJwVaAA1Fbg90P4" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b252ec7413541aca4ed899d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ain't That So</div>
+      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ddbaa8fffd0b719300fd6a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pitanga</div>
+      <div style="font-size: 11px; color: #586069;">Flamentone</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4GNeJeD7DAIFWQkZG8h3uK" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab6742d3000053b731a8d01ac72eb3b2f2bb1204" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It's Alright</div>
+      <div style="font-size: 11px; color: #586069;">Fujii Kaze</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4CuAuMaUlCGQFbVEqD0HmF" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273671868443b4b81ab65ffd134" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">運命の1ページ</div>
+      <div style="font-size: 11px; color: #586069;">ICEx</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5QfvTteQsYV4VLX3bTbKBZ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab6742d3000053b708f6b2f97e2b1b8a1edc2368" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">シブヤ 午後6時</div>
@@ -69,69 +132,6 @@
     <a href="https://open.spotify.com/track/0B5yDBuQ79bMj2mh4UoUV7" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739d4b8615248f1eec2de0395a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Party @</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2gHCOI1hxbrbXGvm8nAYzC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344e653f5530a83209169d875" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">be that too</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4eyHf2QbZZKoPWpZBYc0KX" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731a8f7bae255d4501a4483ae6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Glossier</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3nUQ7JkB1GR4NUY4Lbhziy" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733203a92d3da3cf67f07b377e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">High Maintenance</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d4b8615248f1eec2de0395a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">400 Cities</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273002e2bc14fd7d107cc90324c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Say Cheese</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3ddbb9ca4b9b2ce353a8039" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ms. Poli Sci</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735afb76f174278d4920844291" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Touristy Places</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2NC7mdWPhs0kMGJo5FaEUm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734bb9cdf7a8bcbe8c81c20d57" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Confessions</div>
-      <div style="font-size: 11px; color: #586069;">Flo Rida</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c5c1fbe02ae4e67b14bc2a1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Slippin' (feat. Meghan Trainor)</div>
       <div style="font-size: 11px; color: #586069;">Paul Russell</div>
     </a>
   </div>
