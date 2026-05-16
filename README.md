@@ -3,6 +3,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Modern Love - 2018 Remaster</div>
+      <div style="font-size: 11px; color: #586069;">David Bowie</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0lNudhCTfcGBQVvSO22g4r" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733805e2773ac94ed04642edc7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Just Like Heaven</div>
+      <div style="font-size: 11px; color: #586069;">The Cure</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2735be5f807f6f0549e198a44b4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Radio Ga Ga - Remastered 2011</div>
@@ -119,27 +133,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273b252ec7413541aca4ed899d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ain't That So</div>
       <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7ddbaa8fffd0b719300fd6a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pitanga</div>
-      <div style="font-size: 11px; color: #586069;">Flamentone</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4GNeJeD7DAIFWQkZG8h3uK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab6742d3000053b731a8d01ac72eb3b2f2bb1204" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It's Alright</div>
-      <div style="font-size: 11px; color: #586069;">Fujii Kaze</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4CuAuMaUlCGQFbVEqD0HmF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273671868443b4b81ab65ffd134" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">運命の1ページ</div>
-      <div style="font-size: 11px; color: #586069;">ICEx</div>
     </a>
   </div>
 </div>
