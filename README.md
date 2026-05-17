@@ -27,6 +27,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a949f897c38a9f170fa2814" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tonight</div>
+      <div style="font-size: 11px; color: #586069;">girlsweetvoiced</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d254ca497999ae980a5a38c5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cool Cat - Remastered 2011</div>
+      <div style="font-size: 11px; color: #586069;">Queen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So Easy (To Fall In Love)</div>
@@ -150,20 +164,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No Sleep Till Brooklyn</div>
       <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Foolosophy - Radio Edit</div>
-      <div style="font-size: 11px; color: #586069;">Jamiroquai</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4N3IOS0sHBSy51BREPj4yi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e04046bbc11638687201e821" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Eat Pray Love</div>
-      <div style="font-size: 11px; color: #586069;">Paul Russell</div>
     </a>
   </div>
 </div>
