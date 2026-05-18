@@ -27,6 +27,69 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf9f93c4ac78eb6b2ce4ebe0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Softly, as in a Morning Sunrise</div>
+      <div style="font-size: 11px; color: #586069;">Sal Ritter</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3N0F30Qbt1efVL36LuUnBk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388be88e23808ce75010e48c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Trace of Light</div>
+      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/73x7O1J1fpVScfxzZPt4d9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c52dd4a526b54a48a688f17a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">For the Moment</div>
+      <div style="font-size: 11px; color: #586069;">Almost Here</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2lEQG1h0oDbydovy9mwBFQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Making Sure</div>
+      <div style="font-size: 11px; color: #586069;">Magnus Ringblom Quartet</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/58PhpJN44b3KoxDO7tGzVd" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7eeb851ddda0cc256ed3ebe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Les Pipos</div>
+      <div style="font-size: 11px; color: #586069;">Ennio Máno</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0scISiurKsMhKTpIXpOomV" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27330fe87befdaa4807dca71033" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Touch the Sky</div>
+      <div style="font-size: 11px; color: #586069;">Miami Funk Machine</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4SVJkfw1Z69PHunArOJf8F" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f1683c60f269ce3938e47a4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Peace Of Mind (with John McLaughlin)</div>
+      <div style="font-size: 11px; color: #586069;">Shakti</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739e64aba4d30064c518797fa1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wake Up Call</div>
+      <div style="font-size: 11px; color: #586069;">Mel Blue</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/52xLt4y56VoVpGKtC8qKqn" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab6742d3000053b759bd82097f1e7db3a7271ed1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free to Love</div>
+      <div style="font-size: 11px; color: #586069;">Duran Duran</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738a949f897c38a9f170fa2814" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tonight</div>
@@ -101,69 +164,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732480d31f9d098e9d920da34c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SkyReach</div>
       <div style="font-size: 11px; color: #586069;">Poreniacs</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7ddbaa8fffd0b719300fd6a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pitanga</div>
-      <div style="font-size: 11px; color: #586069;">Flamentone</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4qbeWAPamREv0agluZINgO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732de6b35b562ea429684b1ffe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dreamy Dusk</div>
-      <div style="font-size: 11px; color: #586069;">Affinity Chronicles</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7a2QqaqDLfw1VayPQJv5bM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739c62eeb77bf21e4ec39a5e4b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Crystal Veil</div>
-      <div style="font-size: 11px; color: #586069;">Dawn Huntley</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Remember Summer Days</div>
-      <div style="font-size: 11px; color: #586069;">Anri</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6dGFXngaaQfXEdDplc9Mds" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317259fa13b927aa70585b2af" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Bossa</div>
-      <div style="font-size: 11px; color: #586069;">Stephen Jones/Bryan Kessler</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3atFenDUQPPMkkqlULaibT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ed60f92e0d1144f534629e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kilakila</div>
-      <div style="font-size: 11px; color: #586069;">Hokulele</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2abpnYAutXfyefxObZxIj1" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fcb34af803e3487def87b185" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hine Hine(マオリの子守歌）</div>
-      <div style="font-size: 11px; color: #586069;">KALANI</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/30BkVtZ1E0D9yyNPeuuGpp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db9829b406a1d2a24674dc38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hawai'i Nei</div>
-      <div style="font-size: 11px; color: #586069;">Hula Mana</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No Sleep Till Brooklyn</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
     </a>
   </div>
 </div>
