@@ -27,6 +27,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0UnsEQ4nWWKukknLtTCZJf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273834563c388cf5a8d4a8bea4f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BELIEVE</div>
+      <div style="font-size: 11px; color: #586069;">Misato Watanabe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/23YUIIc0YKa8y2PQIpsoXg" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732126f65e7af65399b24555df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">10 years</div>
@@ -143,13 +150,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273b7eeb851ddda0cc256ed3ebe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Les Pipos</div>
       <div style="font-size: 11px; color: #586069;">Ennio Máno</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0scISiurKsMhKTpIXpOomV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330fe87befdaa4807dca71033" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Touch the Sky</div>
-      <div style="font-size: 11px; color: #586069;">Miami Funk Machine</div>
     </a>
   </div>
 </div>
