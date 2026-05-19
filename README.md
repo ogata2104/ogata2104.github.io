@@ -27,6 +27,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2qiF6goG8pSgDfVjZuEv3Z" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273195cd0bdba25213d8774fdf0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Shift</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7qK12rqOTxO8nVp4ndnB21" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d4f4c34d77d247d37ad037fc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">WHITE (Intro)</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273edf20900eff12e7a1e29c72d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Split Second</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6bFyMFrqDHVTSjF4KaNuQl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef51f2138f89a5e367fb07d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Khaotic Khaen</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">悲しみがとまらない　I CAN'T STOP THE LONELINESS</div>
@@ -135,34 +163,6 @@
     <a href="https://open.spotify.com/track/5UbTiIugKhPdrb7Yhe4sAH" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Check One, Check Two</div>
-      <div style="font-size: 11px; color: #586069;">Around The Way</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4XOdIdL6nKPBpl0lLqFjGr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Let It Be You</div>
-      <div style="font-size: 11px; color: #586069;">Around The Way</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6BmSxW3rXKV7h2xmaequz4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Groove Me</div>
-      <div style="font-size: 11px; color: #586069;">Around The Way</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4tbiQDK9seOjdvPKhbonSx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">September</div>
-      <div style="font-size: 11px; color: #586069;">Around The Way</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6ZvTqBPdKw6ynie8oiDT7I" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Really into You</div>
       <div style="font-size: 11px; color: #586069;">Around The Way</div>
     </a>
   </div>
