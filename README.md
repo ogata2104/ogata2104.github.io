@@ -27,6 +27,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4GNysqmh4CGSwQ59Mi76dQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fb0319133d96463f5c4aad97" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Vector 2</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4oO78kuUwMyYL4zulw0Bwx" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273550cc64a25112913321b985f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Take No Prisoners - Original Mix</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4lv5Yae9K5yeQ1iUTEzcGt" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27300c9fc08e76bf11d4ed5f16f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Autopilot</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7BRbE9PvxiHV5nflB9p7Yh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a253af3ac35a68ad2cf3542f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moved by Air</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Syntax Error - html_ remix</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2Ox6bT5ewLsBKOpJO57NPT" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273dc0c8528a690a34a9773eb65" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Giant Killer</div>
@@ -129,41 +164,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Poison</div>
       <div style="font-size: 11px; color: #586069;">Bell Biv DeVoe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5OZvJJPsuG54DnmAXAm1Fc" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ff89c11422e5cb823dc1b125" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Just The Way It Is - Original Mix</div>
-      <div style="font-size: 11px; color: #586069;">Lisa Moorish</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27382dfae6e3a8f7a387f741ed1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Around The Way Girl</div>
-      <div style="font-size: 11px; color: #586069;">LL COOL J</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733706a2459c0f1d9a155493dd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Need U Back</div>
-      <div style="font-size: 11px; color: #586069;">Fujii Kaze</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ce054b531bc886e762dc5d90" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Emotions</div>
-      <div style="font-size: 11px; color: #586069;">Mariah Carey</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/041ABl7CuQnTuBYmuzzsRm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730da0f1533e66b00e13a1613d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Like It</div>
-      <div style="font-size: 11px; color: #586069;">Jomanda</div>
     </a>
   </div>
 </div>
