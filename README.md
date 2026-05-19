@@ -27,6 +27,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4XOdIdL6nKPBpl0lLqFjGr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Let It Be You</div>
+      <div style="font-size: 11px; color: #586069;">Around The Way</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6BmSxW3rXKV7h2xmaequz4" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Groove Me</div>
+      <div style="font-size: 11px; color: #586069;">Around The Way</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4tbiQDK9seOjdvPKhbonSx" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">September</div>
+      <div style="font-size: 11px; color: #586069;">Around The Way</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6ZvTqBPdKw6ynie8oiDT7I" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Really into You</div>
@@ -115,27 +136,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273c411314133d7137e9f95ff87" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In the Spirit of Cannes</div>
       <div style="font-size: 11px; color: #586069;">The Flax</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1cbLlCiXXFGdKDCjs2aBGC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273114cb2782f4868f1cad1e45c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rainy Heart</div>
-      <div style="font-size: 11px; color: #586069;">Café titi</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27363bb428b110cfe7154231155" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It's Your Smile</div>
-      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf9f93c4ac78eb6b2ce4ebe0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Softly, as in a Morning Sunrise</div>
-      <div style="font-size: 11px; color: #586069;">Sal Ritter</div>
     </a>
   </div>
 </div>
