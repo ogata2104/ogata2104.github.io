@@ -27,6 +27,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0fHs89NsOzrP6ODGSpXwop" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e16f6a88ec21090048ac9231" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Haze</div>
+      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737d2d24d8a6bf7578a140db55" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Pretenders</div>
+      <div style="font-size: 11px; color: #586069;">Tomoko Aran</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399c0ecaf5aca482a51acf628" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">街のドルフィン</div>
+      <div style="font-size: 11px; color: #586069;">Kingo Hamada</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1Myuv6YUjLyOownmZZWnxy" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a4120249788258d45bc99a79" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FANTASY</div>
+      <div style="font-size: 11px; color: #586069;">Meiko Nakahara</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4GNysqmh4CGSwQ59Mi76dQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fb0319133d96463f5c4aad97" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Vector 2</div>
@@ -136,34 +164,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ef51f2138f89a5e367fb07d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Khaotic Khaen</div>
       <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">悲しみがとまらない　I CAN'T STOP THE LONELINESS</div>
-      <div style="font-size: 11px; color: #586069;">Anri</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318c6750a7de879dbe57dc9b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fly-day Chinatown</div>
-      <div style="font-size: 11px; color: #586069;">Yasuha</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3HGE6Is63CrKHS9DZ26RIO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e44407586df5456493482202" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rub You The Right Way</div>
-      <div style="font-size: 11px; color: #586069;">Johnny Gill</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Poison</div>
-      <div style="font-size: 11px; color: #586069;">Bell Biv DeVoe</div>
     </a>
   </div>
 </div>
