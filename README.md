@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1XPXwFLP4nVpWdlaR2w6bH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386b363ec994f6e55729173d3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hazeny</div>
+      <div style="font-size: 11px; color: #586069;">Hany Shnoda Ferqet Masr</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3qaJBMgQkHYvg2kkJgzORN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314ed239cedb7c6a85d39e50b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">El Arwam</div>
+      <div style="font-size: 11px; color: #586069;">Eman El Bahr Darwish</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273621a8d6f350407499291eeaf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Liza... Liza</div>
+      <div style="font-size: 11px; color: #586069;">Elias Rahbani and His Orchestra</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4t200tBpwWgZjLwLopp3jV" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b2b71462e58157936d173bc7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Azize Diskotekte</div>
@@ -137,27 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273c6f698560abf68652576f561" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Chilltown Lounge Quartet - Mbira</div>
       <div style="font-size: 11px; color: #586069;">Chilltown Lounge Quartet</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738efa9764d0531514446b5e60" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Back To The Land</div>
-      <div style="font-size: 11px; color: #586069;">Lester Young</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739452dc94f297de347c7e1e7c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lo Arriesgo Todo</div>
-      <div style="font-size: 11px; color: #586069;">Bruno Mars</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5V7PUAfCy02UxXauMnN9T8" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273808c63c3f5d584ea63bc3a62" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Come Back (feat. Mayer Hawthorne)</div>
-      <div style="font-size: 11px; color: #586069;">Party Pupils</div>
     </a>
   </div>
 </div>
