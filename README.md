@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/30HKJAi50JJzWPt4sPHTB6" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Dancer - live</div>
+      <div style="font-size: 11px; color: #586069;">Arabesque</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6hqfJcRiOmeNUu4WKbOExj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731bd66d51ff6dc6eb4b529d0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Friday Night</div>
+      <div style="font-size: 11px; color: #586069;">Arabesque</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5cIi629DHDNgYx5MmyntO0" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ce372b493d53ce044b28cf15" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">On The Day's</div>
+      <div style="font-size: 11px; color: #586069;">Hamlet Minassian</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1XPXwFLP4nVpWdlaR2w6bH" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27386b363ec994f6e55729173d3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hazeny</div>
@@ -137,27 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732d5b8e183a7ba6d8c4eb9e76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Empty Streets</div>
       <div style="font-size: 11px; color: #586069;">Miles Hartfield</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e4281fd8469614fae4f74b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Floating In Space</div>
-      <div style="font-size: 11px; color: #586069;">Nicolello</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/63naQ5JhHRyzsG4eIFUjmL" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bc53994bfc227e8c38adffbd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Clear View</div>
-      <div style="font-size: 11px; color: #586069;">Velvet Swing Express</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2a51oI5hQNi0EnMuIatnHh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6f698560abf68652576f561" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Chilltown Lounge Quartet - Mbira</div>
-      <div style="font-size: 11px; color: #586069;">Chilltown Lounge Quartet</div>
     </a>
   </div>
 </div>
