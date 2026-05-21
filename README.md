@@ -27,6 +27,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6kuHKymX2yyHv5aBTIF8vw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a9c410668cbc72fbefbf2731" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What You Won't Do For Love</div>
+      <div style="font-size: 11px; color: #586069;">Kauai45</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5OufAiiOqbnuAUMuuEJtpn" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a233f12bc90674a35cf3a61" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dancing With You (Baby)</div>
+      <div style="font-size: 11px; color: #586069;">James Smith</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273973cd0eba9aa4d0ce3b08228" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Material Lover</div>
+      <div style="font-size: 11px; color: #586069;">SIENNA SPIRO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So Easy (To Fall In Love)</div>
+      <div style="font-size: 11px; color: #586069;">Olivia Dean</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f9bb2ddff6b9a31e043742cd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Caviar</div>
@@ -135,34 +163,6 @@
     <a href="https://open.spotify.com/track/4GNysqmh4CGSwQ59Mi76dQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fb0319133d96463f5c4aad97" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Vector 2</div>
-      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4oO78kuUwMyYL4zulw0Bwx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273550cc64a25112913321b985f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Take No Prisoners - Original Mix</div>
-      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4lv5Yae9K5yeQ1iUTEzcGt" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27300c9fc08e76bf11d4ed5f16f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Autopilot</div>
-      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7BRbE9PvxiHV5nflB9p7Yh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a253af3ac35a68ad2cf3542f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moved by Air</div>
-      <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6hRmU6tLd6t5l3f6bPd739" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ecf35cf83334b4e921ceba5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Syntax Error - html_ remix</div>
       <div style="font-size: 11px; color: #586069;">Ken Ishii</div>
     </a>
   </div>
