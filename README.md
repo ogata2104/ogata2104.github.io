@@ -28,6 +28,20 @@ title: "2104's Ordinary World"
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/30BkVtZ1E0D9yyNPeuuGpp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db9829b406a1d2a24674dc38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hawai'i Nei</div>
+      <div style="font-size: 11px; color: #586069;">Hula Mana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7s4Z8OvrK53tiWBRywIJaX" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fcb34af803e3487def87b185" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hush Little Baby</div>
+      <div style="font-size: 11px; color: #586069;">KALANI</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2GsDcQjs8D39lhyLoa9pHX" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2734190d0c9ea13c87ef32bea88" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sing to You (10th Anniversary)</div>
@@ -151,20 +165,6 @@ title: "2104's Ordinary World"
       <img src="https://i.scdn.co/image/ab67616d0000b27325af34fbdf4801099d934fbe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">i love me</div>
       <div style="font-size: 11px; color: #586069;">Joy Rhodes</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273951fbcfd4b08a3a19f158ab5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Seven Days in Sunny June</div>
-      <div style="font-size: 11px; color: #586069;">Jamiroquai</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4mh9X4JIq47s0EIdPctTLT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738cd8c740ba178041f2c1db2f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Feeling Good Today</div>
-      <div style="font-size: 11px; color: #586069;">IngaRose</div>
     </a>
   </div>
 </div>
