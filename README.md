@@ -1,4 +1,6 @@
-# Ordinary World
+---
+title: "2104's Ordinary World"
+---
 ### 🌐 Social Links
 
 <div style="display: flex; gap: 15px; align-items: center;">
