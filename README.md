@@ -1,7 +1,4 @@
----
-title: "2104's Ordinary World"
----
-
+# <span style="display:none;">2104's Ordinary World</span>
 ### 🌐 Social Links
 
 <div style="display: flex; gap: 15px; align-items: center;">
