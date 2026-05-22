@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7HctHeoIzKHxh1dBNW6QgO" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ピクニック・ラブ</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ThS2c9kpTCMmH87BHN9Ph" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Caballero - live</div>
+      <div style="font-size: 11px; color: #586069;">Arabesque</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0sewBNaOINuZYTUPxYbXnF" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab6742d3000053b7b12ed2ac47900dbe9c4b8776" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Letter to N.Y.</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/30HKJAi50JJzWPt4sPHTB6" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Dancer - live</div>
@@ -130,34 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ce86d53b3ee10aaf89c9d9c0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Night</div>
       <div style="font-size: 11px; color: #586069;">Maroon 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/22ydaAhu90qn4JHtOxKZXI" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273adb64d1c950e6cbc3fe65671" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Shine</div>
-      <div style="font-size: 11px; color: #586069;">Moonlight Giorgio</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a5858b71f8857f627f91ff28" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Saltburn</div>
-      <div style="font-size: 11px; color: #586069;">Solmera</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3skZzhIqtLNiwug8DBgOQr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e6d1a24852221cb28b62de72" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One Can Always Dream</div>
-      <div style="font-size: 11px; color: #586069;">RaFa Orchestra</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Z93MKflGmXXTkpO4kTAU7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d5b8e183a7ba6d8c4eb9e76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Empty Streets</div>
-      <div style="font-size: 11px; color: #586069;">Miles Hartfield</div>
     </a>
   </div>
 </div>
