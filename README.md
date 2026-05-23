@@ -1,4 +1,20 @@
 # <span style="display:none;">2104's Ordinary World</span>
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  const header = document.querySelector('.page-header');
+  if (!header) return;
+
+  const styles = [
+    'linear-gradient(120deg, #f5576c, #f093fb)', // パターン1
+    'linear-gradient(120deg, #5ee7df, #b490ca)', // パターン2
+    'linear-gradient(120deg, #c3cfe2, #c3cfe2)' // パターン3
+  ];
+
+  // ランダムに1つ選んで適用
+  const randomStyle = styles[Math.floor(Math.random() * styles.length)];
+  header.style.backgroundImage = randomStyle;
+});
+</script>
 ### 🌐 Social Links
 
 <div style="display: flex; gap: 15px; align-items: center;">
