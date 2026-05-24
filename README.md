@@ -1,6 +1,5 @@
 # <span style="display:none;">2104's Ordinary World</span>
 <style>
-  /* チラつき完全防止：最初のデフォルト背景をあらかじめ消しておきます */
   .page-header { background-image: none !important; }
 </style>
 
@@ -15,16 +14,13 @@ const changeHeaderBg = () => {
     'header3.jpg'
   ];
 
-  // ランダムに1つ選択
+
   const randomImage = images[Math.floor(Math.random() * images.length)];
-  
-  // 自分のサイトの画像フォルダへのパスを組み立てる
   const imageUrl = `url("https://ogata2104.github.io/header_img/${randomImage}")`;
   
   header.style.backgroundImage = imageUrl;
 };
 
-// 最速タイミングでの実行
 changeHeaderBg();
 
 const fastTimer = setInterval(() => {
