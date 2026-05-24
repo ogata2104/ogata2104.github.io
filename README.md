@@ -1,38 +1,4 @@
 # <span style="display:none;">2104's Ordinary World</span>
-<style>
-  .page-header { background-image: none !important; }
-</style>
-
-<script>
-const changeHeaderBg = () => {
-  const header = document.querySelector('.page-header');
-  if (!header) return;
-
-  const images = [
-    'header1.jpg',
-    'header2.jpg',
-    'header3.jpg'
-  ];
-
-
-  const randomImage = images[Math.floor(Math.random() * images.length)];
-  const imageUrl = `url("https://ogata2104.github.io/header_img/${randomImage}")`;
-  
-  header.style.backgroundImage = imageUrl;
-};
-
-changeHeaderBg();
-
-const fastTimer = setInterval(() => {
-  const header = document.querySelector('.page-header');
-  if (header) {
-    changeHeaderBg();
-    clearInterval(fastTimer);
-  }
-}, 1);
-
-window.addEventListener('DOMContentLoaded', changeHeaderBg);
-</script>
 ### 🌐 Social Links
 
 <div style="display: flex; gap: 15px; align-items: center;">
