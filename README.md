@@ -66,6 +66,41 @@ window.addEventListener('DOMContentLoaded', changeHeaderBg);
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3eLxgtsuBq2ReQGrxjlggH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">眠れない夜に</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/22tjzKa8lk477bUyUtUEOz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">雲のように</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1ErH7Wbvmt3dd5zEVNBpBM" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">素敵なベイビー</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/23x7wg6yXVLb0q2c2yCIj5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">双子の恋人</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7irqoF7bdPhPeNav1P2H1v" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">そして甘いキッス -Then He Kissed Me-</div>
+      <div style="font-size: 11px; color: #586069;">市井 由理</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/74W7UnZnkvTOvbBqPoRqWm" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732df333127c9d7bcabe64d778" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">レインボー・スキップ (joyholic mix)</div>
@@ -161,34 +196,6 @@ window.addEventListener('DOMContentLoaded', changeHeaderBg);
       <img src="https://i.scdn.co/image/ab67616d0000b273621a8d6f350407499291eeaf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Liza... Liza</div>
       <div style="font-size: 11px; color: #586069;">Elias Rahbani and His Orchestra</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4t200tBpwWgZjLwLopp3jV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b2b71462e58157936d173bc7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Azize Diskotekte</div>
-      <div style="font-size: 11px; color: #586069;">Osman İşmen</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3T1iWTQrXMCerEAJg7H067" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a77fd2a94face7f232018528" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Donia El Arkam</div>
-      <div style="font-size: 11px; color: #586069;">El Magmooaa</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734fcc73af058ab05eef1c42ff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gonoun El Disco</div>
-      <div style="font-size: 11px; color: #586069;">Four M</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/00WhiMVGI8UCxkiynYuHTQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732e24433898430f5aa0477b1f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sexy Music</div>
-      <div style="font-size: 11px; color: #586069;">The Nolans</div>
     </a>
   </div>
 </div>
