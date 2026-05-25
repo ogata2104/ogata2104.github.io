@@ -28,6 +28,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6K3ALmoInanI73uX3JGRSj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">マイカレー</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7ERDH2xZzxdzIB7DTxR2oU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ランドネ</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5l5vktmuhIpPsO6PYagsl1" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cheers!</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ハニーアンドループス</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2VGqBv3jUsCXCh0OvFhU3z" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">MORNING:GLORY</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5NPZeEskyo6y10eQ14iRUq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">それでも願ってしまうんだ</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2YvyTKtoGmb17NhPk0fvKv" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c6906bae23285cc2868e08a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">タイムマシーンにのって</div>
+      <div style="font-size: 11px; color: #586069;">PUNPEE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1cbLlCiXXFGdKDCjs2aBGC" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273114cb2782f4868f1cad1e45c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rainy Heart</div>
@@ -116,55 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273db34dc459bf1a0c7ddb1fb18" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">i feel so weightless</div>
       <div style="font-size: 11px; color: #586069;">pxlse.</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0LNIio6NZGx9joVVCIei30" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27320b4b25474f2d83096b6ff75" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">time stands still</div>
-      <div style="font-size: 11px; color: #586069;">cosluar</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2z69IXldUnDHYsEwoq0ZCE" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735dba24448786dcaff4e2357b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Postcards from Provence</div>
-      <div style="font-size: 11px; color: #586069;">James Quinn</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6krWc5pKFVyuHQCW9H9AIm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355d941c1d6a2f8a070093507" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">slow living (a quiet life)</div>
-      <div style="font-size: 11px; color: #586069;">Ophelia Wilde</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0XYUQTUT63iXZSqDzKssJM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb438151c3547b24bdf4ce3a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">to draw flowers</div>
-      <div style="font-size: 11px; color: #586069;">Noah Stone</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/25Q81wJ0xkQ7fBtlcFT58k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737055e14a0f98fc736a2c75f1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mending</div>
-      <div style="font-size: 11px; color: #586069;">时空储蓄罐</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3iSBUhK78kAhQF77zdrFRM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273890828be88eb05acf97310a3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">氤氲之森（钢琴版）</div>
-      <div style="font-size: 11px; color: #586069;">CMJ</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1xDTOcpdMhuSOnJGPcqv4U" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ec6b8c4506445a09df9a9c92" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Still Share the Same Sky</div>
-      <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
     </a>
   </div>
 </div>
