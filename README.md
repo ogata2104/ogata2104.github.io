@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7iEPB7qH6jNcMbN4yJnwVr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ライフコレオグラファー</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6K3ALmoInanI73uX3JGRSj" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">マイカレー</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Man I Need</div>
       <div style="font-size: 11px; color: #586069;">Olivia Dean</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0ZXoNTJgvUIXSDO7aBXlON" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db34dc459bf1a0c7ddb1fb18" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">i feel so weightless</div>
-      <div style="font-size: 11px; color: #586069;">pxlse.</div>
     </a>
   </div>
 </div>
