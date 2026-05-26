@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3ANBn4Yimw0vCqvGcIrNKN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0b2e31343acac4c9413ba2b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SHAMPOO</div>
+      <div style="font-size: 11px; color: #586069;">PUNPEE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1YuDWMOEULPQiFVjLTO5ku" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d9e9f60cc189900f57683a9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No Boys Allowed</div>
+      <div style="font-size: 11px; color: #586069;">me-mai</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7hQ2fwRHqTiqNaGVNad5qo" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FARDRAUT - Hiroshi Okubo Remix</div>
@@ -144,20 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273c988a71f0d19657eb33245e1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">さよなら人類 ～オリジナルヴァージョン～</div>
       <div style="font-size: 11px; color: #586069;">Tama</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3in2ZpBuj6kth2Cp06pNb7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737417eb53ead11bba53629074" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">陰獣</div>
-      <div style="font-size: 11px; color: #586069;">Ningen Isu</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5LtYX9DNBpJN9LjrjwHMTO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c33a6e310d3e9d8efa20b38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">エヴリデイ</div>
-      <div style="font-size: 11px; color: #586069;">Jitterin' Jinn</div>
     </a>
   </div>
 </div>
