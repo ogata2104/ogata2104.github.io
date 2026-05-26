@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3ULQrkS7HkG2biAg2csKPs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cbd64cc1858f89709dd2d9e6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">お江戸-O・EDO-</div>
+      <div style="font-size: 11px; color: #586069;">Kabukibu Rocks</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ハニーアンドループス</div>
+      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7iEPB7qH6jNcMbN4yJnwVr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ライフコレオグラファー</div>
@@ -52,13 +66,6 @@
     <a href="https://open.spotify.com/track/5l5vktmuhIpPsO6PYagsl1" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cheers!</div>
-      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ハニーアンドループス</div>
       <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
     </a>
   </div>
@@ -151,20 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273603a9c62278656125b6f5ec0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Measure</div>
       <div style="font-size: 11px; color: #586069;">Chelsea's Swing</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3TEXEafvSxA5mts14Ws2qF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c0e23b77ae0411f959d9899f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mandarin</div>
-      <div style="font-size: 11px; color: #586069;">Pancake Cult</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Man I Need</div>
-      <div style="font-size: 11px; color: #586069;">Olivia Dean</div>
     </a>
   </div>
 </div>
