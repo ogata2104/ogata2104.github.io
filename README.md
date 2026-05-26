@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0GiUPHBWnlYYwYLnUHs1fA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739632ddd9c24a5efb8feda967" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cocktails at Six</div>
+      <div style="font-size: 11px; color: #586069;">Chalalatas</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8996a3f97e80d9d700635c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Still Haven't Found What I'm Looking For - Remastered 2007</div>
+      <div style="font-size: 11px; color: #586069;">U2</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736cfc470251e23a7bb6a38d66" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tubthumping</div>
+      <div style="font-size: 11px; color: #586069;">Chumbawamba</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Uptown Girl</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DISTANT MEMORIES - AJURIKA Remix</div>
       <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4iHVC6k1DaXC0EtIha2PY2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">OVERTURE 1983 - Yuji Masubuchi Remix</div>
-      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7oOQ8f6rIoXQexPZIqQh8w" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e070076fd557e2ecb24158f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">MAPPY's LOVE SONG</div>
-      <div style="font-size: 11px; color: #586069;">ファミリーコンティニュー／MC8bit & DJ SHOGO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/56tVh2I6SoKGJTHxMpKVuf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27365e194ca0c2aff1867c96e32" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ニャロメのうた</div>
-      <div style="font-size: 11px; color: #586069;">宮尾すすむと日本の社長</div>
     </a>
   </div>
 </div>
