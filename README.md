@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed1e6f4480313f95ac380159" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Give It Up</div>
+      <div style="font-size: 11px; color: #586069;">KC & The Sunshine Band</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c7d7cdad0c2ffa5620129ee8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Karma Chameleon - Remastered 2002</div>
+      <div style="font-size: 11px; color: #586069;">Culture Club</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Faith - Remastered</div>
+      <div style="font-size: 11px; color: #586069;">George Michael</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Make My Dreams (Come True)</div>
+      <div style="font-size: 11px; color: #586069;">Daryl Hall & John Oates</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Walking On Sunshine</div>
@@ -137,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2731d6d9c369ba6634fd9be4c51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ディスカバリー</div>
       <div style="font-size: 11px; color: #586069;">Flying Kids</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4UaD8nS5s7qjAiA5Lkpnpx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a826ef57d61d248dcfa64d75" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">暗闇でキッス～Kiss in the darkness～</div>
-      <div style="font-size: 11px; color: #586069;">Flying Kids</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4uheJXohMGycxDH0qLfKyf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c33a6e310d3e9d8efa20b38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">にちようび</div>
-      <div style="font-size: 11px; color: #586069;">Jitterin' Jinn</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/07h39XENd96n74PoArgGKs" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273657182449098f0f1a7c00a76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">夏祭り</div>
-      <div style="font-size: 11px; color: #586069;">Jitterin' Jinn</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3v3DnRtn8W1NzyAK5P1xRU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c33a6e310d3e9d8efa20b38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">プレゼント</div>
-      <div style="font-size: 11px; color: #586069;">Jitterin' Jinn</div>
     </a>
   </div>
 </div>
