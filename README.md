@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wake Me Up Before You Go-Go</div>
+      <div style="font-size: 11px; color: #586069;">Wham!</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ed1e6f4480313f95ac380159" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Give It Up</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ee7ac45609d2d8a178f1da46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I DON'T MIND GETTING WET</div>
       <div style="font-size: 11px; color: #586069;">LITTLE CREATURES</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4RWKeismF5DgKFz8xdpkbY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731d6d9c369ba6634fd9be4c51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ディスカバリー</div>
-      <div style="font-size: 11px; color: #586069;">Flying Kids</div>
     </a>
   </div>
 </div>
