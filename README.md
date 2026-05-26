@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5uuIAOOtcpTYqrdKba51EF" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SUPER BAD XEVIOUS - Takeshi Nakatsuka Remix</div>
+      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3POFZmV3i8oq5dnT8s1eho" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DISTANT MEMORIES - AJURIKA Remix</div>
+      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4iHVC6k1DaXC0EtIha2PY2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">OVERTURE 1983 - Yuji Masubuchi Remix</div>
+      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7oOQ8f6rIoXQexPZIqQh8w" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e070076fd557e2ecb24158f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">MAPPY's LOVE SONG</div>
+      <div style="font-size: 11px; color: #586069;">ファミリーコンティニュー／MC8bit & DJ SHOGO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/56tVh2I6SoKGJTHxMpKVuf" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27365e194ca0c2aff1867c96e32" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ニャロメのうた</div>
@@ -130,34 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273d3911eb264d93cde41d6bd90" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">幸せであるように</div>
       <div style="font-size: 11px; color: #586069;">Flying Kids</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/21hNjAQlIMHhbupJkgnhsJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273844784e0ff6d0715c55ff48a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Before Coffee</div>
-      <div style="font-size: 11px; color: #586069;">Cocoa Stick</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3ULQrkS7HkG2biAg2csKPs" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cbd64cc1858f89709dd2d9e6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">お江戸-O・EDO-</div>
-      <div style="font-size: 11px; color: #586069;">Kabukibu Rocks</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ハニーアンドループス</div>
-      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7iEPB7qH6jNcMbN4yJnwVr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ライフコレオグラファー</div>
-      <div style="font-size: 11px; color: #586069;">Aki Toyosaki</div>
     </a>
   </div>
 </div>
