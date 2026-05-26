@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7hQ2fwRHqTiqNaGVNad5qo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FARDRAUT - Hiroshi Okubo Remix</div>
+      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/34IXCkb0DjOFj2Qh4hz5Vz" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">GROBDA - Yoshihito Yano Remix</div>
@@ -151,13 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732c33a6e310d3e9d8efa20b38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">エヴリデイ</div>
       <div style="font-size: 11px; color: #586069;">Jitterin' Jinn</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0BIijfqgziavcoaVxc2fsa" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d95901e62777c8203944f2fb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">恋しくて</div>
-      <div style="font-size: 11px; color: #586069;">BEGIN</div>
     </a>
   </div>
 </div>
