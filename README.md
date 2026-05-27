@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0nV2Swbw1HKfByhmkpnG4n" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dda8766c62090add9f4abb3b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Girl From Ipanema</div>
+      <div style="font-size: 11px; color: #586069;">Kenny G</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0GiUPHBWnlYYwYLnUHs1fA" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739632ddd9c24a5efb8feda967" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cocktails at Six</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/5uuIAOOtcpTYqrdKba51EF" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SUPER BAD XEVIOUS - Takeshi Nakatsuka Remix</div>
-      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3POFZmV3i8oq5dnT8s1eho" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DISTANT MEMORIES - AJURIKA Remix</div>
       <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
     </a>
   </div>
