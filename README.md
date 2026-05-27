@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373dd9617262b1c5cda9a3737" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">パッヘルベルのカノン - beautiful sleep ver.</div>
+      <div style="font-size: 11px; color: #586069;">Shinya Kiyozuka</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6EAzbfHehVpwdWwVOlueeW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a2444242b64a4b8952ea53b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Good Night Waltz</div>
+      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6M8a04iDrAob07KoEOxCev" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d78864d9cba4551d1886f6bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ephemera</div>
+      <div style="font-size: 11px; color: #586069;">Damian Holden</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0nV2Swbw1HKfByhmkpnG4n" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273dda8766c62090add9f4abb3b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Girl From Ipanema</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732d9e9f60cc189900f57683a9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No Boys Allowed</div>
       <div style="font-size: 11px; color: #586069;">me-mai</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7hQ2fwRHqTiqNaGVNad5qo" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FARDRAUT - Hiroshi Okubo Remix</div>
-      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/34IXCkb0DjOFj2Qh4hz5Vz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">GROBDA - Yoshihito Yano Remix</div>
-      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5uuIAOOtcpTYqrdKba51EF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SUPER BAD XEVIOUS - Takeshi Nakatsuka Remix</div>
-      <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
     </a>
   </div>
 </div>
