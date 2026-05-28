@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3eaJzhEGEM4tFoTJHLw9vH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cccccf2a2cea4cc3ed937270" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stand Another Chance</div>
+      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1H2VSIXkQRadPZOlJVphfk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730181c1d6b7d92a15604e5f0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Go</div>
+      <div style="font-size: 11px; color: #586069;">Marlon Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0lGYuG1VcJW0Yhi8dBWqdW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fb6ded36548f6845db2abb38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One Way Street - The Gregg Pagani Mix</div>
+      <div style="font-size: 11px; color: #586069;">Tito Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2XYAd4lGUoKWfAJpPunFEO" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732054217d124390629ed0fd23" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Didn't I (Blow Your Mind This Time)</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Make My Dreams (Come True)</div>
       <div style="font-size: 11px; color: #586069;">Daryl Hall & John Oates</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Walking On Sunshine</div>
-      <div style="font-size: 11px; color: #586069;">Katrina & The Waves</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6YH34sIuAx8selgXe42aHA" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273399dd094abe92b68a9e5ed86" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">もしもし神よ</div>
-      <div style="font-size: 11px; color: #586069;">人と木</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3ILnccD1HT60XAI0orIDAT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2d37a75e4073823f658d775" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Woman</div>
-      <div style="font-size: 11px; color: #586069;">七愛</div>
     </a>
   </div>
 </div>
