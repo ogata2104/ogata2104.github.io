@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/60bj2Vu6UI1eewWoneXUIh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c55bbd84d38b51dd60ef12f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Song</div>
+      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5iDClxdrgo7DEP6n9TcD4Q" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a535ebdc963618d3db41f82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Alright - 7" House Mix With Rap</div>
+      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stop 'Til You Get Enough</div>
+      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Billie Jean</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736cfc470251e23a7bb6a38d66" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tubthumping</div>
       <div style="font-size: 11px; color: #586069;">Chumbawamba</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Uptown Girl</div>
-      <div style="font-size: 11px; color: #586069;">Billy Joel</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wake Me Up Before You Go-Go</div>
-      <div style="font-size: 11px; color: #586069;">Wham!</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ed1e6f4480313f95ac380159" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Give It Up</div>
-      <div style="font-size: 11px; color: #586069;">KC & The Sunshine Band</div>
     </a>
   </div>
 </div>
