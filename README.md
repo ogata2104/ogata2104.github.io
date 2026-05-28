@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5iqA2I2VLtDctWTO9c3NZq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27342602ab04eb004df6388bf81" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Made It</div>
+      <div style="font-size: 11px; color: #586069;">Tito Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3R4PVEhOORIwcblcuYIehg" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732054217d124390629ed0fd23" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It's So Easy</div>
+      <div style="font-size: 11px; color: #586069;">Jackie Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4gNYu3Z4bMD01aswHWv7e8" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730181c1d6b7d92a15604e5f0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Where Do I Stand</div>
+      <div style="font-size: 11px; color: #586069;">Marlon Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5y4iv8ikDeMsK2o31wSokZ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd4d1a9adfb6d6fe515a8118" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Come to Me (One Way or Another) - 12" Remix Version</div>
+      <div style="font-size: 11px; color: #586069;">Jermaine Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/60bj2Vu6UI1eewWoneXUIh" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273c55bbd84d38b51dd60ef12f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Song</div>
@@ -137,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273d78864d9cba4551d1886f6bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ephemera</div>
       <div style="font-size: 11px; color: #586069;">Damian Holden</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0nV2Swbw1HKfByhmkpnG4n" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dda8766c62090add9f4abb3b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Girl From Ipanema</div>
-      <div style="font-size: 11px; color: #586069;">Kenny G</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0GiUPHBWnlYYwYLnUHs1fA" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739632ddd9c24a5efb8feda967" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cocktails at Six</div>
-      <div style="font-size: 11px; color: #586069;">Chalalatas</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8996a3f97e80d9d700635c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Still Haven't Found What I'm Looking For - Remastered 2007</div>
-      <div style="font-size: 11px; color: #586069;">U2</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736cfc470251e23a7bb6a38d66" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tubthumping</div>
-      <div style="font-size: 11px; color: #586069;">Chumbawamba</div>
     </a>
   </div>
 </div>
