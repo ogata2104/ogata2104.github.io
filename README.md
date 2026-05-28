@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smooth Criminal - 2012 Remaster</div>
+      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want You Back</div>
+      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd4d1a9adfb6d6fe515a8118" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When the Rain Begins to Fall</div>
+      <div style="font-size: 11px; color: #586069;">Jermaine Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2V5RzxIQCjpMWoZV4LIZPR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cccccf2a2cea4cc3ed937270" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fast Girls</div>
+      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3UNbg0NnZgEy8DAkuV0dRo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732054217d124390629ed0fd23" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You're The Only One</div>
+      <div style="font-size: 11px; color: #586069;">Jackie Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5iqA2I2VLtDctWTO9c3NZq" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27342602ab04eb004df6388bf81" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Made It</div>
@@ -130,41 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">New Home (Slowed)</div>
       <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Z93MKflGmXXTkpO4kTAU7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d5b8e183a7ba6d8c4eb9e76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Empty Streets</div>
-      <div style="font-size: 11px; color: #586069;">Miles Hartfield</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7a2QqaqDLfw1VayPQJv5bM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739c62eeb77bf21e4ec39a5e4b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Crystal Veil</div>
-      <div style="font-size: 11px; color: #586069;">Dawn Huntley</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27373dd9617262b1c5cda9a3737" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">パッヘルベルのカノン - beautiful sleep ver.</div>
-      <div style="font-size: 11px; color: #586069;">Shinya Kiyozuka</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6EAzbfHehVpwdWwVOlueeW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2444242b64a4b8952ea53b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Good Night Waltz</div>
-      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6M8a04iDrAob07KoEOxCev" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d78864d9cba4551d1886f6bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ephemera</div>
-      <div style="font-size: 11px; color: #586069;">Damian Holden</div>
     </a>
   </div>
 </div>
