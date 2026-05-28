@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3atFenDUQPPMkkqlULaibT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738ed60f92e0d1144f534629e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kilakila</div>
+      <div style="font-size: 11px; color: #586069;">Hokulele</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731b1d0eacb6ed6dd89d349388" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We'll Be Together Again</div>
+      <div style="font-size: 11px; color: #586069;">McCoy Tyner</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ddbaa8fffd0b719300fd6a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pitanga</div>
+      <div style="font-size: 11px; color: #586069;">Flamentone</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4e5QY6ARl2m2gCJDCMaCN6" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730181c1d6b7d92a15604e5f0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Tonight</div>
+      <div style="font-size: 11px; color: #586069;">Marlon Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smooth Criminal - 2012 Remaster</div>
@@ -130,41 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273bd4d1a9adfb6d6fe515a8118" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dynamite</div>
       <div style="font-size: 11px; color: #586069;">Jermaine Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3eaJzhEGEM4tFoTJHLw9vH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cccccf2a2cea4cc3ed937270" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stand Another Chance</div>
-      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1H2VSIXkQRadPZOlJVphfk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730181c1d6b7d92a15604e5f0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Go</div>
-      <div style="font-size: 11px; color: #586069;">Marlon Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0lGYuG1VcJW0Yhi8dBWqdW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fb6ded36548f6845db2abb38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One Way Street - The Gregg Pagani Mix</div>
-      <div style="font-size: 11px; color: #586069;">Tito Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2XYAd4lGUoKWfAJpPunFEO" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732054217d124390629ed0fd23" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Didn't I (Blow Your Mind This Time)</div>
-      <div style="font-size: 11px; color: #586069;">Jackie Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">New Home (Slowed)</div>
-      <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
     </a>
   </div>
 </div>
