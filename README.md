@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5234ad1d0dbc9dfc94c5ee5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Children's Story</div>
+      <div style="font-size: 11px; color: #586069;">Slick Rick</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374bdcb13ad3968879ad6b8d7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No More ?'s</div>
+      <div style="font-size: 11px; color: #586069;">Eazy-E</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Straight Outta Compton</div>
+      <div style="font-size: 11px; color: #586069;">N.W.A.</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27318a12da5d84a8f12312698ab" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Loungin (Who Do Ya Luv) - Remix</div>
+      <div style="font-size: 11px; color: #586069;">LL COOL J</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27368820c2a3865d138ab7daba3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Know How We Do It</div>
@@ -130,34 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2730181c1d6b7d92a15604e5f0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Tonight</div>
       <div style="font-size: 11px; color: #586069;">Marlon Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smooth Criminal - 2012 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want You Back</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd4d1a9adfb6d6fe515a8118" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When the Rain Begins to Fall</div>
-      <div style="font-size: 11px; color: #586069;">Jermaine Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2V5RzxIQCjpMWoZV4LIZPR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cccccf2a2cea4cc3ed937270" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fast Girls</div>
-      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
     </a>
   </div>
 </div>
