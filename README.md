@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/20v3I2hlB7aUcnOHPaSjL4" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Say No Go</div>
+      <div style="font-size: 11px; color: #586069;">De La Soul</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2CwSYfPlTlCGUufvobapdD" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">S.E.T.　[1]</div>
@@ -151,13 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27391f7520c0ed86262882584bf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ミニモニ。テレフォン！リンリンリン</div>
       <div style="font-size: 11px; color: #586069;">ミニモニ。</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/66M3khO7OfTOrRUSIOh5Tx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d98de7cdeed7c13e203d97e3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Speak My Language</div>
-      <div style="font-size: 11px; color: #586069;">Laurie Anderson</div>
     </a>
   </div>
 </div>
