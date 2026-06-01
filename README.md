@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6PRWV7oy3XfnO5d8RAWmq1" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27325e1edbb75d13adcd742cf3c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Shawl</div>
+      <div style="font-size: 11px; color: #586069;">Xavier Cugat</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2GOrVEyfPNoDVw5IvawykK" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739e091a2580c19b54931c7fef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Perfidia</div>
+      <div style="font-size: 11px; color: #586069;">Xavier Cugat</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4niCXs2DGZBpmfyWQXhpYD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273154568514fc431c7bc7257f7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Maria Elena</div>
+      <div style="font-size: 11px; color: #586069;">Pérez Prado</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7uOlL4oeW3SrMugsYr8xZu" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736fa60e4e9dbf48724829a51f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Always in My Heart</div>
@@ -137,27 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Poison</div>
       <div style="font-size: 11px; color: #586069;">Bell Biv DeVoe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273503044c032ef206e5fa78b08" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It Takes Two</div>
-      <div style="font-size: 11px; color: #586069;">Rob Base & DJ EZ Rock</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27382dfae6e3a8f7a387f741ed1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Around The Way Girl</div>
-      <div style="font-size: 11px; color: #586069;">LL COOL J</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6l3b8BOBDRDM1ne9fpOygz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Until We Rich</div>
-      <div style="font-size: 11px; color: #586069;">Ice Cube</div>
     </a>
   </div>
 </div>
