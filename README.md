@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">RYDEEN</div>
+      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5TJY6dY69tmjuB03TDbRAf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bluebeard - Remastered 2024</div>
+      <div style="font-size: 11px; color: #586069;">Cocteau Twins</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0bCr0NIsYwNZxus3ghAxBr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732862317dd4e3eb0d1556ac53" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Aquellos Ojos Verdes</div>
@@ -144,20 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736b6c1704514ace158b391ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">GROBDA - Yoshihito Yano Remix</div>
       <div style="font-size: 11px; color: #586069;">ナムコ レジェンダリー</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a5234ad1d0dbc9dfc94c5ee5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Children's Story</div>
-      <div style="font-size: 11px; color: #586069;">Slick Rick</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27374bdcb13ad3968879ad6b8d7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No More ?'s</div>
-      <div style="font-size: 11px; color: #586069;">Eazy-E</div>
     </a>
   </div>
 </div>
