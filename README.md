@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0gkhZoy5NAo8HpWo5EFJ3M" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ee3e86f9a12e311701f5fcda" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Keepin' the Faith</div>
+      <div style="font-size: 11px; color: #586069;">De La Soul</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a19467a0f512538bd5f25d89" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Choice Is Yours (Revisited)</div>
+      <div style="font-size: 11px; color: #586069;">Black Sheep</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5thts3213xwSroRd11fv5A" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c77d365e5d5732f06bec6117" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">People Everyday - Metamorphosis Mix</div>
+      <div style="font-size: 11px; color: #586069;">Arrested Development</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3RlU693N2frGYxedETQHI8" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273973eb797cf38aadefbbf81fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hip Hop Hooray - Remastered</div>
@@ -130,27 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2737393ea2fe66a03825f7e2200" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Solamente Una Vez</div>
       <div style="font-size: 11px; color: #586069;">Nat King Cole</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/516dYAFoJcaa5q33u5MMpt" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b6debc2dc316d03b4a021d01" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Solamente Una Vez - Voglio Amarti Così</div>
-      <div style="font-size: 11px; color: #586069;">Los Indios Tabajaras</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27331b74a601a5a723002b2c57b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Maria Elena</div>
-      <div style="font-size: 11px; color: #586069;">Los Indios Tabajaras</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6PRWV7oy3XfnO5d8RAWmq1" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27325e1edbb75d13adcd742cf3c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Shawl</div>
-      <div style="font-size: 11px; color: #586069;">Xavier Cugat</div>
     </a>
   </div>
 </div>
