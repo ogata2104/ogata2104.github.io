@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3RlU693N2frGYxedETQHI8" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273973eb797cf38aadefbbf81fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hip Hop Hooray - Remastered</div>
+      <div style="font-size: 11px; color: #586069;">Naughty By Nature</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27374b173cf1edea5e19963431d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mistadobalina</div>
+      <div style="font-size: 11px; color: #586069;">Del The Funky Homosapien</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Eye Know</div>
@@ -137,20 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27325e1edbb75d13adcd742cf3c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Shawl</div>
       <div style="font-size: 11px; color: #586069;">Xavier Cugat</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2GOrVEyfPNoDVw5IvawykK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739e091a2580c19b54931c7fef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Perfidia</div>
-      <div style="font-size: 11px; color: #586069;">Xavier Cugat</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4niCXs2DGZBpmfyWQXhpYD" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273154568514fc431c7bc7257f7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Maria Elena</div>
-      <div style="font-size: 11px; color: #586069;">Pérez Prado</div>
     </a>
   </div>
 </div>
