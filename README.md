@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breaking Free</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4gqjxYiEorFk0y9b92uFdE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bop To The Top</div>
+      <div style="font-size: 11px; color: #586069;">Lucas Grabeel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1LxcCsgkHJTcUZ7AUorzd2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When There Was Me and You</div>
+      <div style="font-size: 11px; color: #586069;">Vanessa Hudgens</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stick to the Status Quo</div>
+      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7I60v3Ctgf1eMefMc69zAo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What I've Been Looking For (Reprise)</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What I've Been Looking For</div>
+      <div style="font-size: 11px; color: #586069;">Lucas Grabeel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3sT37kCEpxM1zQ8s98i7ps" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Get'cha Head In The Game</div>
@@ -116,34 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27374b173cf1edea5e19963431d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mistadobalina</div>
       <div style="font-size: 11px; color: #586069;">Del The Funky Homosapien</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/20v3I2hlB7aUcnOHPaSjL4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Say No Go</div>
-      <div style="font-size: 11px; color: #586069;">De La Soul</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2CwSYfPlTlCGUufvobapdD" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">S.E.T.　[1]</div>
-      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5sYCiajxzonJ4tUeYI0q3R" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">LIMBO</div>
-      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5TJY6dY69tmjuB03TDbRAf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bluebeard - Remastered 2024</div>
-      <div style="font-size: 11px; color: #586069;">Cocteau Twins</div>
     </a>
   </div>
 </div>
