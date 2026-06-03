@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0PSyS0MDN0sCWnhjP5ynVC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a94af787ee3c837ff9dc3b5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Clean & Dirty</div>
+      <div style="font-size: 11px; color: #586069;">HARVARD</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3MWczvKpe32Z1xNDuwyCzH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4faff4f3d081f161123a388" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HARMONY</div>
+      <div style="font-size: 11px; color: #586069;">FreeTEMPO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6l4kY79Z387ICLOFN5wmib" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736562f161b516e17a08b3ae1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DREAMING</div>
@@ -129,13 +143,6 @@
     <a href="https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">TECHNOPOLIS</div>
-      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">RYDEEN</div>
       <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
     </a>
   </div>
