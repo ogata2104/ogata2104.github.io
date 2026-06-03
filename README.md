@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3waY7uu8cniaQw5Auf0MOp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Are the Music in Me - Sharpay Version</div>
+      <div style="font-size: 11px; color: #586069;">Sharpay Evans</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6p6TjiJHc1kJQt5dXzkdrs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Dance</div>
+      <div style="font-size: 11px; color: #586069;">CHAD</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Are the Music in Me</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4k9EAtZdZrzPlBUsFncXCZ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Work This Out</div>
@@ -137,27 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736562f161b516e17a08b3ae1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">DREAMING</div>
       <div style="font-size: 11px; color: #586069;">FreeTEMPO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/76rlHY5gLtEnlu8odEM05a" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a2beee0ce71fce8931790a3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gangster Trippin</div>
-      <div style="font-size: 11px; color: #586069;">Fatboy Slim</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Eye Know</div>
-      <div style="font-size: 11px; color: #586069;">De La Soul</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0gkhZoy5NAo8HpWo5EFJ3M" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ee3e86f9a12e311701f5fcda" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Keepin' the Faith</div>
-      <div style="font-size: 11px; color: #586069;">De La Soul</div>
     </a>
   </div>
 </div>
