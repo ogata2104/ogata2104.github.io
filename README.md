@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fuck Tha Police</div>
+      <div style="font-size: 11px; color: #586069;">N.W.A.</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27318c60a27fe986f3a10391772" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">愛々</div>
@@ -144,13 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Scream</div>
       <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Are the Music in Me</div>
-      <div style="font-size: 11px; color: #586069;">Troy</div>
     </a>
   </div>
 </div>
