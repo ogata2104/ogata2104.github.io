@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1U2L6NW89IIy6Gw63C4eP2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only You</div>
+      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2lQVpfAukbUVavuQpOyii1" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b1a5dfa6e8eb1761f7825440" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">イタリアン・レストランで</div>
@@ -151,13 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Dance</div>
       <div style="font-size: 11px; color: #586069;">CHAD</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/20QRXRV7wUFOIgBQCGnUy3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Scream</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
     </a>
   </div>
 </div>
