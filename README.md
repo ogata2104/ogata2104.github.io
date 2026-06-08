@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e9da8645c59d76e7f35dff6e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">6, 8, 12</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4sruA1BKtutQiMDD7AkGjY" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27390920d7a03decc059442b987" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Show Me The Way Back To Your Heart</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2pdIJF8xM2w7CMutdAKQWV" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273115d59d26ffeafc266f9e65c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Still</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ad04fbeaa120fc4782eda283" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One Last Cry</div>
@@ -137,20 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only You</div>
       <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2lQVpfAukbUVavuQpOyii1" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1a5dfa6e8eb1761f7825440" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">イタリアン・レストランで</div>
-      <div style="font-size: 11px; color: #586069;">Billy Joel</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fuck Tha Police</div>
-      <div style="font-size: 11px; color: #586069;">N.W.A.</div>
     </a>
   </div>
 </div>
