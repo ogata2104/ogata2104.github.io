@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ad04fbeaa120fc4782eda283" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One Last Cry</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e9da8645c59d76e7f35dff6e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Back At One</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2hqD8zhXDvnq8MR7aelK7Q" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737ddc799de55a52a6361c5331" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">以心電信 - 2019 Bob Ludwig Remastering</div>
@@ -137,20 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fuck Tha Police</div>
       <div style="font-size: 11px; color: #586069;">N.W.A.</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318c60a27fe986f3a10391772" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">愛々</div>
-      <div style="font-size: 11px; color: #586069;">Naotaro Moriyama</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fight For Your Right</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
     </a>
   </div>
 </div>
