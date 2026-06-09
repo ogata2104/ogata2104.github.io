@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1U2L6NW89IIy6Gw63C4eP2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only You</div>
+      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e9da8645c59d76e7f35dff6e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">6, 8, 12</div>
@@ -150,13 +157,6 @@
     <a href="https://open.spotify.com/track/60daMQurwFDrRJ4xXWT1IT" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273aec9d530ed5c85b92f4e7126" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wonderful World</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1U2L6NW89IIy6Gw63C4eP2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only You</div>
       <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
     </a>
   </div>
