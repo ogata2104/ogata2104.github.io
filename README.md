@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5cd9f8c221709f64bf6f470" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Philadelphia Freedom</div>
+      <div style="font-size: 11px; color: #586069;">Elton John</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737a26b62978e61d5068164a63" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It Never Rains in Southern California</div>
+      <div style="font-size: 11px; color: #586069;">Albert Hammond</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ventura Highway</div>
+      <div style="font-size: 11px; color: #586069;">America</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Escape (The Pina Colada Song)</div>
+      <div style="font-size: 11px; color: #586069;">Rupert Holmes</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dancing Queen</div>
@@ -130,34 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In For A Penny, In For A Pound - live</div>
       <div style="font-size: 11px; color: #586069;">Arabesque</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2ThS2c9kpTCMmH87BHN9Ph" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Caballero - live</div>
-      <div style="font-size: 11px; color: #586069;">Arabesque</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/30HKJAi50JJzWPt4sPHTB6" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Dancer - live</div>
-      <div style="font-size: 11px; color: #586069;">Arabesque</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6hqfJcRiOmeNUu4WKbOExj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731bd66d51ff6dc6eb4b529d0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Friday Night</div>
-      <div style="font-size: 11px; color: #586069;">Arabesque</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6FNUzCzBWcAJS3Zu7tNQ7d" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733bc4604fa1d4ee15ccac3755" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sealed With A Kiss</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
     </a>
   </div>
 </div>
