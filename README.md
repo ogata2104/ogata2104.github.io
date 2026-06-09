@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Money, Money, Money</div>
+      <div style="font-size: 11px; color: #586069;">ABBA</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Piano Man</div>
+      <div style="font-size: 11px; color: #586069;">Billy Joel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3GCXXFJWf8Ey0xG7ZnBH5V" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739ada12167b62ba71788df622" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sunrise</div>
+      <div style="font-size: 11px; color: #586069;">Eric Carmen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7C2j6TBGUjD6XIH9I1iLNR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273817a3f60487da1f67f3c148c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Utah</div>
+      <div style="font-size: 11px; color: #586069;">The Osmonds</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273a5cd9f8c221709f64bf6f470" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Philadelphia Freedom</div>
@@ -137,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e9da8645c59d76e7f35dff6e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Back At One</div>
       <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2hqD8zhXDvnq8MR7aelK7Q" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737ddc799de55a52a6361c5331" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">以心電信 - 2019 Bob Ludwig Remastering</div>
-      <div style="font-size: 11px; color: #586069;">YELLOW MAGIC ORCHESTRA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326f3988cccc3cedec269a16d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I'm in the Mood for Dancing</div>
-      <div style="font-size: 11px; color: #586069;">The Nolans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2NG3Gx0nxIgxMU7usA5HyP" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734f3d95af56438156f9def595" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In For A Penny, In For A Pound - live</div>
-      <div style="font-size: 11px; color: #586069;">Arabesque</div>
     </a>
   </div>
 </div>
