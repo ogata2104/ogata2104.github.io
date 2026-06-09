@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Southern Nights</div>
+      <div style="font-size: 11px; color: #586069;">Glen Campbell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2TXyiwnpA1gS25Y74s0sfR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730dd4c9a356a10dac7ed6d49d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whenever You Call</div>
+      <div style="font-size: 11px; color: #586069;">Mariah Carey</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2lQVpfAukbUVavuQpOyii1" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1a5dfa6e8eb1761f7825440" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">イタリアン・レストランで</div>
+      <div style="font-size: 11px; color: #586069;">Billy Joel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1U2L6NW89IIy6Gw63C4eP2" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only You</div>
@@ -136,27 +157,6 @@
     <a href="https://open.spotify.com/track/1YgOoEKllswKwWIh8susCu" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You've Lost That Lovin' Feeling</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7h0RgnVGFWsQ8456BgWLV3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When You're Young And In Love</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2NL15IUegINyUT8uQ7wCAq" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aec9d530ed5c85b92f4e7126" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When You're Young and in Love</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/60daMQurwFDrRJ4xXWT1IT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aec9d530ed5c85b92f4e7126" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wonderful World</div>
       <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
     </a>
   </div>
