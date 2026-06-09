@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dancing Queen</div>
+      <div style="font-size: 11px; color: #586069;">ABBA</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730085dd4362653ef4c54ebbeb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">American Pie</div>
+      <div style="font-size: 11px; color: #586069;">Don McLean</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stop 'Til You Get Enough</div>
+      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Southern Nights</div>
@@ -136,27 +157,6 @@
     <a href="https://open.spotify.com/track/6FNUzCzBWcAJS3Zu7tNQ7d" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733bc4604fa1d4ee15ccac3755" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sealed With A Kiss</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0cc4YTGjBAXB5NGXfpTAzV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733bc4604fa1d4ee15ccac3755" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only The Lonely</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7J3nvg8tJDeWAizc15987p" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Heard It Through The Grapevine</div>
-      <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1YgOoEKllswKwWIh8susCu" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a02fe57a83853efcbbe6e7b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You've Lost That Lovin' Feeling</div>
       <div style="font-size: 11px; color: #586069;">The Flying Pickets</div>
     </a>
   </div>
