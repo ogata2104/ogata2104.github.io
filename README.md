@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6ErhWl2ogjnbY4ODW9flGQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730415200918943320724a63a2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Camper's Day</div>
+      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4BeNRVWWMV5zQ0tbifbNa7" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273122393690d97cfb9fc7d41fe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">For Once</div>
+      <div style="font-size: 11px; color: #586069;">Almost Here</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1PLSitxhgKGicvJNvDEnPC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730ab074a2d9d3249be06399b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Nearness Of You</div>
+      <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27361fce905c16306cab399212b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">B Minor Waltz - Remastered 2003</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sister Golden Hair</div>
       <div style="font-size: 11px; color: #586069;">America</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1WTjwkPqN5f1CxAAwjsKrB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737950ef51745c8cbdfc7696a3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Road To Alaska</div>
-      <div style="font-size: 11px; color: #586069;">Bee Gees</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Money, Money, Money</div>
-      <div style="font-size: 11px; color: #586069;">ABBA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Piano Man</div>
-      <div style="font-size: 11px; color: #586069;">Billy Joel</div>
     </a>
   </div>
 </div>
