@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Scream</div>
+      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2K0o5myp4ooWIYML2ixUYy" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730bcaaa3b90b1b8daa5a04341" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blue And Sentimental</div>
+      <div style="font-size: 11px; color: #586069;">Oscar Peterson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6ErhWl2ogjnbY4ODW9flGQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2730415200918943320724a63a2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Camper's Day</div>
@@ -151,20 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Goin' Back To Indiana</div>
       <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731af9e8390e2d251b916d9185" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You're So Vain</div>
-      <div style="font-size: 11px; color: #586069;">Carly Simon</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sister Golden Hair</div>
-      <div style="font-size: 11px; color: #586069;">America</div>
     </a>
   </div>
 </div>
