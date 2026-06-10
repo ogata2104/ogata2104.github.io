@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27361fce905c16306cab399212b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">B Minor Waltz - Remastered 2003</div>
+      <div style="font-size: 11px; color: #586069;">Bill Evans</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/34a4HXfFg023T4E6lgtoBW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sparks - Instrumental</div>
+      <div style="font-size: 11px; color: #586069;">Evan Jacobson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/22QZgO76vLjdpZY161iF72" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Ride Home</div>
+      <div style="font-size: 11px; color: #586069;">Magnus Ringblom Quartet</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5LBbKfP2Jf8z7EcEBmqyF7" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d22a93879411a63528cd67ba" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blue Spaces</div>
+      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4fRzYHQgupApAZg4zCYQvD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f235df0d5fa7b42c0a1a2414" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Days Of Wine And Roses</div>
+      <div style="font-size: 11px; color: #586069;">Wes Montgomery</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6iNAi2ZU92mLYWOQpEPNYC" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273c411314133d7137e9f95ff87" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whisky on the Rocks</div>
@@ -130,41 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Piano Man</div>
       <div style="font-size: 11px; color: #586069;">Billy Joel</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3GCXXFJWf8Ey0xG7ZnBH5V" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739ada12167b62ba71788df622" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sunrise</div>
-      <div style="font-size: 11px; color: #586069;">Eric Carmen</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7C2j6TBGUjD6XIH9I1iLNR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273817a3f60487da1f67f3c148c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Utah</div>
-      <div style="font-size: 11px; color: #586069;">The Osmonds</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a5cd9f8c221709f64bf6f470" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Philadelphia Freedom</div>
-      <div style="font-size: 11px; color: #586069;">Elton John</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737a26b62978e61d5068164a63" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It Never Rains in Southern California</div>
-      <div style="font-size: 11px; color: #586069;">Albert Hammond</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ventura Highway</div>
-      <div style="font-size: 11px; color: #586069;">America</div>
     </a>
   </div>
 </div>
