@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273628103d0e62602f00408345d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">London Calling - Remastered</div>
+      <div style="font-size: 11px; color: #586069;">The Clash</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">"Heroes" - 2017 Remaster</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2739ada12167b62ba71788df622" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Girl</div>
       <div style="font-size: 11px; color: #586069;">Eric Carmen</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27310d80ba410370acdbb0bf6c2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Saturday in the Park - 2002 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Chicago</div>
     </a>
   </div>
 </div>
