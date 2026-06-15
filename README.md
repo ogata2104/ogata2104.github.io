@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5NiLCKhhQRn6w9wkQJqBI1" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e63518d50aff63f57d2b8ead" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">New Agenda</div>
+      <div style="font-size: 11px; color: #586069;">Janet Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Shake Your Body (Down to the Ground)</div>
@@ -144,13 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2730c38298ae66fdbefdd12d234" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Eyes So Beautiful As Yours</div>
       <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6eEaPAhWkekzkCIfU1hBPa" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733277a3d552bc8903d86d5ce6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I'm In The Mood For Love</div>
-      <div style="font-size: 11px; color: #586069;">Erroll Garner</div>
     </a>
   </div>
 </div>
