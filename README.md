@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/41zXjdvYfTiVYAp7oesi6M" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Things I Do For You</div>
+      <div style="font-size: 11px; color: #586069;">The Jacksons</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4ZVpdAhjVYTVImJ7Zkvgle" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Push Me Away</div>
+      <div style="font-size: 11px; color: #586069;">The Jacksons</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blame It on the Boogie</div>
+      <div style="font-size: 11px; color: #586069;">The Jacksons</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Workin' Day and Night</div>
+      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rock with You - Single Version</div>
@@ -123,34 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273186ea2570eaaef2b4f602bcb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Polaroids of a Quiet Mind</div>
       <div style="font-size: 11px; color: #586069;">Dust & Mocha</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/47HTuVC7a3VPcTuc1hlgtW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273769fd85e76f6ab24237757ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Song to my Friends</div>
-      <div style="font-size: 11px; color: #586069;">The Nordic Collective</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eac8a44c667fbf0e1dcb4672" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Los Angeles</div>
-      <div style="font-size: 11px; color: #586069;">Saxophonic Soul Art</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1m1cGEgyUGMlxRTtDsFD9S" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273da22d21a1579e20ff99227ca" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Out of Nowhere (From "Cafe Society" Soundtrack)</div>
-      <div style="font-size: 11px; color: #586069;">Conal Fowkes</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1PLSitxhgKGicvJNvDEnPC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ab074a2d9d3249be06399b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Nearness Of You</div>
-      <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
     </a>
   </div>
 </div>
