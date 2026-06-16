@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stop Loving You</div>
+      <div style="font-size: 11px; color: #586069;">TOTO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Right</div>
+      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1ANmX8emjTaiR5BPeswuNi" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">One On One</div>
+      <div style="font-size: 11px; color: #586069;">Daryl Hall & John Oates</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Come Back</div>
+      <div style="font-size: 11px; color: #586069;">Player</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0tHlyozIdOD4LZRWjeljoI" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Destiny</div>
@@ -102,34 +130,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Beat It</div>
       <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Billie Jean</div>
-      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2byDrh2WiyYaThzh73Eyma" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731fa9f14172382a8581d0fb41" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Song For Europe</div>
-      <div style="font-size: 11px; color: #586069;">Roxy Music</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BIRDS OF A FEATHER</div>
-      <div style="font-size: 11px; color: #586069;">Billie Eilish</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Out of Time</div>
-      <div style="font-size: 11px; color: #586069;">The Weeknd</div>
     </a>
   </div>
 </div>
