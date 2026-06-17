@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ePrgn0UoboVXWdHLz8rBK" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388415514661b4060569a1f82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Nobody's Fault</div>
+      <div style="font-size: 11px; color: #586069;">Benny Sings</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0UL3x0nRzn7Nc08BDYifbm" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f322061d9fde5dad03f4323f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Big Brown Eyes</div>
@@ -151,13 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2733ad1937434fcb9d12e74bba3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Near My Heart</div>
       <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/34a4HXfFg023T4E6lgtoBW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sparks - Instrumental</div>
-      <div style="font-size: 11px; color: #586069;">Evan Jacobson</div>
     </a>
   </div>
 </div>
