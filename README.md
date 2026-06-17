@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1qZqFtSINOOmjYH1UE9805" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Life Goes On</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heartz Of Men</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No More Pain</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)</div>
@@ -144,20 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27331b74a601a5a723002b2c57b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stardust</div>
       <div style="font-size: 11px; color: #586069;">Los Indios Tabajaras</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4yGbLjBwaf0Ec1U9ilgOLl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b99bcb73660b15f214b6edc7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">氤氲之森</div>
-      <div style="font-size: 11px; color: #586069;">CMJ</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6krWc5pKFVyuHQCW9H9AIm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355d941c1d6a2f8a070093507" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">slow living (a quiet life)</div>
-      <div style="font-size: 11px; color: #586069;">Ophelia Wilde</div>
     </a>
   </div>
 </div>
