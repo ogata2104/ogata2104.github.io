@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5iTyKHHx9efbjrOXPP48gG" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Got My Mind Made Up (ft. Dat Nigga Daz, Kurupt, Method Man, Redman)</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/43P5sm3VJt3zLUhDk9kDDB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Skandalouz (ft. Nate Dogg)</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3j9UIPpivEXyfV67agjXKH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ambitionz Az A Ridah</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2ePrgn0UoboVXWdHLz8rBK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27388415514661b4060569a1f82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Nobody's Fault</div>
@@ -130,34 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2739c0cd552367afe38478459fd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Champagne</div>
       <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/25Q81wJ0xkQ7fBtlcFT58k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737055e14a0f98fc736a2c75f1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mending</div>
-      <div style="font-size: 11px; color: #586069;">时空储蓄罐</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Vj4eHzcf4SJNtOx2SxWxw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731fb1655c7ebec963808be2f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Soiree</div>
-      <div style="font-size: 11px; color: #586069;">Bill Evans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7qT955sFHf4eBtQnHeqdGf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273faefb529b61803c22508e69f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When the Clouds Cleared</div>
-      <div style="font-size: 11px; color: #586069;">Alexander Motovilov</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6nrNGuWz0ZsV5Xaxaazxgm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ad1937434fcb9d12e74bba3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Near My Heart</div>
-      <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
     </a>
   </div>
 </div>
