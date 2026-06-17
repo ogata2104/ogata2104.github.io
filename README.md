@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6fO6jlHf4irjVyWwpSNfX3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733cf7edaebb189a0d89842941" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Forest Walk</div>
+      <div style="font-size: 11px; color: #586069;">Makana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6JvJNMoCBEIW0bN7R8e83n" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273945b8a1517de3d35adf5b7d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Misty</div>
+      <div style="font-size: 11px; color: #586069;">Duane And The Drifters</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7uOlL4oeW3SrMugsYr8xZu" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736fa60e4e9dbf48724829a51f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Always in My Heart</div>
@@ -137,13 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sailing</div>
       <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Waiting for Your Love</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
     </a>
   </div>
 </div>
