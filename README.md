@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6nrNGuWz0ZsV5Xaxaazxgm" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ad1937434fcb9d12e74bba3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Near My Heart</div>
+      <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/34a4HXfFg023T4E6lgtoBW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sparks - Instrumental</div>
+      <div style="font-size: 11px; color: #586069;">Evan Jacobson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Who's Right, Who's Wrong</div>
+      <div style="font-size: 11px; color: #586069;">Pages</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4Uwn57Tf3ZlrzLa5TUcfH7" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c35c9d3a318107fb97961dcd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Want It</div>
+      <div style="font-size: 11px; color: #586069;">Niteflyte</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5BxfpTBHCnTgnfgnujse6g" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Night</div>
+      <div style="font-size: 11px; color: #586069;">Ginger Root</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sailing</div>
@@ -108,48 +143,6 @@
     <a href="https://open.spotify.com/track/3B5d20Jn4HyaSzSaJPO2VS" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737d030ff340f1497f7df7e6e9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Big Boy</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6zj5mfl0U764BpMVRYxsmN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I'll Be There - Immortal Version</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3tl5GQEwWlVdAfUlHso5SX" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a6a4500de02395c2f2f6b0d4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Medley: I Want You Back/ABC/The Love You Save</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0a5lbvWwqYBWGXY572eUTk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stand!</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0xqb2Euq1PAxKHBA36NUnx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386775d200343e034dcc97678" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dancing Machine</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Love You Save</div>
-      <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27347c5b8d335a8fb0dab98517a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Never Can Say Goodbye</div>
       <div style="font-size: 11px; color: #586069;">The Jackson 5</div>
     </a>
   </div>
