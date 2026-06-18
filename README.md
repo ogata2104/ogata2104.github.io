@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/70uktTEq3AiRQAtqdl20qG" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Ain't Mad At Cha (ft. Danny Boy)</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4DLVB91nzswc4wD7EchmXs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">California Love (remix) (ft. Dr. Dre, Roger Troutman) - Remix</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3QT55sRs0R7AVFhBxSxrZN" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tradin' War Stories (ft. C-BO, CPO, Outlawz, The Storm)</div>
@@ -144,20 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2733a626302e9356ad154c4dffd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Loving Is Easy</div>
       <div style="font-size: 11px; color: #586069;">Rex Orange County</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6fO6jlHf4irjVyWwpSNfX3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cf7edaebb189a0d89842941" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Forest Walk</div>
-      <div style="font-size: 11px; color: #586069;">Makana</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6JvJNMoCBEIW0bN7R8e83n" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273945b8a1517de3d35adf5b7d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Misty</div>
-      <div style="font-size: 11px; color: #586069;">Duane And The Drifters</div>
     </a>
   </div>
 </div>
