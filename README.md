@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4ig8a89jMuZ808dYFL451c" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Friend Duffy - Music Box Version</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo DisneySea</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5j5IDFD5Cjude7ln4OJv7a" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27361cd39a7d25624f3a1e13525" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Living in Color - Tokyo Disney Resort 40th "Dream-Go-Round" Theme Song</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo Disney Resort</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2juOuPauGgPacVy9buGmkh" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ac6fe7e68924540cd322df1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Channel Plan</div>
+      <div style="font-size: 11px; color: #586069;">Amelia Warner</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4guK6vuSwAh1T5reZJ4I8B" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f22c0a11e13bbe0237d72e86" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You'll Be In My Heart! (オルゴール) 【『ターザン』より】</div>
+      <div style="font-size: 11px; color: #586069;">Healing Energy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1DTOGefbVXxkeDQ7grSo6v" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380b220d74f21260068d362a6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breaking Free - From "High School Musical"/Soundtrack Version</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2E87kSsZd4oSfFOAXNGISJ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HUMUHUMUNUKUNUKUAPUA'A</div>
@@ -130,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Skandalouz (ft. Nate Dogg)</div>
       <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3j9UIPpivEXyfV67agjXKH" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ambitionz Az A Ridah</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0UL3x0nRzn7Nc08BDYifbm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f322061d9fde5dad03f4323f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Big Brown Eyes</div>
-      <div style="font-size: 11px; color: #586069;">Benny Sings</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1Phg8v8iunTdaFs6Rt22ja" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27347abf28ced70fece13b36499" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rolled Up feat. Mac DeMarco</div>
-      <div style="font-size: 11px; color: #586069;">Benny Sings</div>
     </a>
   </div>
 </div>
