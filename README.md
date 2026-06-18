@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5ZZHhJ2VXvt70xKTYvbdyV" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Journey to Fantasy Springs - Music Box Version</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo DisneySea</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6SmfLKTXwOAhjJdmwQUXFa" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27369113161c36fff0c82dc5fe0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Circle of Life Remix</div>
+      <div style="font-size: 11px; color: #586069;">Disney Channel Circle of Stars</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0POfR2fCWkw8RXXJyF6ON3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ac6fe7e68924540cd322df1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Travel to the Channel</div>
+      <div style="font-size: 11px; color: #586069;">Amelia Warner</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0uuiqRhAFCQXonRVpPt0SJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c2e4c3fb3de7f369e8d672e1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ミッキーマウス・マーチ - 『ミッキーマウス・クラブ』より</div>
+      <div style="font-size: 11px; color: #586069;">ネバーランド オーケストラ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7kRCyfvKShCCZLzpq3rvRQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27380b220d74f21260068d362a6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gotta Go My Own Way - From "High School Musical 2"/Soundtrack Version</div>
+      <div style="font-size: 11px; color: #586069;">Zac Efron</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4ig8a89jMuZ808dYFL451c" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Friend Duffy - Music Box Version</div>
@@ -129,41 +164,6 @@
     <a href="https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heartz Of Men</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No More Pain</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">How Do U Want It (ft. K-Ci & JoJo)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5iTyKHHx9efbjrOXPP48gG" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Got My Mind Made Up (ft. Dat Nigga Daz, Kurupt, Method Man, Redman)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/43P5sm3VJt3zLUhDk9kDDB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Skandalouz (ft. Nate Dogg)</div>
       <div style="font-size: 11px; color: #586069;">2Pac</div>
     </a>
   </div>
