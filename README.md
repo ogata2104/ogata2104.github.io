@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/04bECYdpni5diSf2p77b7t" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27376bf8c2ff57a45255bc80f1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Happiness Is Here - Tokyo Disney Resort 30th Anniversary “The Happiness Year” Theme Song</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo Disney Resort</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5jx7ItGNxmv8vXdifX6KpL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8ae115492eccb269284096c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Disney Harmony in Color - Opening</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo Disneyland</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5fQzLKbhnKsUAv6hHbZPF3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738de1b95027312369eda27a9a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Disney Medley</div>
+      <div style="font-size: 11px; color: #586069;">TOKYO DISNEYLAND BAND</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0H21zTU6i5yx030JLp0UvB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fantasy Springs Suite - Music Box Version</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo DisneySea</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1MhsX3Cy2bF0dyCzqdy8sN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326058598f34fac11a14e673a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mickey Mouse March - Orgel Version</div>
+      <div style="font-size: 11px; color: #586069;">Disney Orgel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3gWvHtiGa8EwtaDepNyp6V" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e3ece46d1147a5f81bb5baac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tokyo DisneySea Maritime Band Theme Port Medley</div>
@@ -130,41 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HUMUHUMUNUKUNUKUAPUA'A</div>
       <div style="font-size: 11px; color: #586069;">Sharpay Evans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Can't C Me</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5kLt3PlMzxw2xdRZuNXEgn" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What's Ya Phone # (ft. Danny Boy)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/70uktTEq3AiRQAtqdl20qG" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Ain't Mad At Cha (ft. Danny Boy)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4DLVB91nzswc4wD7EchmXs" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">California Love (remix) (ft. Dr. Dre, Roger Troutman) - Remix</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3QT55sRs0R7AVFhBxSxrZN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tradin' War Stories (ft. C-BO, CPO, Outlawz, The Storm)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
     </a>
   </div>
 </div>
