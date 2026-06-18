@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3gWvHtiGa8EwtaDepNyp6V" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3ece46d1147a5f81bb5baac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tokyo DisneySea Maritime Band Theme Port Medley</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo DisneySea Maritime Band</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0gHXh3vbYC9vRMwnQgPULQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0e732e78f6c899165beecf2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Brand New Day - Tokyo Disney Resort 35th Anniversary “Happiest Celebration!” Theme Song</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo Disney Resort</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2h2zQnjhexrh8WQcoh90U9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e06368f534d2710690b9e3a1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It's a Small World - Tokyo Disneyland</div>
+      <div style="font-size: 11px; color: #586069;">Tokyo Disneyland</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/61kRYEQoh3V2lWpsG6xGZ5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ece0825533a5d3335f567d8d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tokyo Disneyland Is Your Land</div>
+      <div style="font-size: 11px; color: #586069;">TOKYO DISNEYLAND BAND</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5ZZHhJ2VXvt70xKTYvbdyV" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Journey to Fantasy Springs - Music Box Version</div>
@@ -136,34 +164,6 @@
     <a href="https://open.spotify.com/track/3QT55sRs0R7AVFhBxSxrZN" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tradin' War Stories (ft. C-BO, CPO, Outlawz, The Storm)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Only God Can Judge Me (ft. Rappin' 4-Tay)</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2ePrgn0UoboVXWdHLz8rBK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27388415514661b4060569a1f82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Nobody's Fault</div>
-      <div style="font-size: 11px; color: #586069;">Benny Sings</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1qZqFtSINOOmjYH1UE9805" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Life Goes On</div>
-      <div style="font-size: 11px; color: #586069;">2Pac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heartz Of Men</div>
       <div style="font-size: 11px; color: #586069;">2Pac</div>
     </a>
   </div>
