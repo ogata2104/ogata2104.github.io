@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5rbGLM20Ym8TqWl5M9MgYl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732478ab26b6e5fe2cf84a9423" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Got More</div>
+      <div style="font-size: 11px; color: #586069;">Luniz</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/765Ks9jjFndVzQdCoVLRwB" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b68811a8ff3ee03902ccbb46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kiss You Back - Single Version</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27373a12bdab03e700a12da8764" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fantasy Springs Suite - Music Box Version</div>
       <div style="font-size: 11px; color: #586069;">Tokyo DisneySea</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1MhsX3Cy2bF0dyCzqdy8sN" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326058598f34fac11a14e673a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mickey Mouse March - Orgel Version</div>
-      <div style="font-size: 11px; color: #586069;">Disney Orgel</div>
     </a>
   </div>
 </div>
