@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Get Around</div>
+      <div style="font-size: 11px; color: #586069;">2Pac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1LxcCsgkHJTcUZ7AUorzd2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When There Was Me and You</div>
+      <div style="font-size: 11px; color: #586069;">Vanessa Hudgens</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stick to the Status Quo</div>
@@ -151,20 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27369113161c36fff0c82dc5fe0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Circle of Life Remix</div>
       <div style="font-size: 11px; color: #586069;">Disney Channel Circle of Stars</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0POfR2fCWkw8RXXJyF6ON3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ac6fe7e68924540cd322df1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Travel to the Channel</div>
-      <div style="font-size: 11px; color: #586069;">Amelia Warner</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0uuiqRhAFCQXonRVpPt0SJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c2e4c3fb3de7f369e8d672e1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ミッキーマウス・マーチ - 『ミッキーマウス・クラブ』より</div>
-      <div style="font-size: 11px; color: #586069;">ネバーランド オーケストラ</div>
     </a>
   </div>
 </div>
