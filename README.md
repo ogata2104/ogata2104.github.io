@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/30BkVtZ1E0D9yyNPeuuGpp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273db9829b406a1d2a24674dc38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hawai'i Nei</div>
+      <div style="font-size: 11px; color: #586069;">Hula Mana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3xLu4HORNdjGK33jTnfZmn" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b05c706614c46edbdd68344d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Swan～白鳥～</div>
+      <div style="font-size: 11px; color: #586069;">KALANI</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6p6TjiJHc1kJQt5dXzkdrs" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Dance</div>
+      <div style="font-size: 11px; color: #586069;">CHAD</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1PLSitxhgKGicvJNvDEnPC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730ab074a2d9d3249be06399b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Nearness Of You</div>
+      <div style="font-size: 11px; color: #586069;">Jakob Dinesen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7qT955sFHf4eBtQnHeqdGf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273faefb529b61803c22508e69f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When the Clouds Cleared</div>
+      <div style="font-size: 11px; color: #586069;">Alexander Motovilov</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6krWc5pKFVyuHQCW9H9AIm" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27355d941c1d6a2f8a070093507" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">slow living (a quiet life)</div>
@@ -130,41 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732d2f8265d657ecf51c1519a4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Be Right Here With You</div>
       <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2K0o5myp4ooWIYML2ixUYy" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730bcaaa3b90b1b8daa5a04341" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blue And Sentimental</div>
-      <div style="font-size: 11px; color: #586069;">Oscar Peterson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Vj4eHzcf4SJNtOx2SxWxw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731fb1655c7ebec963808be2f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Soiree</div>
-      <div style="font-size: 11px; color: #586069;">Bill Evans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eac8a44c667fbf0e1dcb4672" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Los Angeles</div>
-      <div style="font-size: 11px; color: #586069;">Saxophonic Soul Art</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5TEwIOAzgwy8pHYfnN5Bhw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b252ec7413541aca4ed899d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sunny San Francisco</div>
-      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/22QZgO76vLjdpZY161iF72" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Ride Home</div>
-      <div style="font-size: 11px; color: #586069;">Magnus Ringblom Quartet</div>
     </a>
   </div>
 </div>
