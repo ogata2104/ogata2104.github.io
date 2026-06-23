@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5rWIO1uP0GwAoU45RTBJ2F" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gotta Go My Own Way</div>
+      <div style="font-size: 11px; color: #586069;">Zac Efron</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4EnwhEyuVrC1CgvSur5YL4" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bet On It</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3waY7uu8cniaQw5Auf0MOp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Are the Music in Me - Sharpay Version</div>
+      <div style="font-size: 11px; color: #586069;">Sharpay Evans</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2XQ1tVtmHNKBOxaCbjYxdn" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Everyday</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6p6TjiJHc1kJQt5dXzkdrs" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Dance</div>
@@ -137,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ecf19a72e24184168d48f521" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Venus and Flower</div>
       <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1s16yZ0cyNAJJT1iUVMwam" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735dc21edad42644ab81612d9a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Want It</div>
-      <div style="font-size: 11px; color: #586069;">Niteflyte</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6dGFXngaaQfXEdDplc9Mds" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317259fa13b927aa70585b2af" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Midnight Bossa</div>
-      <div style="font-size: 11px; color: #586069;">Stephen Jones/Bryan Kessler</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3atFenDUQPPMkkqlULaibT" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ed60f92e0d1144f534629e7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kilakila</div>
-      <div style="font-size: 11px; color: #586069;">Hokulele</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/30BkVtZ1E0D9yyNPeuuGpp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db9829b406a1d2a24674dc38" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hawai'i Nei</div>
-      <div style="font-size: 11px; color: #586069;">Hula Mana</div>
     </a>
   </div>
 </div>
