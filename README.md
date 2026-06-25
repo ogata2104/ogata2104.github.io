@@ -28,6 +28,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1A6MIGnrzAyrtwn3cF28K8" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ad6d42bf97f30cc3a8687c64" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">High Noon</div>
+      <div style="font-size: 11px; color: #586069;">Berezy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/37BcnR5d95P50RLEZ0Mw9i" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273862026a537fdf2923a39fc37" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">New Day</div>
+      <div style="font-size: 11px; color: #586069;">Dani Catalá</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4D1sfEjSVAJd8gFA4gjX4W" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0be3f3e8cf6e7446f8bb5fe" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smooth Sailing</div>
+      <div style="font-size: 11px; color: #586069;">Flowzz</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6YIDs00REQL8RtTb0gqTNm" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273142a3e4cfe65324e437880ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sunny Bossa, Pt. 2</div>
+      <div style="font-size: 11px; color: #586069;">Jonny Wolf</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">New Home (Slowed)</div>
+      <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/011wU0yXPNGYMboKdtYXm9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d2f8265d657ecf51c1519a4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Be Right Here With You</div>
+      <div style="font-size: 11px; color: #586069;">Wendy Marcini</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6lKVN54RDcVc4H5eULZWk6" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f1b6a752fed4fb20624d4bd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Exquisite Mood</div>
+      <div style="font-size: 11px; color: #586069;">Richard Freeman</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2lEQG1h0oDbydovy9mwBFQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Making Sure</div>
@@ -116,55 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2731585041ae9b00a1c2299e6b7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All This And Heaven Too</div>
       <div style="font-size: 11px; color: #586069;">Jackie Gleason</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0KQlYA88cnOftc7SFhWv5U" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Little Life</div>
-      <div style="font-size: 11px; color: #586069;">Robert Gromotka</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6nrNGuWz0ZsV5Xaxaazxgm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ad1937434fcb9d12e74bba3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Near My Heart</div>
-      <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7qT955sFHf4eBtQnHeqdGf" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273faefb529b61803c22508e69f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When the Clouds Cleared</div>
-      <div style="font-size: 11px; color: #586069;">Alexander Motovilov</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/25Q81wJ0xkQ7fBtlcFT58k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737055e14a0f98fc736a2c75f1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mending</div>
-      <div style="font-size: 11px; color: #586069;">时空储蓄罐</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6YXG34IWbilypPwjBTOrUC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Can I Have This Dance</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5sTC1imYc0QzNe3i5snLy7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want It All</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5EBd8sbeMSyIotWaMnR7s4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Right Here, Right Now</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
     </a>
   </div>
 </div>
