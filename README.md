@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6hqfJcRiOmeNUu4WKbOExj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731bd66d51ff6dc6eb4b529d0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Friday Night</div>
+      <div style="font-size: 11px; color: #586069;">Arabesque</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1A6MIGnrzAyrtwn3cF28K8" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ad6d42bf97f30cc3a8687c64" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">High Noon</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ecf19a72e24184168d48f521" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Venus and Flower</div>
       <div style="font-size: 11px; color: #586069;">Austin Farwell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4PBt2nDbL4ynwNKEN4eOD9" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731585041ae9b00a1c2299e6b7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All This And Heaven Too</div>
-      <div style="font-size: 11px; color: #586069;">Jackie Gleason</div>
     </a>
   </div>
 </div>
