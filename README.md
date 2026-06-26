@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0zvmdVqVekWfgqB0Ue3zMp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cd9ae0938b0c0f77947205b9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Happy Birthday</div>
+      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/621nhEiC5LvilndOP27kaE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cd9ae0938b0c0f77947205b9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">欲しくて欲しくてたまらない</div>
+      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6U5Jqs8bYsREVIIza72BET" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cd9ae0938b0c0f77947205b9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">死体置場でロマンスを</div>
+      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/099631AOgjCSzArD03TdRn" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273cd9ae0938b0c0f77947205b9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">愛する女性とのすれ違い</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2731fb1655c7ebec963808be2f9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Soiree</div>
       <div style="font-size: 11px; color: #586069;">Bill Evans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1xDTOcpdMhuSOnJGPcqv4U" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ec6b8c4506445a09df9a9c92" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We Still Share the Same Sky</div>
-      <div style="font-size: 11px; color: #586069;">Koshun Nakao</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/22QZgO76vLjdpZY161iF72" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fdd6832280bf2a9f2e4bc5c3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Last Ride Home</div>
-      <div style="font-size: 11px; color: #586069;">Magnus Ringblom Quartet</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0oqS1n1WiEqpFKwluYB1AU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fd6cf4b4c57941da2b5855ec" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Follow the Flow</div>
-      <div style="font-size: 11px; color: #586069;">Oakwood Station</div>
     </a>
   </div>
 </div>
