@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1nt1JPVRDttBbnF7WIXKPD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d9c907d850cc8126295c0892" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ザ☆ピ～ス！</div>
+      <div style="font-size: 11px; color: #586069;">モーニング娘。</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1wSSMOJoPfziduYY0TcHHH" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dave's Gone Skiing</div>
@@ -91,13 +98,6 @@
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1nt1JPVRDttBbnF7WIXKPD" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d9c907d850cc8126295c0892" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ザ☆ピ～ス！</div>
-      <div style="font-size: 11px; color: #586069;">モーニング娘。</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Remember</div>
@@ -129,13 +129,6 @@
     <a href="https://open.spotify.com/track/1BloNVD30vZ9s8AUdLh6Tx" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2731ded256e12d29de31916592a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mad About You</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5GAHvniPRIYO1vlLj1gwUj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Girl Goodbye</div>
       <div style="font-size: 11px; color: #586069;">TOTO</div>
     </a>
   </div>
