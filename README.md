@@ -28,6 +28,62 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2BittppN9pQG58pQ5f3Jac" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326e348a7c0e1b2aff3a357a6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">MY FLAME</div>
+      <div style="font-size: 11px; color: #586069;">Bobby Caldwell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27334a61a88f4cd0f818519fef8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sunny Side of Heaven</div>
+      <div style="font-size: 11px; color: #586069;">Fleetwood Mac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3kETGXBpOCSESrSOEf6P84" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I'll Supply the Love</div>
+      <div style="font-size: 11px; color: #586069;">TOTO</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3SfgUB5bltOecirPxcevPM" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273391d8b7f4d327cb0ec4f0aef" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love In Exile (feat. Michael McDonald & Kenny Loggins)</div>
+      <div style="font-size: 11px; color: #586069;">Charlie Puth</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ride Like the Wind</div>
+      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby Come Back</div>
+      <div style="font-size: 11px; color: #586069;">Player</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731ea1111bec99a8275b1f40d1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If I Saw You Again (2024 Remaster)</div>
+      <div style="font-size: 11px; color: #586069;">Pages</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1s16yZ0cyNAJJT1iUVMwam" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735dc21edad42644ab81612d9a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Want It</div>
+      <div style="font-size: 11px; color: #586069;">Niteflyte</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Waiting for Your Love</div>
@@ -108,27 +164,6 @@
     <a href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Slipped Away</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Remember</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6h65IMvC7UxaO3JR7KXmAQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gift Of Faith</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2GD5OWfT1wvae1TJ8j6OwU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273678e07fb5b4007149d163d91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Chain My Heart</div>
       <div style="font-size: 11px; color: #586069;">TOTO</div>
     </a>
   </div>
