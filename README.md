@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5xtz9CPuWkLOSqMCEjsUFl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27377df7014495747ff3c0cf807" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rainbow</div>
+      <div style="font-size: 11px; color: #586069;">Madagascar</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5HVQhbMOPj5FVlvPcnMOrE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273485cf1ff637b66cdfb75fd56" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Promised Me</div>
+      <div style="font-size: 11px; color: #586069;">Bobby Caldwell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1WjpWFr8Fc6pRPJUBnXnVp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a85a6e0f6f47f371d45b2203" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Words</div>
+      <div style="font-size: 11px; color: #586069;">Bobby Caldwell</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1htpNHpRttMTa9i5qTNzjT" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736eac52bb605c0e3b302fe1dc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Real Thing</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f6fbbbb38cf512b28847721e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Always Be Your Friend</div>
       <div style="font-size: 11px; color: #586069;">George Duke</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6fgwQgfPMsDnVwEEKe8TuV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6fbbbb38cf512b28847721e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You</div>
-      <div style="font-size: 11px; color: #586069;">George Duke</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273441b1ffeb2dd4bcf8b3b5d95" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sweet Baby</div>
-      <div style="font-size: 11px; color: #586069;">Stanley Clarke</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0vFMdF7dJ1tFviLICcw6yo" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27346d76e5dcad3810835643df1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All Behind Us Now</div>
-      <div style="font-size: 11px; color: #586069;">Patti Austin</div>
     </a>
   </div>
 </div>
