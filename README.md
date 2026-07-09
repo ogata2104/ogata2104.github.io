@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/77iYUTQJJ8xMps7ZdGETQX" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273742fcf04973444bb1ff06069" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Give Me Your Love</div>
+      <div style="font-size: 11px; color: #586069;">George Duke</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4L7vXannxnwhcLTRHY7f6I" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273742fcf04973444bb1ff06069" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Born to Love You</div>
+      <div style="font-size: 11px; color: #586069;">George Duke</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4WqwMUIbYUxPokMnv5zvpz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6fbbbb38cf512b28847721e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Will Always Be Your Friend</div>
+      <div style="font-size: 11px; color: #586069;">George Duke</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6fgwQgfPMsDnVwEEKe8TuV" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6fbbbb38cf512b28847721e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You</div>
+      <div style="font-size: 11px; color: #586069;">George Duke</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273441b1ffeb2dd4bcf8b3b5d95" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sweet Baby</div>
@@ -137,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">All About The Heaven</div>
       <div style="font-size: 11px; color: #586069;">The Brothers Johnson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JoJo (2023 Remaster)</div>
-      <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Keep Forgettin' (Every Time You're Near)</div>
-      <div style="font-size: 11px; color: #586069;">Michael McDonald</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Is It You</div>
-      <div style="font-size: 11px; color: #586069;">Lee Ritenour</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27306fcef1522850ea2c72173ec" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Steal Away</div>
-      <div style="font-size: 11px; color: #586069;">Robbie Dupree</div>
     </a>
   </div>
 </div>
