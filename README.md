@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Foolish Heart</div>
+      <div style="font-size: 11px; color: #586069;">Steve Perry</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I.G.Y.</div>
+      <div style="font-size: 11px; color: #586069;">Donald Fagen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/0JhbLjl7X6nRJsPpOU0ZFL" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2731ae7c28703d2a19b275b1696" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Promises</div>
@@ -151,20 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Is It You</div>
       <div style="font-size: 11px; color: #586069;">Lee Ritenour</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3DQqvasKKE5RQUCfzr6qQB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Mr. Briefcase</div>
-      <div style="font-size: 11px; color: #586069;">Lee Ritenour</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27327f0c011c7803aba0eb09ffd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">After All</div>
-      <div style="font-size: 11px; color: #586069;">Al Jarreau</div>
     </a>
   </div>
 </div>
