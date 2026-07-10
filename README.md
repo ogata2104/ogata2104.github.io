@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/25pl7kV4OxafIc9wPAggYf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27396c3a9e140c8ff0ab0d8a91e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So What'Cha Want</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Brass Monkey</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Intergalactic - Remastered 2009</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fight For Your Right</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No Sleep Till Brooklyn</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3FD0RyHoYObYJkBIDGra4W" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf1e0fa29379286a6368b65e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sukiyaki - Remastered 2002</div>
+      <div style="font-size: 11px; color: #586069;">A Taste Of Honey</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lately</div>
@@ -123,48 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Your Secret's Safe with Me</div>
       <div style="font-size: 11px; color: #586069;">Michael Franks</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7fxOV4TCgBZJn2jISGL2Yl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d06ddb0a3c7d6b3fbc14da" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Spice Of Life</div>
-      <div style="font-size: 11px; color: #586069;">The Manhattan Transfer</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7lgtgwRvYgvCryZLrhSOIJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371e869f586bc65582c408234" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">On The Boulevard</div>
-      <div style="font-size: 11px; color: #586069;">The Manhattan Transfer</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4H6EV7soFKhurMK2CFfpmM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371e869f586bc65582c408234" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Boy From New York City</div>
-      <div style="font-size: 11px; color: #586069;">The Manhattan Transfer</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c98c02863cc1238f5e6b66db" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Daylight</div>
-      <div style="font-size: 11px; color: #586069;">Sérgio Mendes</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b954d94eb8494a8885aab7f5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">For You</div>
-      <div style="font-size: 11px; color: #586069;">Dionne Warwick</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2q4CJqgmkZmnUlgcvjsWFo" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f55d776119986ebde2108bb5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Every Now and Then</div>
-      <div style="font-size: 11px; color: #586069;">Earth, Wind & Fire</div>
     </a>
   </div>
 </div>
