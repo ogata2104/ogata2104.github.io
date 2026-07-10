@@ -70,6 +70,13 @@
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JoJo (2023 Remaster)</div>
+      <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lately</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When I Give My Love to You (with Brenda Russell)</div>
-      <div style="font-size: 11px; color: #586069;">Michael Franks</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4y5yv6CQuJLgPMztYpwpMV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Your Secret's Safe with Me</div>
       <div style="font-size: 11px; color: #586069;">Michael Franks</div>
     </a>
   </div>
