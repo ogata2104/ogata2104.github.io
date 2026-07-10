@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In Your Eyes</div>
+      <div style="font-size: 11px; color: #586069;">George Benson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lady Love Me (One More Time)</div>
+      <div style="font-size: 11px; color: #586069;">George Benson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/531WKj4iGaoaXNyzkmJEKk" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ed5e699b53189c3dc9b52f7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Buttercup</div>
+      <div style="font-size: 11px; color: #586069;">Carl Anderson</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273192f3a588427f2cbf8365506" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hard Habit to Break - 2006 Remaster</div>
+      <div style="font-size: 11px; color: #586069;">Chicago</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7vTCvq2hVIdUldS1UkZdFW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Let Me Count the Ways</div>
+      <div style="font-size: 11px; color: #586069;">Michael Franks</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When I Give My Love to You (with Brenda Russell)</div>
+      <div style="font-size: 11px; color: #586069;">Michael Franks</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4y5yv6CQuJLgPMztYpwpMV" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Your Secret's Safe with Me</div>
@@ -123,48 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27321bcfda2057bef8585a47ad1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">It Might Be You (Theme from Tootsie)</div>
       <div style="font-size: 11px; color: #586069;">Stephen Bishop</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2TQaMcc3BEAF5Srn7FCipl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736afc4f02ec3671dcec45f788" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Always</div>
-      <div style="font-size: 11px; color: #586069;">Atlantic Starr</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bdbb936aeda188debe62e187" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Groovy Kind of Love</div>
-      <div style="font-size: 11px; color: #586069;">Phil Collins</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1BnjEwG1ag6lZDAaBz2pQs" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a0460bbb4c450c5f4f046b4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Want to Talk About It</div>
-      <div style="font-size: 11px; color: #586069;">Everything But The Girl</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5xtz9CPuWkLOSqMCEjsUFl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27377df7014495747ff3c0cf807" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rainbow</div>
-      <div style="font-size: 11px; color: #586069;">Madagascar</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5HVQhbMOPj5FVlvPcnMOrE" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273485cf1ff637b66cdfb75fd56" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Promised Me</div>
-      <div style="font-size: 11px; color: #586069;">Bobby Caldwell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1WjpWFr8Fc6pRPJUBnXnVp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a85a6e0f6f47f371d45b2203" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Words</div>
-      <div style="font-size: 11px; color: #586069;">Bobby Caldwell</div>
     </a>
   </div>
 </div>
