@@ -28,6 +28,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2j9G9EyYIGcniPASYM3Isw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273208f1bd1f840579dd1d3e451" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Namaste - Alternate Mix / No Vocals</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5zds8OwbyEDOKa80iZXBpv" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Something's Got To Give - Remastered 2009</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3ExxtdcjB0yEEJjTRsIsGA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378fdea2d790fe6c4270f46c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Off The Grid</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5y2DNYd6IgGsUngmYBCjLR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e74be9db7b9f1b124c2b63b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Nervous Assistant</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/695lFi6VENVLZrCa2t5qDC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ok</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3kslK9YKu8RQPUxybRqyuw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Blue Nun - Remastered 2009</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7lLFeBihJt66XnXtvo32vr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378fdea2d790fe6c4270f46c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Freaky Hijiki</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5cZx9LLYymEjEKjx9auvpR" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e74be9db7b9f1b124c2b63b0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Can't Think Straight</div>
@@ -115,48 +164,6 @@
     <a href="https://open.spotify.com/track/5JFPwVVxXbCym9ftXMa2Ii" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Play No Game That I Can't Win</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4QxNOusjQrH0RfZJ5Yl7XK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dirty Dog - Remastered 2009</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4eIfmbGZy21bvnBLHSf7DE" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Pass The Mic - Remastered 2009</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6yKldTTcSa2BdpKPEtdYp3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rhymin & Stealin</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4Hw2PMgu7y4FHUReIz1Hld" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sabrosa</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5ulZo7nk3MByXLvja3NCAc" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hey Ladies</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Know - Remastered 2009</div>
       <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
     </a>
   </div>
