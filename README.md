@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1y3PKZ3ZCVXLlmW9hoC7yT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273230a41197f0a12a674c40a7a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lagos Sundown</div>
+      <div style="font-size: 11px; color: #586069;">Nsikak David</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2j9G9EyYIGcniPASYM3Isw" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273208f1bd1f840579dd1d3e451" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Namaste - Alternate Mix / No Vocals</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/67wjzKe19et4fvb7ID6zAu" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Triple Trouble</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5JFPwVVxXbCym9ftXMa2Ii" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Play No Game That I Can't Win</div>
       <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
     </a>
   </div>
