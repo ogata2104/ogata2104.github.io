@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7HwJk84TKzcb5NZgia1pbr" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">地上の楽園</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4biDd6gMxJMQ3y5lubRhLj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">100年先もアイ ラヴ ユー</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6QOqQWBg6ySpGBPjaS8yxQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">時計を捨てて ～Throw Away～</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1PanwS2qa2wDAw2XLXMy8Z" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">夢の底で</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4mmVaNqLLGg8GJIu2EXlXz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">私のせい ～It's My Fault～</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5c4Fj5aoH9XardNMUf2Kwf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">もしも ～If～</div>
+      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/284ycuNy6iUwQXhKvrFdRh" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">MAGIC - 2024 Remix</div>
@@ -122,48 +164,6 @@
     <a href="https://open.spotify.com/track/2t0AK48Au5ouezLZH4aSsr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Larry Routine</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7B3LY1Y4I1EMlt73NHCpts" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Groove Holmes - Remastered 2009</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1qdssTVAs5221er4aq0Rhd" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378fdea2d790fe6c4270f46c4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Electric Worm</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/033N3Mf87ODmORg6YO61cm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Sounds Of Science</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7lEuHpMyKtyWqqNFZXS70w" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Move - Remastered 2009</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7G7JZECVScySAqBhgO8C3k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Gratitude - Remastered 2009</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2UUDZ6JE4Hn2fHwP6Jdc6D" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Multilateral Nuclear Disarmament</div>
       <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
     </a>
   </div>
