@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Move</div>
+      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0onxAgb0IFzPdzZh947SWj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Haunted</div>
+      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wife</div>
+      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Egg Man</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1OIigmKerSiw9creKBH0UH" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Body Movin' - Remastered 2009</div>
@@ -136,34 +164,6 @@
     <a href="https://open.spotify.com/track/7HwJk84TKzcb5NZgia1pbr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">地上の楽園</div>
-      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4biDd6gMxJMQ3y5lubRhLj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">100年先もアイ ラヴ ユー</div>
-      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6QOqQWBg6ySpGBPjaS8yxQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">時計を捨てて ～Throw Away～</div>
-      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1PanwS2qa2wDAw2XLXMy8Z" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">夢の底で</div>
-      <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4mmVaNqLLGg8GJIu2EXlXz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273758e69e3c80a2a688089cf46" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">私のせい ～It's My Fault～</div>
       <div style="font-size: 11px; color: #586069;">ザ・カミングスーン！</div>
     </a>
   </div>
