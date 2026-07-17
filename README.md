@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27366b2c9a6157ecfb59cc137ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moody's Mood For Love (I'm In The Mood For Love)</div>
+      <div style="font-size: 11px; color: #586069;">Quincy Jones</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4B3yIidYWtQReo42uk0fxw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7dab8955f565fa4cbaafd35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Every Time You Go Away</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0pCDds54QUooGedfpHUjtW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273115d59d26ffeafc266f9e65c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Of My Life</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1w9HWnbyYAElL3fQJbmxWK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27388a6a829fa9b7e8e6ec9d63d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Find Myself in You</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273a6c1c312855e03e4c04d79d5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Technologic - Radio Edit</div>
       <div style="font-size: 11px; color: #586069;">Daft Punk</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4O9LSxKLMIhFOml6q2UrRg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whiteout</div>
-      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0EACt1BrfOE7mNMoqdbQnI" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Split Spirit - META Version</div>
-      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/01wV1c5AiiqNUp9sv7b1RF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">W.G.S.F.</div>
-      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
     </a>
   </div>
 </div>
