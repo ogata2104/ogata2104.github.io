@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/45rSyBbqR50gmotKbMwv6n" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Yes-No</div>
+      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4WJacyP8aAnL8lhpl2cItl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">YOU</div>
+      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1bPp2027YOtZ5xH1cwQCjF" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c3ab0bb40606264be1c07a6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Still In Love</div>
+      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27366b2c9a6157ecfb59cc137ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moody's Mood For Love (I'm In The Mood For Love)</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e9da8645c59d76e7f35dff6e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Back At One</div>
       <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0wnfS7FR0VgxkmUSjp3R5X" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362b691547ee48412f0200086" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Distant Lover</div>
-      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27319a88dd5c7118e87d7b1619e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]</div>
-      <div style="font-size: 11px; color: #586069;">Daft Punk</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6qIqFdJ8gIXphYO5GkXR1l" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a6c1c312855e03e4c04d79d5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Technologic - Radio Edit</div>
-      <div style="font-size: 11px; color: #586069;">Daft Punk</div>
     </a>
   </div>
 </div>
