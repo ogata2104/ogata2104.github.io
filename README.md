@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/347JY4udFliUOa1XK8FmUC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273afb03691622cd8f4c5b903fc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">たぶん女の子。</div>
+      <div style="font-size: 11px; color: #586069;">mono.</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/21zo2EKYIX0sqiEIj2iLgo" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27394ef433941a0eec378912047" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">アイスは飲み物</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/2pdIJF8xM2w7CMutdAKQWV" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273115d59d26ffeafc266f9e65c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Still</div>
-      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4FxaltcOJFl8X3gvP71NNB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273485b28ede64e8da8a73c38be" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Anytime</div>
       <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
     </a>
   </div>
