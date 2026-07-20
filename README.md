@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6bru6dNja1ThPfF95kKvic" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf393f091de8b7ef55ec04ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">アナーキー・イン・ザ・JAP.</div>
+      <div style="font-size: 11px; color: #586069;">Seiko Ito</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wife</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273d8dd6f955fa0d5d82fdf6d14" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Only One For Me</div>
       <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2TXyiwnpA1gS25Y74s0sfR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730dd4c9a356a10dac7ed6d49d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Whenever You Call</div>
-      <div style="font-size: 11px; color: #586069;">Mariah Carey</div>
     </a>
   </div>
 </div>
