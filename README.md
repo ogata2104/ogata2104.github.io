@@ -28,6 +28,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Something In The Way</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2xIlEsioAFODKpsVgVNrrQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">On A Plain</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0w7k0ZhHzkfEBsDmwp49xA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stay Away</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1o5jmMhhk2UZ9YP1X5fXfj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lounge Act</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0bTLGlCqwZXwJGWGE2Dywg" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Drain You</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6oZYLz0vZy8HhqwioRYtTp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Territorial Pissings</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Polly</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5vHLwhxxlGzmClMcxRRFPr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lithium</div>
@@ -116,55 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273f79aa2e7147617256bee81c7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">LOVEマシーン</div>
       <div style="font-size: 11px; color: #586069;">モーニング娘。</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4QZWs2Kcs5kUFEJR0eBeZh" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">恋におちて-Fall in Love-</div>
-      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/45rSyBbqR50gmotKbMwv6n" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Yes-No</div>
-      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4WJacyP8aAnL8lhpl2cItl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">YOU</div>
-      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1bPp2027YOtZ5xH1cwQCjF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c3ab0bb40606264be1c07a6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Still In Love</div>
-      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27366b2c9a6157ecfb59cc137ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Moody's Mood For Love (I'm In The Mood For Love)</div>
-      <div style="font-size: 11px; color: #586069;">Quincy Jones</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4B3yIidYWtQReo42uk0fxw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e7dab8955f565fa4cbaafd35" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Every Time You Go Away</div>
-      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0pCDds54QUooGedfpHUjtW" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273115d59d26ffeafc266f9e65c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Love Of My Life</div>
-      <div style="font-size: 11px; color: #586069;">Brian McKnight</div>
     </a>
   </div>
 </div>
