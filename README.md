@@ -28,27 +28,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2mvffzYUJ9Ld9xhsF5DUjU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In Bloom</div>
-      <div style="font-size: 11px; color: #586069;">Nirvana</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smells Like Teen Spirit</div>
-      <div style="font-size: 11px; color: #586069;">Nirvana</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Something In The Way</div>
-      <div style="font-size: 11px; color: #586069;">Nirvana</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2xIlEsioAFODKpsVgVNrrQ" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">On A Plain</div>
@@ -112,45 +91,24 @@
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6eN20qYKGWJH7mj4wqZI5P" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f869d702c595975924314ee8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">アジアの純真</div>
-      <div style="font-size: 11px; color: #586069;">Puffy AmiYumi</div>
+    <a href="https://open.spotify.com/track/2mvffzYUJ9Ld9xhsF5DUjU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">In Bloom</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3XdStlaHnq3JrmQDCRqEET" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e2c64575c0f7a54fbe315034" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">アジアの純真</div>
-      <div style="font-size: 11px; color: #586069;">Yosui Inoue</div>
+    <a href="https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smells Like Teen Spirit</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0io3iIOuSVhIVlx8RFPslZ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734490acf84255343a52264642" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Robot High School</div>
-      <div style="font-size: 11px; color: #586069;">My Robot Friend</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6bru6dNja1ThPfF95kKvic" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf393f091de8b7ef55ec04ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">アナーキー・イン・ザ・JAP.</div>
-      <div style="font-size: 11px; color: #586069;">Seiko Ito</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wife</div>
-      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/347JY4udFliUOa1XK8FmUC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273afb03691622cd8f4c5b903fc" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">たぶん女の子。</div>
-      <div style="font-size: 11px; color: #586069;">mono.</div>
+    <a href="https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Something In The Way</div>
+      <div style="font-size: 11px; color: #586069;">Nirvana</div>
     </a>
   </div>
 </div>
