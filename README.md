@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5GOo5zZr6L1fLdNf3u4ESq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731daa9b33308e483fa793b2c0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">きみと生きたい</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4l4kJxAFIaODvJqS5ObwDf" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ac930dd20d652351e752bf93" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">AVEC</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/54h9qgJ1dKeLTEeS2eyy9P" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27390ef4ef5baa59be37f5fe203" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fresh Edge</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5NwIENegQyssQIO2gtrsJU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731daa9b33308e483fa793b2c0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">格好悪いふられ方</div>
       <div style="font-size: 11px; color: #586069;">Senri Oe</div>
     </a>
   </div>
