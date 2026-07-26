@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0SIkiJJIOg82XUU33GlIys" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b16bfdbb2080697e5cda4410" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">プールサイド</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5vcP38t2g3UbIVs9Oq2JPM" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ac930dd20d652351e752bf93" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BOY MEETS GIRL</div>
@@ -136,13 +143,6 @@
     <a href="https://open.spotify.com/track/2jLfn5cmRLQOWWX64OroKM" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27343ee7855bda4a3d7dc80661a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ふたつの宿題 (シングル・バージョン)</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2ZeybBxUEPvh6mtYcxFEE2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe5ad8c93111b04652c61211" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ありがとう</div>
       <div style="font-size: 11px; color: #586069;">Senri Oe</div>
     </a>
   </div>
