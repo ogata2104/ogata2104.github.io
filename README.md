@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4nq5N14KVACSLeRAFNbdTj" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736fa874ec3300967b88211d51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">COWBOY BLUES</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/60UYIrKPN4S0O8WI0Bkm7O" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bb7a831c3b8b119dcf061e1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Lauro De Freitas</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4Ek7nDQwYjdeRierqdLCld" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2f3ae400ee91abd767814cf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bikini</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4KHz91jGjwxIwBCxenMW1P" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273321acd50478685992e11cee7" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">10 People, 10 Colors</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ZxQVC6SPuKJEebovASgyJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736fa874ec3300967b88211d51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">あいたい</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5BD2Io66MPpIzjjbE7JuMz" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733ed0afddff7532a96ad7beb2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I LOVE YOU</div>
@@ -101,34 +136,6 @@
     <a href="https://open.spotify.com/track/3ypzA3Khp1NOmAhJws8cXb" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736b05826a005e684dd58bc7e3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">これから</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6zluvC2j6PfPkrbiFv0knQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27321ca51d819f592f52477526e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">向こうみずな瞳</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2RKx9dpaRTzah1zgV0SBjy" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e178721996a8add476afd81e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">贅沢なペイン</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7Em5qHxZI04X9ft8aU8YV4" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b05826a005e684dd58bc7e3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">舞子 VILLA Beach</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0gQIvEWdFDq195ys9aI9r9" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336c9f7855b36168a534ec60f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ROLLING BOYS IN TOWN</div>
       <div style="font-size: 11px; color: #586069;">Senri Oe</div>
     </a>
   </div>
