@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/22sd448RrenaGTbEj3inkT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273506279319686879a37f63b8e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Souldiers</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3W9sZIOxCGzjhkbvVwY6FR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386628437e658007a12d21be1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Anything For You</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7dCL6U5sQXNdxiO2zvIbZK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737d562b2cee105d35415104e9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Forget Me Not</div>
@@ -150,20 +164,6 @@
     <a href="https://open.spotify.com/track/2hzPnxfpFtVlYU9TM7d2Do" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27331c6ee028a63766a9a1987d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Heaven's Kitchen</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Q3yy3AwyKPvnlX33C1vZw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7732810f5fa49188a631bd0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">真夏の果実</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3dJPWIxny4Iym4RN5ja7SY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273506279319686879a37f63b8e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Thinking Of You</div>
       <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
     </a>
   </div>
