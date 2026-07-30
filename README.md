@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/34hs2gY2ft4coCPumOoJ35" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c2eba618a9814bbd5875a3f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">犬と月</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0KIhOmNRBinifE7d8wagok" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273506279319686879a37f63b8e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">眠れない夜</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6WttQGy4cLqS8Mzjpo9Tes" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733941c824d6ced87654636374" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">流れ星</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6OvOhXKMPMaIhX9UNFIgJe" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7fad1bcdbc8babc2f289529" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So Wonderful</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7A5xkdxY9TJc7w9DVfFujR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739495badc920f1e3914151a0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">街の名前</div>
+      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6yRSWK9JYgOo3XpaWbowrj" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737d562b2cee105d35415104e9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Evil and Flowers</div>
@@ -129,34 +164,6 @@
     <a href="https://open.spotify.com/track/7lBgaUSwygt8c8XOIJJL4q" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27386628437e658007a12d21be1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Water Me</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4M22AwOhh6uy61ccDnqUYR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738db3f54b6900a38ccb9e4d4a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tonight, the Night</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ch-Check It Out</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1Js5GWuhTvbhAZbZO3uarw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731daa9b33308e483fa793b2c0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">おねがい天国</div>
-      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273043adab183bed2a7c7dc6923" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Like Gravity</div>
       <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
     </a>
   </div>
