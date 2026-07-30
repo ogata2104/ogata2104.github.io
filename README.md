@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Ch-Check It Out</div>
+      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4WfSJqAtvblINo6I2vmpBu" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27368d995345533c5ec98fe305d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Is This Love?</div>
@@ -157,13 +164,6 @@
     <a href="https://open.spotify.com/track/6yRSWK9JYgOo3XpaWbowrj" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737d562b2cee105d35415104e9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Evil and Flowers</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/64uQGzcMDjcQcWoQpy7bEb" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7fad1bcdbc8babc2f289529" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Cotton Candy</div>
       <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
     </a>
   </div>
