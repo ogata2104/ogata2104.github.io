@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6ZvTqBPdKw6ynie8oiDT7I" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27327ce593b0458b4da5197cd91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Really into You</div>
+      <div style="font-size: 11px; color: #586069;">Around The Way</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27360556cde84e639823d4ad7ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">タッチ</div>
+      <div style="font-size: 11px; color: #586069;">Jake Shimabukuro</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5WdfB8ebfuohNuPBTVGu09" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739662b5d7e90e2e3ae75a8c51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">E Ku'u Morning Dew</div>
@@ -143,20 +157,6 @@
     <a href="https://open.spotify.com/track/6LFBQo7sM3KsET3Vq3kwBF" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738db3f54b6900a38ccb9e4d4a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Need You</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4fvkZszNefW12XcmzfdkgP" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732951d68a4cb95d5aa3a264bb" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Like a Tattoo</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6YlObcTSiEdKArkjGmp8Ic" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737a1c35f6ee244f8ace7a9e84" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">フューシャ フューシャ フューシャ</div>
       <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
     </a>
   </div>
