@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7uOlL4oeW3SrMugsYr8xZu" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736fa60e4e9dbf48724829a51f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Always in My Heart</div>
+      <div style="font-size: 11px; color: #586069;">Los Indios Tabajaras</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0PCsoBkQzwHqeVI2rzXyHt" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733cf7edaebb189a0d89842941" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Hui Hou</div>
+      <div style="font-size: 11px; color: #586069;">Makana</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3viBJmRKg7lkCiYrVzAIGO" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730ed81270ea50d9e67fd42b17" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Chotto Matte Kudasai</div>
+      <div style="font-size: 11px; color: #586069;">Herb Ohta (Ohta-San)</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27309947771487664df91a69510" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">イン・マイ・ライフ</div>
+      <div style="font-size: 11px; color: #586069;">Jake Shimabukuro</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27326482efae3b263ac57de446d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Kalena Kai (feat. George Winston)</div>
@@ -129,41 +157,6 @@
     <a href="https://open.spotify.com/track/7dCL6U5sQXNdxiO2zvIbZK" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737d562b2cee105d35415104e9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Forget Me Not</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/34hs2gY2ft4coCPumOoJ35" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c2eba618a9814bbd5875a3f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">犬と月</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0KIhOmNRBinifE7d8wagok" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273506279319686879a37f63b8e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">眠れない夜</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6WttQGy4cLqS8Mzjpo9Tes" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733941c824d6ced87654636374" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">流れ星</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6OvOhXKMPMaIhX9UNFIgJe" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7fad1bcdbc8babc2f289529" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">So Wonderful</div>
-      <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7A5xkdxY9TJc7w9DVfFujR" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739495badc920f1e3914151a0d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">街の名前</div>
       <div style="font-size: 11px; color: #586069;">BONNIE PINK</div>
     </a>
   </div>
