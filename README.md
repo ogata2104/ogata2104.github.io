@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/42X4sVx9JnwU7lKePdDagu" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dcb1b2685f24510190aeedf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">プライド</div>
+      <div style="font-size: 11px; color: #586069;">森川美穂</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0fUbKXhXkhBhMZx8a41NtF" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dcb1b2685f24510190aeedf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">おんなになあれ</div>
+      <div style="font-size: 11px; color: #586069;">森川美穂</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0Ofk5Tf2twB9DBy4JOIq9A" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dcb1b2685f24510190aeedf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">姫様ズーム・イン</div>
+      <div style="font-size: 11px; color: #586069;">森川美穂</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5tyYIRsPSrEeyZH3y14bXW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf0644869a170a45e2281b5a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sidewalk Daisy</div>
+      <div style="font-size: 11px; color: #586069;">Jos</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5JwqXCGSvQMGhN9acSu7w3" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737c74693a3d8847f0ad62ced5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Smokey-Eyed Darling</div>
@@ -137,34 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27321ca51d819f592f52477526e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">WE ARE TRAVELLIN' BAND</div>
       <div style="font-size: 11px; color: #586069;">Senri Oe</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/759c8iDFYOtthJJ7ZaVuyv" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">If You Belong to Me</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Egg Man</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27306fcef1522850ea2c72173ec" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Steal Away</div>
-      <div style="font-size: 11px; color: #586069;">Robbie Dupree</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733414ea69249376598e7d1700" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sailing</div>
-      <div style="font-size: 11px; color: #586069;">Christopher Cross</div>
     </a>
   </div>
 </div>
