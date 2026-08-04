@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4wC9F4ykpyYjOLJpVhqfvo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738c4999a6de085d2bd04df1d9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SUNDAY BRUNCH</div>
+      <div style="font-size: 11px; color: #586069;">Kanako Wada</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0Wh8hyqkvxEwB8TWVKBVnE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27309626051fff7098acfafefd0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ふたりの夏物語-NEVER ENDING SUMMER-</div>
+      <div style="font-size: 11px; color: #586069;">S. Kiyotaka & Omega Tribe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7jRs0CvNctNBNH1roANQdY" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2739e9ceac980e4b6b59a766f8b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Michael Jackson x Mark Ronson: Diamonds are Invincible</div>
@@ -151,20 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e71efa8c6cfc1f8b39b0bdab" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">No One Emotion</div>
       <div style="font-size: 11px; color: #586069;">George Benson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6xOaLcoRoK00G3jeZ2B69P" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730709ed3b72bef3819e67c311" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Way It Is</div>
-      <div style="font-size: 11px; color: #586069;">Donavon Frankenreiter</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/76GvyqUL1HLouEqoPvfi7a" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6952c247e22491c61f17d66" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Baby You're Mine</div>
-      <div style="font-size: 11px; color: #586069;">Basia</div>
     </a>
   </div>
 </div>
