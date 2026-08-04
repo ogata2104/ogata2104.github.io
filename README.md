@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2ZeybBxUEPvh6mtYcxFEE2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fe5ad8c93111b04652c61211" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ありがとう</div>
+      <div style="font-size: 11px; color: #586069;">Senri Oe</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/21gl0Cb77euaGU0QovftuL" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fe5ad8c93111b04652c61211" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HONEST</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Off the Wall</div>
       <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Popular</div>
-      <div style="font-size: 11px; color: #586069;">Ariana Grande</div>
     </a>
   </div>
 </div>
