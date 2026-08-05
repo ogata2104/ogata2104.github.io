@@ -28,6 +28,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c7d7cdad0c2ffa5620129ee8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Karma Chameleon - Remastered 2002</div>
+      <div style="font-size: 11px; color: #586069;">Culture Club</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6tzA38iQ5WtQvXDItQqzSa" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731cf5a7074796f4cc5b1fa6fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Luv Vibration</div>
+      <div style="font-size: 11px; color: #586069;">SPEED</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1Gz7GzKVAZ8U1EvyyGp304" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731cf5a7074796f4cc5b1fa6fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Body & Soul</div>
+      <div style="font-size: 11px; color: #586069;">SPEED</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2730979148729dbe13a648e560e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Slow Nights</div>
@@ -144,27 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Africa</div>
       <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">P.Y.T. (Pretty Young Thing)</div>
-      <div style="font-size: 11px; color: #586069;">Michael Jackson</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2ASr6Pe5XaxA5Rs2kG0okB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730b79b6f7e04c0a85be047280" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dreamin' You</div>
-      <div style="font-size: 11px; color: #586069;">Heatwave</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Laughter In The Rain</div>
-      <div style="font-size: 11px; color: #586069;">Neil Sedaka</div>
     </a>
   </div>
 </div>
