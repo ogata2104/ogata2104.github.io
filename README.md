@@ -28,6 +28,55 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4gqjxYiEorFk0y9b92uFdE" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bop To The Top</div>
+      <div style="font-size: 11px; color: #586069;">Lucas Grabeel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1LxcCsgkHJTcUZ7AUorzd2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When There Was Me and You</div>
+      <div style="font-size: 11px; color: #586069;">Vanessa Hudgens</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stick to the Status Quo</div>
+      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7I60v3Ctgf1eMefMc69zAo" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What I've Been Looking For (Reprise)</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What I've Been Looking For</div>
+      <div style="font-size: 11px; color: #586069;">Lucas Grabeel</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3sT37kCEpxM1zQ8s98i7ps" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Get'cha Head In The Game</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Start of Something New</div>
+      <div style="font-size: 11px; color: #586069;">Troy</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/7J2Oy8QVCd5DWMMnBuDzd0" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27338f0c153791525cef4c55410" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Time (Clock Of The Heart)</div>
@@ -116,55 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27319a88dd5c7118e87d7b1619e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]</div>
       <div style="font-size: 11px; color: #586069;">Daft Punk</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/48C0RtvRHwP1Wy881swQ5N" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731ae7c28703d2a19b275b1696" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Astrud</div>
-      <div style="font-size: 11px; color: #586069;">Basia</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/02HtMmMgd4SYJx76Alv71n" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27347759d8dbefa2d73c988b88a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fallen</div>
-      <div style="font-size: 11px; color: #586069;">Lauren Wood</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">When I Give My Love to You (with Brenda Russell)</div>
-      <div style="font-size: 11px; color: #586069;">Michael Franks</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735a6357792a55e722b4bcb712" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We're in This Love Together</div>
-      <div style="font-size: 11px; color: #586069;">Al Jarreau</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2j9G9EyYIGcniPASYM3Isw" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273208f1bd1f840579dd1d3e451" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Namaste - Alternate Mix / No Vocals</div>
-      <div style="font-size: 11px; color: #586069;">Beastie Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Danger Zone - From "Top Gun" Original Soundtrack</div>
-      <div style="font-size: 11px; color: #586069;">Kenny Loggins</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3zLKIwcBSnh2i4TN65iPgB" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27353d3f53e340b1124df75285d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">A Night to Remember (Single Version)</div>
-      <div style="font-size: 11px; color: #586069;">Shalamar</div>
     </a>
   </div>
 </div>
