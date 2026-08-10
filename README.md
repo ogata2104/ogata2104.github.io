@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343ea9e1f2ebeb01786d83676" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">TSUNAMI</div>
+      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6JaV1yGskfh2233HS1C316" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d4988572caf482cc499efec6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">夏の思い出</div>
+      <div style="font-size: 11px; color: #586069;">Ketsumeishi</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1j1k4kh1UgHKbxWW2H7RYp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e3e785b1d40d366185d7908" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">GO GO サマー！</div>
+      <div style="font-size: 11px; color: #586069;">KARA</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2wM6p1hW8uhr1ERwap0geJ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343e6f40ffba3a172ffd5d45b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ミュージック・アワー</div>
+      <div style="font-size: 11px; color: #586069;">PornoGraffitti</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7tkfkqKfWtU1GIoV9IY9rQ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362b350e49b279e56558f0096" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">気分上々↑↑</div>
+      <div style="font-size: 11px; color: #586069;">Mihimaru GT</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6dvvId7aLlH52O98GzYuWH" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0e18055f07bbbacceeabbff" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">夏色</div>
+      <div style="font-size: 11px; color: #586069;">YUZU</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/18H4zvdWwqVLf3m2iBuSln" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27317b1e169791e12fdbba84b8c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">気まぐれロマンティック</div>
@@ -123,48 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Don't Dance</div>
       <div style="font-size: 11px; color: #586069;">CHAD</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">You Are the Music in Me</div>
-      <div style="font-size: 11px; color: #586069;">Troy</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4k9EAtZdZrzPlBUsFncXCZ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Work This Out</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Fabulous</div>
-      <div style="font-size: 11px; color: #586069;">Sharpay Evans</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6NqfslFfCCOyBQ0Xw8kN8E" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">What Time Is It</div>
-      <div style="font-size: 11px; color: #586069;">Zac Efron</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">We're All In This Together</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Breaking Free</div>
-      <div style="font-size: 11px; color: #586069;">Troy</div>
     </a>
   </div>
 </div>
