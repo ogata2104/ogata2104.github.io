@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5F8fHuCHKoETWtkSFv2rFd" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733d231d8d10e54243ef79e806" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">フラワー</div>
+      <div style="font-size: 11px; color: #586069;">KinKi Kids</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b23ac720180e95d852f8d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">サマータイムシンデレラ</div>
+      <div style="font-size: 11px; color: #586069;">Ryokuoushoku Shakai</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273783ed3c2af46af7ab7c671c0" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">高嶺の花子さん</div>
+      <div style="font-size: 11px; color: #586069;">back number</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5lyfW4Q2rDarzlpnh09BYW" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d57c7bcb5c47dec8e0963ed3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">世界でいちばん熱い夏</div>
+      <div style="font-size: 11px; color: #586069;">PRINCESS PRINCESS</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6milBOzMt8xdFNp2afaMng" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f16dfa92a39dbe70032c3010" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ナツノオワリ</div>
+      <div style="font-size: 11px; color: #586069;">Shota Shimizu</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732814571b49ebfdf9935f6e55" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ココロオドル -original version-</div>
@@ -123,48 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273eab458c4647fb0df6aaa36e1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SUMMER SONG</div>
       <div style="font-size: 11px; color: #586069;">YUI</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273544c990ccc4e0b0a1ad6bb3a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">青と夏</div>
-      <div style="font-size: 11px; color: #586069;">Mrs. GREEN APPLE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/28lzJcFE5mEwL9BkxQ4CrQ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de9d193c6087fdcdf6b2f98a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HOT LIMIT</div>
-      <div style="font-size: 11px; color: #586069;">T.M.Revolution</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2hZOV9kmeZZhbyir7Rfimk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273803ce74068d75bd03bf94fca" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">上海ハニー</div>
-      <div style="font-size: 11px; color: #586069;">ORANGE RANGE</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393cb85b25ebdf661a24bbf4e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">渚にまつわるエトセトラ</div>
-      <div style="font-size: 11px; color: #586069;">Puffy AmiYumi</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4WQJPsbGOdqe24mUVHa8xb" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af81c4bd993bfad936f1ca3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Now Or Never</div>
-      <div style="font-size: 11px; color: #586069;">High School Musical Cast</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2E87kSsZd4oSfFOAXNGISJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273342a94d40e41ecd14874be4c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HUMUHUMUNUKUNUKUAPUA'A</div>
-      <div style="font-size: 11px; color: #586069;">Sharpay Evans</div>
     </a>
   </div>
 </div>
