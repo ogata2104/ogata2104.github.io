@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7ah8In0z478pctQnoFvW1L" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dcef37dbdecccc5f629c3fd1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">secret base ～君がくれたもの～</div>
+      <div style="font-size: 11px; color: #586069;">ZONE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/51Bx75d8MDThx0IiPVYw8F" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399437f3c1b7e9d7cd799f64e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">イージュー★ライダー</div>
+      <div style="font-size: 11px; color: #586069;">Tamio Okuda</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3xGPfKACKGRjRJbgr8uMbS" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343a9865d1c92bba2a61a48ec" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">あー夏休み</div>
+      <div style="font-size: 11px; color: #586069;">TUBE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5UmhqGyfVV81u87aC6p7ab" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733bf477ef357df96b6dd963b2" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ミラクル</div>
+      <div style="font-size: 11px; color: #586069;">miwa</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7K2oNX8UnvtebYRQtvHuUZ" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27319ff7a65c2131c2318f43c40" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">睡蓮花</div>
+      <div style="font-size: 11px; color: #586069;">Shonan No Kaze</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/77lmDcPPyY6kK907gdgC6i" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734eb972483c4de7618b526019" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">HANABI</div>
+      <div style="font-size: 11px; color: #586069;">Mr.Children</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6fZnP5rYZ4vH2ZIz8wmY3V" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27352537e678398ce5595f7aa1a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ガールズルール</div>
@@ -116,48 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">青のすみか</div>
       <div style="font-size: 11px; color: #586069;">Tatsuya Kitani</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2FXnjOr5iBbZLV0efg0Xgi" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c757a1a3abf0bdf84cf4df65" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">君の知らない物語</div>
-      <div style="font-size: 11px; color: #586069;">supercell</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2ttzli3A7SOXUvMv69xEKs" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f71eab50c2f8af5e4e87a3b1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">My Way</div>
-      <div style="font-size: 11px; color: #586069;">Def Tech</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0ZHznXIlbX6V9jwuXucnR5" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273056424e82409a20d05347e4a" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ひまわり</div>
-      <div style="font-size: 11px; color: #586069;">Yusuke</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2YexX0xrBifDj0KFVe5kqY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ac3fbaa3144607316cc269d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Real Face</div>
-      <div style="font-size: 11px; color: #586069;">KAT-TUN</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5F8fHuCHKoETWtkSFv2rFd" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733d231d8d10e54243ef79e806" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">フラワー</div>
-      <div style="font-size: 11px; color: #586069;">KinKi Kids</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b23ac720180e95d852f8d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">サマータイムシンデレラ</div>
-      <div style="font-size: 11px; color: #586069;">Ryokuoushoku Shakai</div>
     </a>
   </div>
 </div>
