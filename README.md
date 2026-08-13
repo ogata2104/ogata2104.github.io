@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3QyJSXkxcLwZwIF6uzgTz0" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732abd837c2975f7890dcefdbd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">君に出会えたから</div>
+      <div style="font-size: 11px; color: #586069;">miwa</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3L4Z5i8oVS0srXX5t6OBGr" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273c9526201fa1d0488d82303bf" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">PEACH</div>
@@ -151,13 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273b79afe59d746a0b8bec9541e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">青い珊瑚礁</div>
       <div style="font-size: 11px; color: #586069;">Seiko Matsuda</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6nTtJld6EMw4MNoz21uUwF" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330c3478c2a2bd4332801d55d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">花火</div>
-      <div style="font-size: 11px; color: #586069;">aiko</div>
     </a>
   </div>
 </div>
