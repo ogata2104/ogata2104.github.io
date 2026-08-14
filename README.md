@@ -28,6 +28,41 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Won't Back Down</div>
+      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Money For Nothing - Remastered 1996</div>
+      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Waiting for a Girl like You</div>
+      <div style="font-size: 11px; color: #586069;">Foreigner</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Walk Of Life - Remastered 1996</div>
+      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free Fallin'</div>
+      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want to Know What Love Is - 1999 Remaster</div>
@@ -130,41 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2738f6a9c290929806b17e5d0cd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">熱帯夜</div>
       <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/24jtZbj9rh5RWoLGeibPuz" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca6cb1176913264c1f402f68" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">渚</div>
-      <div style="font-size: 11px; color: #586069;">SPITZ</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398c2a02143e5ee8a80ca0c94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">打上花火</div>
-      <div style="font-size: 11px; color: #586069;">Daoko</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731a8eb31057297806a9921354" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">真夏の果実</div>
-      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3YPHUW9oe3fzJjqSnkPWru" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371dbc7d4876a9d435e1d06b6" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">フルドライブ</div>
-      <div style="font-size: 11px; color: #586069;">KANA-BOON</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0VG2JPyNoETeWO6uWtCIJ3" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734f0affe95d7bbcf1db53131e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">ジェットコースター・ロマンス</div>
-      <div style="font-size: 11px; color: #586069;">KinKi Kids</div>
     </a>
   </div>
 </div>
