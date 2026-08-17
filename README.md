@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2o3vTObPrrHsgPW8FMGE9l" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733cb938e41ca29da2a6fdf566" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Remember(RIP SLYME with MONGOL800)</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/31Xrw5Cw5DfCtPzp9zwAdT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c2ee67920ea1f9ea6f162f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">STEPPER'S DELIGHT</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/7gc6Jzy3aF5euESzOCnpNf" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c01e14ff2e6184b64a265c49" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JOINT</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1ilKQI5dMj4tGtMaDPnuty" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732e3ba4cf7f5095cfd24f1d67" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">FUNKASTIC</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6woUc9j5YyvwiAGRKivPaT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d60c10cf8a4e71c7f9272d28" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">太陽とビキニ</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6B1Ume5T9fCaZKGfGp2UWA" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f255f929dfd01a7383a51d91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Super Shooter</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/5NsOTUsqq8rjmtCfYzUZL2" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2736e05e25b05ce065c50e1bc26" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">黄昏サラウンド</div>
@@ -123,48 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273945c366eda66495226e4a46d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">That's All - 2007 Remaster</div>
       <div style="font-size: 11px; color: #586069;">Genesis</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6QyWVCLASvvtpKD0KJZs5e" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27349113b5921d7a53f49b64bfd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Is This Love - 2018 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Whitesnake</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Won't Back Down</div>
-      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Money For Nothing - Remastered 1996</div>
-      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Waiting for a Girl like You</div>
-      <div style="font-size: 11px; color: #586069;">Foreigner</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Walk Of Life - Remastered 1996</div>
-      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free Fallin'</div>
-      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
     </a>
   </div>
 </div>
