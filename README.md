@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5rZSaafRDm9QT87QvtZyhC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f255f929dfd01a7383a51d91" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">雑念エンタテインメント</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5L50tz0Ioix7MDaOZJkfJO" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">どON</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/52A8b2uVEwswV67awxtap2" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c94b72ceeec707504227c98" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JUMP with chay</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3IxmvjMDsFYjoESFZG3bVT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a9810330c8793315a57dcbd" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hot chocolate</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2sUXtjRxcEXcjrXz9igIo5" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e9a3cb6b8eae145273456c82" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SLY</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6uzEQxIuzImIiCu3FjDFpI" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304e74069800dce5fd2896b6b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">BABY</div>
+      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/2o3vTObPrrHsgPW8FMGE9l" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733cb938e41ca29da2a6fdf566" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Remember(RIP SLYME with MONGOL800)</div>
@@ -123,48 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Till the End</div>
       <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4WJacyP8aAnL8lhpl2cItl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398e5e1e377ae914c6814a8a5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">YOU</div>
-      <div style="font-size: 11px; color: #586069;">Gota Nishidera</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Juke Box Hero</div>
-      <div style="font-size: 11px; color: #586069;">Foreigner</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Invisible Touch - 2007 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Genesis</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rosanna</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e6db88b395f063ee1ca6e0d5" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Alone - Remastered 2000</div>
-      <div style="font-size: 11px; color: #586069;">Heart</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2zFdsAIk9r2Mi7Lmm1w3sM" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273945c366eda66495226e4a46d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">That's All - 2007 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Genesis</div>
     </a>
   </div>
 </div>
