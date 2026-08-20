@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2Gqg0STCge89oA9NNk2viY" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1687881fd67f57fc132a7ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bring The Noise 2026</div>
+      <div style="font-size: 11px; color: #586069;">Nico de Andrea</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want to Know What Love Is - 1999 Remaster</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27302061fdd3cc3919dad795555" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">始まりはQ(9)CUE</div>
       <div style="font-size: 11px; color: #586069;">SPECIAL OTHERS</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2vcEqF4zBhrhk3Qr7IaKwv" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cb938e41ca29da2a6fdf566" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Tales</div>
-      <div style="font-size: 11px; color: #586069;">RIP SLYME</div>
     </a>
   </div>
 </div>
