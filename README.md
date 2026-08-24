@@ -28,6 +28,34 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388ffe8c41647856e6fa5e1ab" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Just Can't Get Enough</div>
+      <div style="font-size: 11px; color: #586069;">Depeche Mode</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Englishman In New York</div>
+      <div style="font-size: 11px; color: #586069;">Sting</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273408739ba1ad5bccbfeda5ae1" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Blue Monday</div>
+      <div style="font-size: 11px; color: #586069;">New Order</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27344c0a9843fac69db4d56d14e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Under Pressure (feat. David Bowie)</div>
+      <div style="font-size: 11px; color: #586069;">Queen</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Rock the Casbah - Remastered</div>
@@ -123,34 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Landslide</div>
       <div style="font-size: 11px; color: #586069;">Fleetwood Mac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wish You Were Here</div>
-      <div style="font-size: 11px; color: #586069;">Pink Floyd</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sultans Of Swing</div>
-      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stop Believin' (2022 Remaster)</div>
-      <div style="font-size: 11px; color: #586069;">Journey</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3ujgzXoB0qio6gDXt4XnZt" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27315914fceecfc0f0369817b58" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">べにくじら</div>
-      <div style="font-size: 11px; color: #586069;">Uchoten</div>
     </a>
   </div>
 </div>
