@@ -28,6 +28,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want to Know What Love Is - 1999 Remaster</div>
+      <div style="font-size: 11px; color: #586069;">Foreigner</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stop Believin' (2022 Remaster)</div>
+      <div style="font-size: 11px; color: #586069;">Journey</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b2731581e5d8368a63aa5e6cf912" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dive For You</div>
@@ -63,24 +77,10 @@
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">I Want to Know What Love Is - 1999 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Foreigner</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Wish You Were Here</div>
       <div style="font-size: 11px; color: #586069;">Pink Floyd</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Don't Stop Believin' (2022 Remaster)</div>
-      <div style="font-size: 11px; color: #586069;">Journey</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
@@ -144,27 +144,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">West End Girls - 2018 Remaster</div>
       <div style="font-size: 11px; color: #586069;">Pet Shop Boys</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Come On Eileen</div>
-      <div style="font-size: 11px; color: #586069;">Dexys Midnight Runners</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">The Winner Takes It All</div>
-      <div style="font-size: 11px; color: #586069;">ABBA</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732acb820332d5f37cd536cc98" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Harder Than You Think</div>
-      <div style="font-size: 11px; color: #586069;">Public Enemy</div>
     </a>
   </div>
 </div>
