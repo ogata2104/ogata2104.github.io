@@ -28,6 +28,48 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Walk Of Life - Remastered 1996</div>
+      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Comfortably Numb</div>
+      <div style="font-size: 11px; color: #586069;">Pink Floyd</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Carry on Wayward Son</div>
+      <div style="font-size: 11px; color: #586069;">Kansas</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free Fallin'</div>
+      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Silver Springs - 2004 Remaster</div>
+      <div style="font-size: 11px; color: #586069;">Fleetwood Mac</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dust in the Wind</div>
+      <div style="font-size: 11px; color: #586069;">Kansas</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hold the Line</div>
@@ -116,27 +158,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">SHUT UP AND EXPLODE</div>
       <div style="font-size: 11px; color: #586069;">BOOM BOOM SATELLITES</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b36d59f00ce81003433878a9" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">KICK IT OUT -reprise-</div>
-      <div style="font-size: 11px; color: #586069;">BOOM BOOM SATELLITES</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/0GhdrAkGXYEf542xwOeygx" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1687881fd67f57fc132a7ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bring The Noise 2026 - Afro Version</div>
-      <div style="font-size: 11px; color: #586069;">Nico de Andrea</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2Gqg0STCge89oA9NNk2viY" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1687881fd67f57fc132a7ee" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Bring The Noise 2026</div>
-      <div style="font-size: 11px; color: #586069;">Nico de Andrea</div>
     </a>
   </div>
 </div>
