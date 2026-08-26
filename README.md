@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393cb85b25ebdf661a24bbf4e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">渚にまつわるエトセトラ</div>
+      <div style="font-size: 11px; color: #586069;">Puffy AmiYumi</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/3UI5hR1JTKq9CsVTFeJ1iU" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b27310ba927912bf4b3a7fc8cd72" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">土曜日は大キライ</div>
@@ -158,13 +165,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stairway to Heaven - Remaster</div>
       <div style="font-size: 11px; color: #586069;">Led Zeppelin</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Sultans Of Swing</div>
-      <div style="font-size: 11px; color: #586069;">Dire Straits</div>
     </a>
   </div>
 </div>
