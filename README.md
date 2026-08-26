@@ -28,10 +28,24 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393cb85b25ebdf661a24bbf4e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">渚にまつわるエトセトラ</div>
-      <div style="font-size: 11px; color: #586069;">Puffy AmiYumi</div>
+    <a href="https://open.spotify.com/track/4SoThxCMzVHGARcZcfP153" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ad48233b323a0d3da54b827d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">海</div>
+      <div style="font-size: 11px; color: #586069;">サザンオールスターズ</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27318c60a27fe986f3a10391772" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">愛々</div>
+      <div style="font-size: 11px; color: #586069;">Naotaro Moriyama</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/477CB93mH986mrIheQD0RR" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">come again</div>
+      <div style="font-size: 11px; color: #586069;">m-flo</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
@@ -46,6 +60,13 @@
       <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">JoJo (2023 Remaster)</div>
       <div style="font-size: 11px; color: #586069;">Boz Scaggs</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393cb85b25ebdf661a24bbf4e" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">渚にまつわるエトセトラ</div>
+      <div style="font-size: 11px; color: #586069;">Puffy AmiYumi</div>
     </a>
   </div>
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
@@ -130,41 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free Fallin'</div>
       <div style="font-size: 11px; color: #586069;">Tom Petty</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Silver Springs - 2004 Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Fleetwood Mac</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Dust in the Wind</div>
-      <div style="font-size: 11px; color: #586069;">Kansas</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Hold the Line</div>
-      <div style="font-size: 11px; color: #586069;">TOTO</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Another Brick in the Wall, Pt. 2</div>
-      <div style="font-size: 11px; color: #586069;">Pink Floyd</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Stairway to Heaven - Remaster</div>
-      <div style="font-size: 11px; color: #586069;">Led Zeppelin</div>
     </a>
   </div>
 </div>
