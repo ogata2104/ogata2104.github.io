@@ -28,6 +28,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
+    <a href="https://open.spotify.com/track/3iZCAoXpOP8V2EJ5XrJKVq" style="text-decoration: none;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
+      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Luv U Tokio</div>
+      <div style="font-size: 11px; color: #586069;">METAFIVE</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
     <a href="https://open.spotify.com/track/4SoThxCMzVHGARcZcfP153" style="text-decoration: none;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ad48233b323a0d3da54b827d" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">海</div>
@@ -144,13 +151,6 @@
       <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
       <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Carry on Wayward Son</div>
       <div style="font-size: 11px; color: #586069;">Kansas</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 160px; max-width: 200px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background-color: #f6f8fa;">
-    <a href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" style="text-decoration: none;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover; margin-bottom: 8px;">
-      <div style="font-size: 13px; font-weight: bold; color: #0366d6; line-height: 1.3; margin-bottom: 4px;">Free Fallin'</div>
-      <div style="font-size: 11px; color: #586069;">Tom Petty</div>
     </a>
   </div>
 </div>
