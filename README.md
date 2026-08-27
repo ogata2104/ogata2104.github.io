@@ -222,20 +222,20 @@
     <div class="t-name">JoJo (2023 Remaster)</div>
     <div class="t-artist">Boz Scaggs</div>
   </a>
-  <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" class="spotify-card card-15" title="渚にまつわるエトセトラ - Puffy AmiYumi">
+  <a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" class="spotify-card card-15" title="Don&#x27;t Stop Believin&#x27; (2022 Remaster) - Journey">
+    <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" alt="Don&#x27;t Stop Believin&#x27; (2022 Remaster)">
+    <div class="t-name">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</div>
+    <div class="t-artist">Journey</div>
+  </a>
+  <a href="https://open.spotify.com/track/2PPO0vUhHPmjRirvjpms45" class="spotify-card card-16" title="渚にまつわるエトセトラ - Puffy AmiYumi">
     <img src="https://i.scdn.co/image/ab67616d0000b27393cb85b25ebdf661a24bbf4e" alt="渚にまつわるエトセトラ">
     <div class="t-name">渚にまつわるエトセトラ</div>
     <div class="t-artist">Puffy AmiYumi</div>
   </a>
-  <a href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" class="spotify-card card-16" title="Livin&#x27; It Up - Bill LaBounty">
+  <a href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" class="spotify-card card-17" id="spotify-last" title="Livin&#x27; It Up - Bill LaBounty">
     <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
     <div class="t-name">Livin&#x27; It Up</div>
     <div class="t-artist">Bill LaBounty</div>
-  </a>
-  <a href="https://open.spotify.com/track/0gePGOObymhT7oGCBm17EA" class="spotify-card card-17" id="spotify-last" title="Seeing You for the First Time - Jim Messina">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a745ed5fc5ce1249f44cf259" alt="Seeing You for the First Time">
-    <div class="t-name">Seeing You for the First Time</div>
-    <div class="t-artist">Jim Messina</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
