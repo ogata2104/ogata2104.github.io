@@ -37,6 +37,11 @@
   overflow-x: auto;
   overflow-y: visible;
   scroll-behavior: smooth;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+.spotify-stack::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
 }
 .stack-nav {
   position: absolute;
@@ -71,9 +76,8 @@
 .spotify-card {
   position: absolute;
   top: 0;
-  left: 50%;
+  left: 36px;
   width: 140px;
-  margin-left: -70px;
   border: 1px solid #e1e4e8;
   border-radius: 10px;
   padding: 10px;
