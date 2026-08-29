@@ -151,105 +151,105 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/4gqjxYiEorFk0y9b92uFdE" class="spotify-card card-0" id="spotify-first" title="Bop To The Top - Lucas Grabeel">
+  <a href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" class="spotify-card card-0" id="spotify-first" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+  </a>
+  <a href="https://open.spotify.com/track/4gqjxYiEorFk0y9b92uFdE" class="spotify-card card-1" title="Bop To The Top - Lucas Grabeel">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="Bop To The Top">
     <div class="t-name">Bop To The Top</div>
     <div class="t-artist">Lucas Grabeel</div>
   </a>
-  <a href="https://open.spotify.com/track/1LxcCsgkHJTcUZ7AUorzd2" class="spotify-card card-1" title="When There Was Me and You - Vanessa Hudgens">
+  <a href="https://open.spotify.com/track/1LxcCsgkHJTcUZ7AUorzd2" class="spotify-card card-2" title="When There Was Me and You - Vanessa Hudgens">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="When There Was Me and You">
     <div class="t-name">When There Was Me and You</div>
     <div class="t-artist">Vanessa Hudgens</div>
   </a>
-  <a href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" class="spotify-card card-2" title="Stick to the Status Quo - High School Musical Cast">
+  <a href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" class="spotify-card card-3" title="Stick to the Status Quo - High School Musical Cast">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="Stick to the Status Quo">
     <div class="t-name">Stick to the Status Quo</div>
     <div class="t-artist">High School Musical Cast</div>
   </a>
-  <a href="https://open.spotify.com/track/7I60v3Ctgf1eMefMc69zAo" class="spotify-card card-3" title="What I&#x27;ve Been Looking For (Reprise) - Troy">
+  <a href="https://open.spotify.com/track/7I60v3Ctgf1eMefMc69zAo" class="spotify-card card-4" title="What I&#x27;ve Been Looking For (Reprise) - Troy">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="What I&#x27;ve Been Looking For (Reprise)">
     <div class="t-name">What I&#x27;ve Been Looking For (Reprise)</div>
     <div class="t-artist">Troy</div>
   </a>
-  <a href="https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA" class="spotify-card card-4" title="What I&#x27;ve Been Looking For - Lucas Grabeel">
+  <a href="https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA" class="spotify-card card-5" title="What I&#x27;ve Been Looking For - Lucas Grabeel">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="What I&#x27;ve Been Looking For">
     <div class="t-name">What I&#x27;ve Been Looking For</div>
     <div class="t-artist">Lucas Grabeel</div>
   </a>
-  <a href="https://open.spotify.com/track/3sT37kCEpxM1zQ8s98i7ps" class="spotify-card card-5" title="Get&#x27;cha Head In The Game - Troy">
+  <a href="https://open.spotify.com/track/3sT37kCEpxM1zQ8s98i7ps" class="spotify-card card-6" title="Get&#x27;cha Head In The Game - Troy">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="Get&#x27;cha Head In The Game">
     <div class="t-name">Get&#x27;cha Head In The Game</div>
     <div class="t-artist">Troy</div>
   </a>
-  <a href="https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa" class="spotify-card card-6" title="Start of Something New - Troy">
+  <a href="https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa" class="spotify-card card-7" title="Start of Something New - Troy">
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="Start of Something New">
     <div class="t-name">Start of Something New</div>
     <div class="t-artist">Troy</div>
   </a>
-  <a href="https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3" class="spotify-card card-7" title="Wanna Be Startin&#x27; Somethin&#x27; - Michael Jackson">
+  <a href="https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3" class="spotify-card card-8" title="Wanna Be Startin&#x27; Somethin&#x27; - Michael Jackson">
     <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Wanna Be Startin&#x27; Somethin&#x27;">
     <div class="t-name">Wanna Be Startin&#x27; Somethin&#x27;</div>
     <div class="t-artist">Michael Jackson</div>
   </a>
-  <a href="https://open.spotify.com/track/4puLgtddDkkpLSgOQpIIlz" class="spotify-card card-8" title="WHAT YOU WON&#x27;T DO FOR LOVE - Bobby Caldwell">
+  <a href="https://open.spotify.com/track/4puLgtddDkkpLSgOQpIIlz" class="spotify-card card-9" title="WHAT YOU WON&#x27;T DO FOR LOVE - Bobby Caldwell">
     <img src="https://i.scdn.co/image/ab67616d0000b27326e348a7c0e1b2aff3a357a6" alt="WHAT YOU WON&#x27;T DO FOR LOVE">
     <div class="t-name">WHAT YOU WON&#x27;T DO FOR LOVE</div>
     <div class="t-artist">Bobby Caldwell</div>
   </a>
-  <a href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" class="spotify-card card-9" title="Dive For You - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" class="spotify-card card-10" title="Dive For You - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b2731581e5d8368a63aa5e6cf912" alt="Dive For You">
     <div class="t-name">Dive For You</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF" class="spotify-card card-10" title="BROKEN MIRROR - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF" class="spotify-card card-11" title="BROKEN MIRROR - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b27314d5ab5d7a08843505889064" alt="BROKEN MIRROR">
     <div class="t-name">BROKEN MIRROR</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/3VKxxEoATKCD6KkaDRIzKJ" class="spotify-card card-11" title="格好悪いふられ方 - Senri Oe">
+  <a href="https://open.spotify.com/track/3VKxxEoATKCD6KkaDRIzKJ" class="spotify-card card-12" title="格好悪いふられ方 - Senri Oe">
     <img src="https://i.scdn.co/image/ab67616d0000b2736fa874ec3300967b88211d51" alt="格好悪いふられ方">
     <div class="t-name">格好悪いふられ方</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" class="spotify-card card-12" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" class="spotify-card card-13" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b273b4fc1eb4b19aa74d4b87f9e2" alt="LAY YOUR HANDS ON ME (2017)">
     <div class="t-name">LAY YOUR HANDS ON ME (2017)</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" class="spotify-card card-13" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" class="spotify-card card-14" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
     <div class="t-name">SHUT UP AND EXPLODE</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" class="spotify-card card-14" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" class="spotify-card card-15" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b273b36d59f00ce81003433878a9" alt="KICK IT OUT -reprise-">
     <div class="t-name">KICK IT OUT -reprise-</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/11RooeJnspwYAWgY1JbVIC" class="spotify-card card-15" title="Summer Touches You - 東北新幹線">
+  <a href="https://open.spotify.com/track/11RooeJnspwYAWgY1JbVIC" class="spotify-card card-16" title="Summer Touches You - 東北新幹線">
     <img src="https://i.scdn.co/image/ab67616d0000b273f41a9752b93cc9ca991d719e" alt="Summer Touches You">
     <div class="t-name">Summer Touches You</div>
     <div class="t-artist">東北新幹線</div>
   </a>
-  <a href="https://open.spotify.com/track/2qkrIYe39naYKDM8cao30b" class="spotify-card card-16" title="元気ならうれしいね - Yukihiro Takahashi">
+  <a href="https://open.spotify.com/track/2qkrIYe39naYKDM8cao30b" class="spotify-card card-17" title="元気ならうれしいね - Yukihiro Takahashi">
     <img src="https://i.scdn.co/image/ab67616d0000b27301cd15ad44b312d3047114bf" alt="元気ならうれしいね">
     <div class="t-name">元気ならうれしいね</div>
     <div class="t-artist">Yukihiro Takahashi</div>
   </a>
-  <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" class="spotify-card card-17" title="DOWN TOWN - EPO">
+  <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" class="spotify-card card-18" title="DOWN TOWN - EPO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
     <div class="t-name">DOWN TOWN</div>
     <div class="t-artist">EPO</div>
   </a>
-  <a href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" class="spotify-card card-18" title="WATERMELON - Tokyo Ska Paradise Orchestra">
+  <a href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" class="spotify-card card-19" id="spotify-last" title="WATERMELON - Tokyo Ska Paradise Orchestra">
     <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
     <div class="t-name">WATERMELON</div>
     <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
-  </a>
-  <a href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" class="spotify-card card-19" id="spotify-last" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
