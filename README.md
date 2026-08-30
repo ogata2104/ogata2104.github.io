@@ -111,57 +111,55 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 19; }
+.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 18; }
 .card-0:hover { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 18; }
+.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 17; }
 .card-1:hover { transform: translate(70px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 17; }
+.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 16; }
 .card-2:hover { transform: translate(140px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 16; }
+.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 15; }
 .card-3:hover { transform: translate(210px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 15; }
+.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 14; }
 .card-4:hover { transform: translate(280px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 14; }
+.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 13; }
 .card-5:hover { transform: translate(350px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 13; }
+.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 12; }
 .card-6:hover { transform: translate(420px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 12; }
+.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 11; }
 .card-7:hover { transform: translate(490px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 11; }
+.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 10; }
 .card-8:hover { transform: translate(560px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 10; }
+.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 9; }
 .card-9:hover { transform: translate(630px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 9; }
+.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 8; }
 .card-10:hover { transform: translate(700px, 4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 8; }
+.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 7; }
 .card-11:hover { transform: translate(770px, 6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 7; }
+.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 6; }
 .card-12:hover { transform: translate(840px, 8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 6; }
+.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 5; }
 .card-13:hover { transform: translate(910px, 10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 5; }
+.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 4; }
 .card-14:hover { transform: translate(980px, 12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 4; }
+.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 3; }
 .card-15:hover { transform: translate(1050px, 14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 3; }
+.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 2; }
 .card-16:hover { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 2; }
+.card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 1; }
 .card-17:hover { transform: translate(1190px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-18 { transform: translate(1260px, 36px) rotate(2deg); z-index: 1; }
-.card-18:hover { transform: translate(1260px, 20px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 </style>
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" class="spotify-card card-0" id="spotify-first" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-  </a>
-  <a href="https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ" class="spotify-card card-1" title="Back In The High Life Again - Steve Winwood">
+  <a href="https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ" class="spotify-card card-0" id="spotify-first" title="Back In The High Life Again - Steve Winwood">
     <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Back In The High Life Again">
     <div class="t-name">Back In The High Life Again</div>
     <div class="t-artist">Steve Winwood</div>
+  </a>
+  <a href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" class="spotify-card card-1" title="DOWN TOWN - EPO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
+    <div class="t-name">DOWN TOWN</div>
+    <div class="t-artist">EPO</div>
   </a>
   <a href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" class="spotify-card card-2" title="Valerie - Steve Winwood">
     <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
@@ -238,15 +236,10 @@
     <div class="t-name">SHUT UP AND EXPLODE</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
   </a>
-  <a href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" class="spotify-card card-17" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
+  <a href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" class="spotify-card card-17" id="spotify-last" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b273b36d59f00ce81003433878a9" alt="KICK IT OUT -reprise-">
     <div class="t-name">KICK IT OUT -reprise-</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
-  </a>
-  <a href="https://open.spotify.com/track/11RooeJnspwYAWgY1JbVIC" class="spotify-card card-18" id="spotify-last" title="Summer Touches You - 東北新幹線">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f41a9752b93cc9ca991d719e" alt="Summer Touches You">
-    <div class="t-name">Summer Touches You</div>
-    <div class="t-artist">東北新幹線</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
