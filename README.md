@@ -155,104 +155,104 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz" class="spotify-card card-0" id="spotify-first" title="I Won&#x27;t Hold You Back - TOTO">
+  <a href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" class="spotify-card card-0" id="spotify-first" title="Ch-Check It Out - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
+    <div class="t-name">Ch-Check It Out</div>
+    <div class="t-artist">Beastie Boys</div>
+  </a>
+  <a href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" class="spotify-card card-1" title="99 - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
+    <div class="t-name">99</div>
+    <div class="t-artist">TOTO</div>
+  </a>
+  <a href="https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz" class="spotify-card card-2" title="I Won&#x27;t Hold You Back - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="I Won&#x27;t Hold You Back">
     <div class="t-name">I Won&#x27;t Hold You Back</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/3LFdvM7nIV8t02zyhYLvJo" class="spotify-card card-1" title="Pamela - TOTO">
+  <a href="https://open.spotify.com/track/3LFdvM7nIV8t02zyhYLvJo" class="spotify-card card-3" title="Pamela - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Pamela">
     <div class="t-name">Pamela</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" class="spotify-card card-2" title="Lea - TOTO">
+  <a href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" class="spotify-card card-4" title="Lea - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
     <div class="t-name">Lea</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" class="spotify-card card-3" title="Georgy Porgy - TOTO">
+  <a href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" class="spotify-card card-5" title="Georgy Porgy - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
     <div class="t-name">Georgy Porgy</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" class="spotify-card card-4" title="Rosanna - TOTO">
+  <a href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" class="spotify-card card-6" title="Rosanna - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
     <div class="t-name">Rosanna</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" class="spotify-card card-5" title="Stop Loving You - TOTO">
+  <a href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" class="spotify-card card-7" title="Stop Loving You - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
     <div class="t-name">Stop Loving You</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" class="spotify-card card-6" title="I&#x27;ll Be Over You - TOTO">
+  <a href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" class="spotify-card card-8" title="I&#x27;ll Be Over You - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
     <div class="t-name">I&#x27;ll Be Over You</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" class="spotify-card card-7" title="Hold the Line - TOTO">
+  <a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" class="spotify-card card-9" title="Hold the Line - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
     <div class="t-name">Hold the Line</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" class="spotify-card card-8" title="Africa - TOTO">
+  <a href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" class="spotify-card card-10" title="Africa - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
     <div class="t-name">Africa</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/6auBCXbePPUsTJiPHs6hqm" class="spotify-card card-9" title="Colour My World - 2002 Remaster - Chicago">
+  <a href="https://open.spotify.com/track/6auBCXbePPUsTJiPHs6hqm" class="spotify-card card-11" title="Colour My World - 2002 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b273f97c928726d4abbaed5aebf9" alt="Colour My World - 2002 Remaster">
     <div class="t-name">Colour My World - 2002 Remaster</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/1Drnmvgn8sx3axUcl5Tpnp" class="spotify-card card-10" title="Just You &#x27;N&#x27; Me - 2002 Remaster - Chicago">
+  <a href="https://open.spotify.com/track/1Drnmvgn8sx3axUcl5Tpnp" class="spotify-card card-12" title="Just You &#x27;N&#x27; Me - 2002 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2737f3b1eaeb9e910fc1b94d325" alt="Just You &#x27;N&#x27; Me - 2002 Remaster">
     <div class="t-name">Just You &#x27;N&#x27; Me - 2002 Remaster</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/6XvDozCQhTvSutezyoYgB0" class="spotify-card card-11" title="What Kind of Man Would I Be? - Chicago">
+  <a href="https://open.spotify.com/track/6XvDozCQhTvSutezyoYgB0" class="spotify-card card-13" title="What Kind of Man Would I Be? - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b27309bcb8290b25951ebef91242" alt="What Kind of Man Would I Be?">
     <div class="t-name">What Kind of Man Would I Be?</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/5f53FRJzkiXliPOv4iiXKe" class="spotify-card card-12" title="Happy Man - Chicago">
+  <a href="https://open.spotify.com/track/5f53FRJzkiXliPOv4iiXKe" class="spotify-card card-14" title="Happy Man - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2736c8098a74e237d8c97f5975b" alt="Happy Man">
     <div class="t-name">Happy Man</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY" class="spotify-card card-13" title="Does Anybody Really Know What Time It Is? - Chicago">
+  <a href="https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY" class="spotify-card card-15" title="Does Anybody Really Know What Time It Is? - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="Does Anybody Really Know What Time It Is?">
     <div class="t-name">Does Anybody Really Know What Time It Is?</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN" class="spotify-card card-14" title="Feelin&#x27; Stronger Every Day - 2002 Remaster - Chicago">
+  <a href="https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN" class="spotify-card card-16" title="Feelin&#x27; Stronger Every Day - 2002 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2737f3b1eaeb9e910fc1b94d325" alt="Feelin&#x27; Stronger Every Day - 2002 Remaster">
     <div class="t-name">Feelin&#x27; Stronger Every Day - 2002 Remaster</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65" class="spotify-card card-15" title="Look Away - 2009 Remaster - Chicago">
+  <a href="https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65" class="spotify-card card-17" title="Look Away - 2009 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2734b5544ed200f0527335eca77" alt="Look Away - 2009 Remaster">
     <div class="t-name">Look Away - 2009 Remaster</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY" class="spotify-card card-16" title="Baby, What a Big Surprise - Edit - Chicago">
+  <a href="https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY" class="spotify-card card-18" title="Baby, What a Big Surprise - Edit - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2738a4a7d5f2825db4e40a79838" alt="Baby, What a Big Surprise - Edit">
     <div class="t-name">Baby, What a Big Surprise - Edit</div>
     <div class="t-artist">Chicago</div>
   </a>
-  <a href="https://open.spotify.com/track/3jiAm2Pe7Iv2jO1tZxvZvK" class="spotify-card card-17" title="You Come to My Senses - 2009 Remaster - Chicago">
+  <a href="https://open.spotify.com/track/3jiAm2Pe7Iv2jO1tZxvZvK" class="spotify-card card-19" id="spotify-last" title="You Come to My Senses - 2009 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b273bfc36bb3d809957da578eb54" alt="You Come to My Senses - 2009 Remaster">
     <div class="t-name">You Come to My Senses - 2009 Remaster</div>
-    <div class="t-artist">Chicago</div>
-  </a>
-  <a href="https://open.spotify.com/track/2uX4rbYnV0wG75JYIlJCwg" class="spotify-card card-18" title="Song for You - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c5cc7f7b4a0dd50c426724ea" alt="Song for You">
-    <div class="t-name">Song for You</div>
-    <div class="t-artist">Chicago</div>
-  </a>
-  <a href="https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ" class="spotify-card card-19" id="spotify-last" title="I Don&#x27;t Wanna Live Without Your Love - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734b5544ed200f0527335eca77" alt="I Don&#x27;t Wanna Live Without Your Love">
-    <div class="t-name">I Don&#x27;t Wanna Live Without Your Love</div>
     <div class="t-artist">Chicago</div>
   </a>
   </div>
