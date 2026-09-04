@@ -149,89 +149,89 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/5ulZo7nk3MByXLvja3NCAc" class="spotify-card card-0" id="spotify-first" title="Hey Ladies - Beastie Boys">
+  <a href="https://open.spotify.com/track/2qqCS8wH4FNtgH7kVmF8Ub" class="spotify-card card-0" id="spotify-first" title="Jimmy James - Remastered 2009 - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" alt="Jimmy James - Remastered 2009">
+    <div class="t-name">Jimmy James - Remastered 2009</div>
+    <div class="t-artist">Beastie Boys</div>
+  </a>
+  <a href="https://open.spotify.com/track/1k4lRM7YrGxJerGbf9VzXk" class="spotify-card card-1" title="Super Disco Breakin&#x27; - Remastered 2009 - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Super Disco Breakin&#x27; - Remastered 2009">
+    <div class="t-name">Super Disco Breakin&#x27; - Remastered 2009</div>
+    <div class="t-artist">Beastie Boys</div>
+  </a>
+  <a href="https://open.spotify.com/track/5ulZo7nk3MByXLvja3NCAc" class="spotify-card card-2" title="Hey Ladies - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Hey Ladies">
     <div class="t-name">Hey Ladies</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/6yKldTTcSa2BdpKPEtdYp3" class="spotify-card card-1" title="Rhymin &amp; Stealin - Beastie Boys">
+  <a href="https://open.spotify.com/track/6yKldTTcSa2BdpKPEtdYp3" class="spotify-card card-3" title="Rhymin &amp; Stealin - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Rhymin &amp; Stealin">
     <div class="t-name">Rhymin &amp; Stealin</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/4Hw2PMgu7y4FHUReIz1Hld" class="spotify-card card-2" title="Sabrosa - Beastie Boys">
+  <a href="https://open.spotify.com/track/4Hw2PMgu7y4FHUReIz1Hld" class="spotify-card card-4" title="Sabrosa - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Sabrosa">
     <div class="t-name">Sabrosa</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/4eIfmbGZy21bvnBLHSf7DE" class="spotify-card card-3" title="Pass The Mic - Remastered 2009 - Beastie Boys">
+  <a href="https://open.spotify.com/track/4eIfmbGZy21bvnBLHSf7DE" class="spotify-card card-5" title="Pass The Mic - Remastered 2009 - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" alt="Pass The Mic - Remastered 2009">
     <div class="t-name">Pass The Mic - Remastered 2009</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL" class="spotify-card card-4" title="Egg Man - Beastie Boys">
+  <a href="https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL" class="spotify-card card-6" title="Egg Man - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Egg Man">
     <div class="t-name">Egg Man</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc" class="spotify-card card-5" title="Paul Revere - Beastie Boys">
+  <a href="https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc" class="spotify-card card-7" title="Paul Revere - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Paul Revere">
     <div class="t-name">Paul Revere</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/18tgx070tbAM4TKxEwzWaG" class="spotify-card card-6" title="Root Down - Beastie Boys">
+  <a href="https://open.spotify.com/track/18tgx070tbAM4TKxEwzWaG" class="spotify-card card-8" title="Root Down - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Root Down">
     <div class="t-name">Root Down</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB" class="spotify-card card-7" title="I Don&#x27;t Know - Remastered 2009 - Beastie Boys">
+  <a href="https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB" class="spotify-card card-9" title="I Don&#x27;t Know - Remastered 2009 - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="I Don&#x27;t Know - Remastered 2009">
     <div class="t-name">I Don&#x27;t Know - Remastered 2009</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/7mPfubAjo4PVuRqO84bHZb" class="spotify-card card-8" title="Looking Down The Barrel Of A Gun - Beastie Boys">
+  <a href="https://open.spotify.com/track/7mPfubAjo4PVuRqO84bHZb" class="spotify-card card-10" title="Looking Down The Barrel Of A Gun - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Looking Down The Barrel Of A Gun">
     <div class="t-name">Looking Down The Barrel Of A Gun</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/5h40ovzXu7rF7Giwb9oXYy" class="spotify-card card-9" title="Girls - Beastie Boys">
+  <a href="https://open.spotify.com/track/5h40ovzXu7rF7Giwb9oXYy" class="spotify-card card-11" title="Girls - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Girls">
     <div class="t-name">Girls</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp" class="spotify-card card-10" title="Get It Together - Beastie Boys">
+  <a href="https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp" class="spotify-card card-12" title="Get It Together - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Get It Together">
     <div class="t-name">Get It Together</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/1OIigmKerSiw9creKBH0UH" class="spotify-card card-11" title="Body Movin&#x27; - Remastered 2009 - Beastie Boys">
+  <a href="https://open.spotify.com/track/1OIigmKerSiw9creKBH0UH" class="spotify-card card-13" title="Body Movin&#x27; - Remastered 2009 - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Body Movin&#x27; - Remastered 2009">
     <div class="t-name">Body Movin&#x27; - Remastered 2009</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" class="spotify-card card-12" title="Ch-Check It Out - Beastie Boys">
+  <a href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" class="spotify-card card-14" title="Ch-Check It Out - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
     <div class="t-name">Ch-Check It Out</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" class="spotify-card card-13" title="99 - TOTO">
+  <a href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" class="spotify-card card-15" title="99 - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
     <div class="t-name">99</div>
     <div class="t-artist">TOTO</div>
   </a>
-  <a href="https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz" class="spotify-card card-14" title="I Won&#x27;t Hold You Back - TOTO">
+  <a href="https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz" class="spotify-card card-16" id="spotify-last" title="I Won&#x27;t Hold You Back - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="I Won&#x27;t Hold You Back">
     <div class="t-name">I Won&#x27;t Hold You Back</div>
-    <div class="t-artist">TOTO</div>
-  </a>
-  <a href="https://open.spotify.com/track/3LFdvM7nIV8t02zyhYLvJo" class="spotify-card card-15" title="Pamela - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Pamela">
-    <div class="t-name">Pamela</div>
-    <div class="t-artist">TOTO</div>
-  </a>
-  <a href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" class="spotify-card card-16" id="spotify-last" title="Lea - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
-    <div class="t-name">Lea</div>
     <div class="t-artist">TOTO</div>
   </a>
   </div>
