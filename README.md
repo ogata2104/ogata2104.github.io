@@ -112,58 +112,56 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 17; }
+.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 16; }
 .card-0:hover { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 16; }
+.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 15; }
 .card-1:hover { transform: translate(70px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 15; }
+.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 14; }
 .card-2:hover { transform: translate(140px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 14; }
+.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 13; }
 .card-3:hover { transform: translate(210px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 13; }
+.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 12; }
 .card-4:hover { transform: translate(280px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 12; }
+.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 11; }
 .card-5:hover { transform: translate(350px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 11; }
+.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 10; }
 .card-6:hover { transform: translate(420px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 10; }
+.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 9; }
 .card-7:hover { transform: translate(490px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 9; }
+.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 8; }
 .card-8:hover { transform: translate(560px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 8; }
+.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 7; }
 .card-9:hover { transform: translate(630px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 7; }
+.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 6; }
 .card-10:hover { transform: translate(700px, 4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 6; }
+.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 5; }
 .card-11:hover { transform: translate(770px, 6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 5; }
+.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 4; }
 .card-12:hover { transform: translate(840px, 8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 4; }
+.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 3; }
 .card-13:hover { transform: translate(910px, 10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 3; }
+.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 2; }
 .card-14:hover { transform: translate(980px, 12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 2; }
+.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 1; }
 .card-15:hover { transform: translate(1050px, 14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 1; }
-.card-16:hover { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 </style>
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/7t4EZcucFN91UMyQq5X6Qd" class="spotify-card card-0" id="spotify-first" title="Swept Away - Vanilla">
+  <a href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" class="spotify-card card-0" id="spotify-first" title="One on One - Wildson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
+    <div class="t-name">One on One</div>
+    <div class="t-artist">Wildson</div>
+  </a>
+  <a href="https://open.spotify.com/track/7t4EZcucFN91UMyQq5X6Qd" class="spotify-card card-1" title="Swept Away - Vanilla">
     <img src="https://i.scdn.co/image/ab67616d0000b2730af85f71c51ae63d532517af" alt="Swept Away">
     <div class="t-name">Swept Away</div>
     <div class="t-artist">Vanilla</div>
   </a>
-  <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" class="spotify-card card-1" title="Los Angeles - Saxophonic Soul Art">
+  <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" class="spotify-card card-2" title="Los Angeles - Saxophonic Soul Art">
     <img src="https://i.scdn.co/image/ab67616d0000b273eac8a44c667fbf0e1dcb4672" alt="Los Angeles">
     <div class="t-name">Los Angeles</div>
     <div class="t-artist">Saxophonic Soul Art</div>
-  </a>
-  <a href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" class="spotify-card card-2" title="One on One - Wildson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
-    <div class="t-name">One on One</div>
-    <div class="t-artist">Wildson</div>
   </a>
   <a href="https://open.spotify.com/track/5JFPwVVxXbCym9ftXMa2Ii" class="spotify-card card-3" title="Don&#x27;t Play No Game That I Can&#x27;t Win - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" alt="Don&#x27;t Play No Game That I Can&#x27;t Win">
@@ -225,14 +223,9 @@
     <div class="t-name">Looking Down The Barrel Of A Gun</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/5h40ovzXu7rF7Giwb9oXYy" class="spotify-card card-15" title="Girls - Beastie Boys">
+  <a href="https://open.spotify.com/track/5h40ovzXu7rF7Giwb9oXYy" class="spotify-card card-15" id="spotify-last" title="Girls - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Girls">
     <div class="t-name">Girls</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp" class="spotify-card card-16" id="spotify-last" title="Get It Together - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Get It Together">
-    <div class="t-name">Get It Together</div>
     <div class="t-artist">Beastie Boys</div>
   </a>
   </div>
