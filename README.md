@@ -148,85 +148,85 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" class="spotify-card card-0" id="spotify-first" title="One on One - Wildson">
+  <a href="https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz" class="spotify-card card-0" id="spotify-first" title="Flower Moon - Durand Jones &amp; The Indications">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387f2de2e1146cb764c32a69a" alt="Flower Moon">
+    <div class="t-name">Flower Moon</div>
+    <div class="t-artist">Durand Jones &amp; The Indications</div>
+  </a>
+  <a href="https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa" class="spotify-card card-1" title="Caviar - Benny Sings">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9bb2ddff6b9a31e043742cd" alt="Caviar">
+    <div class="t-name">Caviar</div>
+    <div class="t-artist">Benny Sings</div>
+  </a>
+  <a href="https://open.spotify.com/track/0KQlYA88cnOftc7SFhWv5U" class="spotify-card card-2" title="Little Life - Robert Gromotka">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f" alt="Little Life">
+    <div class="t-name">Little Life</div>
+    <div class="t-artist">Robert Gromotka</div>
+  </a>
+  <a href="https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH" class="spotify-card card-3" title="365 Flavors - The California Honeydrops">
+    <img src="https://i.scdn.co/image/ab67616d0000b27325c8a788df4502b9c0090e9b" alt="365 Flavors">
+    <div class="t-name">365 Flavors</div>
+    <div class="t-artist">The California Honeydrops</div>
+  </a>
+  <a href="https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ" class="spotify-card card-4" title="Maybe I&#x27;m A Fool (But I&#x27;m In Love Again) - Family Company">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ce241c99d66e0373f80565e4" alt="Maybe I&#x27;m A Fool (But I&#x27;m In Love Again)">
+    <div class="t-name">Maybe I&#x27;m A Fool (But I&#x27;m In Love Again)</div>
+    <div class="t-artist">Family Company</div>
+  </a>
+  <a href="https://open.spotify.com/track/4nPpAg8nJcUyYY5u16C2MK" class="spotify-card card-5" title="For Some Time - Daniel Gunnarsson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ecc600551997821aab88f8a0" alt="For Some Time">
+    <div class="t-name">For Some Time</div>
+    <div class="t-artist">Daniel Gunnarsson</div>
+  </a>
+  <a href="https://open.spotify.com/track/1mazIjWbwauWaEoQS56nDb" class="spotify-card card-6" title="Mercy Mercy - Kansas Jazz City">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f956c9968a5b1170390e77c" alt="Mercy Mercy">
+    <div class="t-name">Mercy Mercy</div>
+    <div class="t-artist">Kansas Jazz City</div>
+  </a>
+  <a href="https://open.spotify.com/track/5SEEI2aTIf5PXepWkMx2Tn" class="spotify-card card-7" title="Borboleta Efeito - Leo Middea">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f985bcedc36a279918dcceff" alt="Borboleta Efeito">
+    <div class="t-name">Borboleta Efeito</div>
+    <div class="t-artist">Leo Middea</div>
+  </a>
+  <a href="https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ" class="spotify-card card-8" title="End of Time - Olive Jones">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1" alt="End of Time">
+    <div class="t-name">End of Time</div>
+    <div class="t-artist">Olive Jones</div>
+  </a>
+  <a href="https://open.spotify.com/track/34a4HXfFg023T4E6lgtoBW" class="spotify-card card-9" title="Sparks - Instrumental - Evan Jacobson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e" alt="Sparks - Instrumental">
+    <div class="t-name">Sparks - Instrumental</div>
+    <div class="t-artist">Evan Jacobson</div>
+  </a>
+  <a href="https://open.spotify.com/track/7qT955sFHf4eBtQnHeqdGf" class="spotify-card card-10" title="When the Clouds Cleared - Alexander Motovilov">
+    <img src="https://i.scdn.co/image/ab67616d0000b273faefb529b61803c22508e69f" alt="When the Clouds Cleared">
+    <div class="t-name">When the Clouds Cleared</div>
+    <div class="t-artist">Alexander Motovilov</div>
+  </a>
+  <a href="https://open.spotify.com/track/22loAc1Uf9VCb0clikbRY7" class="spotify-card card-11" title="Carry On - Jungle">
+    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Carry On">
+    <div class="t-name">Carry On</div>
+    <div class="t-artist">Jungle</div>
+  </a>
+  <a href="https://open.spotify.com/track/3euZzIZUGZSDbSsDOnb79f" class="spotify-card card-12" title="Tiny Tiny Steps - Oakwood Station">
+    <img src="https://i.scdn.co/image/ab67616d0000b273db2fbbcfa6c38b1a02bf3c2a" alt="Tiny Tiny Steps">
+    <div class="t-name">Tiny Tiny Steps</div>
+    <div class="t-artist">Oakwood Station</div>
+  </a>
+  <a href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" class="spotify-card card-13" title="One on One - Wildson">
     <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
     <div class="t-name">One on One</div>
     <div class="t-artist">Wildson</div>
   </a>
-  <a href="https://open.spotify.com/track/7t4EZcucFN91UMyQq5X6Qd" class="spotify-card card-1" title="Swept Away - Vanilla">
+  <a href="https://open.spotify.com/track/7t4EZcucFN91UMyQq5X6Qd" class="spotify-card card-14" title="Swept Away - Vanilla">
     <img src="https://i.scdn.co/image/ab67616d0000b2730af85f71c51ae63d532517af" alt="Swept Away">
     <div class="t-name">Swept Away</div>
     <div class="t-artist">Vanilla</div>
   </a>
-  <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" class="spotify-card card-2" title="Los Angeles - Saxophonic Soul Art">
+  <a href="https://open.spotify.com/track/6Db9OXgztJPd0a7Iffi10k" class="spotify-card card-15" id="spotify-last" title="Los Angeles - Saxophonic Soul Art">
     <img src="https://i.scdn.co/image/ab67616d0000b273eac8a44c667fbf0e1dcb4672" alt="Los Angeles">
     <div class="t-name">Los Angeles</div>
     <div class="t-artist">Saxophonic Soul Art</div>
-  </a>
-  <a href="https://open.spotify.com/track/5JFPwVVxXbCym9ftXMa2Ii" class="spotify-card card-3" title="Don&#x27;t Play No Game That I Can&#x27;t Win - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b2cd8863c37f83b6b39b0660" alt="Don&#x27;t Play No Game That I Can&#x27;t Win">
-    <div class="t-name">Don&#x27;t Play No Game That I Can&#x27;t Win</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/2qqCS8wH4FNtgH7kVmF8Ub" class="spotify-card card-4" title="Jimmy James - Remastered 2009 - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" alt="Jimmy James - Remastered 2009">
-    <div class="t-name">Jimmy James - Remastered 2009</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/1k4lRM7YrGxJerGbf9VzXk" class="spotify-card card-5" title="Super Disco Breakin&#x27; - Remastered 2009 - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Super Disco Breakin&#x27; - Remastered 2009">
-    <div class="t-name">Super Disco Breakin&#x27; - Remastered 2009</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/5ulZo7nk3MByXLvja3NCAc" class="spotify-card card-6" title="Hey Ladies - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Hey Ladies">
-    <div class="t-name">Hey Ladies</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/6yKldTTcSa2BdpKPEtdYp3" class="spotify-card card-7" title="Rhymin &amp; Stealin - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Rhymin &amp; Stealin">
-    <div class="t-name">Rhymin &amp; Stealin</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/4Hw2PMgu7y4FHUReIz1Hld" class="spotify-card card-8" title="Sabrosa - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Sabrosa">
-    <div class="t-name">Sabrosa</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/4eIfmbGZy21bvnBLHSf7DE" class="spotify-card card-9" title="Pass The Mic - Remastered 2009 - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d524bd8dd1ea53b9a0e1dd9e" alt="Pass The Mic - Remastered 2009">
-    <div class="t-name">Pass The Mic - Remastered 2009</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL" class="spotify-card card-10" title="Egg Man - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Egg Man">
-    <div class="t-name">Egg Man</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc" class="spotify-card card-11" title="Paul Revere - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Paul Revere">
-    <div class="t-name">Paul Revere</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/18tgx070tbAM4TKxEwzWaG" class="spotify-card card-12" title="Root Down - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a" alt="Root Down">
-    <div class="t-name">Root Down</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB" class="spotify-card card-13" title="I Don&#x27;t Know - Remastered 2009 - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="I Don&#x27;t Know - Remastered 2009">
-    <div class="t-name">I Don&#x27;t Know - Remastered 2009</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/7mPfubAjo4PVuRqO84bHZb" class="spotify-card card-14" title="Looking Down The Barrel Of A Gun - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2" alt="Looking Down The Barrel Of A Gun">
-    <div class="t-name">Looking Down The Barrel Of A Gun</div>
-    <div class="t-artist">Beastie Boys</div>
-  </a>
-  <a href="https://open.spotify.com/track/5h40ovzXu7rF7Giwb9oXYy" class="spotify-card card-15" id="spotify-last" title="Girls - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Girls">
-    <div class="t-name">Girls</div>
-    <div class="t-artist">Beastie Boys</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
