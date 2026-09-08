@@ -23,6 +23,14 @@
 
 ---
 
+### 🧵 Latest Threads Posts
+
+<!-- THREADS_START -->
+最新の投稿はまもなく表示されます。
+<!-- THREADS_END -->
+
+---
+
 <!-- SPOTIFY_START -->
 ### 🎧 Recently Played by Spotify
 
