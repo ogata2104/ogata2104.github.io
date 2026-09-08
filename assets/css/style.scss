@@ -4,7 +4,8 @@
 
 /* ヘッダー部分のカスタマイズ */
 .page-header {
-  /* アップロードした画像を指定 */
+  /* デフォルト（JS無効時のフォールバック）の画像。
+     JS有効時は head-custom.html 内のスクリプトがアクセスの度にランダムな画像へ上書きする */
   background-image: url("{{ site.baseurl }}/header_img/header.jpg");
   
   /* 画像の表示方法を調整 */

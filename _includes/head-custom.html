@@ -7,3 +7,19 @@
 
   gtag('config', 'G-DNJKZG5FNV');
 </script>
+
+<!-- ヘッダー画像をアクセスの度にランダムに切り替える -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var headerImages = [
+      '{{ site.baseurl }}/header_img/header.jpg',
+      '{{ site.baseurl }}/header_img/header2.jpg',
+      '{{ site.baseurl }}/header_img/header3.jpg'
+    ];
+    var chosen = headerImages[Math.floor(Math.random() * headerImages.length)];
+    var header = document.querySelector('.page-header');
+    if (header) {
+      header.style.backgroundImage = 'url("' + chosen + '")';
+    }
+  });
+</script>
