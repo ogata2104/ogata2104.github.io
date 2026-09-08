@@ -8,13 +8,14 @@
   gtag('config', 'G-DNJKZG5FNV');
 </script>
 
-<!-- ヘッダー画像をアクセスの度にランダムに切り替える -->
+<!-- ヘッダー画像をアクセスの度にランダムに切り替える。
+     header_img/ 配下のファイルを自動的に列挙するので、画像を追加・削除しても
+     このスクリプトを書き換える必要はない -->
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var headerImages = [
-      '{{ site.baseurl }}/header_img/header.jpg',
-      '{{ site.baseurl }}/header_img/header2.jpg',
-      '{{ site.baseurl }}/header_img/header3.jpg'
+      {% for f in site.static_files %}{% if f.path contains "/header_img/" %}"{{ site.baseurl }}{{ f.path }}",
+      {% endif %}{% endfor %}
     ];
     var chosen = headerImages[Math.floor(Math.random() * headerImages.length)];
     var header = document.querySelector('.page-header');
