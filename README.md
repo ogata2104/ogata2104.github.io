@@ -155,105 +155,105 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/7efNhV0PVG2UN3eon22SsH" class="spotify-card card-0" id="spotify-first" title="Pure Scars - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/60MfgYDp8cdoVfDiapYHcP" class="spotify-card card-0" id="spotify-first" title="Boyhood (A Note, Not Now) - Senri Oe" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Boyhood (A Note, Not Now)">
+    <div class="t-name">Boyhood (A Note, Not Now)</div>
+    <div class="t-artist">Senri Oe</div>
+  </a>
+  <a href="https://open.spotify.com/track/621q9G4AL9OtkzYQ3InDiJ" class="spotify-card card-1" title="Amber Lab 2 - Senri Oe" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Amber Lab 2">
+    <div class="t-name">Amber Lab 2</div>
+    <div class="t-artist">Senri Oe</div>
+  </a>
+  <a href="https://open.spotify.com/track/0P92CHaNSg2g1Y9iS3Rk36" class="spotify-card card-2" title="Amber Lab - Senri Oe" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Amber Lab">
+    <div class="t-name">Amber Lab</div>
+    <div class="t-artist">Senri Oe</div>
+  </a>
+  <a href="https://open.spotify.com/track/26DsEZLv0Mx5XdGGVGUVVX" class="spotify-card card-3" title="Half Done - Senri Oe" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Half Done">
+    <div class="t-name">Half Done</div>
+    <div class="t-artist">Senri Oe</div>
+  </a>
+  <a href="https://open.spotify.com/track/4nTeu8qmFncoKHARDlL5hf" class="spotify-card card-4" title="First Wish - Senri Oe" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="First Wish">
+    <div class="t-name">First Wish</div>
+    <div class="t-artist">Senri Oe</div>
+  </a>
+  <a href="https://open.spotify.com/track/7efNhV0PVG2UN3eon22SsH" class="spotify-card card-5" title="Pure Scars - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Pure Scars">
     <div class="t-name">Pure Scars</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/5DSutuu8XaaSLAWtCRVVgV" class="spotify-card card-1" title="Dear X - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5DSutuu8XaaSLAWtCRVVgV" class="spotify-card card-6" title="Dear X - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Dear X">
     <div class="t-name">Dear X</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/3XD2gxUQwL8i0bKO5INEII" class="spotify-card card-2" title="Acha! - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/3XD2gxUQwL8i0bKO5INEII" class="spotify-card card-7" title="Acha! - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Acha!">
     <div class="t-name">Acha!</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/1JR7YOifcLtlW4SqZECN68" class="spotify-card card-3" title="Rain Glass - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/1JR7YOifcLtlW4SqZECN68" class="spotify-card card-8" title="Rain Glass - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Rain Glass">
     <div class="t-name">Rain Glass</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/5H94gJ626sW55rbzZgaWnF" class="spotify-card card-4" title="Fresh Edge - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5H94gJ626sW55rbzZgaWnF" class="spotify-card card-9" title="Fresh Edge - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Fresh Edge">
     <div class="t-name">Fresh Edge</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" class="spotify-card card-5" title="All I Want - The Offspring" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" class="spotify-card card-10" title="All I Want - The Offspring" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b" alt="All I Want">
     <div class="t-name">All I Want</div>
     <div class="t-artist">The Offspring</div>
   </a>
-  <a href="https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM" class="spotify-card card-6" title="SAY GOODBYE - Hiroshi Sato" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM" class="spotify-card card-11" title="SAY GOODBYE - Hiroshi Sato" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2732593fdf93be69b38e4b1c10d" alt="SAY GOODBYE">
     <div class="t-name">SAY GOODBYE</div>
     <div class="t-artist">Hiroshi Sato</div>
   </a>
-  <a href="https://open.spotify.com/track/5SmcegqB9az2Jqv6Kt8tui" class="spotify-card card-7" title="ベステン ダンク - Hiroshi Takano" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5SmcegqB9az2Jqv6Kt8tui" class="spotify-card card-12" title="ベステン ダンク - Hiroshi Takano" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2733e250ba589c59c9ffe1b8c7b" alt="ベステン ダンク">
     <div class="t-name">ベステン ダンク</div>
     <div class="t-artist">Hiroshi Takano</div>
   </a>
-  <a href="https://open.spotify.com/track/78gPjRVk5Rl9JswOdkYwQ2" class="spotify-card card-8" title="Deep and Abiding - Victor Lundberg" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/78gPjRVk5Rl9JswOdkYwQ2" class="spotify-card card-13" title="Deep and Abiding - Victor Lundberg" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ec47ded5f2457d2f5a14ec7d" alt="Deep and Abiding">
     <div class="t-name">Deep and Abiding</div>
     <div class="t-artist">Victor Lundberg</div>
   </a>
-  <a href="https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr" class="spotify-card card-9" title="Wasting Time - Noa Lauryn" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr" class="spotify-card card-14" title="Wasting Time - Noa Lauryn" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273b460f90b23bcee40b9d34535" alt="Wasting Time">
     <div class="t-name">Wasting Time</div>
     <div class="t-artist">Noa Lauryn</div>
   </a>
-  <a href="https://open.spotify.com/track/43GWrCMgxLOH7lE1KrBGul" class="spotify-card card-10" title="DANCING IN THE SUN - Sedric Perry" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/43GWrCMgxLOH7lE1KrBGul" class="spotify-card card-15" title="DANCING IN THE SUN - Sedric Perry" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273268a57f491d333a936a7abad" alt="DANCING IN THE SUN">
     <div class="t-name">DANCING IN THE SUN</div>
     <div class="t-artist">Sedric Perry</div>
   </a>
-  <a href="https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF" class="spotify-card card-11" title="Slow Tonight - Tom Misch" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF" class="spotify-card card-16" title="Slow Tonight - Tom Misch" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27358573177b0e8c26a80f731a2" alt="Slow Tonight">
     <div class="t-name">Slow Tonight</div>
     <div class="t-artist">Tom Misch</div>
   </a>
-  <a href="https://open.spotify.com/track/7jEP6VLxOMeeJVIOHDxEhb" class="spotify-card card-12" title="Forever &amp; Ever - Thee Heart Tones" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/7jEP6VLxOMeeJVIOHDxEhb" class="spotify-card card-17" title="Forever &amp; Ever - Thee Heart Tones" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27325c22abef5bf62deafdfb507" alt="Forever &amp; Ever">
     <div class="t-name">Forever &amp; Ever</div>
     <div class="t-artist">Thee Heart Tones</div>
   </a>
-  <a href="https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0" class="spotify-card card-13" title="Only You Do - GoldFord" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0" class="spotify-card card-18" title="Only You Do - GoldFord" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273535dae97f8f4ebf388d2bf90" alt="Only You Do">
     <div class="t-name">Only You Do</div>
     <div class="t-artist">GoldFord</div>
   </a>
-  <a href="https://open.spotify.com/track/3KLzOaaqY7D4duZnL14GCk" class="spotify-card card-14" title="A Little Bit of Me - Mica Millar" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/3KLzOaaqY7D4duZnL14GCk" class="spotify-card card-19" id="spotify-last" title="A Little Bit of Me - Mica Millar" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27306269a22af342a209ee04944" alt="A Little Bit of Me">
     <div class="t-name">A Little Bit of Me</div>
     <div class="t-artist">Mica Millar</div>
-  </a>
-  <a href="https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz" class="spotify-card card-15" title="Flower Moon - Durand Jones &amp; The Indications" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b27387f2de2e1146cb764c32a69a" alt="Flower Moon">
-    <div class="t-name">Flower Moon</div>
-    <div class="t-artist">Durand Jones &amp; The Indications</div>
-  </a>
-  <a href="https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa" class="spotify-card card-16" title="Caviar - Benny Sings" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f9bb2ddff6b9a31e043742cd" alt="Caviar">
-    <div class="t-name">Caviar</div>
-    <div class="t-artist">Benny Sings</div>
-  </a>
-  <a href="https://open.spotify.com/track/0KQlYA88cnOftc7SFhWv5U" class="spotify-card card-17" title="Little Life - Robert Gromotka" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f" alt="Little Life">
-    <div class="t-name">Little Life</div>
-    <div class="t-artist">Robert Gromotka</div>
-  </a>
-  <a href="https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH" class="spotify-card card-18" title="365 Flavors - The California Honeydrops" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b27325c8a788df4502b9c0090e9b" alt="365 Flavors">
-    <div class="t-name">365 Flavors</div>
-    <div class="t-artist">The California Honeydrops</div>
-  </a>
-  <a href="https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ" class="spotify-card card-19" id="spotify-last" title="Maybe I&#x27;m A Fool (But I&#x27;m In Love Again) - Family Company" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ce241c99d66e0373f80565e4" alt="Maybe I&#x27;m A Fool (But I&#x27;m In Love Again)">
-    <div class="t-name">Maybe I&#x27;m A Fool (But I&#x27;m In Love Again)</div>
-    <div class="t-artist">Family Company</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
