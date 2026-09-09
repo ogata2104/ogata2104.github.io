@@ -69,16 +69,19 @@
 </style>
 <div class="threads-row">
   <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwFGJzPl&amp;_nc_oc=Adox6iDWr3uTvnP7G2Yb5KXBvv4MGDRnfOj9XESjpR-FtwAdBghW6_uZmZoegwf0t8s&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-3.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bCQDN69IDVZ1OYoCfCuXHA&amp;_nc_tpa=Q5bMBQIIxaIpGIRW4aYFN3uaeqwwQ8_ybk9tM6mg-vH1jQmwU3SjV4hbauxf0lcTOi_f5nFYXP2wXN1baA&amp;oh=00_AQJqrv7v57UyXwqbBsG_0YozCsO3MKdx3UPZ5rfsGApaRw&amp;oe=6AA7095D" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/Dc5RFUomiQH" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <div class="t-text"></div>
-    <div class="t-date">2026-09-05</div>
-  </a>
   <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=lrqncfjInXgQ7kNvwFpoWSz&amp;_nc_oc=AdoiTaXADrCvgiUg3yFwapuUAZ1bHAIa92x9EekZV3KxG1RqRBpoI3ZTkJQ-9vIA4r8&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bCQDN69IDVZ1OYoCfCuXHA&amp;_nc_tpa=Q5bMBQKST2ajaRM18_gcmK9dqmx-dcCmbit9ksHGABA1cyIaMhKOdYSVT0ZNxUd3N8Csy-WJC_tvk9aFtg&amp;oh=00_AQJkfScJZHUbUTxMKOpDTuqicq98SQ3aMI1gZrlmYu7EJw&amp;oe=6AA7205D" alt="">
     <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
     <div class="t-date">2026-08-31</div>
+  </a>
+  <a href="https://www.threads.com/@ogata2104/post/DcjGqB8gXnJ" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwHLDPkx&amp;_nc_oc=AdpaXytx5qiyaRqYRq1de0fNoV3PHHt9BarPsd8H5LzlHaVKmoi1NNLYC8q2wG0hR0s&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bCQDN69IDVZ1OYoCfCuXHA&amp;_nc_tpa=Q5bMBQJAanfNWc9ZExN2ioeqT5f9co-RuNVvw7Tr6niDUICL6lx_57BHnVN_65kHtoXHjtMF5uS6aTEYcA&amp;oh=00_AQLBv_tBSTUWgfLGlXFzGdExgMI5o9LGC_ee1b2zVkpBpg&amp;oe=6AA7245E" alt="">
+    <div class="t-text">#10年前はラッパー <br>10年以上前だけどね<br>#splatoon3 <br>#splatoon</div>
+    <div class="t-date">2026-08-27</div>
   </a>
 </div>
 
