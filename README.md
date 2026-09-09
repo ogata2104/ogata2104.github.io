@@ -26,7 +26,64 @@
 ### 🧵 Latest Threads Posts
 
 <!-- THREADS_START -->
-最新の投稿はまもなく表示されます。
+### 🧵 Latest Threads Posts
+
+<style>
+.threads-row {
+  display: flex;
+  gap: 16px;
+  margin: 20px 0 12px;
+  flex-wrap: wrap;
+}
+.threads-card {
+  display: block;
+  width: 220px;
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 12px;
+  background-color: #f6f8fa;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(27,31,35,0.12);
+  transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.2s;
+}
+.threads-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(27,31,35,0.2);
+}
+.threads-card img {
+  width: 100%;
+  border-radius: 6px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  margin-bottom: 8px;
+  pointer-events: none;
+}
+.threads-card .t-text {
+  font-size: 12px;
+  color: #24292e;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+.threads-card .t-date {
+  font-size: 10px;
+  color: #586069;
+}
+</style>
+<div class="threads-row">
+  <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
+    <div class="t-date">2026-09-06</div>
+  </a>
+  <a href="https://www.threads.com/@ogata2104/post/Dc5RFUomiQH" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <div class="t-text"></div>
+    <div class="t-date">2026-09-05</div>
+  </a>
+  <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
+    <div class="t-date">2026-08-31</div>
+  </a>
+</div>
+
 <!-- THREADS_END -->
 
 ---
