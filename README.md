@@ -23,8 +23,6 @@
 
 ---
 
-### 🧵 Latest Threads Posts
-
 <!-- THREADS_START -->
 ### 🧵 Latest Threads Posts
 
