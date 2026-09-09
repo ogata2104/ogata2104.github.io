@@ -68,20 +68,19 @@
 }
 </style>
 <div class="threads-row">
+  <a href="https://www.threads.com/@ogata2104/post/DdEf7H1Grsd" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <div class="t-text">トルネコ！</div>
+    <div class="t-date">2026-09-09</div>
+  </a>
   <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwF7_4-K&amp;_nc_oc=AdomWMLPYGQQYnqalS6XTAwHFIDOW_oqwL8jfr0F4zCM9LIyWb1WxwMZOh_yiIIxERE&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=wUOmDzX2EY2jpYCyhCxa6A&amp;_nc_tpa=Q5bMBQKSguuuMcBWsEr05AG5ROl5RNs9__6gxhoNuvkoXTh4LleVVCIYmkOT1QglUD9RfPE_Sv7keyfrCg&amp;oh=00_AQIvvjE1Xo1myiOCcQApTEiQLCa8SBlfnEcg4dmbcHoRzA&amp;oe=6AA7095D" alt="">
+    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwEqmR8X&amp;_nc_oc=AdqzIAKzDRXQGMtktO-9D_90BAZ0lX93GtD5lYkFkrBHKKQW1O2O914lEOBuWuex6zU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=u4F_-XKWjTF_3KkOrVXZ6Q&amp;_nc_tpa=Q5bMBQKrb6vhXMYnYHCNTZqyLR-pX8eYs8d48g2WQn1i-10v2d2Jfpo7uD8VpGNnSKY_mRXxNX7XdDccaw&amp;oh=00_AQKOB-FB2b6zY63rCGv8eTA9RwU_hYZ6mx4wwWZiOt9hhA&amp;oe=6AA7419D" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
   </a>
   <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=lrqncfjInXgQ7kNvwF4cF-9&amp;_nc_oc=AdocDhbBMYbMC4wdoS_UtSCeaT3T9vXOumEZEVE-Pt7kEFBmQXpfxWWr3TBpaEWxYf8&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=wUOmDzX2EY2jpYCyhCxa6A&amp;_nc_tpa=Q5bMBQJG-3FqynnRhlSxm8Wy0ZHUy2uYQXVsTh3fV7TS-dVf8VlC0FaOy6TlbX4ttudJUSD7tg1rlgCwHQ&amp;oh=00_AQJemTJobox6HH3wDVfG_UQgazM38k6_WHNCVdtQzLNItA&amp;oe=6AA7205D" alt="">
+    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwEBRM28&amp;_nc_oc=Ado02QSSK5bZdJSSKtLqGKGbvdqZGQdNZFa9MOMbCFh8cZu_SLP9oWLsS289fTV8f3w&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=u4F_-XKWjTF_3KkOrVXZ6Q&amp;_nc_tpa=Q5bMBQKsHGBXHWXC99wz-ys9NyPZb5ukBjgyrPBKGLjioH07c9NTVrcGrvPdJEtmCacYI3zF9sB-lPrQKA&amp;oh=00_AQIH8kZGcuPbsPgMgn8aE_iw2IaTFK3dnLMzZXURuBNtIg&amp;oe=6AA7589D" alt="">
     <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
     <div class="t-date">2026-08-31</div>
-  </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcjGqB8gXnJ" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwHTkJbb&amp;_nc_oc=AdpfEN4jdKqRJjPg1O-ppfvISd1sbYthhCLIXLLCAi9bNZWk89uGvoln3hY747RX0-c&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr6-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=wUOmDzX2EY2jpYCyhCxa6A&amp;_nc_tpa=Q5bMBQLhhHCv1EVn_FJGV-1OC16FoRBydhxrodSGXwjs4BMYCpnJN6bneo9Std1z6Dl5th7dyMekMczPZg&amp;oh=00_AQJQHuDr1QqHqYDO62UL1HvBzk1uw5gAtbo7qxl3fVkA-Q&amp;oe=6AA7245E" alt="">
-    <div class="t-text">#10年前はラッパー <br>10年以上前だけどね<br>#splatoon3 <br>#splatoon</div>
-    <div class="t-date">2026-08-27</div>
   </a>
 </div>
 
