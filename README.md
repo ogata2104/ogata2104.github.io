@@ -68,19 +68,18 @@
 }
 </style>
 <div class="threads-row">
+  <a href="https://www.threads.com/@ogata2104/post/DdF0rs0mvCa" class="threads-card" target="_blank" rel="noopener noreferrer">
+    <div class="t-text">トルネコは買います。<br>iPhoneは買いません。</div>
+    <div class="t-date">2026-09-10</div>
+  </a>
   <a href="https://www.threads.com/@ogata2104/post/DdEf7H1Grsd" class="threads-card" target="_blank" rel="noopener noreferrer">
     <div class="t-text">トルネコ！</div>
     <div class="t-date">2026-09-09</div>
   </a>
   <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwH42iuM&amp;_nc_oc=AdoU2PNNsC9ZHHfWWfYCjw6c_XjieRXqEyb5suWoIVaOKZlVp1N4Dg9Gzlmh1_wlQEY&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=aWViN5VloNL-zmnG6QraTw&amp;_nc_tpa=Q5bMBQICm1lEBdXShbRZAbjN8hXjXil2e3u-ls1aLjLeg5ZtGvg647bSyL0Gc9cRmVgt9Iyc7j8_O8jqGg&amp;oh=00_AQLpkqk4KoRjTgSTO_OlTBghup-zdOSMZcBL9CYdakrzlw&amp;oe=6AA779DD" alt="">
+    <img src="https://instagram.fsgn2-6.fna.fbcdn.net/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwHqcvxT&amp;_nc_oc=Adobwc8D-PXkxa2yRDGTJGZFvJdsuplEm8zXHr54XTiu9I9C5vMif87zWOTfkN_7CbA&amp;_nc_zt=23&amp;_nc_ht=instagram.fsgn2-6.fna&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=uqq4axv9jkPzevC3fmRZwg&amp;_nc_tpa=Q5bMBQI2CxhDWgTez4u0igQ7duN8WI5P1YC64ZR3zy-9c0-clpGZ538YIfqMQkaLAS5P2UYmpw57QRHlkQ&amp;oh=00_AQIwBrg8K7LhuKV7PZyozEyXbbiIqp1oWLH0TdHeYKc1yg&amp;oe=6AA7EA5D" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
-  </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwEPhaeL&amp;_nc_oc=AdpNVBveSNlySSQ_qAYaInselEDAsen5j_zdee0ebrahI3XqON-qyspi0VXuZfcongo&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=aWViN5VloNL-zmnG6QraTw&amp;_nc_tpa=Q5bMBQIphJ684udgUHZc_m8wWixrhlkpCarlUPGAjBSaV2pLSe1aCcdm-Q3hIF5sih6wwzkAdZvvA-Uxpg&amp;oh=00_AQLaYck_n6RcaclvaaEAvgH4_s5Kjs-l8zmNAYA3AfIdvQ&amp;oe=6AA790DD" alt="">
-    <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
-    <div class="t-date">2026-08-31</div>
   </a>
 </div>
 
