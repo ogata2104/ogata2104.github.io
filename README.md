@@ -219,105 +219,105 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/5qRhDFx1Om4yu6UQv0WKLh" class="spotify-card card-0" id="spotify-first" title="Hole in My Heart - Cyndi Lauper" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" class="spotify-card card-0" id="spotify-first" title="MMMBop - Hanson" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+  </a>
+  <a href="https://open.spotify.com/track/5qRhDFx1Om4yu6UQv0WKLh" class="spotify-card card-1" title="Hole in My Heart - Cyndi Lauper" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273d26847c68a0002d364b1ca3d" alt="Hole in My Heart">
     <div class="t-name">Hole in My Heart</div>
     <div class="t-artist">Cyndi Lauper</div>
   </a>
-  <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ" class="spotify-card card-1" title="The Power Of Love - Huey Lewis &amp; The News" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ" class="spotify-card card-2" title="The Power Of Love - Huey Lewis &amp; The News" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27375092a5642136cce4341626e" alt="The Power Of Love">
     <div class="t-name">The Power Of Love</div>
     <div class="t-artist">Huey Lewis &amp; The News</div>
   </a>
-  <a href="https://open.spotify.com/track/6QTGiIuNopQu1iV2aa0fDS" class="spotify-card card-2" title="Pink (From Barbie The Album) - Lizzo" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/6QTGiIuNopQu1iV2aa0fDS" class="spotify-card card-3" title="Pink (From Barbie The Album) - Lizzo" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273034651fe1846ec71ea6685d9" alt="Pink (From Barbie The Album)">
     <div class="t-name">Pink (From Barbie The Album)</div>
     <div class="t-artist">Lizzo</div>
   </a>
-  <a href="https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo" class="spotify-card card-3" title="What the Hell - Avril Lavigne" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo" class="spotify-card card-4" title="What the Hell - Avril Lavigne" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6" alt="What the Hell">
     <div class="t-name">What the Hell</div>
     <div class="t-artist">Avril Lavigne</div>
   </a>
-  <a href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9" class="spotify-card card-4" title="Born in the U.S.A. - Bruce Springsteen" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9" class="spotify-card card-5" title="Born in the U.S.A. - Bruce Springsteen" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77" alt="Born in the U.S.A.">
     <div class="t-name">Born in the U.S.A.</div>
     <div class="t-artist">Bruce Springsteen</div>
   </a>
-  <a href="https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS" class="spotify-card card-5" title="Open Your Heart - Madonna" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS" class="spotify-card card-6" title="Open Your Heart - Madonna" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc" alt="Open Your Heart">
     <div class="t-name">Open Your Heart</div>
     <div class="t-artist">Madonna</div>
   </a>
-  <a href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" class="spotify-card card-6" title="Ghostbusters - Run–D.M.C." target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" class="spotify-card card-7" title="Ghostbusters - Run–D.M.C." target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
     <div class="t-name">Ghostbusters</div>
     <div class="t-artist">Run–D.M.C.</div>
   </a>
-  <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0" class="spotify-card card-7" title="Walking On Sunshine - Katrina &amp; The Waves" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0" class="spotify-card card-8" title="Walking On Sunshine - Katrina &amp; The Waves" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Walking On Sunshine">
     <div class="t-name">Walking On Sunshine</div>
     <div class="t-artist">Katrina &amp; The Waves</div>
   </a>
-  <a href="https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN" class="spotify-card card-8" title="Kokomo - The Beach Boys" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN" class="spotify-card card-9" title="Kokomo - The Beach Boys" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273c5634c0532097e175199f07e" alt="Kokomo">
     <div class="t-name">Kokomo</div>
     <div class="t-artist">The Beach Boys</div>
   </a>
-  <a href="https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO" class="spotify-card card-9" title="Footloose - Kenny Loggins" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO" class="spotify-card card-10" title="Footloose - Kenny Loggins" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1" alt="Footloose">
     <div class="t-name">Footloose</div>
     <div class="t-artist">Kenny Loggins</div>
   </a>
-  <a href="https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ" class="spotify-card card-10" title="We Built This City - Starship" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ" class="spotify-card card-11" title="We Built This City - Starship" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="We Built This City">
     <div class="t-name">We Built This City</div>
     <div class="t-artist">Starship</div>
   </a>
-  <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" class="spotify-card card-11" title="Fuck Tha Police - N.W.A." target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" class="spotify-card card-12" title="Fuck Tha Police - N.W.A." target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Fuck Tha Police">
     <div class="t-name">Fuck Tha Police</div>
     <div class="t-artist">N.W.A.</div>
   </a>
-  <a href="https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf" class="spotify-card card-12" title="Express Yourself - Madonna" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf" class="spotify-card card-13" title="Express Yourself - Madonna" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273744ce5f9db16330eb4027f26" alt="Express Yourself">
     <div class="t-name">Express Yourself</div>
     <div class="t-artist">Madonna</div>
   </a>
-  <a href="https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0" class="spotify-card card-13" title="Manic Monday - The Bangles" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0" class="spotify-card card-14" title="Manic Monday - The Bangles" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccbf6907d1b128481253f3d5" alt="Manic Monday">
     <div class="t-name">Manic Monday</div>
     <div class="t-artist">The Bangles</div>
   </a>
-  <a href="https://open.spotify.com/track/0U2ecxStCgfedp9aCSA45b" class="spotify-card card-14" title="Through Being Cool - 2010 Remaster - DEVO" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0U2ecxStCgfedp9aCSA45b" class="spotify-card card-15" title="Through Being Cool - 2010 Remaster - DEVO" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273be8940b4113fe1a49df9de8f" alt="Through Being Cool - 2010 Remaster">
     <div class="t-name">Through Being Cool - 2010 Remaster</div>
     <div class="t-artist">DEVO</div>
   </a>
-  <a href="https://open.spotify.com/track/4czNORk5MjW5WOn98bki32" class="spotify-card card-15" title="All Night Long (All Night) - Single Version - Lionel Richie" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/4czNORk5MjW5WOn98bki32" class="spotify-card card-16" title="All Night Long (All Night) - Single Version - Lionel Richie" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273a47127db3e929f64a2795666" alt="All Night Long (All Night) - Single Version">
     <div class="t-name">All Night Long (All Night) - Single Version</div>
     <div class="t-artist">Lionel Richie</div>
   </a>
-  <a href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" class="spotify-card card-16" title="Call Me Maybe - Carly Rae Jepsen" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" class="spotify-card card-17" title="Call Me Maybe - Carly Rae Jepsen" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
     <div class="t-name">Call Me Maybe</div>
     <div class="t-artist">Carly Rae Jepsen</div>
   </a>
-  <a href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" class="spotify-card card-17" title="Here Comes The Hammer - MC Hammer" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" class="spotify-card card-18" title="Here Comes The Hammer - MC Hammer" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
     <div class="t-name">Here Comes The Hammer</div>
     <div class="t-artist">MC Hammer</div>
   </a>
-  <a href="https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg" class="spotify-card card-18" title="Hot Stuff - 12&quot; Version - Donna Summer" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg" class="spotify-card card-19" id="spotify-last" title="Hot Stuff - 12&quot; Version - Donna Summer" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768" alt="Hot Stuff - 12&quot; Version">
     <div class="t-name">Hot Stuff - 12&quot; Version</div>
     <div class="t-artist">Donna Summer</div>
-  </a>
-  <a href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" class="spotify-card card-19" id="spotify-last" title="All Right - Christopher Cross" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
-    <div class="t-name">All Right</div>
-    <div class="t-artist">Christopher Cross</div>
   </a>
   </div>
   <a href="#spotify-last" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
