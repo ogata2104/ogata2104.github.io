@@ -77,7 +77,7 @@
     <div class="t-date">2026-09-09</div>
   </a>
   <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://instagram.fsgn2-6.fna.fbcdn.net/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwHqcvxT&amp;_nc_oc=Adobwc8D-PXkxa2yRDGTJGZFvJdsuplEm8zXHr54XTiu9I9C5vMif87zWOTfkN_7CbA&amp;_nc_zt=23&amp;_nc_ht=instagram.fsgn2-6.fna&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=uqq4axv9jkPzevC3fmRZwg&amp;_nc_tpa=Q5bMBQI2CxhDWgTez4u0igQ7duN8WI5P1YC64ZR3zy-9c0-clpGZ538YIfqMQkaLAS5P2UYmpw57QRHlkQ&amp;oh=00_AQIwBrg8K7LhuKV7PZyozEyXbbiIqp1oWLH0TdHeYKc1yg&amp;oe=6AA7EA5D" alt="">
+    <img src="https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwE5G_Up&amp;_nc_oc=AdqByENNT_9TtIaBwUxuoX-fFUdd_mgrP3VVdppLJzouE1hKOcvcv22sGvTq0ALYXYA&amp;_nc_zt=23&amp;_nc_ht=scontent-fra5-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=QRZqDkSwthJ0WbSvR_ifBA&amp;_nc_tpa=Q5bMBQINtASJXlDVRBux40sy_Z0eBrUHPJRnSflQ7y0jBJZL3X7CZs1dglREAwNZyzgk9BufBI9wqwbIfw&amp;oh=00_AQIOHz_eV_FXx1SO5BvoLXqoTRAzZ74nmiXjrVpIiW4tvA&amp;oe=6AA85ADD" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
   </a>
