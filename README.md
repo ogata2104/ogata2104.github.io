@@ -218,99 +218,99 @@
 <div class="spotify-stack-wrapper">
   <a href="#spotify-first" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
-  <a href="https://open.spotify.com/track/3XstzgzP0rp3bzElEnRVHv" class="spotify-card card-0" id="spotify-first" title="Slow Down - Mac Ayres" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To" class="spotify-card card-0" id="spotify-first" title="Calling You - Bagdad Cafe/Soundtrack Version - Jevetta Steele" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ff29dbaae491ef72637fbec1" alt="Calling You - Bagdad Cafe/Soundtrack Version">
+    <div class="t-name">Calling You - Bagdad Cafe/Soundtrack Version</div>
+    <div class="t-artist">Jevetta Steele</div>
+  </a>
+  <a href="https://open.spotify.com/track/4Y5yjzs9FFw5qIgfZBd43I" class="spotify-card card-1" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
+    <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
+    <div class="t-artist">James Brown</div>
+  </a>
+  <a href="https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76" class="spotify-card card-2" title="California Dreamin&#x27; - The Mamas &amp; The Papas" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df" alt="California Dreamin&#x27;">
+    <div class="t-name">California Dreamin&#x27;</div>
+    <div class="t-artist">The Mamas &amp; The Papas</div>
+  </a>
+  <a href="https://open.spotify.com/track/3XstzgzP0rp3bzElEnRVHv" class="spotify-card card-3" title="Slow Down - Mac Ayres" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27317a3b492679522901c5da94e" alt="Slow Down">
     <div class="t-name">Slow Down</div>
     <div class="t-artist">Mac Ayres</div>
   </a>
-  <a href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" class="spotify-card card-1" title="What About - Blaxian" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" class="spotify-card card-4" title="What About - Blaxian" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b27349f5a7e05c8b08b31a9c1490" alt="What About">
     <div class="t-name">What About</div>
     <div class="t-artist">Blaxian</div>
   </a>
-  <a href="https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR" class="spotify-card card-2" title="In This Darkness - Clara La San" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR" class="spotify-card card-5" title="In This Darkness - Clara La San" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273787a0dbfa43cdc88d0c484dc" alt="In This Darkness">
     <div class="t-name">In This Darkness</div>
     <div class="t-artist">Clara La San</div>
   </a>
-  <a href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" class="spotify-card card-3" title="Out of Time - The Weeknd" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" class="spotify-card card-6" title="Out of Time - The Weeknd" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
     <div class="t-name">Out of Time</div>
     <div class="t-artist">The Weeknd</div>
   </a>
-  <a href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" class="spotify-card card-4" title="Before spring ends（在春天消失之前） - Wang OK" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" class="spotify-card card-7" title="Before spring ends（在春天消失之前） - Wang OK" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2735f8e5c0a5cc2fa99eb585756" alt="Before spring ends（在春天消失之前）">
     <div class="t-name">Before spring ends（在春天消失之前）</div>
     <div class="t-artist">Wang OK</div>
   </a>
-  <a href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" class="spotify-card card-5" title="Tip Toe - HYBS" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" class="spotify-card card-8" title="Tip Toe - HYBS" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
     <div class="t-name">Tip Toe</div>
     <div class="t-artist">HYBS</div>
   </a>
-  <a href="https://open.spotify.com/track/5uJCqJzB6ozCGsP3eqUsXI" class="spotify-card card-6" title="Country Love - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5uJCqJzB6ozCGsP3eqUsXI" class="spotify-card card-9" title="Country Love - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Country Love">
     <div class="t-name">Country Love</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" class="spotify-card card-7" title="Fade To Black - Dire Straits" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" class="spotify-card card-10" title="Fade To Black - Dire Straits" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
     <div class="t-name">Fade To Black</div>
     <div class="t-artist">Dire Straits</div>
   </a>
-  <a href="https://open.spotify.com/track/6mG058rs5GDVBqEPpiWUs4" class="spotify-card card-8" title="I Wanna Be Sedated - The Offspring" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/6mG058rs5GDVBqEPpiWUs4" class="spotify-card card-11" title="I Wanna Be Sedated - The Offspring" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab6742d3000053b722c80e9988b472f51f72a71a" alt="I Wanna Be Sedated">
     <div class="t-name">I Wanna Be Sedated</div>
     <div class="t-artist">The Offspring</div>
   </a>
-  <a href="https://open.spotify.com/track/60MfgYDp8cdoVfDiapYHcP" class="spotify-card card-9" title="Boyhood (A Note, Not Now) - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/60MfgYDp8cdoVfDiapYHcP" class="spotify-card card-12" title="Boyhood (A Note, Not Now) - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Boyhood (A Note, Not Now)">
     <div class="t-name">Boyhood (A Note, Not Now)</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/621q9G4AL9OtkzYQ3InDiJ" class="spotify-card card-10" title="Amber Lab 2 - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/621q9G4AL9OtkzYQ3InDiJ" class="spotify-card card-13" title="Amber Lab 2 - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Amber Lab 2">
     <div class="t-name">Amber Lab 2</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/0P92CHaNSg2g1Y9iS3Rk36" class="spotify-card card-11" title="Amber Lab - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/0P92CHaNSg2g1Y9iS3Rk36" class="spotify-card card-14" title="Amber Lab - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Amber Lab">
     <div class="t-name">Amber Lab</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/26DsEZLv0Mx5XdGGVGUVVX" class="spotify-card card-12" title="Half Done - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/26DsEZLv0Mx5XdGGVGUVVX" class="spotify-card card-15" title="Half Done - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Half Done">
     <div class="t-name">Half Done</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/4nTeu8qmFncoKHARDlL5hf" class="spotify-card card-13" title="First Wish - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/4nTeu8qmFncoKHARDlL5hf" class="spotify-card card-16" title="First Wish - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="First Wish">
     <div class="t-name">First Wish</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/7efNhV0PVG2UN3eon22SsH" class="spotify-card card-14" title="Pure Scars - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/7efNhV0PVG2UN3eon22SsH" class="spotify-card card-17" title="Pure Scars - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Pure Scars">
     <div class="t-name">Pure Scars</div>
     <div class="t-artist">Senri Oe</div>
   </a>
-  <a href="https://open.spotify.com/track/5DSutuu8XaaSLAWtCRVVgV" class="spotify-card card-15" title="Dear X - Senri Oe" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5DSutuu8XaaSLAWtCRVVgV" class="spotify-card card-18" id="spotify-last" title="Dear X - Senri Oe" target="_blank" rel="noopener noreferrer">
     <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Dear X">
     <div class="t-name">Dear X</div>
-    <div class="t-artist">Senri Oe</div>
-  </a>
-  <a href="https://open.spotify.com/track/3XD2gxUQwL8i0bKO5INEII" class="spotify-card card-16" title="Acha! - Senri Oe" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Acha!">
-    <div class="t-name">Acha!</div>
-    <div class="t-artist">Senri Oe</div>
-  </a>
-  <a href="https://open.spotify.com/track/1JR7YOifcLtlW4SqZECN68" class="spotify-card card-17" title="Rain Glass - Senri Oe" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Rain Glass">
-    <div class="t-name">Rain Glass</div>
-    <div class="t-artist">Senri Oe</div>
-  </a>
-  <a href="https://open.spotify.com/track/5H94gJ626sW55rbzZgaWnF" class="spotify-card card-18" id="spotify-last" title="Fresh Edge - Senri Oe" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252" alt="Fresh Edge">
-    <div class="t-name">Fresh Edge</div>
     <div class="t-artist">Senri Oe</div>
   </a>
   </div>
