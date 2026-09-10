@@ -89,10 +89,6 @@
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
 }
-.threads-card.no-image {
-  background-color: #faf7f2;
-  border-color: #efe9df;
-}
 .threads-card img {
   width: 100%;
   border-radius: 6px;
@@ -135,50 +131,50 @@
 <div class="threads-stack-wrapper">
   <a href="#threads-first" class="stack-nav stack-nav-prev" title="最新の投稿へ">◀</a>
   <div class="threads-stack">
-  <a href="https://www.threads.com/@ogata2104/post/DdG_Hj9gbkO" class="threads-card t-card-0" id="threads-first" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=k-Sc-5Zb9t0Q7kNvwG6qcmm&amp;_nc_oc=AdoI96EqF2ZuExbSiGfmZN66w045Ll0UdbaFi2AqCFKoz62EPBZvL0C_04uDXso77Fo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQI2X0Ldpvs4EVaeV3JF-aqmuYwNYGSLPQsBaPMZaRUvTzqbaP-ksfi905twYIG2RGPoC6Gi0m1cTQ&amp;oh=00_AQKfsoZUxKdzgtcMKj86t1Z3FOfEOqb7xXD2jDt3Y7ekjg&amp;oe=6AA895E5" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DdG_Hj9gbkO" class="threads-card t-card-0" id="threads-first" style="background-color: #f3fbf3; border-color: #ddefdd;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=k-Sc-5Zb9t0Q7kNvwHfib3g&amp;_nc_oc=AdorgQpDFTjlzBAOLqQ_esMzO65xT4Gxx7021DdlEIds5OJRSbvI1fDUmrBbOktPGps&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQIOdM610fgivx5O997hI9p_4R1RxTluyJmy4j-IH330-GbBeAgBFIO4FRN03zyMwokQkgdn8XkNyw&amp;oh=00_AQJ_d0z_Y1ZX04AbeUxFDuX07awtFcG5RNm3QN2P0Ni0XQ&amp;oe=6AA895E5" alt="">
     <div class="t-text">きらくのきろく<br>#渋谷系</div>
     <div class="t-date">2026-09-10</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DdF0rs0mvCa" class="threads-card t-card-1 no-image" style="background-color: #f3fbf3; border-color: #ddefdd;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.threads.com/@ogata2104/post/DdF0rs0mvCa" class="threads-card t-card-1" style="background-color: #f3fbf3; border-color: #ddefdd;" target="_blank" rel="noopener noreferrer">
     <div class="t-text">トルネコは買います。<br>iPhoneは買いません。</div>
     <div class="t-date">2026-09-10</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DdEf7H1Grsd" class="threads-card t-card-2 no-image" style="background-color: #fdf5ef; border-color: #f5e0cf;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.threads.com/@ogata2104/post/DdEf7H1Grsd" class="threads-card t-card-2" style="background-color: #fdf5ef; border-color: #f5e0cf;" target="_blank" rel="noopener noreferrer">
     <div class="t-text">トルネコ！</div>
     <div class="t-date">2026-09-09</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card t-card-3" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwGXyAB-&amp;_nc_oc=AdplR5lU_MmGY1foHVXl3rwfhK6GLcBmFWEUdwWzBrfyjmtnplYv-K-n1nATC9Rg2nA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQLAXBG3mGV_QcPopWudXXyQFVKF1oBBaSSvT6jj-WRyKqXmMWwHDdgu5btiR46VoZzTTxF7eKZ4Hg&amp;oh=00_AQIE3TKMFXgGWF8tCMbs21EgVaJUvJMIgXwqCka93Mx_8A&amp;oe=6AA8931D" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" class="threads-card t-card-3" style="background-color: #f0fbfa; border-color: #d7efec;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8ZpJGvJ5mL8Q7kNvwF9giC4&amp;_nc_oc=Ado6fodDFoJUrrbzfH6OuF48EfO-FEzAuxXi67ylYBmtTjGWXM7w1FYFA0UfNo5xG2M&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQLzvLe1_ZqW-W1z6pdAvLGL0OXymLL37wfgrFeWU8VWUk94sAyIovP9dOKrHH8pPenbFL7c03lExQ&amp;oh=00_AQIN98mxJfJnUVwFhSsgNkQJeIDkExcM44gBE6MiWTJ5Ng&amp;oe=6AA8931D" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card t-card-4" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwFHnqmk&amp;_nc_oc=Ado1AWjQfEYlkn08yY0JgZlGo9CQmlhQFvmEf66TCg658yQ0hSv254qpHJIyEoRmiRo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQLv-Vo32TKP_KMhJ1dmwlvvBtM7-kHAV8IwvVC0SsoIrlGUkzpwtsOcQk97Qhcqxo_JUUdWtHuVEw&amp;oh=00_AQJP2qEAG1UPunN-T-SAPpvYs5uAuuHYcxnWDsx4SJWXqg&amp;oe=6AA8AA1D" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" class="threads-card t-card-4" style="background-color: #f0fbfa; border-color: #d7efec;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwEuQNIB&amp;_nc_oc=Adp1ZZpUq1K-QsPpys5upQSWdNpf0LsXBOqDuLsmKVOmsYD0bzHJZPcwEefiaqe7_ZY&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQJuWjGn0NTzR14Erq6Ww_Zf7Xu7p36t3v4E8cUyksWStl7YsXH5mEXgasltNOCjmQHvcmDUxNFr7w&amp;oh=00_AQIAWyft5V7EKAKTgLnztRrCx_oo95DBEW_tIwx7Dgriow&amp;oe=6AA8AA1D" alt="">
     <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
     <div class="t-date">2026-08-31</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcjGqB8gXnJ" class="threads-card t-card-5" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwGt_CTe&amp;_nc_oc=Adpf-CD_Ksx847liKYGnowb1rD84RaLlaS_wkN1UrIjtPL_9lJoLf1-c8KpXLTfHLHE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQJihr774t5SfOGULbxFK0OIg9ONiJ7y9iSZ-JzKZ56nLIZ4S0lsNqg7OttZEHihiQBk4lFYnwoibw&amp;oh=00_AQL3Bq7ndk1I6iFZOnU3UZ76UIxJiFJUGW0u028N7z1Utg&amp;oe=6AA8AE1E" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DcjGqB8gXnJ" class="threads-card t-card-5" style="background-color: #f3fbf3; border-color: #ddefdd;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwG-oBJW&amp;_nc_oc=AdpVy-k5jywp_frhQOqdgFOANnSBm11R2bRGSnZDGJKaVqVUzQnZxqLOr4PexmeDoos&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQJiJGUo-n-Ys6QuxJbNHA1eaPCVJQuF7bP6HAuu4h1mEs53HfMrnf2xWd7DHuGXOAvS8QAtIPrGwg&amp;oh=00_AQJ9tju5-XVgzd6Y-P7w3qhhZMDq9mnlIpejVSIW1_nT2Q&amp;oe=6AA8AE1E" alt="">
     <div class="t-text">#10年前はラッパー <br>10年以上前だけどね<br>#splatoon3 <br>#splatoon</div>
     <div class="t-date">2026-08-27</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcQqVHDCb9r" class="threads-card t-card-6" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6y7r7Tc8FAQ7kNvwEzJ1CQ&amp;_nc_oc=Adq2aHVjkNkR7WV60xpLIMvTuVtedHkMKVCJhNPXwCqiNU5u7FXfzsbjeHc_W6dy_uc&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQIiMB4cipIjSocroO9ZfLyrNbdyt6yiWkf7iuKW9eohmJuevp3AU67O0l7GXufj3qe-Spfcx0nIlg&amp;oh=00_AQLCJwzhQzlkEwQbcizFx_ZjPowSDa7P118saVZTSBf7iQ&amp;oe=6AA8A27D" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DcQqVHDCb9r" class="threads-card t-card-6" style="background-color: #fdf2f2; border-color: #f5dede;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6y7r7Tc8FAQ7kNvwGGgYBY&amp;_nc_oc=AdrL_pjMaq5McpkM-h5-Gd8vGZYkQDqU1h-EEBy2T_2rMEW3oa-5euNDOCDUo_PTVPY&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQIu-I5D_aMmHpqGToC7mWeTaQjmEa84RDsayzdXxjnsqbuctcDsAFXWmBGCIHbIr9hULCXpaK7QQg&amp;oh=00_AQLQ6N8CpD3m7BlyOeCV3usjJjLEZ7-P-AQ-3CzcJCGbSQ&amp;oe=6AA8A27D" alt="">
     <div class="t-text">久々に「買い物」をした。<br>#楳図かずお <br>#まことちゃん <br>#墓場の画廊 <br>#俺の推し活 <br>#ピンぼけ</div>
     <div class="t-date">2026-08-20</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcP8FCtn64L" class="threads-card t-card-7" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-_HsBujAkk4Q7kNvwEXcOsf&amp;_nc_oc=AdqER271Q9KpAH5f6ZLiPKcYs066mf0mlDvGBORMPabwHtqlUR-SX-ZDr_jwj_PJ8Bw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQLEO_3Js6IhNM6QWvOQ9Yjj0THaUhwsfDkjWNtRBTmXIXlToRT2VdpNF0SCMCWMz5oZjqHN7sxmmQ&amp;oh=00_AQKKyZu7ACyB5yK_V82TlxwshSzGk5EyRnLWD3NZDjcbTQ&amp;oe=6AA8A2D4" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DcP8FCtn64L" class="threads-card t-card-7" style="background-color: #fdf5ef; border-color: #f5e0cf;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-_HsBujAkk4Q7kNvwHhwvJg&amp;_nc_oc=AdoQzlhnZY41mXDvr6VB-KgLqlCKgVxy03tR5DTHjzzXJBeWEkeaR87gjniFmZZiTNo&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQLJG8n5VuHEmj0fM4VYieMXDqdjim8TvIpnllIb2GOVikKveEcro22OATq2G6gYCpC9UvO6I-wOeg&amp;oh=00_AQLND3OBgpG6Z9Kb5edM8IYzpiT6g99rxvG1_WValwQfOw&amp;oe=6AA8A2D4" alt="">
     <div class="t-text">久々に中野で降りた。<br>駅周辺でゴリゴリ開発しているのを横目に圧倒的威厳で聳え立つサンプラザが青空に映えます。</div>
     <div class="t-date">2026-08-20</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcJAc5ygbPf" class="threads-card t-card-8" target="_blank" rel="noopener noreferrer">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/777328276_18623817964027991_7021757795281075069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=dw7ZBuEdwN0Q7kNvwE9oBu4&amp;_nc_oc=AdqG8TtplkTqMDmsHJOV-fWlbZ2KiaqRAZXONC_nvPK54hLPyMwuIunHq9U_RAhLbOU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=bVv9ISkQwcmVMn3OnK-M9A&amp;_nc_tpa=Q5bMBQIlcNkd0ha-EtfEl1mVKFtwDQDFRtQpiEerMlo_KRnUKn0EWjOpgSMLxaQL_5v_9v9LAtvsmabqXg&amp;oh=00_AQK_nnWBHrpRC3ZwxjhjqhCBUwYe7qcV2D5xLfs0xyCa1w&amp;oe=6AA8A443" alt="">
+  <a href="https://www.threads.com/@ogata2104/post/DcJAc5ygbPf" class="threads-card t-card-8" style="background-color: #fdf2f2; border-color: #f5dede;" target="_blank" rel="noopener noreferrer">
+    <img src="https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/777328276_18623817964027991_7021757795281075069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=dw7ZBuEdwN0Q7kNvwFyWKFY&amp;_nc_oc=AdpaQ_moJl6wdGZnvvHzbeeeg1ThVWyy1eXSyyujNCRRdGLx6atwb-PdoERenhcFxvM&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=gvwOpGJ6CtZVxpnDtxdJVg&amp;_nc_tpa=Q5bMBQJ3647QJqH3O0gJ0LZT2C-jpxw7Jy1qt0fyOBmr_szqNEmEUXt0vv2E9eQzcl-7rOYim1Wa25q0wg&amp;oh=00_AQIt8wgRR0O2KOQ022RMCbdI9Gay2QuGeddq70wFwvBaKg&amp;oe=6AA8A443" alt="">
     <div class="t-text">ちいかわリテラシーが低かったせいか、映画が難解過ぎたので、再挑戦に向けて猛勉強中。この子はモモンガっていうらしい。<br>#ち…</div>
     <div class="t-date">2026-08-17</div>
   </a>
-  <a href="https://www.threads.com/@ogata2104/post/DcB20SHGgKt" class="threads-card t-card-9 no-image" id="threads-last" style="background-color: #f0fbfa; border-color: #d7efec;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.threads.com/@ogata2104/post/DcB20SHGgKt" class="threads-card t-card-9" id="threads-last" style="background-color: #f0fbfa; border-color: #d7efec;" target="_blank" rel="noopener noreferrer">
     <div class="t-text">コンプラや現代の価値観云々などから、昔のドラマや映画が地上波TVで放映しづらくなってる昨今、40年以上前のアニメーション…</div>
     <div class="t-date">2026-08-14</div>
   </a>
