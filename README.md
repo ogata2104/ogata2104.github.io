@@ -301,36 +301,6 @@
 .spotify-stack::-webkit-scrollbar {
   display: none; /* Chrome/Safari */
 }
-.stack-nav {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 1000;
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  background-color: rgba(255,255,255,0.92);
-  border: 1px solid #e1e4e8;
-  box-shadow: 0 2px 8px rgba(27,31,35,0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 13px;
-  line-height: 1;
-  color: #24292e;
-  text-decoration: none;
-  transition: transform 0.2s, background-color 0.2s;
-}
-.stack-nav:hover {
-  background-color: #ffffff;
-  transform: translateY(-50%) scale(1.12);
-}
-.stack-nav-prev {
-  left: -6px;
-}
-.stack-nav-next {
-  right: -6px;
-}
 .spotify-card {
   position: absolute;
   top: 34px;
@@ -425,7 +395,6 @@
 .card-16:hover, #card-16-radio:checked ~ .spotify-stack .card-16 { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 .card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 1; }
 .card-17:hover, #card-17-radio:checked ~ .spotify-stack .card-17 { transform: translate(1190px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-#spotify-nav-last-radio:checked ~ .spotify-stack .card-17 { transform: translate(0px, 34px) rotate(-2deg); z-index: 999; }
 </style>
 <div class="spotify-stack-wrapper">
   <input type="radio" name="spotify-select" id="card-0-radio" class="select-radio" aria-hidden="true">
@@ -446,8 +415,6 @@
   <input type="radio" name="spotify-select" id="card-15-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-16-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-17-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="spotify-nav-last-radio" class="select-radio" aria-hidden="true">
-  <label for="card-0-radio" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</label>
   <div class="spotify-stack">
   <div class="spotify-card card-0" title="Living Inside Myself - Gino Vannelli">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
@@ -576,7 +543,6 @@
     <a class="t-open" href="https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
-  <label for="spotify-nav-last-radio" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</label>
 </div>
 
 <!-- SPOTIFY_END -->
