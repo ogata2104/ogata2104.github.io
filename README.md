@@ -459,6 +459,7 @@
 .card-16:hover, .card-16:target, #card-16-target:target ~ .spotify-stack .card-16 { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 .card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 1; }
 .card-17:hover, .card-17:target, #card-17-target:target ~ .spotify-stack .card-17 { transform: translate(1190px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
+#spotify-nav-last-target:target ~ .spotify-stack .card-17 { transform: translate(0px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 </style>
 <div class="spotify-stack-wrapper">
   <span id="card-0-target" class="target-anchor" aria-hidden="true"></span>
@@ -479,7 +480,8 @@
   <span id="card-15-target" class="target-anchor" aria-hidden="true"></span>
   <span id="card-16-target" class="target-anchor" aria-hidden="true"></span>
   <span id="card-17-target" class="target-anchor" aria-hidden="true"></span>
-  <a href="#card-0" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
+  <span id="spotify-nav-last-target" class="target-anchor" aria-hidden="true"></span>
+  <a href="#card-0-target" class="stack-nav stack-nav-prev" title="最新の曲へ">◀</a>
   <div class="spotify-stack">
   <div class="spotify-card card-0" id="card-0" title="Living Inside Myself - Gino Vannelli">
     <a class="card-select" href="#card-0-target" aria-label="カードを選択"></a>
@@ -608,7 +610,7 @@
     <a class="t-open" href="https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
-  <a href="#card-17" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
+  <a href="#spotify-nav-last-target" class="stack-nav stack-nav-next" title="一番古い曲へ">▶</a>
 </div>
 
 <!-- SPOTIFY_END -->
