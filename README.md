@@ -31,8 +31,8 @@
   position: relative;
 }
 .threads-stack {
-  display: flex;
-  gap: 12px;
+  position: relative;
+  height: 380px;
   margin: 24px 0 12px;
   overflow-x: auto;
   overflow-y: visible;
@@ -75,8 +75,12 @@
 }
 .threads-card {
   box-sizing: border-box;
-  flex: 0 0 auto;
+  position: absolute;
+  top: 34px;
+  left: 36px;
   width: 180px;
+  height: 300px;
+  overflow: hidden;
   border: 1px solid #ececec;
   border-radius: 10px;
   padding: 12px;
@@ -84,7 +88,13 @@
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
 }
+.threads-card .card-select {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
 .threads-card img {
+  position: relative;
   width: 100%;
   border-radius: 6px;
   aspect-ratio: 1/1;
@@ -93,17 +103,21 @@
   pointer-events: none;
 }
 .threads-card .t-text {
+  position: relative;
   font-size: 12px;
   color: #2b2b2b;
   line-height: 1.5;
   margin-bottom: 8px;
 }
 .threads-card .t-date {
+  position: relative;
   font-size: 10px;
   color: #767676;
   margin-bottom: 8px;
 }
 .threads-card .t-open {
+  position: relative;
+  z-index: 2;
   display: inline-block;
   font-size: 11px;
   font-weight: bold;
@@ -113,107 +127,99 @@
 .threads-card .t-open:hover {
   text-decoration: underline;
 }
-
-/* マウスでホバーできる環境（PC等）だけ、投稿カードが重なるスタック演出にする。
-   タッチ操作の環境ではhoverが発火せず後ろのカードが隠れたままになるため、
-   ここで囲んだルールのみ適用し、それ以外（スマホ等）は上のflex横並びのままにする。 */
-@media (hover: hover) and (pointer: fine) {
-  .threads-stack {
-    position: relative;
-    height: 380px;
-    display: block;
-  }
-  .threads-card {
-    position: absolute;
-    top: 34px;
-    left: 36px;
-    height: 300px;
-    overflow: hidden;
-  }
 .t-card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 10; }
-.t-card-0:hover { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-0:hover, .t-card-0:target { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-1 { transform: translate(90px, 2px) rotate(-2deg); z-index: 9; }
-.t-card-1:hover { transform: translate(90px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-1:hover, .t-card-1:target { transform: translate(90px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-2 { transform: translate(180px, 4px) rotate(2deg); z-index: 8; }
-.t-card-2:hover { transform: translate(180px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-2:hover, .t-card-2:target { transform: translate(180px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-3 { transform: translate(270px, 6px) rotate(-2deg); z-index: 7; }
-.t-card-3:hover { transform: translate(270px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-3:hover, .t-card-3:target { transform: translate(270px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-4 { transform: translate(360px, 8px) rotate(2deg); z-index: 6; }
-.t-card-4:hover { transform: translate(360px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-4:hover, .t-card-4:target { transform: translate(360px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-5 { transform: translate(450px, 10px) rotate(-2deg); z-index: 5; }
-.t-card-5:hover { transform: translate(450px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-5:hover, .t-card-5:target { transform: translate(450px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-6 { transform: translate(540px, 12px) rotate(2deg); z-index: 4; }
-.t-card-6:hover { transform: translate(540px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-6:hover, .t-card-6:target { transform: translate(540px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-7 { transform: translate(630px, 14px) rotate(-2deg); z-index: 3; }
-.t-card-7:hover { transform: translate(630px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-7:hover, .t-card-7:target { transform: translate(630px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-8 { transform: translate(720px, 16px) rotate(2deg); z-index: 2; }
-.t-card-8:hover { transform: translate(720px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
+.t-card-8:hover, .t-card-8:target { transform: translate(720px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 .t-card-9 { transform: translate(810px, 18px) rotate(-2deg); z-index: 1; }
-.t-card-9:hover { transform: translate(810px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
-}
+.t-card-9:hover, .t-card-9:target { transform: translate(810px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(0,0,0,0.22); }
 </style>
 <div class="threads-stack-wrapper">
-  <a href="#threads-first" class="stack-nav stack-nav-prev" title="最新の投稿へ">◀</a>
+  <a href="#t-card-0" class="stack-nav stack-nav-prev" title="最新の投稿へ">◀</a>
   <div class="threads-stack">
-  <div class="threads-card t-card-0" id="threads-first" style="background-color: #f3fbf3; border-color: #ddefdd;">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=DLRWuw-WfM0Q7kNvwFM6wVO&amp;_nc_oc=AdqLF5FlOHtJHj1OE6nZEQs_fGucskTaLukKwsQvGqzbc_DOf1DxkxrLZG8iUAjueKQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQLFouDUk-X-Z_US2gYAwnhWtzms6fQwAIXRfja8K0SmyNuFYghb8FZ5V4YH-aX0k07rnXwmixXK4A&amp;oh=00_AQKV-o4s_8FjxXAR3gZxJV_m2WpAGLFUsULzrYk9yA49PQ&amp;oe=6AA90665" alt="">
+  <div class="threads-card t-card-0" id="t-card-0" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <a class="card-select" href="#t-card-0" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=DLRWuw-WfM0Q7kNvwH9Lucw&amp;_nc_oc=AdoM8vfnvMCbX_a8OSa8jHnOms4yLgvMC6F5ZDK8g0Wu1NgXeiQa1FNhoN5pIm2rXw8&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQKeFraHGpqpjHCC2DwgMsuEo6cgSgr1QGOxo2q-uCUfQqnEyT_lBqnGgu0MhPPsUQ1iEqdBZ1Tlfg&amp;oh=00_AQLZyKUvQir7lG01nh5Q6wcT-utA0K-gOi8FGrduCuZ0Qw&amp;oe=6AA93EA5" alt="">
     <div class="t-text">きらくのきろく<br>#渋谷系</div>
     <div class="t-date">2026-09-10</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DdG_Hj9gbkO" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-1" style="background-color: #f3fbf3; border-color: #ddefdd;">
+  <div class="threads-card t-card-1" id="t-card-1" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <a class="card-select" href="#t-card-1" aria-label="カードを選択"></a>
     <div class="t-text">トルネコは買います。<br>iPhoneは買いません。</div>
     <div class="t-date">2026-09-10</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DdF0rs0mvCa" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-2" style="background-color: #fdf5ef; border-color: #f5e0cf;">
+  <div class="threads-card t-card-2" id="t-card-2" style="background-color: #fdf5ef; border-color: #f5e0cf;">
+    <a class="card-select" href="#t-card-2" aria-label="カードを選択"></a>
     <div class="t-text">トルネコ！</div>
     <div class="t-date">2026-09-09</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DdEf7H1Grsd" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-3" style="background-color: #f0fbfa; border-color: #d7efec;">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4-XY6ULjSuoQ7kNvwGd6RGE&amp;_nc_oc=AdowsSo2vjLW7ZREqPGmiQeurM52Ca4DJQ6zU5At8UTfGnXc5NOUFmkdnozvlDeDESs&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQKh8iHH2SDzmnqyLdcJQp3wc7VjfxFuvAb0QZhBpjYnpQ1rPpmbtq3kgTP_rYHqAfFM6gavE9E9Bg&amp;oh=00_AQLBTAdMlqh9Grw1wNFTY6cbYq5wrgZhGz9qOaUIkCA2CA&amp;oe=6AA9039D" alt="">
+  <div class="threads-card t-card-3" id="t-card-3" style="background-color: #f0fbfa; border-color: #d7efec;">
+    <a class="card-select" href="#t-card-3" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4-XY6ULjSuoQ7kNvwEMWsGT&amp;_nc_oc=AdovCHwibIgbnkwdNZktIsUJ8QWzhJlDKqWGGO3mRa_JYpZV4etfaPk7usp61Eg2V6w&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQLdncHpd5pZ67oFPn06PnuDAF8Kp0cUlf7GiTXghktNI4tp3qBC7FDcIhcPthpxUZ1Nf8Ij9qil9w&amp;oh=00_AQJk-m8HhSl4LU59x_C9DGqpB_Sfr6p6YAflU5PRmAzBoA&amp;oe=6AA93BDD" alt="">
     <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     <div class="t-date">2026-09-06</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/Dc7TLSSiUrT" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-4" style="background-color: #f0fbfa; border-color: #d7efec;">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwFoN2yb&amp;_nc_oc=AdosiiI4pV-oTq5Oxv_QV33LSs1MTMDQlDMVCB0h_NpmgFrFhs5-umDgMbhnnepMRt8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQKp9fUx14ReE4S-kLWorR82G8e6akd66UNTds8DXoUg7LkWLWRlwOFDMJqTHTpT99vwoQcuY5LPGg&amp;oh=00_AQLm09I5cI6E3NMPwjJbejdJcMg_vk8ya_Ws96vNWZWKVQ&amp;oe=6AA91A9D" alt="">
+  <div class="threads-card t-card-4" id="t-card-4" style="background-color: #f0fbfa; border-color: #d7efec;">
+    <a class="card-select" href="#t-card-4" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=AelCVrpBZlkQ7kNvwE6iiwR&amp;_nc_oc=Adpe7pyJ6GB1X250Aie30R8GBYQuk_nTKOH_m78RckTxLPTES4cO5zFhagMpV-1DdiM&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQKRPPKL-DCw-hyY5Zy15b6JQ1A5BTPeKH8lxvvNODP6Cy1wupyHS9gUs1xZCXLLMTGkd0vu-OlJ3A&amp;oh=00_AQLueuA3Wtuehq3UHfqT7ukWnlyD63D8YaeZ7WBsXxhk0w&amp;oe=6AA91A9D" alt="">
     <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#スリコ <br>#3coins</div>
     <div class="t-date">2026-08-31</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcteedrCfKo" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-5" style="background-color: #f3fbf3; border-color: #ddefdd;">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwEhgn7G&amp;_nc_oc=AdoGMSZT4lj1RsGAhHRwpC6FAJP1HIfJSBMQwE-NMe4Nz13LGb8QyM7emJs35fZ0WYc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQK5LK4EMiMcGlcfO1Y4VaB9y6BFng8BMdbYz0et0aJHpk4SLzp211xrPhomasi75GPlmeKeoLxZPA&amp;oh=00_AQK8LplEohkROMXBN7du_5lthdVFXBGeaHe4uYQUWQJTFA&amp;oe=6AA91E9E" alt="">
+  <div class="threads-card t-card-5" id="t-card-5" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <a class="card-select" href="#t-card-5" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=VMzSFPomJ5YQ7kNvwEviCLv&amp;_nc_oc=AdrWTe7E0fB5aJ2KJU3UpZKtWKX0kSyX8QwwfIOy-ddyzYxSdo85xssVV5L2DqQRYX0&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQJ6fZOkOva6BR4FQ6kx1JUguadP-MJI2gYQJWloZ-ASQKidPkCq_FBxUIZ6u9nqJdrSubRXuQmflA&amp;oh=00_AQIWVOwVgNiNLtTVxebGU2FlxDFcndvU7v2VgHzVYjBavA&amp;oe=6AA91E9E" alt="">
     <div class="t-text">#10年前はラッパー <br>10年以上前だけどね<br>#splatoon3 <br>#splatoon</div>
     <div class="t-date">2026-08-27</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcjGqB8gXnJ" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-6" style="background-color: #fdf2f2; border-color: #f5dede;">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6y7r7Tc8FAQ7kNvwHTsvEJ&amp;_nc_oc=AdoWQpCZAZbBLEuJJK2AvSPaJ60KcOjVpTwRM8U2NhhIVDOHI1EzZS0wUC3k9B1-rjQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQKnMseHQCh8FLhnrnBYKyIUzcb5Ox-y0haZs4ANBX29o1Sq7MYevdlVr07MBHryooH0QRCqkueSWw&amp;oh=00_AQJXXaoedlA7sY1yDfmhYewGRdzvmQfXYP0D7hZ0BhAy9Q&amp;oe=6AA912FD" alt="">
+  <div class="threads-card t-card-6" id="t-card-6" style="background-color: #fdf2f2; border-color: #f5dede;">
+    <a class="card-select" href="#t-card-6" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6y7r7Tc8FAQ7kNvwGDeN4F&amp;_nc_oc=AdrpK23AnAe9n6PQWaWDs0RmfucDGPgTVGFhUgxfq0qoGc-5HQJppuK1N_l5BedxqC4&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQLLiEnAdfrGjBRxmJ_G7ftDApitce8Yq_uJyjV-5LeEpcnaqTW0dmxGo63LmVYw17busgTYgq9dZw&amp;oh=00_AQLGqBhHbUKw2Y0nhpXIZ390h-F9iFlp5qnezEDirkZ8lA&amp;oe=6AA94B3D" alt="">
     <div class="t-text">久々に「買い物」をした。<br>#楳図かずお <br>#まことちゃん <br>#墓場の画廊 <br>#俺の推し活 <br>#ピンぼけ</div>
     <div class="t-date">2026-08-20</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcQqVHDCb9r" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-7" style="background-color: #fdf5ef; border-color: #f5e0cf;">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-_HsBujAkk4Q7kNvwFrYX9P&amp;_nc_oc=Adq2Gzwo78vgZSZez8E1W8Sgl1LaIH7W7-5t8_Tb4fph5S-RgLKc86OE6qgXkfgZRew&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQJUPWJXwWcWiArzpoFfs4IqD-kFOxM5JQzlpD4jL8gB9S7PDxFTSFkwEq4b5YSz1iFWAIl0hm3MTA&amp;oh=00_AQJaZ8OUhsZJ7tZqYG0MXQtEIWXAn_Y52C5ugmKoOEZ92Q&amp;oe=6AA91354" alt="">
+  <div class="threads-card t-card-7" id="t-card-7" style="background-color: #fdf5ef; border-color: #f5e0cf;">
+    <a class="card-select" href="#t-card-7" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=7reB1NEUi5gQ7kNvwE-KTqg&amp;_nc_oc=AdpMRls0WouMuRZyX88RyaDDs9wkyeDw7Op_-MF9gQ7DfUNOBDNU_dkEohvUjHfwBto&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQIskfiNcdrlleqG28uIg4pqbhebHNVZBoCOjoDamEmoPiE-3osGrZXIhBfXb_05D3AJvPJ5kfrpZg&amp;oh=00_AQKQVsM0L4Vul5Uqak4sGlwWFrSBcGNJu-ZdMVjxTM4KkA&amp;oe=6AA91354" alt="">
     <div class="t-text">久々に中野で降りた。<br>駅周辺でゴリゴリ開発しているのを横目に圧倒的威厳で聳え立つサンプラザが青空に映えます。</div>
     <div class="t-date">2026-08-20</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcP8FCtn64L" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-8" style="background-color: #fdf2f2; border-color: #f5dede;">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/777328276_18623817964027991_7021757795281075069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=dw7ZBuEdwN0Q7kNvwHLT-uX&amp;_nc_oc=Adr618G6AD4ubMvKPegxh0UnagJ_FmEvKDw9uQtZDrLJMFS-rQijZ-O984lSG30Qdos&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=58ZuUhrNDqltC1TRPly26w&amp;_nc_tpa=Q5bMBQKQoNvmGrIjsfe9rDRsa5ewS4RQypxESgjIyXtqPrx-AT0tYQi92KoflmqKDAqhIBzkrB5FS8sv2A&amp;oh=00_AQIX0Dh5cfOAvvcV13IotopoGXKOLBdsMgndCLk4X1hnBw&amp;oe=6AA914C3" alt="">
+  <div class="threads-card t-card-8" id="t-card-8" style="background-color: #fdf2f2; border-color: #f5dede;">
+    <a class="card-select" href="#t-card-8" aria-label="カードを選択"></a>
+    <img src="https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/777328276_18623817964027991_7021757795281075069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=dw7ZBuEdwN0Q7kNvwEa48_L&amp;_nc_oc=AdpGF9WM6kYIrb1U5kxhaXm2H7WSDTUNpd2NYE6ONivVJYlC9eNPgTqkyO4yoMujW1A&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=hQi78hfYZQzAihRDvkEh4A&amp;_nc_tpa=Q5bMBQLaQu-mYWUKvMRIom5pH8pfbSJnfq8lUpak15e5Ra6qQixs7Q82tnNv2yrL9RQATqZqQWrG37wIQA&amp;oh=00_AQLIF3mZM_nkmaaAuhqyDxYKil_kn3QiaGqeqtoHdUdnsA&amp;oe=6AA914C3" alt="">
     <div class="t-text">ちいかわリテラシーが低かったせいか、映画が難解過ぎたので、再挑戦に向けて猛勉強中。この子はモモンガっていうらしい。<br>#ち…</div>
     <div class="t-date">2026-08-17</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcJAc5ygbPf" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
-  <div class="threads-card t-card-9" id="threads-last" style="background-color: #f0fbfa; border-color: #d7efec;">
+  <div class="threads-card t-card-9" id="t-card-9" style="background-color: #f0fbfa; border-color: #d7efec;">
+    <a class="card-select" href="#t-card-9" aria-label="カードを選択"></a>
     <div class="t-text">コンプラや現代の価値観云々などから、昔のドラマや映画が地上波TVで放映しづらくなってる昨今、40年以上前のアニメーション…</div>
     <div class="t-date">2026-08-14</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/DcB20SHGgKt" target="_blank" rel="noopener noreferrer">元の投稿を見る &#8594;</a>
   </div>
   </div>
-  <a href="#threads-last" class="stack-nav stack-nav-next" title="一番古い投稿へ">▶</a>
+  <a href="#t-card-9" class="stack-nav stack-nav-next" title="一番古い投稿へ">▶</a>
 </div>
 
 <!-- THREADS_END -->
