@@ -410,117 +410,117 @@
   <input type="radio" name="spotify-select" id="card-14-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-15-radio" class="select-radio" aria-hidden="true">
   <div class="spotify-stack">
-  <div class="spotify-card card-0" title="Living Inside Myself - Gino Vannelli">
+  <div class="spotify-card card-0" title="Stay With Me - Gino Vannelli">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Stay With Me">
+    <div class="t-name">Stay With Me</div>
+    <div class="t-artist">Gino Vannelli</div>
+    <a class="t-open" href="https://open.spotify.com/track/4T42Z3dM9KEHlGQjc2Z6tw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-1" title="Living Inside Myself - Gino Vannelli">
+    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
     <div class="t-name">Living Inside Myself</div>
     <div class="t-artist">Gino Vannelli</div>
     <a class="t-open" href="https://open.spotify.com/track/6IAh4MjV3GRkvIHrCbUFWY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-1" title="Wait for Me - Daryl Hall &amp; John Oates">
-    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-2" title="Wait for Me - Daryl Hall &amp; John Oates">
+    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f1272bef5a8111251198085d" alt="Wait for Me">
     <div class="t-name">Wait for Me</div>
     <div class="t-artist">Daryl Hall &amp; John Oates</div>
     <a class="t-open" href="https://open.spotify.com/track/3wiM6jj066wDeNaCnxKsRk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-2" title="When Will the Day Come - Rasa">
-    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-3" title="When Will the Day Come - Rasa">
+    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273bceb57c551fc31a4b1a338de" alt="When Will the Day Come">
     <div class="t-name">When Will the Day Come</div>
     <div class="t-artist">Rasa</div>
     <a class="t-open" href="https://open.spotify.com/track/3noEdBzC3S3zsv74zBpj3D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-3" title="Aja - Steely Dan">
-    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-4" title="Aja - Steely Dan">
+    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Aja">
     <div class="t-name">Aja</div>
     <div class="t-artist">Steely Dan</div>
     <a class="t-open" href="https://open.spotify.com/track/2cgNpsfZcBzdgeNPEeCnue" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-4" title="Wait a Little While - Kenny Loggins">
-    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-5" title="Wait a Little While - Kenny Loggins">
+    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273e69beda021bb528341b19b59" alt="Wait a Little While">
     <div class="t-name">Wait a Little While</div>
     <div class="t-artist">Kenny Loggins</div>
     <a class="t-open" href="https://open.spotify.com/track/3CKIP1yomsReXKdMulrHNW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-5" title="Nothin&#x27; You Can Do About It - Airplay">
-    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-6" title="Nothin&#x27; You Can Do About It - Airplay">
+    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27322596cf6aeb42444b32b39be" alt="Nothin&#x27; You Can Do About It">
     <div class="t-name">Nothin&#x27; You Can Do About It</div>
     <div class="t-artist">Airplay</div>
     <a class="t-open" href="https://open.spotify.com/track/031bJi03iyxU20qQX3R6RQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-6" title="Ride Like the Wind - Christopher Cross">
-    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-7" title="Ride Like the Wind - Christopher Cross">
+    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Ride Like the Wind">
     <div class="t-name">Ride Like the Wind</div>
     <div class="t-artist">Christopher Cross</div>
     <a class="t-open" href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-7" title="Gotta Get Back to Love - Bill Champlin">
-    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-8" title="Gotta Get Back to Love - Bill Champlin">
+    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273fe19eb962fa59b48901d8883" alt="Gotta Get Back to Love">
     <div class="t-name">Gotta Get Back to Love</div>
     <div class="t-artist">Bill Champlin</div>
     <a class="t-open" href="https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-8" title="Cool Night - Paul Davis">
-    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-9" title="Cool Night - Paul Davis">
+    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273751134d011840435d2a368e5" alt="Cool Night">
     <div class="t-name">Cool Night</div>
     <div class="t-artist">Paul Davis</div>
     <a class="t-open" href="https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-9" title="Fly Away - Peter Allen">
-    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-10" title="Fly Away - Peter Allen">
+    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b5016e44a7bfee6ca2002589" alt="Fly Away">
     <div class="t-name">Fly Away</div>
     <div class="t-artist">Peter Allen</div>
     <a class="t-open" href="https://open.spotify.com/track/1m2I5lc8wJoenFLPeOBIFI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-10" title="Him - Rupert Holmes">
-    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-11" title="Him - Rupert Holmes">
+    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273af7afb5c49afd3133fa2a6c9" alt="Him">
     <div class="t-name">Him</div>
     <div class="t-artist">Rupert Holmes</div>
     <a class="t-open" href="https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-11" title="You Can Do Magic - America">
-    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-12" title="You Can Do Magic - America">
+    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f71eccd0b0f8b7d4f19a6b26" alt="You Can Do Magic">
     <div class="t-name">You Can Do Magic</div>
     <div class="t-artist">America</div>
     <a class="t-open" href="https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-12" title="JoJo (2023 Remaster) - Boz Scaggs">
-    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-13" title="JoJo (2023 Remaster) - Boz Scaggs">
+    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
     <div class="t-name">JoJo (2023 Remaster)</div>
     <div class="t-artist">Boz Scaggs</div>
     <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-13" title="Ghostbusters - Run–D.M.C.">
-    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-14" title="Ghostbusters - Run–D.M.C.">
+    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
     <div class="t-name">Ghostbusters</div>
     <div class="t-artist">Run–D.M.C.</div>
     <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-14" title="MMMBop - Hanson">
-    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-15" title="MMMBop - Hanson">
+    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
     <div class="t-name">MMMBop</div>
     <div class="t-artist">Hanson</div>
     <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-15" title="Hole in My Heart - Cyndi Lauper">
-    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273d26847c68a0002d364b1ca3d" alt="Hole in My Heart">
-    <div class="t-name">Hole in My Heart</div>
-    <div class="t-artist">Cyndi Lauper</div>
-    <a class="t-open" href="https://open.spotify.com/track/5qRhDFx1Om4yu6UQv0WKLh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
