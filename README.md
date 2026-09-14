@@ -160,10 +160,20 @@
   <input type="radio" name="threads-select" id="t-card-8-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="threads-select" id="t-card-9-radio" class="select-radio" aria-hidden="true">
   <div class="threads-stack">
-  <div class="threads-card t-card-0" style="background-color: #f8f2fd; border-color: #ead9f5;">
+  <div class="threads-card t-card-0" style="background-color: #f0fbfa; border-color: #d7efec;">
     <label for="t-card-0-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/806474026_18633008524027991_8051060962185525360_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=sT-wHihGcDoQ7kNvwHxsPeD&amp;_nc_oc=AdpS_61D-ZrUVR8Anf3Meq3fttxk2EgHK9xDA1ZQ1HW6BI6a_zDN8XBwTLzkYNnH72Q&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQL9vfE22rUi3r5UlNNH1ulMs87cpiY2zNYCmyzMWTtaOP3FHuTqwKDL9x8stSzIo9CDO6g1-_SG1Q&amp;oh=00_AQK4fp8BZiXiSJiicEfEnVdb3hsVGlLeyIf68Bfal2xcdg&amp;oe=6AAD2D70" alt="" class="t-thumb">
+      <div class="t-text">夏は終わってなかったぜ</div>
+    </div>
+    <div class="t-date">2026-09-14 18:12</div>
+    <a class="t-external" href="https://www.threads.com/@ogata2104/post/DdQySD3GlqJ" target="_blank" rel="noopener noreferrer" aria-label="元の投稿を見る" title="元の投稿を見る">
+      <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
+    </a>
+  </div>
+  <div class="threads-card t-card-1" style="background-color: #f8f2fd; border-color: #ead9f5;">
+    <label for="t-card-1-radio" class="card-select" aria-label="カードを選択"></label>
+    <div class="t-content">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/806474026_18633008524027991_8051060962185525360_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=sT-wHihGcDoQ7kNvwHW58D4&amp;_nc_oc=Adok4HwTXiIT2hjE2vq2Bj16GBqKuEgP5q-teNUlqNrIg4lgM1W4CzlohkJIgr2mkS4&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQJnIdvOX4DtqH2Oru39R7IDvmLlfjAIifez1pk9pjhz3UcF6-dSPV_FWGkgpI3qYaEZSnr4qxFapA&amp;oh=00_AQKlOZxXxl-wAkFrHe9KpzqHI1Wx8LAIm8kHb702oLSWmw&amp;oe=6AAD9DF0" alt="" class="t-thumb">
       <div class="t-text">『バックルームズ』観たよ。<br>この手のはアタリハズレが大きいよなぁと観るまで不安で…</div>
     </div>
     <div class="t-date">2026-09-12 22:30</div>
@@ -171,10 +181,10 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-1" style="background-color: #f3fbf3; border-color: #ddefdd;">
-    <label for="t-card-1-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-2" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <label for="t-card-2-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=3vdD1Uw-B3wQ7kNvwGlXDAG&amp;_nc_oc=AdrHYv6hZu0MXsaSZLvpds6FfH5MENGKpyX7CQYzA1yncTl129Q4cNZrcd5MjMuI09o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQLmfcvNn030cSsGdn4NnmIMMPI_awtVIXbKRtF9aJUUJ-TSPl1jImesWMWBWyPQYGrTarytr6vu_A&amp;oh=00_AQIR5tDPFsiAnoflay1q2lwF4ZOZTRiVqr0JUac4X6ggTA&amp;oe=6AAD3325" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/802988973_18632299381027991_6271974641923046696_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=3vdD1Uw-B3wQ7kNvwE38UiG&amp;_nc_oc=AdpEXXDJmun32AExwJbiZuO-RoGltBq3l9LG9CZ-iXYzgowkJb4j3hneXzKvpaK4am8&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQK8EBxLesSnnzdiZ0Kc1AkPzodGUboZAz5-id6rti8Gva4lcQMVIasyM1l36rGgG8xRfEZnc3AcVg&amp;oh=00_AQLPcYdrCvAIRt0BaJjsmtmpPyZcdcR1_4j_yDNKpPxeGA&amp;oe=6AADA3A5" alt="" class="t-thumb">
       <div class="t-text">きらくのきろく<br>#渋谷系</div>
     </div>
     <div class="t-date">2026-09-10 22:52</div>
@@ -182,8 +192,8 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-2" style="background-color: #f3fbf3; border-color: #ddefdd;">
-    <label for="t-card-2-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-3" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <label for="t-card-3-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
       <div class="t-text">トルネコは買います。<br>iPhoneは買いません。</div>
     </div>
@@ -192,8 +202,8 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-3" style="background-color: #fdf5ef; border-color: #f5e0cf;">
-    <label for="t-card-3-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-4" style="background-color: #fdf5ef; border-color: #f5e0cf;">
+    <label for="t-card-4-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
       <div class="t-text">トルネコ！</div>
     </div>
@@ -202,10 +212,10 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-4" style="background-color: #f0fbfa; border-color: #d7efec;">
-    <label for="t-card-4-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-5" style="background-color: #f0fbfa; border-color: #d7efec;">
+    <label for="t-card-5-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-S5KFmfVxn4Q7kNvwGKfJfm&amp;_nc_oc=AdpdFYU9Y9WrUtz8Wx7ha1w6DmVVjGePaUKQn5mt0EGckQIqGYVJrW87CXPIubBl5TY&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQLuArFGrCleGb3yY-0IFAVY71ywzIoLA-JMh3wqPHustjezNOSW5dpj_6mZks19o9ZbcLWWPtwhbg&amp;oh=00_AQKt1mPJcFDP0NrN33V1ppbbDEEQwIanRimxBvM8Dx6sjg&amp;oe=6AAD305D" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/798316686_18630761044027991_9137306186417153623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-S5KFmfVxn4Q7kNvwHNI5Hf&amp;_nc_oc=AdozyOjoW9kkdhD2IwYF041lt_goaAadSeVE0cB1iJYzums8xPX-cek1hzy7NI2rJ-o&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQLTwC9Tl0wNEDnQpMI62TZv1owWZYPpUGb_FubYR14G5WZFZcUe_3vxy2L8KZfnvDUkSmfZAq_wEg&amp;oh=00_AQLj6kmM2qbG0Xl_qkeDFzcu1IAYq0T37LN2hTvSdapsuA&amp;oe=6AADA0DD" alt="" class="t-thumb">
       <div class="t-text">今年のふぐ会も美味しゅうございました。<br>#ふぐ</div>
     </div>
     <div class="t-date">2026-09-06 09:56</div>
@@ -213,10 +223,10 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-5" style="background-color: #f0fbfa; border-color: #d7efec;">
-    <label for="t-card-5-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-6" style="background-color: #f0fbfa; border-color: #d7efec;">
+    <label for="t-card-6-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JMV8kZk3_HkQ7kNvwH5FBo4&amp;_nc_oc=AdorUny-DzhvkuEsYjcQQgmxjVrw6L8IZmNppe6tWxNWUkrK7IWs1Bz2oEb8HtG7u9A&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQLoXjB17hH7BUq7OR9ta8NKQ6Hwkj0yrSe9gcUsoMp8JT1HUPkBcdeoMswvvHeqUwnl6FIzsQk53g&amp;oh=00_AQLxC1JxjWvxVQneZyzcc-f2wNIfzhq7ZGKwbiXJCgkklw&amp;oe=6AAD475D" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/790301302_18628965418027991_3733784461889033592_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JMV8kZk3_HkQ7kNvwG3j6Ib&amp;_nc_oc=AdqL4RA_qs0W7HRmjVw405rqxKVBV5OQ23Iu1ZJZvTAOQru2RNGLEL-0PxhGTEkrMGk&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQLK1T6ghLxGKWFBUqz45J-nyXdlvXU0f_p4nx4N6iF7XtVT7nzLAvEpkrwEMe9in9TCSnvhsNoVrA&amp;oh=00_AQLuy6PcSTAagzgam8qkhifNNBuw5lMzLJr7-SZHYQI4jw&amp;oe=6AADB7DD" alt="" class="t-thumb">
       <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#…</div>
     </div>
     <div class="t-date">2026-09-01 01:05</div>
@@ -224,10 +234,10 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-6" style="background-color: #f3fbf3; border-color: #ddefdd;">
-    <label for="t-card-6-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-7" style="background-color: #f3fbf3; border-color: #ddefdd;">
+    <label for="t-card-7-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kknhORfYdvUQ7kNvwFHOLq0&amp;_nc_oc=Adp7CsU5_IcSM6OtJXWqfAMxbuY4vfh1MPfBGOr_fVPaWmlVTtZpK1Og_c3VvKRLDgE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQLQlgqBgk-ANmR2ealdBWVCrww2_DHdyo1pLycCeO1OjPYECLiYLwYBZiwv-9-6A7W-duGazTNQ4g&amp;oh=00_AQK2hL1cW-Pj4tadb0Y8MW_sOd3dTg9OfRu171ZIcor2VQ&amp;oe=6AAD4B5E" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/787435258_18627554014027991_6823652663317638022_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kknhORfYdvUQ7kNvwGK2H6y&amp;_nc_oc=AdpyPeVnjcguaTLSo_qRMeZKfzWEfKclT7po5iGzLBG1yNT3YUh5Whu8WPi5Fnx4Ev0&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQILKXdZq_qCmSOyzT7N8a8TWH6E0ld2WVG2n3UugmlaDTcq1tMNh_G6JUxvXSQNp63qA3S4uyhOXQ&amp;oh=00_AQJAU_jQiHVltPfRX0g8Nvd97OZ3m9JOuTmsJ7YamUDojA&amp;oe=6AADBBDE" alt="" class="t-thumb">
       <div class="t-text">#10年前はラッパー <br>10年以上前だけどね<br>#splatoon3 <br>#spla…</div>
     </div>
     <div class="t-date">2026-08-28 00:25</div>
@@ -235,10 +245,10 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-7" style="background-color: #fdf2f2; border-color: #f5dede;">
-    <label for="t-card-7-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-8" style="background-color: #fdf2f2; border-color: #f5dede;">
+    <label for="t-card-8-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kOdA5HQ1Yw0Q7kNvwFmi1_W&amp;_nc_oc=AdqP2E1nvZe7iVgFlYv_xfSpmtwkDQD1YnAXKAsio4sJjq9An7rqwfsGeHuG15jUDaE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQK3b2j9Cj7Le3ZEzC-IF9z8nOAm1HzwdZxGV2yX7g8OC82yCKZP-rLf2QO0hF5KGA4U--uP2QIzLQ&amp;oh=00_AQL0BbIHpE5B2bZxu1InHdS6abujoki6KU9j9DdNPmAfhw&amp;oe=6AAD3FBD" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/777352697_18625074976027991_6709459502108065474_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kOdA5HQ1Yw0Q7kNvwG06Zf2&amp;_nc_oc=Adp7lJ54xNMaZR7KhyGmJ75pJpl5cghR_X2G8GUxVa81uuesjoMktl8rejkrRnqaB-4&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQLDKIfeV1yQ1moNGz8TUnCL1ZSKM-pdFEoQIYzK_9GTZFWH2QFDNTAXe7MZ0YN4xtWDkWZ-Y9TF1A&amp;oh=00_AQKHNVtSDaINLWvLsOe-5PNHLuLnMM4OeOfbGfQ-6tx46g&amp;oe=6AADB03D" alt="" class="t-thumb">
       <div class="t-text">久々に「買い物」をした。<br>#楳図かずお <br>#まことちゃん <br>#墓場の画廊 <br>#俺…</div>
     </div>
     <div class="t-date">2026-08-20 20:31</div>
@@ -246,25 +256,14 @@
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
-  <div class="threads-card t-card-8" style="background-color: #fdf5ef; border-color: #f5e0cf;">
-    <label for="t-card-8-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="threads-card t-card-9" style="background-color: #fdf5ef; border-color: #f5e0cf;">
+    <label for="t-card-9-radio" class="card-select" aria-label="カードを選択"></label>
     <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=j6bsKSJFGA4Q7kNvwGInAYD&amp;_nc_oc=Adpp11MYC-WSxIpGawCOnPHA14oqxcu1iI8GMSPpBaU6IJ_W5KWzNNDsbfsGii-d1tk&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQIO8cWKxDAfjFPZBqQNoBnZoajaIoqRDa413nyAMh67QXBMdgGgTzsgw7yGyv5ZkltJcIjyMp8w7Q&amp;oh=00_AQINHeLciYB0bZa5qV92dF8LasA8ncKWxTNrky_mSPECXw&amp;oe=6AAD4014" alt="" class="t-thumb">
+    <img src="https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/777382070_18624987067027991_7389481295785245777_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=j6bsKSJFGA4Q7kNvwH_Ziht&amp;_nc_oc=AdqfAZXFGxFwg3eYULtpQOQK_fKkg_Xfut4IhbcHwwEsigWpbHmnZCyyZJ2KFHW4AcE&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=q74_WCb_S3tykPWHUUB1FA&amp;_nc_tpa=Q5bMBQKI_5dhzD4d5R2avRU1ZUoHvhJkHH3HnSM-7Nw0eSlBEW086RiCj0DR1Rl8k4VmFK3XgFoiJSwBmA&amp;oh=00_AQIw-57m6Sq6LO0Te-iSJTikor1cqOUspaJ8KvJxziZUUA&amp;oe=6AADB094" alt="" class="t-thumb">
       <div class="t-text">久々に中野で降りた。<br>駅周辺でゴリゴリ開発しているのを横目に圧倒的威厳で聳え立つ…</div>
     </div>
     <div class="t-date">2026-08-20 13:47</div>
     <a class="t-external" href="https://www.threads.com/@ogata2104/post/DcP8FCtn64L" target="_blank" rel="noopener noreferrer" aria-label="元の投稿を見る" title="元の投稿を見る">
-      <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
-    </a>
-  </div>
-  <div class="threads-card t-card-9" style="background-color: #fdf2f2; border-color: #f5dede;">
-    <label for="t-card-9-radio" class="card-select" aria-label="カードを選択"></label>
-    <div class="t-content">
-    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/777328276_18623817964027991_7021757795281075069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=_cJbyDVwmR8Q7kNvwFqzsGQ&amp;_nc_oc=Adqg7nTG7OKmBiSffWA1qYVU_KtO-nKD9UbXxXHNQhlRjr7RyWcqzvEbC8AAvt-YkuU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=ACx9VUEEAAAA&amp;_nc_gid=xfXPR5je7OE5feWtYRCsKw&amp;_nc_tpa=Q5bMBQIk73-PVE6QH3_DIfRlvcIW0VNlt4fhDGQr9n2b6D09QpQB_a1bAT8qOX6ySdlQmzcSSs_K8GMxRA&amp;oh=00_AQIYKwwxooynlmhaWmrWX-4y8uIpsOsD15EskwzVNa8-NQ&amp;oe=6AAD4183" alt="" class="t-thumb">
-      <div class="t-text">ちいかわリテラシーが低かったせいか、映画が難解過ぎたので、再挑戦に向けて猛勉強中…</div>
-    </div>
-    <div class="t-date">2026-08-17 21:10</div>
-    <a class="t-external" href="https://www.threads.com/@ogata2104/post/DcJAc5ygbPf" target="_blank" rel="noopener noreferrer" aria-label="元の投稿を見る" title="元の投稿を見る">
       <img src="https://cdn.simpleicons.org/threads/%23000000" alt="">
     </a>
   </div>
