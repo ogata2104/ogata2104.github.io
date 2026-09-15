@@ -2,6 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
+/* コンテンツ幅のカスタマイズ */
+/* デフォルトは max-width: 64rem(1024px) で、PCの広い画面だと
+   左右の余白が大きく目立つ（特にThreads/Spotifyのカードスタック部分）。
+   1200pxまで広げて余白を抑える。 */
+.main-content {
+  max-width: 1200px;
+}
+
 /* ヘッダー部分のカスタマイズ */
 .page-header {
   /* デフォルト（JS無効時のフォールバック）の画像。
