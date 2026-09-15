@@ -358,44 +358,36 @@
 .spotify-card .t-open:hover {
   text-decoration: underline;
 }
-.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 19; }
+.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 15; }
 .card-0:hover, #card-0-radio:checked ~ .spotify-stack .card-0 { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 18; }
+.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 14; }
 .card-1:hover, #card-1-radio:checked ~ .spotify-stack .card-1 { transform: translate(70px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 17; }
+.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 13; }
 .card-2:hover, #card-2-radio:checked ~ .spotify-stack .card-2 { transform: translate(140px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 16; }
+.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 12; }
 .card-3:hover, #card-3-radio:checked ~ .spotify-stack .card-3 { transform: translate(210px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 15; }
+.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 11; }
 .card-4:hover, #card-4-radio:checked ~ .spotify-stack .card-4 { transform: translate(280px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 14; }
+.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 10; }
 .card-5:hover, #card-5-radio:checked ~ .spotify-stack .card-5 { transform: translate(350px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 13; }
+.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 9; }
 .card-6:hover, #card-6-radio:checked ~ .spotify-stack .card-6 { transform: translate(420px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 12; }
+.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 8; }
 .card-7:hover, #card-7-radio:checked ~ .spotify-stack .card-7 { transform: translate(490px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 11; }
+.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 7; }
 .card-8:hover, #card-8-radio:checked ~ .spotify-stack .card-8 { transform: translate(560px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 10; }
+.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 6; }
 .card-9:hover, #card-9-radio:checked ~ .spotify-stack .card-9 { transform: translate(630px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 9; }
+.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 5; }
 .card-10:hover, #card-10-radio:checked ~ .spotify-stack .card-10 { transform: translate(700px, 4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 8; }
+.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 4; }
 .card-11:hover, #card-11-radio:checked ~ .spotify-stack .card-11 { transform: translate(770px, 6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 7; }
+.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 3; }
 .card-12:hover, #card-12-radio:checked ~ .spotify-stack .card-12 { transform: translate(840px, 8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 6; }
+.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 2; }
 .card-13:hover, #card-13-radio:checked ~ .spotify-stack .card-13 { transform: translate(910px, 10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 5; }
+.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 1; }
 .card-14:hover, #card-14-radio:checked ~ .spotify-stack .card-14 { transform: translate(980px, 12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 4; }
-.card-15:hover, #card-15-radio:checked ~ .spotify-stack .card-15 { transform: translate(1050px, 14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 3; }
-.card-16:hover, #card-16-radio:checked ~ .spotify-stack .card-16 { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 2; }
-.card-17:hover, #card-17-radio:checked ~ .spotify-stack .card-17 { transform: translate(1190px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-18 { transform: translate(1260px, 36px) rotate(2deg); z-index: 1; }
-.card-18:hover, #card-18-radio:checked ~ .spotify-stack .card-18 { transform: translate(1260px, 20px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 </style>
 <div class="spotify-stack-wrapper">
   <input type="radio" name="spotify-select" id="card-0-radio" class="select-radio" aria-hidden="true">
@@ -413,143 +405,111 @@
   <input type="radio" name="spotify-select" id="card-12-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-13-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-14-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="card-15-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="card-16-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="card-17-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="card-18-radio" class="select-radio" aria-hidden="true">
   <div class="spotify-stack">
-  <div class="spotify-card card-0" title="Just Like Paradise - David Lee Roth">
+  <div class="spotify-card card-0" title="Hikari - Ava Mills">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b27396e6dd224811d84e0f3f625f" alt="Just Like Paradise">
-    <div class="t-name">Just Like Paradise</div>
-    <div class="t-artist">David Lee Roth</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b27312bd652b38a6e4323833ce82" alt="Hikari">
+    <div class="t-name">Hikari</div>
+    <div class="t-artist">Ava Mills</div>
+    <a class="t-open" href="https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-1" title="Eternal Flame - The Bangles">
+  <div class="spotify-card card-1" title="Mellow - The Inner Room">
     <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2738f9281135c8a343ac36ab44d" alt="Eternal Flame">
-    <div class="t-name">Eternal Flame</div>
-    <div class="t-artist">The Bangles</div>
-    <a class="t-open" href="https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f517537a15c9f530ee95660" alt="Mellow">
+    <div class="t-name">Mellow</div>
+    <div class="t-artist">The Inner Room</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Hr9BpiwzenH9ud7CCRMWc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-2" title="Here Comes The Hammer - MC Hammer">
+  <div class="spotify-card card-2" title="Cesula - Lóni Alma">
     <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
-    <div class="t-name">Here Comes The Hammer</div>
-    <div class="t-artist">MC Hammer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732e4c8c76bf110965d112d0e1" alt="Cesula">
+    <div class="t-name">Cesula</div>
+    <div class="t-artist">Lóni Alma</div>
+    <a class="t-open" href="https://open.spotify.com/track/4B5el6QHxMK4mjiA8QDvLh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-3" title="California Girls - David Lee Roth">
+  <div class="spotify-card card-3" title="isolophilia - Ødyzon">
     <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b27366e28c0e65ec2e3886a57a6a" alt="California Girls">
-    <div class="t-name">California Girls</div>
-    <div class="t-artist">David Lee Roth</div>
-    <a class="t-open" href="https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b273221b196d5c139c5dd60abb25" alt="isolophilia">
+    <div class="t-name">isolophilia</div>
+    <div class="t-artist">Ødyzon</div>
+    <a class="t-open" href="https://open.spotify.com/track/7FnzQqOExicPivv81gYUvi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-4" title="Pink (From Barbie The Album) - Lizzo">
+  <div class="spotify-card card-4" title="Somnium - La Kalon">
     <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273034651fe1846ec71ea6685d9" alt="Pink (From Barbie The Album)">
-    <div class="t-name">Pink (From Barbie The Album)</div>
-    <div class="t-artist">Lizzo</div>
-    <a class="t-open" href="https://open.spotify.com/track/6QTGiIuNopQu1iV2aa0fDS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b273456cfe04e1db255c18c9d63e" alt="Somnium">
+    <div class="t-name">Somnium</div>
+    <div class="t-artist">La Kalon</div>
+    <a class="t-open" href="https://open.spotify.com/track/0TorIuTCD7PEFq1foEaLnE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-5" title="St. Elmos Fire (Man in Motion) - John Parr">
+  <div class="spotify-card card-5" title="Encircled - Benjin Blund">
     <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273c500e7ab2ab870a9fed56e8f" alt="St. Elmos Fire (Man in Motion)">
-    <div class="t-name">St. Elmos Fire (Man in Motion)</div>
-    <div class="t-artist">John Parr</div>
-    <a class="t-open" href="https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b2739d2f1ce83a55d2eef229d645" alt="Encircled">
+    <div class="t-name">Encircled</div>
+    <div class="t-artist">Benjin Blund</div>
+    <a class="t-open" href="https://open.spotify.com/track/34B2XFpwTgzk4Gv3Ek8KLM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-6" title="Blank Space - Taylor Swift">
+  <div class="spotify-card card-6" title="never see you again - Antent">
     <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2730432bfd9e6adb616fd8bcc97" alt="Blank Space">
-    <div class="t-name">Blank Space</div>
-    <div class="t-artist">Taylor Swift</div>
-    <a class="t-open" href="https://open.spotify.com/track/1kHEuJRasudLhjvnbfc4yS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b27362d750a63a9e8e3ad8992426" alt="never see you again">
+    <div class="t-name">never see you again</div>
+    <div class="t-artist">Antent</div>
+    <a class="t-open" href="https://open.spotify.com/track/1BP2BsfOIVn7buWEKWN0Le" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-7" title="Kokomo - The Beach Boys">
+  <div class="spotify-card card-7" title="Drifting Off - Kai Stellar">
     <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273c5634c0532097e175199f07e" alt="Kokomo">
-    <div class="t-name">Kokomo</div>
-    <div class="t-artist">The Beach Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b2737a5f3baf29394ccead80002b" alt="Drifting Off">
+    <div class="t-name">Drifting Off</div>
+    <div class="t-artist">Kai Stellar</div>
+    <a class="t-open" href="https://open.spotify.com/track/5TiVjzOby6jQLly9ijfyqs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-8" title="MMMBop - Hanson">
+  <div class="spotify-card card-8" title="rain inside - Øneheart">
     <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273237af06eecc9c683d7f52a65" alt="rain inside">
+    <div class="t-name">rain inside</div>
+    <div class="t-artist">Øneheart</div>
+    <a class="t-open" href="https://open.spotify.com/track/1yA3IFxUIEIRvzAQgVClZI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-9" title="Distant Starfield - J. Cartwright">
+    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732f33fe93d9d6e65ff568f4b0" alt="Distant Starfield">
+    <div class="t-name">Distant Starfield</div>
+    <div class="t-artist">J. Cartwright</div>
+    <a class="t-open" href="https://open.spotify.com/track/1cnp7FGDQoF6i5zr3Ptogt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-10" title="Serenity Stream - Phillipe Cloé">
+    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731a05cbae42dd2af1069aa16e" alt="Serenity Stream">
+    <div class="t-name">Serenity Stream</div>
+    <div class="t-artist">Phillipe Cloé</div>
+    <a class="t-open" href="https://open.spotify.com/track/1MS6CM7mWOv7pYGsdtmdeV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-11" title="MMMBop - Hanson">
+    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
     <div class="t-name">MMMBop</div>
     <div class="t-artist">Hanson</div>
     <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-9" title="Hip To Be Square - Huey Lewis &amp; The News">
-    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273f511dc00e29c2a2bdf483b53" alt="Hip To Be Square">
-    <div class="t-name">Hip To Be Square</div>
-    <div class="t-artist">Huey Lewis &amp; The News</div>
-    <a class="t-open" href="https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-10" title="Born in the U.S.A. - Bruce Springsteen">
-    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77" alt="Born in the U.S.A.">
-    <div class="t-name">Born in the U.S.A.</div>
-    <div class="t-artist">Bruce Springsteen</div>
-    <a class="t-open" href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-11" title="A Thousand Miles - Vanessa Carlton">
-    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" alt="A Thousand Miles">
-    <div class="t-name">A Thousand Miles</div>
-    <div class="t-artist">Vanessa Carlton</div>
-    <a class="t-open" href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-12" title="Call Me Maybe - Carly Rae Jepsen">
+  <div class="spotify-card card-12" title="Just Like Paradise - David Lee Roth">
     <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
-    <div class="t-name">Call Me Maybe</div>
-    <div class="t-artist">Carly Rae Jepsen</div>
-    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b27396e6dd224811d84e0f3f625f" alt="Just Like Paradise">
+    <div class="t-name">Just Like Paradise</div>
+    <div class="t-artist">David Lee Roth</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-13" title="We Built This City - Starship">
+  <div class="spotify-card card-13" title="Eternal Flame - The Bangles">
     <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="We Built This City">
-    <div class="t-name">We Built This City</div>
-    <div class="t-artist">Starship</div>
-    <a class="t-open" href="https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738f9281135c8a343ac36ab44d" alt="Eternal Flame">
+    <div class="t-name">Eternal Flame</div>
+    <div class="t-artist">The Bangles</div>
+    <a class="t-open" href="https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-14" title="Don&#x27;t You (Forget About Me) - Simple Minds">
+  <div class="spotify-card card-14" title="Here Comes The Hammer - MC Hammer">
     <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2730143f3a3fdce907232ec9f94" alt="Don&#x27;t You (Forget About Me)">
-    <div class="t-name">Don&#x27;t You (Forget About Me)</div>
-    <div class="t-artist">Simple Minds</div>
-    <a class="t-open" href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-15" title="We&#x27;re All In This Together - High School Musical Cast">
-    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="We&#x27;re All In This Together">
-    <div class="t-name">We&#x27;re All In This Together</div>
-    <div class="t-artist">High School Musical Cast</div>
-    <a class="t-open" href="https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-16" title="California Girls - The Beach Boys">
-    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="California Girls">
-    <div class="t-name">California Girls</div>
-    <div class="t-artist">The Beach Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/0mwr3py9MZIOdvOrI31h6r" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-17" title="Hole in My Heart - Cyndi Lauper">
-    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273d26847c68a0002d364b1ca3d" alt="Hole in My Heart">
-    <div class="t-name">Hole in My Heart</div>
-    <div class="t-artist">Cyndi Lauper</div>
-    <a class="t-open" href="https://open.spotify.com/track/5qRhDFx1Om4yu6UQv0WKLh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-18" title="2 Legit 2 Quit - MC Hammer">
-    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2734002ec85eab720399a4f35f4" alt="2 Legit 2 Quit">
-    <div class="t-name">2 Legit 2 Quit</div>
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
+    <div class="t-name">Here Comes The Hammer</div>
     <div class="t-artist">MC Hammer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ZnKSrukEcPuMxGrcZEEh1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
