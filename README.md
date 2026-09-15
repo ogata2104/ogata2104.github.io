@@ -418,138 +418,138 @@
   <input type="radio" name="spotify-select" id="card-17-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-18-radio" class="select-radio" aria-hidden="true">
   <div class="spotify-stack">
-  <div class="spotify-card card-0" title="Don&#x27;t You (Forget About Me) - Simple Minds">
+  <div class="spotify-card card-0" title="Born in the U.S.A. - Bruce Springsteen">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77" alt="Born in the U.S.A.">
+    <div class="t-name">Born in the U.S.A.</div>
+    <div class="t-artist">Bruce Springsteen</div>
+    <a class="t-open" href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-1" title="A Thousand Miles - Vanessa Carlton">
+    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" alt="A Thousand Miles">
+    <div class="t-name">A Thousand Miles</div>
+    <div class="t-artist">Vanessa Carlton</div>
+    <a class="t-open" href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-2" title="Call Me Maybe - Carly Rae Jepsen">
+    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
+    <div class="t-name">Call Me Maybe</div>
+    <div class="t-artist">Carly Rae Jepsen</div>
+    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-3" title="We Built This City - Starship">
+    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="We Built This City">
+    <div class="t-name">We Built This City</div>
+    <div class="t-artist">Starship</div>
+    <a class="t-open" href="https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-4" title="Don&#x27;t You (Forget About Me) - Simple Minds">
+    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2730143f3a3fdce907232ec9f94" alt="Don&#x27;t You (Forget About Me)">
     <div class="t-name">Don&#x27;t You (Forget About Me)</div>
     <div class="t-artist">Simple Minds</div>
     <a class="t-open" href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-1" title="We&#x27;re All In This Together - High School Musical Cast">
-    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-5" title="We&#x27;re All In This Together - High School Musical Cast">
+    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="We&#x27;re All In This Together">
     <div class="t-name">We&#x27;re All In This Together</div>
     <div class="t-artist">High School Musical Cast</div>
     <a class="t-open" href="https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-2" title="California Girls - The Beach Boys">
-    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-6" title="California Girls - The Beach Boys">
+    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="California Girls">
     <div class="t-name">California Girls</div>
     <div class="t-artist">The Beach Boys</div>
     <a class="t-open" href="https://open.spotify.com/track/0mwr3py9MZIOdvOrI31h6r" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-3" title="Hole in My Heart - Cyndi Lauper">
-    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-7" title="Hole in My Heart - Cyndi Lauper">
+    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273d26847c68a0002d364b1ca3d" alt="Hole in My Heart">
     <div class="t-name">Hole in My Heart</div>
     <div class="t-artist">Cyndi Lauper</div>
     <a class="t-open" href="https://open.spotify.com/track/5qRhDFx1Om4yu6UQv0WKLh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-4" title="2 Legit 2 Quit - MC Hammer">
-    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-8" title="2 Legit 2 Quit - MC Hammer">
+    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734002ec85eab720399a4f35f4" alt="2 Legit 2 Quit">
     <div class="t-name">2 Legit 2 Quit</div>
     <div class="t-artist">MC Hammer</div>
     <a class="t-open" href="https://open.spotify.com/track/4ZnKSrukEcPuMxGrcZEEh1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-5" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
-    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-9" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
+    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
     <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
     <div class="t-artist">James Brown</div>
     <a class="t-open" href="https://open.spotify.com/track/4Y5yjzs9FFw5qIgfZBd43I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-6" title="The Power Of Love - Huey Lewis &amp; The News">
-    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-10" title="The Power Of Love - Huey Lewis &amp; The News">
+    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27375092a5642136cce4341626e" alt="The Power Of Love">
     <div class="t-name">The Power Of Love</div>
     <div class="t-artist">Huey Lewis &amp; The News</div>
     <a class="t-open" href="https://open.spotify.com/track/5TdoMP4B6UzPiJGnyBKxcJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-7" title="Fuck Tha Police - N.W.A.">
-    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-11" title="Fuck Tha Police - N.W.A.">
+    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Fuck Tha Police">
     <div class="t-name">Fuck Tha Police</div>
     <div class="t-artist">N.W.A.</div>
     <a class="t-open" href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-8" title="Ghostbusters - Run–D.M.C.">
-    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-12" title="Ghostbusters - Run–D.M.C.">
+    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
     <div class="t-name">Ghostbusters</div>
     <div class="t-artist">Run–D.M.C.</div>
     <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-9" title="Express Yourself - Madonna">
-    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-13" title="Express Yourself - Madonna">
+    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273744ce5f9db16330eb4027f26" alt="Express Yourself">
     <div class="t-name">Express Yourself</div>
     <div class="t-artist">Madonna</div>
     <a class="t-open" href="https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-10" title="Hold On - Wilson Phillips">
-    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-14" title="Hold On - Wilson Phillips">
+    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" alt="Hold On">
     <div class="t-name">Hold On</div>
     <div class="t-artist">Wilson Phillips</div>
     <a class="t-open" href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-11" title="Walking On Sunshine - Katrina &amp; The Waves">
-    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-15" title="Walking On Sunshine - Katrina &amp; The Waves">
+    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Walking On Sunshine">
     <div class="t-name">Walking On Sunshine</div>
     <div class="t-artist">Katrina &amp; The Waves</div>
     <a class="t-open" href="https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-12" title="Manic Monday - The Bangles">
-    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-16" title="Manic Monday - The Bangles">
+    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273ccbf6907d1b128481253f3d5" alt="Manic Monday">
     <div class="t-name">Manic Monday</div>
     <div class="t-artist">The Bangles</div>
     <a class="t-open" href="https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-13" title="Life is a Highway - Rascal Flatts">
-    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-17" title="Life is a Highway - Rascal Flatts">
+    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273aa6b03f85a0f2cb16e88ec0c" alt="Life is a Highway">
     <div class="t-name">Life is a Highway</div>
     <div class="t-artist">Rascal Flatts</div>
     <a class="t-open" href="https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-14" title="Hotel California - 2013 Remaster - Eagles">
-    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-18" title="Hotel California - 2013 Remaster - Eagles">
+    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="Hotel California - 2013 Remaster">
     <div class="t-name">Hotel California - 2013 Remaster</div>
     <div class="t-artist">Eagles</div>
     <a class="t-open" href="https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-15" title="If You Leave Me Now - Chicago">
-    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
-    <div class="t-name">If You Leave Me Now</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-16" title="P.Y.T. (Pretty Young Thing) - Michael Jackson">
-    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="P.Y.T. (Pretty Young Thing)">
-    <div class="t-name">P.Y.T. (Pretty Young Thing)</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-17" title="All Right - Christopher Cross">
-    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
-    <div class="t-name">All Right</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-18" title="Open Your Heart - Madonna">
-    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc" alt="Open Your Heart">
-    <div class="t-name">Open Your Heart</div>
-    <div class="t-artist">Madonna</div>
-    <a class="t-open" href="https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
