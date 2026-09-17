@@ -418,138 +418,138 @@
   <input type="radio" name="spotify-select" id="card-17-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-18-radio" class="select-radio" aria-hidden="true">
   <div class="spotify-stack">
-  <div class="spotify-card card-0" title="What About - Blaxian">
+  <div class="spotify-card card-0" title="Fade To Black - Dire Straits">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
+    <div class="t-name">Fade To Black</div>
+    <div class="t-artist">Dire Straits</div>
+    <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-1" title="What About - Blaxian">
+    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27349f5a7e05c8b08b31a9c1490" alt="What About">
     <div class="t-name">What About</div>
     <div class="t-artist">Blaxian</div>
     <a class="t-open" href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-1" title="Out of Time - The Weeknd">
-    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-2" title="Out of Time - The Weeknd">
+    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
     <div class="t-name">Out of Time</div>
     <div class="t-artist">The Weeknd</div>
     <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-2" title="Tip Toe - HYBS">
-    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-3" title="Tip Toe - HYBS">
+    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
     <div class="t-name">Tip Toe</div>
     <div class="t-artist">HYBS</div>
     <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-3" title="In This Darkness - Clara La San">
-    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-4" title="In This Darkness - Clara La San">
+    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273787a0dbfa43cdc88d0c484dc" alt="In This Darkness">
     <div class="t-name">In This Darkness</div>
     <div class="t-artist">Clara La San</div>
     <a class="t-open" href="https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-4" title="Before spring ends（在春天消失之前） - Wang OK">
-    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-5" title="Before spring ends（在春天消失之前） - Wang OK">
+    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2735f8e5c0a5cc2fa99eb585756" alt="Before spring ends（在春天消失之前）">
     <div class="t-name">Before spring ends（在春天消失之前）</div>
     <div class="t-artist">Wang OK</div>
     <a class="t-open" href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-5" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
-    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-6" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
+    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136" alt="I Know, Didn&#x27;t I">
     <div class="t-name">I Know, Didn&#x27;t I</div>
     <div class="t-artist">DJ Nu-Mark</div>
     <a class="t-open" href="https://open.spotify.com/track/0Q4G1CEv3AmaE6jbagSvRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-6" title="Samurai - Lupe Fiasco">
-    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-7" title="Samurai - Lupe Fiasco">
+    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4" alt="Samurai">
     <div class="t-name">Samurai</div>
     <div class="t-artist">Lupe Fiasco</div>
     <a class="t-open" href="https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-7" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
-    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-8" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
+    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
     <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
     <div class="t-artist">Kenny Mason</div>
     <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-8" title="Ottolenghi - Loyle Carner">
-    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-9" title="Ottolenghi - Loyle Carner">
+    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ottolenghi">
     <div class="t-name">Ottolenghi</div>
     <div class="t-artist">Loyle Carner</div>
     <a class="t-open" href="https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-9" title="Feel The Music - Guru">
-    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-10" title="Feel The Music - Guru">
+    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Feel The Music">
     <div class="t-name">Feel The Music</div>
     <div class="t-artist">Guru</div>
     <a class="t-open" href="https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-10" title="Feather - Nujabes">
-    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-11" title="Feather - Nujabes">
+    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273421d647a4f604d79943f4dad" alt="Feather">
     <div class="t-name">Feather</div>
     <div class="t-artist">Nujabes</div>
     <a class="t-open" href="https://open.spotify.com/track/4aK4LNijbD7kkCg54UoIij" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-11" title="New Home (Slowed) - Austin Farwell">
-    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-12" title="New Home (Slowed) - Austin Farwell">
+    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" alt="New Home (Slowed)">
     <div class="t-name">New Home (Slowed)</div>
     <div class="t-artist">Austin Farwell</div>
     <a class="t-open" href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-12" title="氤氲之森 - CMJ">
-    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-13" title="氤氲之森 - CMJ">
+    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b99bcb73660b15f214b6edc7" alt="氤氲之森">
     <div class="t-name">氤氲之森</div>
     <div class="t-artist">CMJ</div>
     <a class="t-open" href="https://open.spotify.com/track/4yGbLjBwaf0Ec1U9ilgOLl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-13" title="analogue winter - .diedlonely">
-    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-14" title="analogue winter - .diedlonely">
+    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734b117ae5466154849a1abecf" alt="analogue winter">
     <div class="t-name">analogue winter</div>
     <div class="t-artist">.diedlonely</div>
     <a class="t-open" href="https://open.spotify.com/track/31bCpLQCyTWs8ZsDNpTBml" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-14" title="Resounding Hymn - Warmth of Muba">
-    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-15" title="Resounding Hymn - Warmth of Muba">
+    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273a7839401ec9ac83d72ad2d30" alt="Resounding Hymn">
     <div class="t-name">Resounding Hymn</div>
     <div class="t-artist">Warmth of Muba</div>
     <a class="t-open" href="https://open.spotify.com/track/7zTRBQY1gHajCzXVt7SuEG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-15" title="Blue Reverie - Miguel Voss">
-    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-16" title="Blue Reverie - Miguel Voss">
+    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b510cc3846245a2a336beaab" alt="Blue Reverie">
     <div class="t-name">Blue Reverie</div>
     <div class="t-artist">Miguel Voss</div>
     <a class="t-open" href="https://open.spotify.com/track/5CcykWKU3mrAa9Jm1iDd4W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-16" title="Out Of Orbit - northrn frqncy">
-    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-17" title="Out Of Orbit - northrn frqncy">
+    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2731e7e54f618f92756b7790530" alt="Out Of Orbit">
     <div class="t-name">Out Of Orbit</div>
     <div class="t-artist">northrn frqncy</div>
     <a class="t-open" href="https://open.spotify.com/track/0qe5MQqiZG0hSZLk41FWSs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-17" title="Floating Trees - C418">
-    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-18" title="Floating Trees - C418">
+    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068" alt="Floating Trees">
     <div class="t-name">Floating Trees</div>
     <div class="t-artist">C418</div>
     <a class="t-open" href="https://open.spotify.com/track/4F514WgbuukoEW4LFPi1mp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-18" title="voices - Øneheart">
-    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273c40ff3bb453e9b2d6470495f" alt="voices">
-    <div class="t-name">voices</div>
-    <div class="t-artist">Øneheart</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JGdQjxIUmmN8p8r0LXPPG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
