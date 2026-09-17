@@ -357,44 +357,42 @@
 .spotify-card .t-open:hover {
   text-decoration: underline;
 }
-.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 19; }
+.card-0 { transform: translate(0px, 0px) rotate(0deg); z-index: 18; }
 .card-0:hover, #card-0-radio:checked ~ .spotify-stack .card-0 { transform: translate(0px, -16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 18; }
+.card-1 { transform: translate(70px, 2px) rotate(-2deg); z-index: 17; }
 .card-1:hover, #card-1-radio:checked ~ .spotify-stack .card-1 { transform: translate(70px, -14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 17; }
+.card-2 { transform: translate(140px, 4px) rotate(2deg); z-index: 16; }
 .card-2:hover, #card-2-radio:checked ~ .spotify-stack .card-2 { transform: translate(140px, -12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 16; }
+.card-3 { transform: translate(210px, 6px) rotate(-2deg); z-index: 15; }
 .card-3:hover, #card-3-radio:checked ~ .spotify-stack .card-3 { transform: translate(210px, -10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 15; }
+.card-4 { transform: translate(280px, 8px) rotate(2deg); z-index: 14; }
 .card-4:hover, #card-4-radio:checked ~ .spotify-stack .card-4 { transform: translate(280px, -8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 14; }
+.card-5 { transform: translate(350px, 10px) rotate(-2deg); z-index: 13; }
 .card-5:hover, #card-5-radio:checked ~ .spotify-stack .card-5 { transform: translate(350px, -6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 13; }
+.card-6 { transform: translate(420px, 12px) rotate(2deg); z-index: 12; }
 .card-6:hover, #card-6-radio:checked ~ .spotify-stack .card-6 { transform: translate(420px, -4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 12; }
+.card-7 { transform: translate(490px, 14px) rotate(-2deg); z-index: 11; }
 .card-7:hover, #card-7-radio:checked ~ .spotify-stack .card-7 { transform: translate(490px, -2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 11; }
+.card-8 { transform: translate(560px, 16px) rotate(2deg); z-index: 10; }
 .card-8:hover, #card-8-radio:checked ~ .spotify-stack .card-8 { transform: translate(560px, 0px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 10; }
+.card-9 { transform: translate(630px, 18px) rotate(-2deg); z-index: 9; }
 .card-9:hover, #card-9-radio:checked ~ .spotify-stack .card-9 { transform: translate(630px, 2px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 9; }
+.card-10 { transform: translate(700px, 20px) rotate(2deg); z-index: 8; }
 .card-10:hover, #card-10-radio:checked ~ .spotify-stack .card-10 { transform: translate(700px, 4px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 8; }
+.card-11 { transform: translate(770px, 22px) rotate(-2deg); z-index: 7; }
 .card-11:hover, #card-11-radio:checked ~ .spotify-stack .card-11 { transform: translate(770px, 6px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 7; }
+.card-12 { transform: translate(840px, 24px) rotate(2deg); z-index: 6; }
 .card-12:hover, #card-12-radio:checked ~ .spotify-stack .card-12 { transform: translate(840px, 8px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 6; }
+.card-13 { transform: translate(910px, 26px) rotate(-2deg); z-index: 5; }
 .card-13:hover, #card-13-radio:checked ~ .spotify-stack .card-13 { transform: translate(910px, 10px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 5; }
+.card-14 { transform: translate(980px, 28px) rotate(2deg); z-index: 4; }
 .card-14:hover, #card-14-radio:checked ~ .spotify-stack .card-14 { transform: translate(980px, 12px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 4; }
+.card-15 { transform: translate(1050px, 30px) rotate(-2deg); z-index: 3; }
 .card-15:hover, #card-15-radio:checked ~ .spotify-stack .card-15 { transform: translate(1050px, 14px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 3; }
+.card-16 { transform: translate(1120px, 32px) rotate(2deg); z-index: 2; }
 .card-16:hover, #card-16-radio:checked ~ .spotify-stack .card-16 { transform: translate(1120px, 16px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 2; }
+.card-17 { transform: translate(1190px, 34px) rotate(-2deg); z-index: 1; }
 .card-17:hover, #card-17-radio:checked ~ .spotify-stack .card-17 { transform: translate(1190px, 18px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
-.card-18 { transform: translate(1260px, 36px) rotate(2deg); z-index: 1; }
-.card-18:hover, #card-18-radio:checked ~ .spotify-stack .card-18 { transform: translate(1260px, 20px) scale(1.08) rotate(0deg); z-index: 999; box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
 </style>
 <div class="spotify-stack-wrapper">
   <input type="radio" name="spotify-select" id="card-0-radio" class="select-radio" aria-hidden="true">
@@ -415,140 +413,132 @@
   <input type="radio" name="spotify-select" id="card-15-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-16-radio" class="select-radio" aria-hidden="true">
   <input type="radio" name="spotify-select" id="card-17-radio" class="select-radio" aria-hidden="true">
-  <input type="radio" name="spotify-select" id="card-18-radio" class="select-radio" aria-hidden="true">
   <div class="spotify-stack">
-  <div class="spotify-card card-0" title="Fade To Black - Dire Straits">
+  <div class="spotify-card card-0" title="All About The Heaven - The Brothers Johnson">
     <label for="card-0-radio" class="card-select" aria-label="カードを選択"></label>
+    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
+    <div class="t-name">All About The Heaven</div>
+    <div class="t-artist">The Brothers Johnson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card card-1" title="Fade To Black - Dire Straits">
+    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
     <div class="t-name">Fade To Black</div>
     <div class="t-artist">Dire Straits</div>
     <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-1" title="What About - Blaxian">
-    <label for="card-1-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-2" title="What About - Blaxian">
+    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27349f5a7e05c8b08b31a9c1490" alt="What About">
     <div class="t-name">What About</div>
     <div class="t-artist">Blaxian</div>
     <a class="t-open" href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-2" title="Out of Time - The Weeknd">
-    <label for="card-2-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-3" title="Out of Time - The Weeknd">
+    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
     <div class="t-name">Out of Time</div>
     <div class="t-artist">The Weeknd</div>
     <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-3" title="Tip Toe - HYBS">
-    <label for="card-3-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-4" title="Tip Toe - HYBS">
+    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
     <div class="t-name">Tip Toe</div>
     <div class="t-artist">HYBS</div>
     <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-4" title="In This Darkness - Clara La San">
-    <label for="card-4-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-5" title="In This Darkness - Clara La San">
+    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273787a0dbfa43cdc88d0c484dc" alt="In This Darkness">
     <div class="t-name">In This Darkness</div>
     <div class="t-artist">Clara La San</div>
     <a class="t-open" href="https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-5" title="Before spring ends（在春天消失之前） - Wang OK">
-    <label for="card-5-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-6" title="Before spring ends（在春天消失之前） - Wang OK">
+    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2735f8e5c0a5cc2fa99eb585756" alt="Before spring ends（在春天消失之前）">
     <div class="t-name">Before spring ends（在春天消失之前）</div>
     <div class="t-artist">Wang OK</div>
     <a class="t-open" href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-6" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
-    <label for="card-6-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-7" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
+    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136" alt="I Know, Didn&#x27;t I">
     <div class="t-name">I Know, Didn&#x27;t I</div>
     <div class="t-artist">DJ Nu-Mark</div>
     <a class="t-open" href="https://open.spotify.com/track/0Q4G1CEv3AmaE6jbagSvRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-7" title="Samurai - Lupe Fiasco">
-    <label for="card-7-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-8" title="Samurai - Lupe Fiasco">
+    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4" alt="Samurai">
     <div class="t-name">Samurai</div>
     <div class="t-artist">Lupe Fiasco</div>
     <a class="t-open" href="https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-8" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
-    <label for="card-8-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-9" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
+    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
     <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
     <div class="t-artist">Kenny Mason</div>
     <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-9" title="Ottolenghi - Loyle Carner">
-    <label for="card-9-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-10" title="Ottolenghi - Loyle Carner">
+    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ottolenghi">
     <div class="t-name">Ottolenghi</div>
     <div class="t-artist">Loyle Carner</div>
     <a class="t-open" href="https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-10" title="Feel The Music - Guru">
-    <label for="card-10-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-11" title="Feel The Music - Guru">
+    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Feel The Music">
     <div class="t-name">Feel The Music</div>
     <div class="t-artist">Guru</div>
     <a class="t-open" href="https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-11" title="Feather - Nujabes">
-    <label for="card-11-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-12" title="Feather - Nujabes">
+    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273421d647a4f604d79943f4dad" alt="Feather">
     <div class="t-name">Feather</div>
     <div class="t-artist">Nujabes</div>
     <a class="t-open" href="https://open.spotify.com/track/4aK4LNijbD7kkCg54UoIij" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-12" title="New Home (Slowed) - Austin Farwell">
-    <label for="card-12-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-13" title="New Home (Slowed) - Austin Farwell">
+    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" alt="New Home (Slowed)">
     <div class="t-name">New Home (Slowed)</div>
     <div class="t-artist">Austin Farwell</div>
     <a class="t-open" href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-13" title="氤氲之森 - CMJ">
-    <label for="card-13-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-14" title="氤氲之森 - CMJ">
+    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b99bcb73660b15f214b6edc7" alt="氤氲之森">
     <div class="t-name">氤氲之森</div>
     <div class="t-artist">CMJ</div>
     <a class="t-open" href="https://open.spotify.com/track/4yGbLjBwaf0Ec1U9ilgOLl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-14" title="analogue winter - .diedlonely">
-    <label for="card-14-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-15" title="analogue winter - .diedlonely">
+    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b2734b117ae5466154849a1abecf" alt="analogue winter">
     <div class="t-name">analogue winter</div>
     <div class="t-artist">.diedlonely</div>
     <a class="t-open" href="https://open.spotify.com/track/31bCpLQCyTWs8ZsDNpTBml" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-15" title="Resounding Hymn - Warmth of Muba">
-    <label for="card-15-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-16" title="Resounding Hymn - Warmth of Muba">
+    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273a7839401ec9ac83d72ad2d30" alt="Resounding Hymn">
     <div class="t-name">Resounding Hymn</div>
     <div class="t-artist">Warmth of Muba</div>
     <a class="t-open" href="https://open.spotify.com/track/7zTRBQY1gHajCzXVt7SuEG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card card-16" title="Blue Reverie - Miguel Voss">
-    <label for="card-16-radio" class="card-select" aria-label="カードを選択"></label>
+  <div class="spotify-card card-17" title="Blue Reverie - Miguel Voss">
+    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
     <img src="https://i.scdn.co/image/ab67616d0000b273b510cc3846245a2a336beaab" alt="Blue Reverie">
     <div class="t-name">Blue Reverie</div>
     <div class="t-artist">Miguel Voss</div>
     <a class="t-open" href="https://open.spotify.com/track/5CcykWKU3mrAa9Jm1iDd4W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-17" title="Out Of Orbit - northrn frqncy">
-    <label for="card-17-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b2731e7e54f618f92756b7790530" alt="Out Of Orbit">
-    <div class="t-name">Out Of Orbit</div>
-    <div class="t-artist">northrn frqncy</div>
-    <a class="t-open" href="https://open.spotify.com/track/0qe5MQqiZG0hSZLk41FWSs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card card-18" title="Floating Trees - C418">
-    <label for="card-18-radio" class="card-select" aria-label="カードを選択"></label>
-    <img src="https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068" alt="Floating Trees">
-    <div class="t-name">Floating Trees</div>
-    <div class="t-artist">C418</div>
-    <a class="t-open" href="https://open.spotify.com/track/4F514WgbuukoEW4LFPi1mp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
