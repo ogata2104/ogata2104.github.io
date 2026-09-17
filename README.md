@@ -1,4 +1,5 @@
 # <span style="display:none;">2104's Ordinary World</span>
+ただただ平穏に暮らしていきたい
 ### 🌐 Social Links
 
 <div style="display: flex; gap: 15px; align-items: center;">
