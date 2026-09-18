@@ -1,28 +1,5 @@
 # <span style="display:none;">2104's Ordinary World</span>
 ただただ平穏に暮らしていきたい
-### 🌐 Social Links
-
-<div style="display: flex; gap: 15px; align-items: center;">
-
-  <a href="https://www.threads.net/@ogata2104" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/%23000000" alt="Threads" height="30" width="30">
-  </a>
-
-  <a href="https://www.instagram.com/ogata2104" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">
-  </a>
-
-  <a href="https://www.facebook.com/ogata2104" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/ogata2104/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
-  </a>
-
-</div>
-
----
 
 <!-- THREADS_START -->
 ### 🧵 Latest Threads Posts
@@ -490,3 +467,27 @@
 </div>
 
 <!-- SPOTIFY_END -->
+
+---
+
+### 🌐 Social Links
+
+<div style="display: flex; gap: 15px; align-items: center;">
+
+  <a href="https://www.threads.net/@ogata2104" target="_blank">
+    <img src="https://cdn.simpleicons.org/threads/%23000000" alt="Threads" height="30" width="30">
+  </a>
+
+  <a href="https://www.instagram.com/ogata2104" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">
+  </a>
+
+  <a href="https://www.facebook.com/ogata2104" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ogata2104/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
+  </a>
+
+</div>
