@@ -34,8 +34,7 @@
 .threads-stack {
   display: flex;
   align-items: center;
-  gap: 20px;
-  height: 320px;
+  height: 360px;
   margin: 24px 0 12px;
   overflow-x: auto;
   overflow-y: visible;
@@ -64,10 +63,24 @@
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
 }
+/* 隣のカードと半分(=幅の50%)ずつ重なるよう、先頭以外は左に寄せる */
+.threads-card:not(:first-child) {
+  margin-left: -90px;
+}
+.threads-card:nth-child(1) { z-index: 10; }
+.threads-card:nth-child(2) { z-index: 9; }
+.threads-card:nth-child(3) { z-index: 8; }
+.threads-card:nth-child(4) { z-index: 7; }
+.threads-card:nth-child(5) { z-index: 6; }
+.threads-card:nth-child(6) { z-index: 5; }
+.threads-card:nth-child(7) { z-index: 4; }
+.threads-card:nth-child(8) { z-index: 3; }
+.threads-card:nth-child(9) { z-index: 2; }
+.threads-card:nth-child(10) { z-index: 1; }
 .threads-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(0,0,0,0.22);
-  z-index: 2;
+  z-index: 999;
 }
 /* CSSのscroll-driven animationはtransition/:hoverより優先度が高いため、対応ブラウザでは
    これがhoverの代わりとして効き、「中央に来たカードが自動で拡大」を実現する */
@@ -79,8 +92,8 @@
   }
 }
 @keyframes threads-card-focus {
-  0%, 100% { transform: scale(0.88); box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
-  50% { transform: scale(1.08); box-shadow: 0 12px 28px rgba(0,0,0,0.22); z-index: 2; }
+  0%, 100% { transform: scale(0.88); box-shadow: 0 2px 6px rgba(0,0,0,0.08); z-index: 1; }
+  50% { transform: scale(1.08); box-shadow: 0 12px 28px rgba(0,0,0,0.22); z-index: 999; }
 }
 .threads-card .t-content {
   position: absolute;
