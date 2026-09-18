@@ -298,6 +298,42 @@
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:hover {
+  transform: scale(1.08);
+  box-shadow: 0 12px 28px rgba(27,31,35,0.35);
+  z-index: 999;
+}
+/* CSSのscroll-driven animationはtransition/:hoverより優先度が高いため、対応ブラウザでは
+   これがhoverの代わりとして効き、「中央に来たカードが自動で拡大」を実現する */
+@supports (animation-timeline: view()) {
+  .spotify-card {
+    animation: spotify-card-focus linear both;
+    animation-timeline: view(inline);
+    animation-range: cover 0% cover 100%;
+  }
+}
+@keyframes spotify-card-focus {
+  0%, 100% { transform: scale(0.88); box-shadow: 0 2px 6px rgba(27,31,35,0.12); z-index: 1; }
+  50% { transform: scale(1.08); box-shadow: 0 12px 28px rgba(27,31,35,0.35); z-index: 999; }
+}
 .spotify-card img {
   position: relative;
   width: 100%;
@@ -338,42 +374,6 @@
 }
 .spotify-card .t-open:hover {
   text-decoration: underline;
-}
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
-.spotify-card:hover {
-  transform: scale(1.08);
-  box-shadow: 0 12px 28px rgba(27,31,35,0.35);
-  z-index: 999;
-}
-/* CSSのscroll-driven animationはtransition/:hoverより優先度が高いため、対応ブラウザでは
-   これがhoverの代わりとして効き、「中央に来たカードが自動で拡大」を実現する */
-@supports (animation-timeline: view()) {
-  .spotify-card {
-    animation: spotify-card-focus linear both;
-    animation-timeline: view(inline);
-    animation-range: cover 0% cover 100%;
-  }
-}
-@keyframes spotify-card-focus {
-  0%, 100% { transform: scale(0.88); box-shadow: 0 2px 6px rgba(27,31,35,0.12); z-index: 1; }
-  50% { transform: scale(1.08); box-shadow: 0 12px 28px rgba(27,31,35,0.35); z-index: 999; }
 }
 </style>
 <div class="spotify-stack-wrapper">
