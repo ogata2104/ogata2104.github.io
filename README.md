@@ -462,6 +462,12 @@
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Valerie (feat. Amy Winehouse) - Version Revisited - Mark Ronson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22" alt="Valerie (feat. Amy Winehouse) - Version Revisited">
+    <div class="t-name">Valerie (feat. Amy Winehouse) - Version Revisited</div>
+    <div class="t-artist">Mark Ronson</div>
+    <a class="t-open" href="https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="プリンとマフィンのポムポムビート☆ - ポムポムプリン">
     <img src="https://i.scdn.co/image/ab67616d0000b273b6647209bed331ade838a908" alt="プリンとマフィンのポムポムビート☆">
     <div class="t-name">プリンとマフィンのポムポムビート☆</div>
@@ -563,12 +569,6 @@
     <div class="t-name">New Home (Slowed)</div>
     <div class="t-artist">Austin Farwell</div>
     <a class="t-open" href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="氤氲之森 - CMJ">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b99bcb73660b15f214b6edc7" alt="氤氲之森">
-    <div class="t-name">氤氲之森</div>
-    <div class="t-artist">CMJ</div>
-    <a class="t-open" href="https://open.spotify.com/track/4yGbLjBwaf0Ec1U9ilgOLl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
