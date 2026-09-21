@@ -462,6 +462,48 @@
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="If You Want It - Niteflyte">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c35c9d3a318107fb97961dcd" alt="If You Want It">
+    <div class="t-name">If You Want It</div>
+    <div class="t-artist">Niteflyte</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Uwn57Tf3ZlrzLa5TUcfH7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waiting for Your Love - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Waiting for Your Love">
+    <div class="t-name">Waiting for Your Love</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="A Thousand Miles - Vanessa Carlton">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" alt="A Thousand Miles">
+    <div class="t-name">A Thousand Miles</div>
+    <div class="t-artist">Vanessa Carlton</div>
+    <a class="t-open" href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
+    <div class="t-name">Ghostbusters</div>
+    <div class="t-artist">Run–D.M.C.</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All About The Heaven - The Brothers Johnson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
+    <div class="t-name">All About The Heaven</div>
+    <div class="t-artist">The Brothers Johnson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
+    <div class="t-name">JoJo (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MMMBop - Hanson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Valerie (feat. Amy Winehouse) - Version Revisited - Mark Ronson">
     <img src="https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22" alt="Valerie (feat. Amy Winehouse) - Version Revisited">
     <div class="t-name">Valerie (feat. Amy Winehouse) - Version Revisited</div>
@@ -485,12 +527,6 @@
     <div class="t-name">Look What You&#x27;ve Done to Me</div>
     <div class="t-artist">Boz Scaggs</div>
     <a class="t-open" href="https://open.spotify.com/track/6WIVLU2b1Dzz1lvRE4EcBu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All About The Heaven - The Brothers Johnson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
-    <div class="t-name">All About The Heaven</div>
-    <div class="t-artist">The Brothers Johnson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Fade To Black - Dire Straits">
     <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
@@ -533,42 +569,6 @@
     <div class="t-name">I Know, Didn&#x27;t I</div>
     <div class="t-artist">DJ Nu-Mark</div>
     <a class="t-open" href="https://open.spotify.com/track/0Q4G1CEv3AmaE6jbagSvRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Samurai - Lupe Fiasco">
-    <img src="https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4" alt="Samurai">
-    <div class="t-name">Samurai</div>
-    <div class="t-artist">Lupe Fiasco</div>
-    <a class="t-open" href="https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
-    <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
-    <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
-    <div class="t-artist">Kenny Mason</div>
-    <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ottolenghi - Loyle Carner">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ottolenghi">
-    <div class="t-name">Ottolenghi</div>
-    <div class="t-artist">Loyle Carner</div>
-    <a class="t-open" href="https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feel The Music - Guru">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Feel The Music">
-    <div class="t-name">Feel The Music</div>
-    <div class="t-artist">Guru</div>
-    <a class="t-open" href="https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feather - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b273421d647a4f604d79943f4dad" alt="Feather">
-    <div class="t-name">Feather</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aK4LNijbD7kkCg54UoIij" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="New Home (Slowed) - Austin Farwell">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052" alt="New Home (Slowed)">
-    <div class="t-name">New Home (Slowed)</div>
-    <div class="t-artist">Austin Farwell</div>
-    <a class="t-open" href="https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
