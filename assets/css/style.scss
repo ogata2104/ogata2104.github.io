@@ -27,9 +27,12 @@
   background-blend-mode: overlay;
 
   /* 文字色を白に固定して視認性を確保 */
+  /* フォントはREADME側の .tagline-type（タイプライター風）と揃えている */
   .project-name, .project-tagline {
     color: #ffffff !important;
     text-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 文字に影をつけてよりクッキリ */
+    font-family: 'Special Elite', 'Courier New', Courier, monospace;
+    letter-spacing: 0.02em;
   }
 
   /* ボタンの色も写真に合わせて微調整したい場合はここ */

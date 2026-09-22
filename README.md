@@ -19,7 +19,7 @@ From TOKYO JAPAN
 </p>
 
 <!-- THREADS_START -->
-### 🧵 Latest Threads Posts
+<h3 class="tagline-type">🧵 Latest Threads Posts</h3>
 
 <style>
 .threads-stack-wrapper {
@@ -359,7 +359,7 @@ From TOKYO JAPAN
 ---
 
 <!-- SPOTIFY_START -->
-### 🎧 Recently Played by Spotify
+<h3 class="tagline-type">🎧 Recently Played by Spotify</h3>
 
 <style>
 .spotify-stack-wrapper {
@@ -587,7 +587,7 @@ From TOKYO JAPAN
 
 ---
 
-### 🌐 Social Links
+<h3 class="tagline-type">🌐 Social Links</h3>
 
 <div style="display: flex; gap: 15px; align-items: center;">
 
