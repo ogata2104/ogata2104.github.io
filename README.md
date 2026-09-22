@@ -399,24 +399,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -479,6 +481,90 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="When They Come Around - Sun City">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bea71b1b5aabefee386285fd" alt="When They Come Around">
+    <div class="t-name">When They Come Around</div>
+    <div class="t-artist">Sun City</div>
+    <a class="t-open" href="https://open.spotify.com/track/4lsZXHVjkZ56kNsSFuNmlY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Oh I Love You,oh I Do - Science Noodles">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a0ded3bac708388144c841f1" alt="Oh I Love You,oh I Do">
+    <div class="t-name">Oh I Love You,oh I Do</div>
+    <div class="t-artist">Science Noodles</div>
+    <a class="t-open" href="https://open.spotify.com/track/3KYnbACXbOOnqLZ5OUuDx7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="A GIRL IN THE CITY - I Don&#x27;t Like Mondays.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4e22b3a45c275e83f03d231" alt="A GIRL IN THE CITY">
+    <div class="t-name">A GIRL IN THE CITY</div>
+    <div class="t-artist">I Don&#x27;t Like Mondays.</div>
+    <a class="t-open" href="https://open.spotify.com/track/4B8yHLnHTXZFbjNBoGqKf9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Night of the Assassination - Kentaro Haneda">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739cd37b0df856f2a2d02d9994" alt="The Night of the Assassination">
+    <div class="t-name">The Night of the Assassination</div>
+    <div class="t-artist">Kentaro Haneda</div>
+    <a class="t-open" href="https://open.spotify.com/track/1vH3iQYz2HXIHo1c8a31nx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Tahitian Moon - Michael Franks">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b3ccbc5204502cba3ab762aa" alt="Tahitian Moon">
+    <div class="t-name">Tahitian Moon</div>
+    <div class="t-artist">Michael Franks</div>
+    <a class="t-open" href="https://open.spotify.com/track/60wp9CgSdUS1ATbryVyEWf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DREAMIN&#x27; - Benny Sings">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="DREAMIN&#x27;">
+    <div class="t-name">DREAMIN&#x27;</div>
+    <div class="t-artist">Benny Sings</div>
+    <a class="t-open" href="https://open.spotify.com/track/4wnvjve3ZbdKASbAaDK1Kf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dance with Me - Orleans">
+    <img src="https://i.scdn.co/image/ab67616d0000b273583cd0784e5064a3b7b1382e" alt="Dance with Me">
+    <div class="t-name">Dance with Me</div>
+    <div class="t-artist">Orleans</div>
+    <a class="t-open" href="https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="We&#x27;re All Alone - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ea4b0397a9267a7db7ea70ba" alt="We&#x27;re All Alone">
+    <div class="t-name">We&#x27;re All Alone</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/4l98F3pykTVy8bweeshEiy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fade To Black - Dire Straits">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
+    <div class="t-name">Fade To Black</div>
+    <div class="t-artist">Dire Straits</div>
+    <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DOWN TOWN - EPO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
+    <div class="t-name">DOWN TOWN</div>
+    <div class="t-artist">EPO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunlight - Michael Tomlinson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27319811e3c930e98613009d9eb" alt="Sunlight">
+    <div class="t-name">Sunlight</div>
+    <div class="t-artist">Michael Tomlinson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ytkTeJYTVeNm9avLFSNjr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Never Gonna Let You Go - Sérgio Mendes">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ab130b136eca8fcd0d551066" alt="Never Gonna Let You Go">
+    <div class="t-name">Never Gonna Let You Go</div>
+    <div class="t-artist">Sérgio Mendes</div>
+    <a class="t-open" href="https://open.spotify.com/track/2G9eWzsXMhtIFepkY71FVd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="We&#x27;re All Alone (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="We&#x27;re All Alone (2023 Remaster)">
+    <div class="t-name">We&#x27;re All Alone (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/1445ALWD4ey6B6OLfhRU3P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="99 - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
+    <div class="t-name">99</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ぴーおーぴー - #KTちゃん">
     <img src="https://i.scdn.co/image/ab67616d0000b2739961b120d683cf658980a53f" alt="ぴーおーぴー">
     <div class="t-name">ぴーおーぴー</div>
@@ -514,78 +600,6 @@ From TOKYO JAPAN
     <div class="t-name">Sailing</div>
     <div class="t-artist">Christopher Cross</div>
     <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Steal Away - Robbie Dupree">
-    <img src="https://i.scdn.co/image/ab67616d0000b273195275633700b15019a762ce" alt="Steal Away">
-    <div class="t-name">Steal Away</div>
-    <div class="t-artist">Robbie Dupree</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Want It - Niteflyte">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c35c9d3a318107fb97961dcd" alt="If You Want It">
-    <div class="t-name">If You Want It</div>
-    <div class="t-artist">Niteflyte</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Uwn57Tf3ZlrzLa5TUcfH7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting for Your Love - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Waiting for Your Love">
-    <div class="t-name">Waiting for Your Love</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="A Thousand Miles - Vanessa Carlton">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e" alt="A Thousand Miles">
-    <div class="t-name">A Thousand Miles</div>
-    <div class="t-artist">Vanessa Carlton</div>
-    <a class="t-open" href="https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
-    <div class="t-name">Ghostbusters</div>
-    <div class="t-artist">Run–D.M.C.</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All About The Heaven - The Brothers Johnson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
-    <div class="t-name">All About The Heaven</div>
-    <div class="t-artist">The Brothers Johnson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
-    <div class="t-name">JoJo (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MMMBop - Hanson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
-    <div class="t-name">MMMBop</div>
-    <div class="t-artist">Hanson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie (feat. Amy Winehouse) - Version Revisited - Mark Ronson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22" alt="Valerie (feat. Amy Winehouse) - Version Revisited">
-    <div class="t-name">Valerie (feat. Amy Winehouse) - Version Revisited</div>
-    <div class="t-artist">Mark Ronson</div>
-    <a class="t-open" href="https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="プリンとマフィンのポムポムビート☆ - ポムポムプリン">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b6647209bed331ade838a908" alt="プリンとマフィンのポムポムビート☆">
-    <div class="t-name">プリンとマフィンのポムポムビート☆</div>
-    <div class="t-artist">ポムポムプリン</div>
-    <a class="t-open" href="https://open.spotify.com/track/5JzW5UnfWJQKQxdh18YNos" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Look What You&#x27;ve Done to Me - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b27389ec4b314cae875a077bee78" alt="Look What You&#x27;ve Done to Me">
-    <div class="t-name">Look What You&#x27;ve Done to Me</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/6WIVLU2b1Dzz1lvRE4EcBu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
