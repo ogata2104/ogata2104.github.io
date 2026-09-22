@@ -14,7 +14,7 @@
 .page-header {
   /* デフォルト（JS無効時のフォールバック）の画像。
      JS有効時は head-custom.html 内のスクリプトがアクセスの度にランダムな画像へ上書きする */
-  background-image: url("{{ site.baseurl }}/header_img/header.jpg");
+  background-image: url("{{ site.baseurl }}/header_img/header1.jpg");
   
   /* 画像の表示方法を調整 */
   background-size: cover;      /* 枠いっぱいに広げる */
