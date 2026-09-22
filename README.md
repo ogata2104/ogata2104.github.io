@@ -399,23 +399,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 17; }
-.spotify-card:nth-child(2) { z-index: 16; }
-.spotify-card:nth-child(3) { z-index: 15; }
-.spotify-card:nth-child(4) { z-index: 14; }
-.spotify-card:nth-child(5) { z-index: 13; }
-.spotify-card:nth-child(6) { z-index: 12; }
-.spotify-card:nth-child(7) { z-index: 11; }
-.spotify-card:nth-child(8) { z-index: 10; }
-.spotify-card:nth-child(9) { z-index: 9; }
-.spotify-card:nth-child(10) { z-index: 8; }
-.spotify-card:nth-child(11) { z-index: 7; }
-.spotify-card:nth-child(12) { z-index: 6; }
-.spotify-card:nth-child(13) { z-index: 5; }
-.spotify-card:nth-child(14) { z-index: 4; }
-.spotify-card:nth-child(15) { z-index: 3; }
-.spotify-card:nth-child(16) { z-index: 2; }
-.spotify-card:nth-child(17) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -478,6 +479,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ぴーおーぴー - #KTちゃん">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739961b120d683cf658980a53f" alt="ぴーおーぴー">
+    <div class="t-name">ぴーおーぴー</div>
+    <div class="t-artist">#KTちゃん</div>
+    <a class="t-open" href="https://open.spotify.com/track/3h04g2laqNkGPVHZtrPjZA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ギミギミ逃避行 feat. #KTちゃん - Prod. Peko - 花譜">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b88cf30c901b0155e0bc4d83" alt="ギミギミ逃避行 feat. #KTちゃん - Prod. Peko">
+    <div class="t-name">ギミギミ逃避行 feat. #KTちゃん - Prod. Peko</div>
+    <div class="t-artist">花譜</div>
+    <a class="t-open" href="https://open.spotify.com/track/6P5jrF5GYOfnQKysOHbY5I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="世情 - Shizuka Kudo">
     <img src="https://i.scdn.co/image/ab67616d0000b27331fa3e268aee2307e8db8902" alt="世情">
     <div class="t-name">世情</div>
@@ -573,12 +586,6 @@ From TOKYO JAPAN
     <div class="t-name">Look What You&#x27;ve Done to Me</div>
     <div class="t-artist">Boz Scaggs</div>
     <a class="t-open" href="https://open.spotify.com/track/6WIVLU2b1Dzz1lvRE4EcBu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fade To Black - Dire Straits">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
-    <div class="t-name">Fade To Black</div>
-    <div class="t-artist">Dire Straits</div>
-    <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
