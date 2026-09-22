@@ -478,6 +478,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="世情 - Shizuka Kudo">
+    <img src="https://i.scdn.co/image/ab67616d0000b27331fa3e268aee2307e8db8902" alt="世情">
+    <div class="t-name">世情</div>
+    <div class="t-artist">Shizuka Kudo</div>
+    <a class="t-open" href="https://open.spotify.com/track/0Jc3ewvnEBPxFk7DQY8mCG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
     <img src="https://i.scdn.co/image/ab67616d0000b27378f77f61555f5e4daf1b6c5b" alt="NOTHING ELSE 2">
     <div class="t-name">NOTHING ELSE 2</div>
@@ -573,12 +579,6 @@ From TOKYO JAPAN
     <div class="t-name">Fade To Black</div>
     <div class="t-artist">Dire Straits</div>
     <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What About - Blaxian">
-    <img src="https://i.scdn.co/image/ab67616d0000b27349f5a7e05c8b08b31a9c1490" alt="What About">
-    <div class="t-name">What About</div>
-    <div class="t-artist">Blaxian</div>
-    <a class="t-open" href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
