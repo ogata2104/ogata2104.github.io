@@ -11,8 +11,8 @@
 }
 </style>
 <p class="tagline-type">
-<span class="tagline-type-jp">ただただ平穏に暮らしていきたい</span><br>
-I just want to live a peaceful life.
+I just want to live a peaceful life.<br>
+<span class="tagline-type-jp">ただただ平穏に暮らしていきたい</span>
 </p>
 <p class="tagline-type">
 From TOKYO JAPAN
