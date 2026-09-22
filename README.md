@@ -1,5 +1,22 @@
 # <span style="display:none;">2104's Ordinary World</span>
-ただただ平穏に暮らしていきたい
+
+<style>
+.tagline-type {
+  font-family: 'Special Elite', 'Courier New', Courier, monospace;
+  letter-spacing: 0.02em;
+}
+.tagline-type-jp {
+  font-family: 'DotGothic16', 'Special Elite', 'Courier New', Courier, monospace;
+  letter-spacing: 0.02em;
+}
+</style>
+<p class="tagline-type">
+<span class="tagline-type-jp">ただただ平穏に暮らしていきたい</span><br>
+I just want to live a peaceful life.
+</p>
+<p class="tagline-type">
+From TOKYO JAPAN
+</p>
 
 <!-- THREADS_START -->
 ### 🧵 Latest Threads Posts
