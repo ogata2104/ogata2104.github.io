@@ -382,24 +382,23 @@
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -462,6 +461,36 @@
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378f77f61555f5e4daf1b6c5b" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FVyk4ITNbjA0A4ssvkr4o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Wife - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
+    <div class="t-name">Wife</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sailing - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
+    <div class="t-name">Sailing</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Steal Away - Robbie Dupree">
+    <img src="https://i.scdn.co/image/ab67616d0000b273195275633700b15019a762ce" alt="Steal Away">
+    <div class="t-name">Steal Away</div>
+    <div class="t-artist">Robbie Dupree</div>
+    <a class="t-open" href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DOWN TOWN - EPO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
+    <div class="t-name">DOWN TOWN</div>
+    <div class="t-artist">EPO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="If You Want It - Niteflyte">
     <img src="https://i.scdn.co/image/ab67616d0000b273c35c9d3a318107fb97961dcd" alt="If You Want It">
     <div class="t-name">If You Want It</div>
@@ -516,12 +545,6 @@
     <div class="t-artist">ポムポムプリン</div>
     <a class="t-open" href="https://open.spotify.com/track/5JzW5UnfWJQKQxdh18YNos" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Wife - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
-    <div class="t-name">Wife</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
   <div class="spotify-card" title="Look What You&#x27;ve Done to Me - Boz Scaggs">
     <img src="https://i.scdn.co/image/ab67616d0000b27389ec4b314cae875a077bee78" alt="Look What You&#x27;ve Done to Me">
     <div class="t-name">Look What You&#x27;ve Done to Me</div>
@@ -539,36 +562,6 @@
     <div class="t-name">What About</div>
     <div class="t-artist">Blaxian</div>
     <a class="t-open" href="https://open.spotify.com/track/74RNMSxi9get9yK90yC5se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out of Time - The Weeknd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
-    <div class="t-name">Out of Time</div>
-    <div class="t-artist">The Weeknd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tip Toe - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
-    <div class="t-name">Tip Toe</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="In This Darkness - Clara La San">
-    <img src="https://i.scdn.co/image/ab67616d0000b273787a0dbfa43cdc88d0c484dc" alt="In This Darkness">
-    <div class="t-name">In This Darkness</div>
-    <div class="t-artist">Clara La San</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Before spring ends（在春天消失之前） - Wang OK">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735f8e5c0a5cc2fa99eb585756" alt="Before spring ends（在春天消失之前）">
-    <div class="t-name">Before spring ends（在春天消失之前）</div>
-    <div class="t-artist">Wang OK</div>
-    <a class="t-open" href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
-    <img src="https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136" alt="I Know, Didn&#x27;t I">
-    <div class="t-name">I Know, Didn&#x27;t I</div>
-    <div class="t-artist">DJ Nu-Mark</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Q4G1CEv3AmaE6jbagSvRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
