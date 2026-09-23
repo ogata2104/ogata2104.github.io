@@ -18,6 +18,8 @@ I just want to live a peaceful life.<br>
 From TOKYO JAPAN
 </p>
 
+---
+
 <!-- THREADS_START -->
 <h3 class="tagline-type">🧵 Latest Threads Posts</h3>
 
