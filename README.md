@@ -401,26 +401,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -483,6 +482,84 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="How Deep Is Your Love - Bee Gees">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c93a2d859ee3635aa415d61d" alt="How Deep Is Your Love">
+    <div class="t-name">How Deep Is Your Love</div>
+    <div class="t-artist">Bee Gees</div>
+    <a class="t-open" href="https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b36d59f00ce81003433878a9" alt="KICK IT OUT -reprise-">
+    <div class="t-name">KICK IT OUT -reprise-</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Call Me Maybe - Carly Rae Jepsen">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
+    <div class="t-name">Call Me Maybe</div>
+    <div class="t-artist">Carly Rae Jepsen</div>
+    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t You (Forget About Me) - Simple Minds">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730143f3a3fdce907232ec9f94" alt="Don&#x27;t You (Forget About Me)">
+    <div class="t-name">Don&#x27;t You (Forget About Me)</div>
+    <div class="t-artist">Simple Minds</div>
+    <a class="t-open" href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If You Leave Me Now - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
+    <div class="t-name">If You Leave Me Now</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
+    <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
+    <div class="t-artist">James Brown</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Y5yjzs9FFw5qIgfZBd43I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Out of Time - The Weeknd">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
+    <div class="t-name">Out of Time</div>
+    <div class="t-artist">The Weeknd</div>
+    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don&#x27;t Know - Mach 5">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732d742157aaf8a717f85fa9ab" alt="They Don&#x27;t Know">
+    <div class="t-name">They Don&#x27;t Know</div>
+    <div class="t-artist">Mach 5</div>
+    <a class="t-open" href="https://open.spotify.com/track/1U7SIaC5CaQOGtw1Oi7QmL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don&#x27;t Know - Kenny Howes and the Yeah!">
+    <img src="https://i.scdn.co/image/ab67616d0000b273afec99fac0d3dcd1acafa673" alt="They Don&#x27;t Know">
+    <div class="t-name">They Don&#x27;t Know</div>
+    <div class="t-artist">Kenny Howes and the Yeah!</div>
+    <a class="t-open" href="https://open.spotify.com/track/0a7Lb64NZd0rmkYT4ZQ2LH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don&#x27;t Konw - Babe">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735ac266a1a7f40289c5e22ace" alt="They Don&#x27;t Konw">
+    <div class="t-name">They Don&#x27;t Konw</div>
+    <div class="t-artist">Babe</div>
+    <a class="t-open" href="https://open.spotify.com/track/5qTFvgW79nX5Kzq4aUe3Se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don&#x27;t Know - Tracey Ullman">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e2cf03633eb2606171594ba7" alt="They Don&#x27;t Know">
+    <div class="t-name">They Don&#x27;t Know</div>
+    <div class="t-artist">Tracey Ullman</div>
+    <a class="t-open" href="https://open.spotify.com/track/0tOkXHcYsR2Y07XiGl0Yme" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don’t Know - Kirsty MacColl">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a956ba083e98ce4b223ce339" alt="They Don’t Know">
+    <div class="t-name">They Don’t Know</div>
+    <div class="t-artist">Kirsty MacColl</div>
+    <a class="t-open" href="https://open.spotify.com/track/4NClaW9yRnfB3o3dG1YVte" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fig Tree - Rupert Cox">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b0f8c8060b39a605ba01903e" alt="Fig Tree">
+    <div class="t-name">Fig Tree</div>
+    <div class="t-artist">Rupert Cox</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ZwHnMzeBeWFA1z02hLFpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="When They Come Around - Sun City">
     <img src="https://i.scdn.co/image/ab67616d0000b273bea71b1b5aabefee386285fd" alt="When They Come Around">
     <div class="t-name">When They Come Around</div>
@@ -518,90 +595,6 @@ From TOKYO JAPAN
     <div class="t-name">DREAMIN&#x27;</div>
     <div class="t-artist">Benny Sings</div>
     <a class="t-open" href="https://open.spotify.com/track/4wnvjve3ZbdKASbAaDK1Kf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dance with Me - Orleans">
-    <img src="https://i.scdn.co/image/ab67616d0000b273583cd0784e5064a3b7b1382e" alt="Dance with Me">
-    <div class="t-name">Dance with Me</div>
-    <div class="t-artist">Orleans</div>
-    <a class="t-open" href="https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="We&#x27;re All Alone - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ea4b0397a9267a7db7ea70ba" alt="We&#x27;re All Alone">
-    <div class="t-name">We&#x27;re All Alone</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/4l98F3pykTVy8bweeshEiy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fade To Black - Dire Straits">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ee92e1d463ee63440431179c" alt="Fade To Black">
-    <div class="t-name">Fade To Black</div>
-    <div class="t-artist">Dire Straits</div>
-    <a class="t-open" href="https://open.spotify.com/track/7N0iCGxTzN2gJPxnTdIRiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunlight - Michael Tomlinson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27319811e3c930e98613009d9eb" alt="Sunlight">
-    <div class="t-name">Sunlight</div>
-    <div class="t-artist">Michael Tomlinson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ytkTeJYTVeNm9avLFSNjr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Never Gonna Let You Go - Sérgio Mendes">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ab130b136eca8fcd0d551066" alt="Never Gonna Let You Go">
-    <div class="t-name">Never Gonna Let You Go</div>
-    <div class="t-artist">Sérgio Mendes</div>
-    <a class="t-open" href="https://open.spotify.com/track/2G9eWzsXMhtIFepkY71FVd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="We&#x27;re All Alone (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="We&#x27;re All Alone (2023 Remaster)">
-    <div class="t-name">We&#x27;re All Alone (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/1445ALWD4ey6B6OLfhRU3P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="99 - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
-    <div class="t-name">99</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ぴーおーぴー - #KTちゃん">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739961b120d683cf658980a53f" alt="ぴーおーぴー">
-    <div class="t-name">ぴーおーぴー</div>
-    <div class="t-artist">#KTちゃん</div>
-    <a class="t-open" href="https://open.spotify.com/track/3h04g2laqNkGPVHZtrPjZA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ギミギミ逃避行 feat. #KTちゃん - Prod. Peko - 花譜">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b88cf30c901b0155e0bc4d83" alt="ギミギミ逃避行 feat. #KTちゃん - Prod. Peko">
-    <div class="t-name">ギミギミ逃避行 feat. #KTちゃん - Prod. Peko</div>
-    <div class="t-artist">花譜</div>
-    <a class="t-open" href="https://open.spotify.com/track/6P5jrF5GYOfnQKysOHbY5I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="世情 - Shizuka Kudo">
-    <img src="https://i.scdn.co/image/ab67616d0000b27331fa3e268aee2307e8db8902" alt="世情">
-    <div class="t-name">世情</div>
-    <div class="t-artist">Shizuka Kudo</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Jc3ewvnEBPxFk7DQY8mCG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b27378f77f61555f5e4daf1b6c5b" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FVyk4ITNbjA0A4ssvkr4o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wife - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
-    <div class="t-name">Wife</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
