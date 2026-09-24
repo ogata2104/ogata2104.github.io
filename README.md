@@ -482,6 +482,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="An Apple A Day - Aqua">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="An Apple A Day">
+    <div class="t-name">An Apple A Day</div>
+    <div class="t-artist">Aqua</div>
+    <a class="t-open" href="https://open.spotify.com/track/4PAdkqEZoPGP5IAHcmXSxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="We Belong To The Sea - Aqua">
     <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="We Belong To The Sea">
     <div class="t-name">We Belong To The Sea</div>
@@ -589,12 +595,6 @@ From TOKYO JAPAN
     <div class="t-name">Paris, Tokyo</div>
     <div class="t-artist">Lupe Fiasco</div>
     <a class="t-open" href="https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lady Brown - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b27310c73c3476e60630df210053" alt="Lady Brown">
-    <div class="t-name">Lady Brown</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
