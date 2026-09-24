@@ -483,6 +483,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Lavender - Kofi Stone">
+    <img src="https://i.scdn.co/image/ab67616d0000b27308dda29412748507c05d6ab3" alt="Lavender">
+    <div class="t-name">Lavender</div>
+    <div class="t-artist">Kofi Stone</div>
+    <a class="t-open" href="https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ice Water - Loyle Carner">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ice Water">
+    <div class="t-name">Ice Water</div>
+    <div class="t-artist">Loyle Carner</div>
+    <a class="t-open" href="https://open.spotify.com/track/5wXZXabu8JyRGNHqgueUHm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Loungin&#x27; - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0" alt="Loungin&#x27;">
+    <div class="t-name">Loungin&#x27;</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Paris, Tokyo - Lupe Fiasco">
+    <img src="https://i.scdn.co/image/ab67616d0000b27392ca0c93a0fb7b281e5184d7" alt="Paris, Tokyo">
+    <div class="t-name">Paris, Tokyo</div>
+    <div class="t-artist">Lupe Fiasco</div>
+    <a class="t-open" href="https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lady Brown - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b27310c73c3476e60630df210053" alt="Lady Brown">
+    <div class="t-name">Lady Brown</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="That&#x27;s Life (feat. Mac Miller &amp; Sia) - 88-Keys">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730f7c28388802fd88b8738fc6" alt="That&#x27;s Life (feat. Mac Miller &amp; Sia)">
+    <div class="t-name">That&#x27;s Life (feat. Mac Miller &amp; Sia)</div>
+    <div class="t-artist">88-Keys</div>
+    <a class="t-open" href="https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Until We Rich - Ice Cube">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857" alt="Until We Rich">
+    <div class="t-name">Until We Rich</div>
+    <div class="t-artist">Ice Cube</div>
+    <a class="t-open" href="https://open.spotify.com/track/6l3b8BOBDRDM1ne9fpOygz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Homerton - Loyle Carner">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730d7bd8c43a71910b53126b09" alt="Homerton">
+    <div class="t-name">Homerton</div>
+    <div class="t-artist">Loyle Carner</div>
+    <a class="t-open" href="https://open.spotify.com/track/1E8ZZzvgrMwm8qUi5IjOHt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Flower Moon - Durand Jones &amp; The Indications">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387f2de2e1146cb764c32a69a" alt="Flower Moon">
+    <div class="t-name">Flower Moon</div>
+    <div class="t-artist">Durand Jones &amp; The Indications</div>
+    <a class="t-open" href="https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Look to the Sun - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739b3b4ff155667140833435b1" alt="Look to the Sun">
+    <div class="t-name">Look to the Sun</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/5w1ulRJl5p321f13AK7YC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Samurai - Lupe Fiasco">
+    <img src="https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4" alt="Samurai">
+    <div class="t-name">Samurai</div>
+    <div class="t-artist">Lupe Fiasco</div>
+    <a class="t-open" href="https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="City Lights - Nujabes">
     <img src="https://i.scdn.co/image/ab67616d0000b273dbfedcc2682690cf09bf9e91" alt="City Lights">
     <div class="t-name">City Lights</div>
@@ -536,72 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">How Deep Is Your Love</div>
     <div class="t-artist">Bee Gees</div>
     <a class="t-open" href="https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="KICK IT OUT -reprise- - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b36d59f00ce81003433878a9" alt="KICK IT OUT -reprise-">
-    <div class="t-name">KICK IT OUT -reprise-</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/6LYkX6twcCMklnaKaTZiBq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Call Me Maybe - Carly Rae Jepsen">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
-    <div class="t-name">Call Me Maybe</div>
-    <div class="t-artist">Carly Rae Jepsen</div>
-    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t You (Forget About Me) - Simple Minds">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730143f3a3fdce907232ec9f94" alt="Don&#x27;t You (Forget About Me)">
-    <div class="t-name">Don&#x27;t You (Forget About Me)</div>
-    <div class="t-artist">Simple Minds</div>
-    <a class="t-open" href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Leave Me Now - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
-    <div class="t-name">If You Leave Me Now</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
-    <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
-    <div class="t-artist">James Brown</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Y5yjzs9FFw5qIgfZBd43I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out of Time - The Weeknd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
-    <div class="t-name">Out of Time</div>
-    <div class="t-artist">The Weeknd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="They Don&#x27;t Know - Mach 5">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732d742157aaf8a717f85fa9ab" alt="They Don&#x27;t Know">
-    <div class="t-name">They Don&#x27;t Know</div>
-    <div class="t-artist">Mach 5</div>
-    <a class="t-open" href="https://open.spotify.com/track/1U7SIaC5CaQOGtw1Oi7QmL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="They Don&#x27;t Know - Kenny Howes and the Yeah!">
-    <img src="https://i.scdn.co/image/ab67616d0000b273afec99fac0d3dcd1acafa673" alt="They Don&#x27;t Know">
-    <div class="t-name">They Don&#x27;t Know</div>
-    <div class="t-artist">Kenny Howes and the Yeah!</div>
-    <a class="t-open" href="https://open.spotify.com/track/0a7Lb64NZd0rmkYT4ZQ2LH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="They Don&#x27;t Konw - Babe">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735ac266a1a7f40289c5e22ace" alt="They Don&#x27;t Konw">
-    <div class="t-name">They Don&#x27;t Konw</div>
-    <div class="t-artist">Babe</div>
-    <a class="t-open" href="https://open.spotify.com/track/5qTFvgW79nX5Kzq4aUe3Se" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="They Don&#x27;t Know - Tracey Ullman">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e2cf03633eb2606171594ba7" alt="They Don&#x27;t Know">
-    <div class="t-name">They Don&#x27;t Know</div>
-    <div class="t-artist">Tracey Ullman</div>
-    <a class="t-open" href="https://open.spotify.com/track/0tOkXHcYsR2Y07XiGl0Yme" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="They Don’t Know - Kirsty MacColl">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a956ba083e98ce4b223ce339" alt="They Don’t Know">
-    <div class="t-name">They Don’t Know</div>
-    <div class="t-artist">Kirsty MacColl</div>
-    <a class="t-open" href="https://open.spotify.com/track/4NClaW9yRnfB3o3dG1YVte" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
