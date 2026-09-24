@@ -401,24 +401,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -481,6 +483,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="City Lights - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b273dbfedcc2682690cf09bf9e91" alt="City Lights">
+    <div class="t-name">City Lights</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/5Xc9emwombStkxZiliHzxC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="She Knows Too Much - Thundercat">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" alt="She Knows Too Much">
+    <div class="t-name">She Knows Too Much</div>
+    <div class="t-artist">Thundercat</div>
+    <a class="t-open" href="https://open.spotify.com/track/1TK2iF5KlY8OEm5k5AeyBk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Know, Didn&#x27;t I - DJ Nu-Mark">
+    <img src="https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136" alt="I Know, Didn&#x27;t I">
+    <div class="t-name">I Know, Didn&#x27;t I</div>
+    <div class="t-artist">DJ Nu-Mark</div>
+    <a class="t-open" href="https://open.spotify.com/track/0Q4G1CEv3AmaE6jbagSvRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ottolenghi - Loyle Carner">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ottolenghi">
+    <div class="t-name">Ottolenghi</div>
+    <div class="t-artist">Loyle Carner</div>
+    <a class="t-open" href="https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Feel The Music - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Feel The Music">
+    <div class="t-name">Feel The Music</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
+    <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
+    <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
+    <div class="t-artist">Kenny Mason</div>
+    <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Man in the Mirror - Michael Jackson">
     <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="Man in the Mirror">
     <div class="t-name">Man in the Mirror</div>
@@ -564,30 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">They Don’t Know</div>
     <div class="t-artist">Kirsty MacColl</div>
     <a class="t-open" href="https://open.spotify.com/track/4NClaW9yRnfB3o3dG1YVte" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When They Come Around - Sun City">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bea71b1b5aabefee386285fd" alt="When They Come Around">
-    <div class="t-name">When They Come Around</div>
-    <div class="t-artist">Sun City</div>
-    <a class="t-open" href="https://open.spotify.com/track/4lsZXHVjkZ56kNsSFuNmlY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Oh I Love You,oh I Do - Science Noodles">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a0ded3bac708388144c841f1" alt="Oh I Love You,oh I Do">
-    <div class="t-name">Oh I Love You,oh I Do</div>
-    <div class="t-artist">Science Noodles</div>
-    <a class="t-open" href="https://open.spotify.com/track/3KYnbACXbOOnqLZ5OUuDx7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="A GIRL IN THE CITY - I Don&#x27;t Like Mondays.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4e22b3a45c275e83f03d231" alt="A GIRL IN THE CITY">
-    <div class="t-name">A GIRL IN THE CITY</div>
-    <div class="t-artist">I Don&#x27;t Like Mondays.</div>
-    <a class="t-open" href="https://open.spotify.com/track/4B8yHLnHTXZFbjNBoGqKf9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Night of the Assassination - Kentaro Haneda">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739cd37b0df856f2a2d02d9994" alt="The Night of the Assassination">
-    <div class="t-name">The Night of the Assassination</div>
-    <div class="t-artist">Kentaro Haneda</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vH3iQYz2HXIHo1c8a31nx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
