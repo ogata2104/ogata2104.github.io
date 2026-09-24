@@ -483,6 +483,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="SOS - Lupe Fiasco">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731fdaaa06ad7cdb91da3158c4" alt="SOS">
+    <div class="t-name">SOS</div>
+    <div class="t-artist">Lupe Fiasco</div>
+    <a class="t-open" href="https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="F.I.L.O. - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b27310c73c3476e60630df210053" alt="F.I.L.O.">
+    <div class="t-name">F.I.L.O.</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/05WYhK9jcISSe9cfleBV9b" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Eye Know - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" alt="Eye Know">
+    <div class="t-name">Eye Know</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Lavender - Kofi Stone">
     <img src="https://i.scdn.co/image/ab67616d0000b27308dda29412748507c05d6ab3" alt="Lavender">
     <div class="t-name">Lavender</div>
@@ -584,24 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
     <div class="t-artist">Kenny Mason</div>
     <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Man in the Mirror - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="Man in the Mirror">
-    <div class="t-name">Man in the Mirror</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/2u2udGmop1z67EPpr91km7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fig Tree - Rupert Cox">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0f8c8060b39a605ba01903e" alt="Fig Tree">
-    <div class="t-name">Fig Tree</div>
-    <div class="t-artist">Rupert Cox</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ZwHnMzeBeWFA1z02hLFpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="How Deep Is Your Love - Bee Gees">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c93a2d859ee3635aa415d61d" alt="How Deep Is Your Love">
-    <div class="t-name">How Deep Is Your Love</div>
-    <div class="t-artist">Bee Gees</div>
-    <a class="t-open" href="https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
