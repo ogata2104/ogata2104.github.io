@@ -401,25 +401,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -482,6 +481,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Man in the Mirror - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="Man in the Mirror">
+    <div class="t-name">Man in the Mirror</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/2u2udGmop1z67EPpr91km7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fig Tree - Rupert Cox">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b0f8c8060b39a605ba01903e" alt="Fig Tree">
+    <div class="t-name">Fig Tree</div>
+    <div class="t-artist">Rupert Cox</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ZwHnMzeBeWFA1z02hLFpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="How Deep Is Your Love - Bee Gees">
     <img src="https://i.scdn.co/image/ab67616d0000b273c93a2d859ee3635aa415d61d" alt="How Deep Is Your Love">
     <div class="t-name">How Deep Is Your Love</div>
@@ -554,12 +565,6 @@ From TOKYO JAPAN
     <div class="t-artist">Kirsty MacColl</div>
     <a class="t-open" href="https://open.spotify.com/track/4NClaW9yRnfB3o3dG1YVte" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Fig Tree - Rupert Cox">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0f8c8060b39a605ba01903e" alt="Fig Tree">
-    <div class="t-name">Fig Tree</div>
-    <div class="t-artist">Rupert Cox</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ZwHnMzeBeWFA1z02hLFpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
   <div class="spotify-card" title="When They Come Around - Sun City">
     <img src="https://i.scdn.co/image/ab67616d0000b273bea71b1b5aabefee386285fd" alt="When They Come Around">
     <div class="t-name">When They Come Around</div>
@@ -583,18 +588,6 @@ From TOKYO JAPAN
     <div class="t-name">The Night of the Assassination</div>
     <div class="t-artist">Kentaro Haneda</div>
     <a class="t-open" href="https://open.spotify.com/track/1vH3iQYz2HXIHo1c8a31nx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tahitian Moon - Michael Franks">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b3ccbc5204502cba3ab762aa" alt="Tahitian Moon">
-    <div class="t-name">Tahitian Moon</div>
-    <div class="t-artist">Michael Franks</div>
-    <a class="t-open" href="https://open.spotify.com/track/60wp9CgSdUS1ATbryVyEWf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DREAMIN&#x27; - Benny Sings">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="DREAMIN&#x27;">
-    <div class="t-name">DREAMIN&#x27;</div>
-    <div class="t-artist">Benny Sings</div>
-    <a class="t-open" href="https://open.spotify.com/track/4wnvjve3ZbdKASbAaDK1Kf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
