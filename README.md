@@ -481,6 +481,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Lifesaver - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Lifesaver">
+    <div class="t-name">Lifesaver</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
     <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
     <div class="t-name">Cartoon Heroes - Radio Edit</div>
@@ -582,12 +588,6 @@ From TOKYO JAPAN
     <div class="t-name">Ice Water</div>
     <div class="t-artist">Loyle Carner</div>
     <a class="t-open" href="https://open.spotify.com/track/5wXZXabu8JyRGNHqgueUHm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Loungin&#x27; - Guru">
-    <img src="https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0" alt="Loungin&#x27;">
-    <div class="t-name">Loungin&#x27;</div>
-    <div class="t-artist">Guru</div>
-    <a class="t-open" href="https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
