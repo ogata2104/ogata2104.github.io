@@ -401,24 +401,20 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 14; }
+.spotify-card:nth-child(2) { z-index: 13; }
+.spotify-card:nth-child(3) { z-index: 12; }
+.spotify-card:nth-child(4) { z-index: 11; }
+.spotify-card:nth-child(5) { z-index: 10; }
+.spotify-card:nth-child(6) { z-index: 9; }
+.spotify-card:nth-child(7) { z-index: 8; }
+.spotify-card:nth-child(8) { z-index: 7; }
+.spotify-card:nth-child(9) { z-index: 6; }
+.spotify-card:nth-child(10) { z-index: 5; }
+.spotify-card:nth-child(11) { z-index: 4; }
+.spotify-card:nth-child(12) { z-index: 3; }
+.spotify-card:nth-child(13) { z-index: 2; }
+.spotify-card:nth-child(14) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -481,17 +477,59 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
-  <div class="spotify-card" title="Lifesaver - Guru">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Lifesaver">
-    <div class="t-name">Lifesaver</div>
-    <div class="t-artist">Guru</div>
-    <a class="t-open" href="https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Show Me Love - Robin S">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed" alt="Show Me Love">
+    <div class="t-name">Show Me Love</div>
+    <div class="t-artist">Robin S</div>
+    <a class="t-open" href="https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Think About Things - Daði Freyr">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b" alt="Think About Things">
+    <div class="t-name">Think About Things</div>
+    <div class="t-artist">Daði Freyr</div>
+    <a class="t-open" href="https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Just The Way You Are - Milky">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
+    <div class="t-name">Just The Way You Are</div>
+    <div class="t-artist">Milky</div>
+    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Sign - Ace of Base">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
+    <div class="t-name">The Sign</div>
+    <div class="t-artist">Ace of Base</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="As Good As New - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="As Good As New">
+    <div class="t-name">As Good As New</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
     <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
     <div class="t-name">Cartoon Heroes - Radio Edit</div>
     <div class="t-artist">Aqua</div>
     <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Häschenparty (feat. Michael Wendler) - Single Version - Schnuffel">
+    <img src="https://i.scdn.co/image/ab67616d0000b273695c10ee628c7c3c6881983e" alt="Häschenparty (feat. Michael Wendler) - Single Version">
+    <div class="t-name">Häschenparty (feat. Michael Wendler) - Single Version</div>
+    <div class="t-artist">Schnuffel</div>
+    <a class="t-open" href="https://open.spotify.com/track/25cMswrkBRSOjmj4g1rUTF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="都沒關係 (feat. 蘇珮卿) - Skyline 天際線融合爵士樂團">
+    <img src="https://i.scdn.co/image/ab6742d3000053b71a5cd21db361f6d6b418b2c5" alt="都沒關係 (feat. 蘇珮卿)">
+    <div class="t-name">都沒關係 (feat. 蘇珮卿)</div>
+    <div class="t-artist">Skyline 天際線融合爵士樂團</div>
+    <a class="t-open" href="https://open.spotify.com/track/3wskeFDOuWZqrGSK47yssG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lifesaver - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f2571dd034e195686ea35958" alt="Lifesaver">
+    <div class="t-name">Lifesaver</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="An Apple A Day - Aqua">
     <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="An Apple A Day">
@@ -522,72 +560,6 @@ From TOKYO JAPAN
     <div class="t-name">Barbie Girl</div>
     <div class="t-artist">Aqua</div>
     <a class="t-open" href="https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Show Me Love - Robin S">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed" alt="Show Me Love">
-    <div class="t-name">Show Me Love</div>
-    <div class="t-artist">Robin S</div>
-    <a class="t-open" href="https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Sign - Ace of Base">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
-    <div class="t-name">The Sign</div>
-    <div class="t-artist">Ace of Base</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Think About Things - Daði Freyr">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b" alt="Think About Things">
-    <div class="t-name">Think About Things</div>
-    <div class="t-artist">Daði Freyr</div>
-    <a class="t-open" href="https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just The Way You Are - Milky">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
-    <div class="t-name">Just The Way You Are</div>
-    <div class="t-artist">Milky</div>
-    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="As Good As New - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="As Good As New">
-    <div class="t-name">As Good As New</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Häschenparty (feat. Michael Wendler) - Single Version - Schnuffel">
-    <img src="https://i.scdn.co/image/ab67616d0000b273695c10ee628c7c3c6881983e" alt="Häschenparty (feat. Michael Wendler) - Single Version">
-    <div class="t-name">Häschenparty (feat. Michael Wendler) - Single Version</div>
-    <div class="t-artist">Schnuffel</div>
-    <a class="t-open" href="https://open.spotify.com/track/25cMswrkBRSOjmj4g1rUTF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOS - Lupe Fiasco">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731fdaaa06ad7cdb91da3158c4" alt="SOS">
-    <div class="t-name">SOS</div>
-    <div class="t-artist">Lupe Fiasco</div>
-    <a class="t-open" href="https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="F.I.L.O. - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b27310c73c3476e60630df210053" alt="F.I.L.O.">
-    <div class="t-name">F.I.L.O.</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/05WYhK9jcISSe9cfleBV9b" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Eye Know - De La Soul">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" alt="Eye Know">
-    <div class="t-name">Eye Know</div>
-    <div class="t-artist">De La Soul</div>
-    <a class="t-open" href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lavender - Kofi Stone">
-    <img src="https://i.scdn.co/image/ab67616d0000b27308dda29412748507c05d6ab3" alt="Lavender">
-    <div class="t-name">Lavender</div>
-    <div class="t-artist">Kofi Stone</div>
-    <a class="t-open" href="https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ice Water - Loyle Carner">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b8fc4ee31953f1133106d64a" alt="Ice Water">
-    <div class="t-name">Ice Water</div>
-    <div class="t-artist">Loyle Carner</div>
-    <a class="t-open" href="https://open.spotify.com/track/5wXZXabu8JyRGNHqgueUHm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
