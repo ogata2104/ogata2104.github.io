@@ -477,6 +477,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Barbie Girl - Aqua">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5768db89dd8ac30fd0e414f" alt="Barbie Girl">
+    <div class="t-name">Barbie Girl</div>
+    <div class="t-artist">Aqua</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Show Me Love - Robin S">
     <img src="https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed" alt="Show Me Love">
     <div class="t-name">Show Me Love</div>
@@ -554,12 +560,6 @@ From TOKYO JAPAN
     <div class="t-name">Around The World</div>
     <div class="t-artist">Aqua</div>
     <a class="t-open" href="https://open.spotify.com/track/18lq8FwQ94jlSk95PTM7Mr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Barbie Girl - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5768db89dd8ac30fd0e414f" alt="Barbie Girl">
-    <div class="t-name">Barbie Girl</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
