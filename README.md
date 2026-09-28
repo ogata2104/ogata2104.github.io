@@ -481,6 +481,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
+    <div class="t-name">Biggest Part of Me</div>
+    <div class="t-artist">Ambrosia</div>
+    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sailing - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
+    <div class="t-name">Sailing</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WHAT YOU WON&#x27;T DO FOR LOVE - Bobby Caldwell">
+    <img src="https://i.scdn.co/image/ab67616d0000b27326e348a7c0e1b2aff3a357a6" alt="WHAT YOU WON&#x27;T DO FOR LOVE">
+    <div class="t-name">WHAT YOU WON&#x27;T DO FOR LOVE</div>
+    <div class="t-artist">Bobby Caldwell</div>
+    <a class="t-open" href="https://open.spotify.com/track/4puLgtddDkkpLSgOQpIIlz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
+    <div class="t-name">JoJo (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Rosanna - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
     <div class="t-name">Rosanna</div>
@@ -564,30 +588,6 @@ From TOKYO JAPAN
     <div class="t-name">The Sign</div>
     <div class="t-artist">Ace of Base</div>
     <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="As Good As New - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="As Good As New">
-    <div class="t-name">As Good As New</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
-    <div class="t-name">Cartoon Heroes - Radio Edit</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Häschenparty (feat. Michael Wendler) - Single Version - Schnuffel">
-    <img src="https://i.scdn.co/image/ab67616d0000b273695c10ee628c7c3c6881983e" alt="Häschenparty (feat. Michael Wendler) - Single Version">
-    <div class="t-name">Häschenparty (feat. Michael Wendler) - Single Version</div>
-    <div class="t-artist">Schnuffel</div>
-    <a class="t-open" href="https://open.spotify.com/track/25cMswrkBRSOjmj4g1rUTF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="都沒關係 (feat. 蘇珮卿) - Skyline 天際線融合爵士樂團">
-    <img src="https://i.scdn.co/image/ab6742d3000053b71a5cd21db361f6d6b418b2c5" alt="都沒關係 (feat. 蘇珮卿)">
-    <div class="t-name">都沒關係 (feat. 蘇珮卿)</div>
-    <div class="t-artist">Skyline 天際線融合爵士樂團</div>
-    <a class="t-open" href="https://open.spotify.com/track/3wskeFDOuWZqrGSK47yssG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
