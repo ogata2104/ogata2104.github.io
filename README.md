@@ -401,22 +401,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 16; }
-.spotify-card:nth-child(2) { z-index: 15; }
-.spotify-card:nth-child(3) { z-index: 14; }
-.spotify-card:nth-child(4) { z-index: 13; }
-.spotify-card:nth-child(5) { z-index: 12; }
-.spotify-card:nth-child(6) { z-index: 11; }
-.spotify-card:nth-child(7) { z-index: 10; }
-.spotify-card:nth-child(8) { z-index: 9; }
-.spotify-card:nth-child(9) { z-index: 8; }
-.spotify-card:nth-child(10) { z-index: 7; }
-.spotify-card:nth-child(11) { z-index: 6; }
-.spotify-card:nth-child(12) { z-index: 5; }
-.spotify-card:nth-child(13) { z-index: 4; }
-.spotify-card:nth-child(14) { z-index: 3; }
-.spotify-card:nth-child(15) { z-index: 2; }
-.spotify-card:nth-child(16) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -479,6 +482,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Wife - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
+    <div class="t-name">Wife</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Double Trouble - パソコン音楽クラブ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e54fa8a13dddd4a017867fe2" alt="Double Trouble">
+    <div class="t-name">Double Trouble</div>
+    <div class="t-artist">パソコン音楽クラブ</div>
+    <a class="t-open" href="https://open.spotify.com/track/6IVVT3QKuxjJwVxfRFz49m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Heart to Heart - Kenny Loggins">
+    <img src="https://i.scdn.co/image/ab67616d0000b273feb84247f5e8728c8034e457" alt="Heart to Heart">
+    <div class="t-name">Heart to Heart</div>
+    <div class="t-artist">Kenny Loggins</div>
+    <a class="t-open" href="https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="UFO-mie - original mix - パソコン音楽クラブ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e54fa8a13dddd4a017867fe2" alt="UFO-mie - original mix">
+    <div class="t-name">UFO-mie - original mix</div>
+    <div class="t-artist">パソコン音楽クラブ</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go Go! - intro - パソコン音楽クラブ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e54fa8a13dddd4a017867fe2" alt="Go Go! - intro">
+    <div class="t-name">Go Go! - intro</div>
+    <div class="t-artist">パソコン音楽クラブ</div>
+    <a class="t-open" href="https://open.spotify.com/track/54MwrBROi0SCjMn3y2aASh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PUMP! feat.chelmico - パソコン音楽クラブ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a195cc917921a333600991e0" alt="PUMP! feat.chelmico">
+    <div class="t-name">PUMP! feat.chelmico</div>
+    <div class="t-artist">パソコン音楽クラブ</div>
+    <a class="t-open" href="https://open.spotify.com/track/0eckW6Ko6LzYNQmGzfRBOB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="99 - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
     <div class="t-name">99</div>
@@ -556,24 +595,6 @@ From TOKYO JAPAN
     <div class="t-name">An Apple A Day</div>
     <div class="t-artist">Aqua</div>
     <a class="t-open" href="https://open.spotify.com/track/4PAdkqEZoPGP5IAHcmXSxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="We Belong To The Sea - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="We Belong To The Sea">
-    <div class="t-name">We Belong To The Sea</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/74JJSGFQoRgCNSPpMkhptd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Freaky Friday - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Freaky Friday">
-    <div class="t-name">Freaky Friday</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/2BtJyLYuRc4cDAFVtqbPB8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Around The World - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Around The World">
-    <div class="t-name">Around The World</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/18lq8FwQ94jlSk95PTM7Mr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
