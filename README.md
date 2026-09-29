@@ -483,6 +483,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="If You Leave Me Now - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
+    <div class="t-name">If You Leave Me Now</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Laughter In The Rain - Neil Sedaka">
+    <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" alt="Laughter In The Rain">
+    <div class="t-name">Laughter In The Rain</div>
+    <div class="t-artist">Neil Sedaka</div>
+    <a class="t-open" href="https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
+    <div class="t-name">What a Fool Believes</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
+    <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
+    <div class="t-name">Livin&#x27; It Up</div>
+    <div class="t-artist">Bill LaBounty</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="楽園ベイベー - RIP SLYME">
+    <img src="https://i.scdn.co/image/ab67616d0000b273194c79ec164b20aa373429c6" alt="楽園ベイベー">
+    <div class="t-name">楽園ベイベー</div>
+    <div class="t-artist">RIP SLYME</div>
+    <a class="t-open" href="https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waiting for Your Love - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Waiting for Your Love">
+    <div class="t-name">Waiting for Your Love</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Baby Come Back - Player">
     <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
     <div class="t-name">Baby Come Back</div>
@@ -566,42 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">きらり</div>
     <div class="t-artist">Fujii Kaze</div>
     <a class="t-open" href="https://open.spotify.com/track/3L7ISJTvKx56uhsF28aJ4p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WINDY SUMMER - Anri">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="WINDY SUMMER">
-    <div class="t-name">WINDY SUMMER</div>
-    <div class="t-artist">Anri</div>
-    <a class="t-open" href="https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Landslide - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Landslide">
-    <div class="t-name">Landslide</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Get Me Wrong - 2007 Remaster - Pretenders">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd3c4f53974e9f2640a3413a" alt="Don&#x27;t Get Me Wrong - 2007 Remaster">
-    <div class="t-name">Don&#x27;t Get Me Wrong - 2007 Remaster</div>
-    <div class="t-artist">Pretenders</div>
-    <a class="t-open" href="https://open.spotify.com/track/7dyzZ1pOznrXBXwzunv2si" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All I Want - The Offspring">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b" alt="All I Want">
-    <div class="t-name">All I Want</div>
-    <div class="t-artist">The Offspring</div>
-    <a class="t-open" href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fight For Your Right - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="Fight For Your Right">
-    <div class="t-name">Fight For Your Right</div>
-    <div class="t-artist">Beastie Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
