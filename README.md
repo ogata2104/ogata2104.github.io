@@ -483,6 +483,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Is It You - Lee Ritenour">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" alt="Is It You">
+    <div class="t-name">Is It You</div>
+    <div class="t-artist">Lee Ritenour</div>
+    <a class="t-open" href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All Right - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
+    <div class="t-name">All Right</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Stop Loving You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
+    <div class="t-name">Stop Loving You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Living Inside Myself - Gino Vannelli">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
+    <div class="t-name">Living Inside Myself</div>
+    <div class="t-artist">Gino Vannelli</div>
+    <a class="t-open" href="https://open.spotify.com/track/6IAh4MjV3GRkvIHrCbUFWY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378f77f61555f5e4daf1b6c5b" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FVyk4ITNbjA0A4ssvkr4o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All About The Heaven - The Brothers Johnson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
+    <div class="t-name">All About The Heaven</div>
+    <div class="t-artist">The Brothers Johnson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
+    <div class="t-name">Cartoon Heroes - Radio Edit</div>
+    <div class="t-artist">Aqua</div>
+    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Think About Things - Daði Freyr">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b" alt="Think About Things">
+    <div class="t-name">Think About Things</div>
+    <div class="t-artist">Daði Freyr</div>
+    <a class="t-open" href="https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Out of Time - The Weeknd">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
+    <div class="t-name">Out of Time</div>
+    <div class="t-artist">The Weeknd</div>
+    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Take on Me - a-ha">
     <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Take on Me">
     <div class="t-name">Take on Me</div>
@@ -548,60 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">Breathless</div>
     <div class="t-artist">The Corrs</div>
     <a class="t-open" href="https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dancing in the Moonlight - Toploader">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e16a6534cd5a968a5b725d03" alt="Dancing in the Moonlight">
-    <div class="t-name">Dancing in the Moonlight</div>
-    <div class="t-artist">Toploader</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Sign - Ace of Base">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
-    <div class="t-name">The Sign</div>
-    <div class="t-artist">Ace of Base</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just The Way You Are - Milky">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
-    <div class="t-name">Just The Way You Are</div>
-    <div class="t-artist">Milky</div>
-    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Man in the Mirror - 2012 Remaster - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" alt="Man in the Mirror - 2012 Remaster">
-    <div class="t-name">Man in the Mirror - 2012 Remaster</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
-    <div class="t-name">Biggest Part of Me</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WHAT YOU WON&#x27;T DO FOR LOVE - Bobby Caldwell">
-    <img src="https://i.scdn.co/image/ab67616d0000b27326e348a7c0e1b2aff3a357a6" alt="WHAT YOU WON&#x27;T DO FOR LOVE">
-    <div class="t-name">WHAT YOU WON&#x27;T DO FOR LOVE</div>
-    <div class="t-artist">Bobby Caldwell</div>
-    <a class="t-open" href="https://open.spotify.com/track/4puLgtddDkkpLSgOQpIIlz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
-    <div class="t-name">JoJo (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rosanna - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
-    <div class="t-name">Rosanna</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
