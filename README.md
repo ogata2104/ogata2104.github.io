@@ -483,6 +483,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Young Hearts Run Free - Candi Staton">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739e18a7b375dd2d9c8c8a3d67" alt="Young Hearts Run Free">
+    <div class="t-name">Young Hearts Run Free</div>
+    <div class="t-artist">Candi Staton</div>
+    <a class="t-open" href="https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Georgy Porgy - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
+    <div class="t-name">Georgy Porgy</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="If You Leave Me Now - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
     <div class="t-name">If You Leave Me Now</div>
@@ -590,18 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">Take on Me</div>
     <div class="t-artist">a-ha</div>
     <a class="t-open" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Midnight Pretenders - Tomoko Aran">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737d2d24d8a6bf7578a140db55" alt="Midnight Pretenders">
-    <div class="t-name">Midnight Pretenders</div>
-    <div class="t-artist">Tomoko Aran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="きらり - Fujii Kaze">
-    <img src="https://i.scdn.co/image/ab67616d0000b273af62b027ee85ae2e2f7c9702" alt="きらり">
-    <div class="t-name">きらり</div>
-    <div class="t-artist">Fujii Kaze</div>
-    <a class="t-open" href="https://open.spotify.com/track/3L7ISJTvKx56uhsF28aJ4p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
