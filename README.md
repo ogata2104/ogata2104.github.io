@@ -484,6 +484,54 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Steps - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="The Steps">
+    <div class="t-name">The Steps</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
+    <div class="t-name">If I Could Change Your Mind</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Summer Girl - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Summer Girl - Bonus Track">
+    <div class="t-name">Summer Girl - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/4O3ob7NxMcZLgJ8ucIahPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
+    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Relationships - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
+    <div class="t-name">Relationships</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gasoline (feat. Taylor Swift) - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Gasoline (feat. Taylor Swift)">
+    <div class="t-name">Gasoline (feat. Taylor Swift)</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
+    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The Wire - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
     <div class="t-name">The Wire</div>
@@ -555,54 +603,6 @@ From TOKYO JAPAN
     <div class="t-name">Baby Come Back</div>
     <div class="t-artist">Player</div>
     <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="We&#x27;re in This Love Together - Al Jarreau">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735a6357792a55e722b4bcb712" alt="We&#x27;re in This Love Together">
-    <div class="t-name">We&#x27;re in This Love Together</div>
-    <div class="t-artist">Al Jarreau</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Is It You - Lee Ritenour">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" alt="Is It You">
-    <div class="t-name">Is It You</div>
-    <div class="t-artist">Lee Ritenour</div>
-    <a class="t-open" href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All Right - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
-    <div class="t-name">All Right</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Living Inside Myself - Gino Vannelli">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
-    <div class="t-name">Living Inside Myself</div>
-    <div class="t-artist">Gino Vannelli</div>
-    <a class="t-open" href="https://open.spotify.com/track/6IAh4MjV3GRkvIHrCbUFWY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b27378f77f61555f5e4daf1b6c5b" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FVyk4ITNbjA0A4ssvkr4o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All About The Heaven - The Brothers Johnson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b3dd4b1619bac722e29c7624" alt="All About The Heaven">
-    <div class="t-name">All About The Heaven</div>
-    <div class="t-artist">The Brothers Johnson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5nXFuJEvxEi2k4MfKUBSZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
-    <div class="t-name">Cartoon Heroes - Radio Edit</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
