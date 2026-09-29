@@ -483,6 +483,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Baby Come Back - Player">
+    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
+    <div class="t-name">Baby Come Back</div>
+    <div class="t-artist">Player</div>
+    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="We&#x27;re in This Love Together - Al Jarreau">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735a6357792a55e722b4bcb712" alt="We&#x27;re in This Love Together">
+    <div class="t-name">We&#x27;re in This Love Together</div>
+    <div class="t-artist">Al Jarreau</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Is It You - Lee Ritenour">
     <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" alt="Is It You">
     <div class="t-name">Is It You</div>
@@ -590,18 +602,6 @@ From TOKYO JAPAN
     <div class="t-name">Fight For Your Right</div>
     <div class="t-artist">Beastie Boys</div>
     <a class="t-open" href="https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slipped Away - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
-    <div class="t-name">Slipped Away</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Breathless - The Corrs">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735320a1b471ae75632ef787e5" alt="Breathless">
-    <div class="t-name">Breathless</div>
-    <div class="t-artist">The Corrs</div>
-    <a class="t-open" href="https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
