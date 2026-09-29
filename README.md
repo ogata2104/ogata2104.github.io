@@ -484,6 +484,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Wire - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
+    <div class="t-name">The Wire</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Pray to God (feat. HAIM)">
+    <div class="t-name">Pray to God (feat. HAIM)</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="no body, no crime (feat. HAIM) - Taylor Swift">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737035f417c37a4a9c2670aa91" alt="no body, no crime (feat. HAIM)">
+    <div class="t-name">no body, no crime (feat. HAIM)</div>
+    <div class="t-artist">Taylor Swift</div>
+    <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Young Hearts Run Free - Candi Staton">
     <img src="https://i.scdn.co/image/ab67616d0000b2739e18a7b375dd2d9c8c8a3d67" alt="Young Hearts Run Free">
     <div class="t-name">Young Hearts Run Free</div>
@@ -585,24 +603,6 @@ From TOKYO JAPAN
     <div class="t-name">Cartoon Heroes - Radio Edit</div>
     <div class="t-artist">Aqua</div>
     <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Think About Things - Daði Freyr">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b" alt="Think About Things">
-    <div class="t-name">Think About Things</div>
-    <div class="t-artist">Daði Freyr</div>
-    <a class="t-open" href="https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out of Time - The Weeknd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
-    <div class="t-name">Out of Time</div>
-    <div class="t-artist">The Weeknd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Take on Me - a-ha">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Take on Me">
-    <div class="t-name">Take on Me</div>
-    <div class="t-artist">a-ha</div>
-    <a class="t-open" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
