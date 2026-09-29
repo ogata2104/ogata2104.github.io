@@ -483,6 +483,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Casablanca - Dane Donohue">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736dfdcc8b2e755a7cc954a53f" alt="Casablanca">
+    <div class="t-name">Casablanca</div>
+    <div class="t-artist">Dane Donohue</div>
+    <a class="t-open" href="https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="シャイニン・オン　君が哀しい - Look">
+    <img src="https://i.scdn.co/image/ab67616d0000b27352b81482b45667296123809b" alt="シャイニン・オン　君が哀しい">
+    <div class="t-name">シャイニン・オン　君が哀しい</div>
+    <div class="t-artist">Look</div>
+    <a class="t-open" href="https://open.spotify.com/track/2MVlkBp6qUoxIWXRptsUcA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
     <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
     <div class="t-name">Livin&#x27; It Up</div>
@@ -584,18 +596,6 @@ From TOKYO JAPAN
     <div class="t-name">What a Fool Believes</div>
     <div class="t-artist">The Doobie Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="楽園ベイベー - RIP SLYME">
-    <img src="https://i.scdn.co/image/ab67616d0000b273194c79ec164b20aa373429c6" alt="楽園ベイベー">
-    <div class="t-name">楽園ベイベー</div>
-    <div class="t-artist">RIP SLYME</div>
-    <a class="t-open" href="https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting for Your Love - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Waiting for Your Love">
-    <div class="t-name">Waiting for Your Love</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
