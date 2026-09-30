@@ -481,6 +481,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Rub You The Right Way - Extended Hype 1 - Johnny Gill">
+    <img src="https://i.scdn.co/image/ab67616d0000b273740c6c9566460da3cf614f50" alt="Rub You The Right Way - Extended Hype 1">
+    <div class="t-name">Rub You The Right Way - Extended Hype 1</div>
+    <div class="t-artist">Johnny Gill</div>
+    <a class="t-open" href="https://open.spotify.com/track/0SvAJbrDvE9Rk4DcS0nPfz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Feels Good - Tony! Toni! Toné!">
     <img src="https://i.scdn.co/image/ab67616d0000b2737d0fa81881e9313e77463eaa" alt="Feels Good">
     <div class="t-name">Feels Good</div>
@@ -576,12 +582,6 @@ From TOKYO JAPAN
     <div class="t-name">The Wire</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Pray to God (feat. HAIM)">
-    <div class="t-name">Pray to God (feat. HAIM)</div>
-    <div class="t-artist">Calvin Harris</div>
-    <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
