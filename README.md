@@ -402,25 +402,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -483,6 +482,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Live and Learn - Joe Public">
+    <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
+    <div class="t-name">Live and Learn</div>
+    <div class="t-artist">Joe Public</div>
+    <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What I&#x27;ve Done - Remix - FAOL">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736135e7ebd27e661003301cfc" alt="What I&#x27;ve Done - Remix">
+    <div class="t-name">What I&#x27;ve Done - Remix</div>
+    <div class="t-artist">FAOL</div>
+    <a class="t-open" href="https://open.spotify.com/track/4HOHWBcyN3W83mBR6JEq9p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Casablanca - Dane Donohue">
     <img src="https://i.scdn.co/image/ab67616d0000b2736dfdcc8b2e755a7cc954a53f" alt="Casablanca">
     <div class="t-name">Casablanca</div>
@@ -578,24 +589,6 @@ From TOKYO JAPAN
     <div class="t-name">Georgy Porgy</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Leave Me Now - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
-    <div class="t-name">If You Leave Me Now</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Laughter In The Rain - Neil Sedaka">
-    <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" alt="Laughter In The Rain">
-    <div class="t-name">Laughter In The Rain</div>
-    <div class="t-artist">Neil Sedaka</div>
-    <a class="t-open" href="https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
-    <div class="t-name">What a Fool Believes</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
