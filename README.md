@@ -402,24 +402,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -482,6 +481,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Feels Good - Tony! Toni! Toné!">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737d0fa81881e9313e77463eaa" alt="Feels Good">
+    <div class="t-name">Feels Good</div>
+    <div class="t-artist">Tony! Toni! Toné!</div>
+    <a class="t-open" href="https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kicking It - After 7">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f96aad749cb6d09d4fe8394" alt="Kicking It">
+    <div class="t-name">Kicking It</div>
+    <div class="t-artist">After 7</div>
+    <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Live and Learn - Joe Public">
     <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
     <div class="t-name">Live and Learn</div>
@@ -571,24 +582,6 @@ From TOKYO JAPAN
     <div class="t-name">Pray to God (feat. HAIM)</div>
     <div class="t-artist">Calvin Harris</div>
     <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="no body, no crime (feat. HAIM) - Taylor Swift">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737035f417c37a4a9c2670aa91" alt="no body, no crime (feat. HAIM)">
-    <div class="t-name">no body, no crime (feat. HAIM)</div>
-    <div class="t-artist">Taylor Swift</div>
-    <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Young Hearts Run Free - Candi Staton">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739e18a7b375dd2d9c8c8a3d67" alt="Young Hearts Run Free">
-    <div class="t-name">Young Hearts Run Free</div>
-    <div class="t-artist">Candi Staton</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Georgy Porgy - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
-    <div class="t-name">Georgy Porgy</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
