@@ -481,6 +481,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Worth It. - RAYE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
+    <div class="t-name">Worth It.</div>
+    <div class="t-artist">RAYE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Dreamin&#x27; - Radio Mix - Christopher Williams">
     <img src="https://i.scdn.co/image/ab67616d0000b2738b2a17aea2445bdff19ea620" alt="Dreamin&#x27; - Radio Mix">
     <div class="t-name">Dreamin&#x27; - Radio Mix</div>
@@ -576,12 +582,6 @@ From TOKYO JAPAN
     <div class="t-name">Gasoline (feat. Taylor Swift)</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
-    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
