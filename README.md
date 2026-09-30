@@ -481,6 +481,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dreamin&#x27; - Radio Mix - Christopher Williams">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738b2a17aea2445bdff19ea620" alt="Dreamin&#x27; - Radio Mix">
+    <div class="t-name">Dreamin&#x27; - Radio Mix</div>
+    <div class="t-artist">Christopher Williams</div>
+    <a class="t-open" href="https://open.spotify.com/track/6nhrMTQT2ehVD7mFESk82D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Rub You The Right Way - Extended Hype 1 - Johnny Gill">
     <img src="https://i.scdn.co/image/ab67616d0000b273740c6c9566460da3cf614f50" alt="Rub You The Right Way - Extended Hype 1">
     <div class="t-name">Rub You The Right Way - Extended Hype 1</div>
@@ -576,12 +582,6 @@ From TOKYO JAPAN
     <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Wire - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
-    <div class="t-name">The Wire</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
