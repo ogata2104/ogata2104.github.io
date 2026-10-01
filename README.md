@@ -354,17 +354,20 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 11; }
-.spotify-card:nth-child(2) { z-index: 10; }
-.spotify-card:nth-child(3) { z-index: 9; }
-.spotify-card:nth-child(4) { z-index: 8; }
-.spotify-card:nth-child(5) { z-index: 7; }
-.spotify-card:nth-child(6) { z-index: 6; }
-.spotify-card:nth-child(7) { z-index: 5; }
-.spotify-card:nth-child(8) { z-index: 4; }
-.spotify-card:nth-child(9) { z-index: 3; }
-.spotify-card:nth-child(10) { z-index: 2; }
-.spotify-card:nth-child(11) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 14; }
+.spotify-card:nth-child(2) { z-index: 13; }
+.spotify-card:nth-child(3) { z-index: 12; }
+.spotify-card:nth-child(4) { z-index: 11; }
+.spotify-card:nth-child(5) { z-index: 10; }
+.spotify-card:nth-child(6) { z-index: 9; }
+.spotify-card:nth-child(7) { z-index: 8; }
+.spotify-card:nth-child(8) { z-index: 7; }
+.spotify-card:nth-child(9) { z-index: 6; }
+.spotify-card:nth-child(10) { z-index: 5; }
+.spotify-card:nth-child(11) { z-index: 4; }
+.spotify-card:nth-child(12) { z-index: 3; }
+.spotify-card:nth-child(13) { z-index: 2; }
+.spotify-card:nth-child(14) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -427,6 +430,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="willibelongtoyou - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
+    <div class="t-name">willibelongtoyou</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/0oPioouf67Qw3TvxtdAgzq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Forward - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Forward">
+    <div class="t-name">Forward</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/625My834BrCmUTgEZrxbEN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kiss - Prince">
+    <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Kiss">
+    <div class="t-name">Kiss</div>
+    <div class="t-artist">Prince</div>
+    <a class="t-open" href="https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Coming Out - Diana Ross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" alt="I&#x27;m Coming Out">
+    <div class="t-name">I&#x27;m Coming Out</div>
+    <div class="t-artist">Diana Ross</div>
+    <a class="t-open" href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The Wonder of It All - Adrian Gurvitz">
     <img src="https://i.scdn.co/image/ab67616d0000b27326c2f44ef47e6cf2ce262852" alt="The Wonder of It All">
     <div class="t-name">The Wonder of It All</div>
@@ -480,18 +513,6 @@ From TOKYO JAPAN
     <div class="t-name">Reminiscing - Remastered 2010</div>
     <div class="t-artist">Little River Band</div>
     <a class="t-open" href="https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Turn Your Love Around - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733a3c381f6910a4fe51c2640b" alt="Turn Your Love Around">
-    <div class="t-name">Turn Your Love Around</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lovely Day - Bill Withers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993" alt="Lovely Day">
-    <div class="t-name">Lovely Day</div>
-    <div class="t-artist">Bill Withers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
