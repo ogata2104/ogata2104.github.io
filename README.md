@@ -401,23 +401,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 17; }
-.spotify-card:nth-child(2) { z-index: 16; }
-.spotify-card:nth-child(3) { z-index: 15; }
-.spotify-card:nth-child(4) { z-index: 14; }
-.spotify-card:nth-child(5) { z-index: 13; }
-.spotify-card:nth-child(6) { z-index: 12; }
-.spotify-card:nth-child(7) { z-index: 11; }
-.spotify-card:nth-child(8) { z-index: 10; }
-.spotify-card:nth-child(9) { z-index: 9; }
-.spotify-card:nth-child(10) { z-index: 8; }
-.spotify-card:nth-child(11) { z-index: 7; }
-.spotify-card:nth-child(12) { z-index: 6; }
-.spotify-card:nth-child(13) { z-index: 5; }
-.spotify-card:nth-child(14) { z-index: 4; }
-.spotify-card:nth-child(15) { z-index: 3; }
-.spotify-card:nth-child(16) { z-index: 2; }
-.spotify-card:nth-child(17) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -480,6 +481,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Any Time, Any Place - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e63518d50aff63f57d2b8ead" alt="Any Time, Any Place">
+    <div class="t-name">Any Time, Any Place</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Got &#x27;Til It&#x27;s Gone - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Got &#x27;Til It&#x27;s Gone">
+    <div class="t-name">Got &#x27;Til It&#x27;s Gone</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Together Again - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Together Again">
+    <div class="t-name">Together Again</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All For You - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3" alt="All For You">
+    <div class="t-name">All For You</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="That&#x27;s The Way Love Goes - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e63518d50aff63f57d2b8ead" alt="That&#x27;s The Way Love Goes">
+    <div class="t-name">That&#x27;s The Way Love Goes</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Scream - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="Scream">
+    <div class="t-name">Scream</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Someone To Call My Lover - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3" alt="Someone To Call My Lover">
+    <div class="t-name">Someone To Call My Lover</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Baby Come Back - Player">
     <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
     <div class="t-name">Baby Come Back</div>
@@ -545,42 +588,6 @@ From TOKYO JAPAN
     <div class="t-name">Live and Learn</div>
     <div class="t-artist">Joe Public</div>
     <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What I&#x27;ve Done - Remix - FAOL">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736135e7ebd27e661003301cfc" alt="What I&#x27;ve Done - Remix">
-    <div class="t-name">What I&#x27;ve Done - Remix</div>
-    <div class="t-artist">FAOL</div>
-    <a class="t-open" href="https://open.spotify.com/track/4HOHWBcyN3W83mBR6JEq9p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Casablanca - Dane Donohue">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736dfdcc8b2e755a7cc954a53f" alt="Casablanca">
-    <div class="t-name">Casablanca</div>
-    <div class="t-artist">Dane Donohue</div>
-    <a class="t-open" href="https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="シャイニン・オン　君が哀しい - Look">
-    <img src="https://i.scdn.co/image/ab67616d0000b27352b81482b45667296123809b" alt="シャイニン・オン　君が哀しい">
-    <div class="t-name">シャイニン・オン　君が哀しい</div>
-    <div class="t-artist">Look</div>
-    <a class="t-open" href="https://open.spotify.com/track/2MVlkBp6qUoxIWXRptsUcA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
-    <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
-    <div class="t-name">Livin&#x27; It Up</div>
-    <div class="t-artist">Bill LaBounty</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Steps - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="The Steps">
-    <div class="t-name">The Steps</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/7pD8e7UxjqflEpMKfbEqKg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
-    <div class="t-name">If I Could Change Your Mind</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
