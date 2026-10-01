@@ -354,20 +354,15 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 14; }
-.spotify-card:nth-child(2) { z-index: 13; }
-.spotify-card:nth-child(3) { z-index: 12; }
-.spotify-card:nth-child(4) { z-index: 11; }
-.spotify-card:nth-child(5) { z-index: 10; }
-.spotify-card:nth-child(6) { z-index: 9; }
-.spotify-card:nth-child(7) { z-index: 8; }
-.spotify-card:nth-child(8) { z-index: 7; }
-.spotify-card:nth-child(9) { z-index: 6; }
-.spotify-card:nth-child(10) { z-index: 5; }
-.spotify-card:nth-child(11) { z-index: 4; }
-.spotify-card:nth-child(12) { z-index: 3; }
-.spotify-card:nth-child(13) { z-index: 2; }
-.spotify-card:nth-child(14) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 9; }
+.spotify-card:nth-child(2) { z-index: 8; }
+.spotify-card:nth-child(3) { z-index: 7; }
+.spotify-card:nth-child(4) { z-index: 6; }
+.spotify-card:nth-child(5) { z-index: 5; }
+.spotify-card:nth-child(6) { z-index: 4; }
+.spotify-card:nth-child(7) { z-index: 3; }
+.spotify-card:nth-child(8) { z-index: 2; }
+.spotify-card:nth-child(9) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -430,6 +425,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Foolish Heart - Steve Perry">
+    <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" alt="Foolish Heart">
+    <div class="t-name">Foolish Heart</div>
+    <div class="t-artist">Steve Perry</div>
+    <a class="t-open" href="https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Girl Is Mine (with Paul McCartney) - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="The Girl Is Mine (with Paul McCartney)">
+    <div class="t-name">The Girl Is Mine (with Paul McCartney)</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Rosanna - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
+    <div class="t-name">Rosanna</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Reminiscing - Remastered 2010 - Little River Band">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ad53be7d2ec379399660c1ec" alt="Reminiscing - Remastered 2010">
+    <div class="t-name">Reminiscing - Remastered 2010</div>
+    <div class="t-artist">Little River Band</div>
+    <a class="t-open" href="https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Turn Your Love Around - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733a3c381f6910a4fe51c2640b" alt="Turn Your Love Around">
+    <div class="t-name">Turn Your Love Around</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lovely Day - Bill Withers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993" alt="Lovely Day">
+    <div class="t-name">Lovely Day</div>
+    <div class="t-artist">Bill Withers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="I Keep Forgettin&#x27; (Every Time You&#x27;re Near) - Michael McDonald">
     <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Keep Forgettin&#x27; (Every Time You&#x27;re Near)">
     <div class="t-name">I Keep Forgettin&#x27; (Every Time You&#x27;re Near)</div>
@@ -447,72 +478,6 @@ From TOKYO JAPAN
     <div class="t-name">Steal Away</div>
     <div class="t-artist">Robbie Dupree</div>
     <a class="t-open" href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="How Long - Ace">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739fef97cc8a71410656b60358" alt="How Long">
-    <div class="t-name">How Long</div>
-    <div class="t-artist">Ace</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You Make My Dreams (Come True) - Daryl Hall &amp; John Oates">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a" alt="You Make My Dreams (Come True)">
-    <div class="t-name">You Make My Dreams (Come True)</div>
-    <div class="t-artist">Daryl Hall &amp; John Oates</div>
-    <a class="t-open" href="https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
-    <div class="t-name">Biggest Part of Me</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Got &#x27;Til It&#x27;s Gone - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Got &#x27;Til It&#x27;s Gone">
-    <div class="t-name">Got &#x27;Til It&#x27;s Gone</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stumblin&#x27; In - 2017 Remaster - Chris Norman">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732030f2acc06a7f49ca5d49bc" alt="Stumblin&#x27; In - 2017 Remaster">
-    <div class="t-name">Stumblin&#x27; In - 2017 Remaster</div>
-    <div class="t-artist">Chris Norman</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Human Nature - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Human Nature">
-    <div class="t-name">Human Nature</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="夏風ペダル - Ryo Gakucho">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ac17858e9fe0167c7a5d3707" alt="夏風ペダル">
-    <div class="t-name">夏風ペダル</div>
-    <div class="t-artist">Ryo Gakucho</div>
-    <a class="t-open" href="https://open.spotify.com/track/5YrYIo7utkX0Ulhf1FjKkc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Call On Me - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735f0f3b769d9bafee041cb8c1" alt="Call On Me">
-    <div class="t-name">Call On Me</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1G32fy7VMCDLl92iGXvBEm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Any Time, Any Place - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e63518d50aff63f57d2b8ead" alt="Any Time, Any Place">
-    <div class="t-name">Any Time, Any Place</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Together Again - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Together Again">
-    <div class="t-name">Together Again</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
