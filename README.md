@@ -354,15 +354,17 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 9; }
-.spotify-card:nth-child(2) { z-index: 8; }
-.spotify-card:nth-child(3) { z-index: 7; }
-.spotify-card:nth-child(4) { z-index: 6; }
-.spotify-card:nth-child(5) { z-index: 5; }
-.spotify-card:nth-child(6) { z-index: 4; }
-.spotify-card:nth-child(7) { z-index: 3; }
-.spotify-card:nth-child(8) { z-index: 2; }
-.spotify-card:nth-child(9) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 11; }
+.spotify-card:nth-child(2) { z-index: 10; }
+.spotify-card:nth-child(3) { z-index: 9; }
+.spotify-card:nth-child(4) { z-index: 8; }
+.spotify-card:nth-child(5) { z-index: 7; }
+.spotify-card:nth-child(6) { z-index: 6; }
+.spotify-card:nth-child(7) { z-index: 5; }
+.spotify-card:nth-child(8) { z-index: 4; }
+.spotify-card:nth-child(9) { z-index: 3; }
+.spotify-card:nth-child(10) { z-index: 2; }
+.spotify-card:nth-child(11) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -425,6 +427,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Wonder of It All - Adrian Gurvitz">
+    <img src="https://i.scdn.co/image/ab67616d0000b27326c2f44ef47e6cf2ce262852" alt="The Wonder of It All">
+    <div class="t-name">The Wonder of It All</div>
+    <div class="t-artist">Adrian Gurvitz</div>
+    <a class="t-open" href="https://open.spotify.com/track/43HJKyZt5datCFZSxmEcyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lady Love Me (One More Time) - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Lady Love Me (One More Time)">
+    <div class="t-name">Lady Love Me (One More Time)</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All Right - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
+    <div class="t-name">All Right</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Never Gonna Let You Go - Sérgio Mendes">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a24b3ee04c00abe01423e654" alt="Never Gonna Let You Go">
+    <div class="t-name">Never Gonna Let You Go</div>
+    <div class="t-artist">Sérgio Mendes</div>
+    <a class="t-open" href="https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lowdown (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="Lowdown (2023 Remaster)">
+    <div class="t-name">Lowdown (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Foolish Heart - Steve Perry">
     <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" alt="Foolish Heart">
     <div class="t-name">Foolish Heart</div>
@@ -460,24 +492,6 @@ From TOKYO JAPAN
     <div class="t-name">Lovely Day</div>
     <div class="t-artist">Bill Withers</div>
     <a class="t-open" href="https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Keep Forgettin&#x27; (Every Time You&#x27;re Near) - Michael McDonald">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Keep Forgettin&#x27; (Every Time You&#x27;re Near)">
-    <div class="t-name">I Keep Forgettin&#x27; (Every Time You&#x27;re Near)</div>
-    <div class="t-artist">Michael McDonald</div>
-    <a class="t-open" href="https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cool Cat - Queen">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fb96f10f9423264184066cdd" alt="Cool Cat">
-    <div class="t-name">Cool Cat</div>
-    <div class="t-artist">Queen</div>
-    <a class="t-open" href="https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Steal Away - Robbie Dupree">
-    <img src="https://i.scdn.co/image/ab67616d0000b273195275633700b15019a762ce" alt="Steal Away">
-    <div class="t-name">Steal Away</div>
-    <div class="t-artist">Robbie Dupree</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MshXF4YQRoFw82plcsUge" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
