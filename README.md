@@ -481,6 +481,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
+    <div class="t-name">What a Fool Believes</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Worth It. - RAYE">
     <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
     <div class="t-name">Worth It.</div>
@@ -576,12 +582,6 @@ From TOKYO JAPAN
     <div class="t-name">Relationships</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gasoline (feat. Taylor Swift) - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Gasoline (feat. Taylor Swift)">
-    <div class="t-name">Gasoline (feat. Taylor Swift)</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
