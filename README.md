@@ -480,6 +480,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Baby Come Back - Player">
+    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
+    <div class="t-name">Baby Come Back</div>
+    <div class="t-artist">Player</div>
+    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ride Like the Wind - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Ride Like the Wind">
+    <div class="t-name">Ride Like the Wind</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Give Me the Night - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739877c2b01fca3367809f9e27" alt="Give Me the Night">
+    <div class="t-name">Give Me the Night</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Just the Two of Us (feat. Bill Withers) - Edit - Grover Washington, Jr.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35" alt="Just the Two of Us (feat. Bill Withers) - Edit">
+    <div class="t-name">Just the Two of Us (feat. Bill Withers) - Edit</div>
+    <div class="t-artist">Grover Washington, Jr.</div>
+    <a class="t-open" href="https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
     <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
     <div class="t-name">What a Fool Believes</div>
@@ -557,30 +581,6 @@ From TOKYO JAPAN
     <div class="t-name">If I Could Change Your Mind</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Girl - Bonus Track - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Summer Girl - Bonus Track">
-    <div class="t-name">Summer Girl - Bonus Track</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/4O3ob7NxMcZLgJ8ucIahPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
-    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
-    <div class="t-artist">Calvin Harris</div>
-    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Relationships - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
-    <div class="t-name">Relationships</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
