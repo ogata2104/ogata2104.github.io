@@ -354,20 +354,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 14; }
-.spotify-card:nth-child(2) { z-index: 13; }
-.spotify-card:nth-child(3) { z-index: 12; }
-.spotify-card:nth-child(4) { z-index: 11; }
-.spotify-card:nth-child(5) { z-index: 10; }
-.spotify-card:nth-child(6) { z-index: 9; }
-.spotify-card:nth-child(7) { z-index: 8; }
-.spotify-card:nth-child(8) { z-index: 7; }
-.spotify-card:nth-child(9) { z-index: 6; }
-.spotify-card:nth-child(10) { z-index: 5; }
-.spotify-card:nth-child(11) { z-index: 4; }
-.spotify-card:nth-child(12) { z-index: 3; }
-.spotify-card:nth-child(13) { z-index: 2; }
-.spotify-card:nth-child(14) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -430,6 +433,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Tip Toe - HYBS">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
+    <div class="t-name">Tip Toe</div>
+    <div class="t-artist">HYBS</div>
+    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DREAMIN&#x27; - Benny Sings">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="DREAMIN&#x27;">
+    <div class="t-name">DREAMIN&#x27;</div>
+    <div class="t-artist">Benny Sings</div>
+    <a class="t-open" href="https://open.spotify.com/track/4wnvjve3ZbdKASbAaDK1Kf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Before spring ends（在春天消失之前） - Wang OK">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735f8e5c0a5cc2fa99eb585756" alt="Before spring ends（在春天消失之前）">
+    <div class="t-name">Before spring ends（在春天消失之前）</div>
+    <div class="t-artist">Wang OK</div>
+    <a class="t-open" href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="willibelongtoyou - David Paich">
     <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
     <div class="t-name">willibelongtoyou</div>
