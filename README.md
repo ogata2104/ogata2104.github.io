@@ -401,24 +401,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -481,6 +482,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="夏風ペダル - Ryo Gakucho">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ac17858e9fe0167c7a5d3707" alt="夏風ペダル">
+    <div class="t-name">夏風ペダル</div>
+    <div class="t-artist">Ryo Gakucho</div>
+    <a class="t-open" href="https://open.spotify.com/track/5YrYIo7utkX0Ulhf1FjKkc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Call On Me - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735f0f3b769d9bafee041cb8c1" alt="Call On Me">
+    <div class="t-name">Call On Me</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1G32fy7VMCDLl92iGXvBEm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Any Time, Any Place - Janet Jackson">
     <img src="https://i.scdn.co/image/ab67616d0000b273e63518d50aff63f57d2b8ead" alt="Any Time, Any Place">
     <div class="t-name">Any Time, Any Place</div>
@@ -582,12 +595,6 @@ From TOKYO JAPAN
     <div class="t-name">Kicking It</div>
     <div class="t-artist">After 7</div>
     <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Live and Learn - Joe Public">
-    <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
-    <div class="t-name">Live and Learn</div>
-    <div class="t-artist">Joe Public</div>
-    <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
