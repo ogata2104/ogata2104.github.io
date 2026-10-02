@@ -433,6 +433,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Who&#x27;s Right, Who&#x27;s Wrong - Pages">
+    <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" alt="Who&#x27;s Right, Who&#x27;s Wrong">
+    <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
+    <div class="t-artist">Pages</div>
+    <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lowdown (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="Lowdown (2023 Remaster)">
+    <div class="t-name">Lowdown (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
+    <div class="t-name">If I Could Change Your Mind</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Summer Girl - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Summer Girl - Bonus Track">
+    <div class="t-name">Summer Girl - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/4O3ob7NxMcZLgJ8ucIahPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
+    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="willibelongtoyou - David Paich">
     <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
     <div class="t-name">willibelongtoyou</div>
@@ -498,42 +534,6 @@ From TOKYO JAPAN
     <div class="t-name">I&#x27;m Coming Out</div>
     <div class="t-artist">Diana Ross</div>
     <a class="t-open" href="https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Wonder of It All - Adrian Gurvitz">
-    <img src="https://i.scdn.co/image/ab67616d0000b27326c2f44ef47e6cf2ce262852" alt="The Wonder of It All">
-    <div class="t-name">The Wonder of It All</div>
-    <div class="t-artist">Adrian Gurvitz</div>
-    <a class="t-open" href="https://open.spotify.com/track/43HJKyZt5datCFZSxmEcyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lady Love Me (One More Time) - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Lady Love Me (One More Time)">
-    <div class="t-name">Lady Love Me (One More Time)</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All Right - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273033ac08ce4e87610a3c4458d" alt="All Right">
-    <div class="t-name">All Right</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Never Gonna Let You Go - Sérgio Mendes">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a24b3ee04c00abe01423e654" alt="Never Gonna Let You Go">
-    <div class="t-name">Never Gonna Let You Go</div>
-    <div class="t-artist">Sérgio Mendes</div>
-    <a class="t-open" href="https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lowdown (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="Lowdown (2023 Remaster)">
-    <div class="t-name">Lowdown (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
