@@ -436,6 +436,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="March for Peace - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="March for Peace">
+    <div class="t-name">March for Peace</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/3KbKgzb5ST5E8j6uJkMNEc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TONE - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="TONE">
+    <div class="t-name">TONE</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/1OZkoWkcTLgKg9mGgva66Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="walk on Believer♪ - Aki Toyosaki">
     <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="walk on Believer♪">
     <div class="t-name">walk on Believer♪</div>
@@ -543,18 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Summer Dreams</div>
     <div class="t-artist">ASOUND</div>
     <a class="t-open" href="https://open.spotify.com/track/1RlOymBs1osN3ZYy5aoZLa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Dreams - ASOUND">
-    <img src="https://i.scdn.co/image/ab6742d3000053b7a759f87a4219ca610beb672f" alt="Summer Dreams">
-    <div class="t-name">Summer Dreams</div>
-    <div class="t-artist">ASOUND</div>
-    <a class="t-open" href="https://open.spotify.com/track/3UklXu9QuePULvTmjHYSha" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
-    <div class="t-name">Biggest Part of Me</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
