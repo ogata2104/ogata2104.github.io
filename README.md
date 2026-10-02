@@ -433,6 +433,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="willibelongtoyou - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
+    <div class="t-name">willibelongtoyou</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/0oPioouf67Qw3TvxtdAgzq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Forward - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Forward">
+    <div class="t-name">Forward</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/625My834BrCmUTgEZrxbEN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lucy - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Lucy">
+    <div class="t-name">Lucy</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/1dytTHdoSPAuBjvo30R6pL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All The Tears That Shine - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="All The Tears That Shine">
+    <div class="t-name">All The Tears That Shine</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Jrj6hAiWsOaMjwVrTWkUE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Queen Charade - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Queen Charade">
+    <div class="t-name">Queen Charade</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Hm2qbTh1XYgOhMFVdZIkj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="First Time - David Paich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="First Time">
+    <div class="t-name">First Time</div>
+    <div class="t-artist">David Paich</div>
+    <a class="t-open" href="https://open.spotify.com/track/08jfDwuIAn0DIurFISxmsh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Tip Toe - HYBS">
     <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
     <div class="t-name">Tip Toe</div>
@@ -450,18 +486,6 @@ From TOKYO JAPAN
     <div class="t-name">Before spring ends（在春天消失之前）</div>
     <div class="t-artist">Wang OK</div>
     <a class="t-open" href="https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="willibelongtoyou - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
-    <div class="t-name">willibelongtoyou</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/0oPioouf67Qw3TvxtdAgzq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Forward - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Forward">
-    <div class="t-name">Forward</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/625My834BrCmUTgEZrxbEN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Kiss - Prince">
     <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Kiss">
@@ -510,30 +534,6 @@ From TOKYO JAPAN
     <div class="t-name">Lowdown (2023 Remaster)</div>
     <div class="t-artist">Boz Scaggs</div>
     <a class="t-open" href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Foolish Heart - Steve Perry">
-    <img src="https://i.scdn.co/image/ab67616d0000b273769cb1806d9339ad6fd4e343" alt="Foolish Heart">
-    <div class="t-name">Foolish Heart</div>
-    <div class="t-artist">Steve Perry</div>
-    <a class="t-open" href="https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Girl Is Mine (with Paul McCartney) - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="The Girl Is Mine (with Paul McCartney)">
-    <div class="t-name">The Girl Is Mine (with Paul McCartney)</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rosanna - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
-    <div class="t-name">Rosanna</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Reminiscing - Remastered 2010 - Little River Band">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ad53be7d2ec379399660c1ec" alt="Reminiscing - Remastered 2010">
-    <div class="t-name">Reminiscing - Remastered 2010</div>
-    <div class="t-artist">Little River Band</div>
-    <a class="t-open" href="https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
