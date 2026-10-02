@@ -435,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Twilight World - Superb, Superb, Mix - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Twilight World - Superb, Superb, Mix">
+    <div class="t-name">Twilight World - Superb, Superb, Mix</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/52LRCeDADRBJmxqoT562yK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Forever Blue - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306efa7cce2eb1911c1f3e3db" alt="Forever Blue">
+    <div class="t-name">Forever Blue</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/3oCPTV2y4dHOl8dcMxRr6Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waiting Game - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306efa7cce2eb1911c1f3e3db" alt="Waiting Game">
+    <div class="t-name">Waiting Game</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/2YWiD7mVNd2tPqDND0FczP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Surrender - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Surrender">
+    <div class="t-name">Surrender</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/5DWXIxyp3NphgznDrDonx3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You On My Mind - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306efa7cce2eb1911c1f3e3db" alt="You On My Mind">
+    <div class="t-name">You On My Mind</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/4uYeKlfkLQMubZ9FhcbDfP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Am I The Same Girl? - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b27389262f0ade50b02952a78d21" alt="Am I The Same Girl?">
+    <div class="t-name">Am I The Same Girl?</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/3m8xQzsSrUzOgExeTmcXAU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Breakout - Swing Out Sister">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Breakout">
+    <div class="t-name">Breakout</div>
+    <div class="t-artist">Swing Out Sister</div>
+    <a class="t-open" href="https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Howl - Mei Semones">
     <img src="https://i.scdn.co/image/ab67616d0000b273eb8128da615a0869166ac135" alt="Howl">
     <div class="t-name">Howl</div>
@@ -506,48 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">If I Could Change Your Mind</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Girl - Bonus Track - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Summer Girl - Bonus Track">
-    <div class="t-name">Summer Girl - Bonus Track</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/4O3ob7NxMcZLgJ8ucIahPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
-    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
-    <div class="t-artist">Calvin Harris</div>
-    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="willibelongtoyou - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="willibelongtoyou">
-    <div class="t-name">willibelongtoyou</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/0oPioouf67Qw3TvxtdAgzq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Forward - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Forward">
-    <div class="t-name">Forward</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/625My834BrCmUTgEZrxbEN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lucy - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="Lucy">
-    <div class="t-name">Lucy</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/1dytTHdoSPAuBjvo30R6pL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All The Tears That Shine - David Paich">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a95d3691346995173ba03fa" alt="All The Tears That Shine">
-    <div class="t-name">All The Tears That Shine</div>
-    <div class="t-artist">David Paich</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Jrj6hAiWsOaMjwVrTWkUE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
