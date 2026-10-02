@@ -435,6 +435,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="MORNING:GLORY - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="MORNING:GLORY">
+    <div class="t-name">MORNING:GLORY</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/2VGqBv3jUsCXCh0OvFhU3z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="それでも願ってしまうんだ - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="それでも願ってしまうんだ">
+    <div class="t-name">それでも願ってしまうんだ</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/5NPZeEskyo6y10eQ14iRUq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Twilight World - Superb, Superb, Mix - Swing Out Sister">
     <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Twilight World - Superb, Superb, Mix">
     <div class="t-name">Twilight World - Superb, Superb, Mix</div>
@@ -536,18 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
     <div class="t-artist">Pages</div>
     <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lowdown (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5395c7406ecb6a3e93255d4" alt="Lowdown (2023 Remaster)">
-    <div class="t-name">Lowdown (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
-    <div class="t-name">If I Could Change Your Mind</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
