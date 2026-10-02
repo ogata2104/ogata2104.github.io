@@ -354,25 +354,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -435,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="walk on Believer♪ - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="walk on Believer♪">
+    <div class="t-name">walk on Believer♪</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/3T3h3Lg0UynVJpsaRD0Hpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ライフコレオグラファー - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ライフコレオグラファー">
+    <div class="t-name">ライフコレオグラファー</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/7iEPB7qH6jNcMbN4yJnwVr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="マイカレー - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="マイカレー">
+    <div class="t-name">マイカレー</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/6K3ALmoInanI73uX3JGRSj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ランドネ - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ランドネ">
+    <div class="t-name">ランドネ</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/7ERDH2xZzxdzIB7DTxR2oU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cheers! - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="Cheers!">
+    <div class="t-name">Cheers!</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/5l5vktmuhIpPsO6PYagsl1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ハニーアンドループス - Aki Toyosaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ハニーアンドループス">
+    <div class="t-name">ハニーアンドループス</div>
+    <div class="t-artist">Aki Toyosaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="MORNING:GLORY - Aki Toyosaki">
     <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="MORNING:GLORY">
     <div class="t-name">MORNING:GLORY</div>
@@ -518,36 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Biggest Part of Me</div>
     <div class="t-artist">Ambrosia</div>
     <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Just Wanna Hang Around You - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e71efa8c6cfc1f8b39b0bdab" alt="I Just Wanna Hang Around You">
-    <div class="t-name">I Just Wanna Hang Around You</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;d Love You to Want Me - Lobo">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bcfed2b555f5563dbd8b267b" alt="I&#x27;d Love You to Want Me">
-    <div class="t-name">I&#x27;d Love You to Want Me</div>
-    <div class="t-artist">Lobo</div>
-    <a class="t-open" href="https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re the Only Woman - You &amp; I - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="You&#x27;re the Only Woman - You &amp; I">
-    <div class="t-name">You&#x27;re the Only Woman - You &amp; I</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
-    <div class="t-name">I&#x27;ll Be Over You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Who&#x27;s Right, Who&#x27;s Wrong - Pages">
-    <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" alt="Who&#x27;s Right, Who&#x27;s Wrong">
-    <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
-    <div class="t-artist">Pages</div>
-    <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
