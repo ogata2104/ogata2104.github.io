@@ -354,26 +354,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -549,12 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">If You Break Up With Me (feat. 10 Year Plan)</div>
     <div class="t-artist">Kyle Gordon</div>
     <a class="t-open" href="https://open.spotify.com/track/1Cf2Z1W4uISIIiy8aXOXrU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Dreams - ASOUND">
-    <img src="https://i.scdn.co/image/ab67616d0000b27313882087a0de2e79fcfe5ce4" alt="Summer Dreams">
-    <div class="t-name">Summer Dreams</div>
-    <div class="t-artist">ASOUND</div>
-    <a class="t-open" href="https://open.spotify.com/track/1RlOymBs1osN3ZYy5aoZLa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
