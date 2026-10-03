@@ -354,24 +354,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -434,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Rosanna - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
+    <div class="t-name">Rosanna</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Stop Loving You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
+    <div class="t-name">Stop Loving You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
+    <div class="t-name">I&#x27;ll Be Over You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hold the Line - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
+    <div class="t-name">Hold the Line</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Africa - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
+    <div class="t-name">Africa</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="守ってみたい - Takashi Fujii">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735b2474c14a0776b836179335" alt="守ってみたい">
+    <div class="t-name">守ってみたい</div>
+    <div class="t-artist">Takashi Fujii</div>
+    <a class="t-open" href="https://open.spotify.com/track/2975S5T0vkyUUajqCj8XkS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Live and Learn - Joe Public">
+    <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
+    <div class="t-name">Live and Learn</div>
+    <div class="t-artist">Joe Public</div>
+    <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Feels Good - Tony! Toni! Toné!">
     <img src="https://i.scdn.co/image/ab67616d0000b2737d0fa81881e9313e77463eaa" alt="Feels Good">
     <div class="t-name">Feels Good</div>
@@ -505,42 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">O.P.P</div>
     <div class="t-artist">Naughty By Nature</div>
     <a class="t-open" href="https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Teenage Love - Slick Rick">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a5234ad1d0dbc9dfc94c5ee5" alt="Teenage Love">
-    <div class="t-name">Teenage Love</div>
-    <div class="t-artist">Slick Rick</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nAukQPJhSwQMCAvRrQnb4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mama Said Knock You Out - LL COOL J">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ea56f049af3cd747595ca724" alt="Mama Said Knock You Out">
-    <div class="t-name">Mama Said Knock You Out</div>
-    <div class="t-artist">LL COOL J</div>
-    <a class="t-open" href="https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fight The Power - Public Enemy">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732e3d1de8b2f61a477ae1ed6c" alt="Fight The Power">
-    <div class="t-name">Fight The Power</div>
-    <div class="t-artist">Public Enemy</div>
-    <a class="t-open" href="https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It&#x27;s Tricky - Run–D.M.C.">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738eba18f886ca46ae6f948c54" alt="It&#x27;s Tricky">
-    <div class="t-name">It&#x27;s Tricky</div>
-    <div class="t-artist">Run–D.M.C.</div>
-    <a class="t-open" href="https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="March for Peace - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="March for Peace">
-    <div class="t-name">March for Peace</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/3KbKgzb5ST5E8j6uJkMNEc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TONE - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="TONE">
-    <div class="t-name">TONE</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/1OZkoWkcTLgKg9mGgva66Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
