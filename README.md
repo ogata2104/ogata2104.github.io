@@ -354,23 +354,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 17; }
-.spotify-card:nth-child(2) { z-index: 16; }
-.spotify-card:nth-child(3) { z-index: 15; }
-.spotify-card:nth-child(4) { z-index: 14; }
-.spotify-card:nth-child(5) { z-index: 13; }
-.spotify-card:nth-child(6) { z-index: 12; }
-.spotify-card:nth-child(7) { z-index: 11; }
-.spotify-card:nth-child(8) { z-index: 10; }
-.spotify-card:nth-child(9) { z-index: 9; }
-.spotify-card:nth-child(10) { z-index: 8; }
-.spotify-card:nth-child(11) { z-index: 7; }
-.spotify-card:nth-child(12) { z-index: 6; }
-.spotify-card:nth-child(13) { z-index: 5; }
-.spotify-card:nth-child(14) { z-index: 4; }
-.spotify-card:nth-child(15) { z-index: 3; }
-.spotify-card:nth-child(16) { z-index: 2; }
-.spotify-card:nth-child(17) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -433,6 +434,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Feels Good - Tony! Toni! Toné!">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737d0fa81881e9313e77463eaa" alt="Feels Good">
+    <div class="t-name">Feels Good</div>
+    <div class="t-artist">Tony! Toni! Toné!</div>
+    <a class="t-open" href="https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dreamin&#x27; - Radio Mix - Christopher Williams">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738b2a17aea2445bdff19ea620" alt="Dreamin&#x27; - Radio Mix">
+    <div class="t-name">Dreamin&#x27; - Radio Mix</div>
+    <div class="t-artist">Christopher Williams</div>
+    <a class="t-open" href="https://open.spotify.com/track/6nhrMTQT2ehVD7mFESk82D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kicking It - After 7">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f96aad749cb6d09d4fe8394" alt="Kicking It">
+    <div class="t-name">Kicking It</div>
+    <div class="t-artist">After 7</div>
+    <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Crooklyn - Crooklyn/Soundtrack Version - Crooklyn Dodgers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27358eae281fedfd1f31472d6f2" alt="Crooklyn - Crooklyn/Soundtrack Version">
+    <div class="t-name">Crooklyn - Crooklyn/Soundtrack Version</div>
+    <div class="t-artist">Crooklyn Dodgers</div>
+    <a class="t-open" href="https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Breakadawn - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273425d6882cbb8165986ca7c40" alt="Breakadawn">
+    <div class="t-name">Breakadawn</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It Ain&#x27;t Hard to Tell - Nas">
+    <img src="https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd" alt="It Ain&#x27;t Hard to Tell">
+    <div class="t-name">It Ain&#x27;t Hard to Tell</div>
+    <div class="t-artist">Nas</div>
+    <a class="t-open" href="https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit - Wu-Tang Clan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c" alt="Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit">
+    <div class="t-name">Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit</div>
+    <div class="t-artist">Wu-Tang Clan</div>
+    <a class="t-open" href="https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Who Am I (What’s My Name)? - Snoop Dogg">
+    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Who Am I (What’s My Name)?">
+    <div class="t-name">Who Am I (What’s My Name)?</div>
+    <div class="t-artist">Snoop Dogg</div>
+    <a class="t-open" href="https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Straight Outta Compton - N.W.A.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Straight Outta Compton">
+    <div class="t-name">Straight Outta Compton</div>
+    <div class="t-artist">N.W.A.</div>
+    <a class="t-open" href="https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Juicy - 2005 Remaster - The Notorious B.I.G.">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" alt="Juicy - 2005 Remaster">
+    <div class="t-name">Juicy - 2005 Remaster</div>
+    <div class="t-artist">The Notorious B.I.G.</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Jump Around - 30 Years Remaster - House Of Pain">
     <img src="https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb" alt="Jump Around - 30 Years Remaster">
     <div class="t-name">Jump Around - 30 Years Remaster</div>
@@ -480,60 +541,6 @@ From TOKYO JAPAN
     <div class="t-name">TONE</div>
     <div class="t-artist">Aki Toyosaki</div>
     <a class="t-open" href="https://open.spotify.com/track/1OZkoWkcTLgKg9mGgva66Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="walk on Believer♪ - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="walk on Believer♪">
-    <div class="t-name">walk on Believer♪</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/3T3h3Lg0UynVJpsaRD0Hpj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ライフコレオグラファー - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ライフコレオグラファー">
-    <div class="t-name">ライフコレオグラファー</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/7iEPB7qH6jNcMbN4yJnwVr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="マイカレー - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="マイカレー">
-    <div class="t-name">マイカレー</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/6K3ALmoInanI73uX3JGRSj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ランドネ - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ランドネ">
-    <div class="t-name">ランドネ</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/7ERDH2xZzxdzIB7DTxR2oU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cheers! - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="Cheers!">
-    <div class="t-name">Cheers!</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/5l5vktmuhIpPsO6PYagsl1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ハニーアンドループス - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="ハニーアンドループス">
-    <div class="t-name">ハニーアンドループス</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MORNING:GLORY - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="MORNING:GLORY">
-    <div class="t-name">MORNING:GLORY</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/2VGqBv3jUsCXCh0OvFhU3z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="それでも願ってしまうんだ - Aki Toyosaki">
-    <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="それでも願ってしまうんだ">
-    <div class="t-name">それでも願ってしまうんだ</div>
-    <div class="t-artist">Aki Toyosaki</div>
-    <a class="t-open" href="https://open.spotify.com/track/5NPZeEskyo6y10eQ14iRUq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Twilight World - Superb, Superb, Mix - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Twilight World - Superb, Superb, Mix">
-    <div class="t-name">Twilight World - Superb, Superb, Mix</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/52LRCeDADRBJmxqoT562yK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
