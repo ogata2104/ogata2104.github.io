@@ -435,6 +435,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Georgy Porgy - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
+    <div class="t-name">Georgy Porgy</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Prophecy Theme - From &quot;Dune&quot; Soundtrack - TOTO">
+    <img src="https://i.scdn.co/image/ab6742d3000053b7ec3019e4f54d4e823b895efb" alt="Prophecy Theme - From &quot;Dune&quot; Soundtrack">
+    <div class="t-name">Prophecy Theme - From &quot;Dune&quot; Soundtrack</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/3UlOFxfc4nj5DiDc4efZqd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Rosanna - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
     <div class="t-name">Rosanna</div>
@@ -536,18 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">Juicy - 2005 Remaster</div>
     <div class="t-artist">The Notorious B.I.G.</div>
     <a class="t-open" href="https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Jump Around - 30 Years Remaster - House Of Pain">
-    <img src="https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb" alt="Jump Around - 30 Years Remaster">
-    <div class="t-name">Jump Around - 30 Years Remaster</div>
-    <div class="t-artist">House Of Pain</div>
-    <a class="t-open" href="https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="O.P.P - Naughty By Nature">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e" alt="O.P.P">
-    <div class="t-name">O.P.P</div>
-    <div class="t-artist">Naughty By Nature</div>
-    <a class="t-open" href="https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
