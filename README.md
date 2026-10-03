@@ -354,25 +354,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -435,6 +433,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="O.P.P - Naughty By Nature">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e" alt="O.P.P">
+    <div class="t-name">O.P.P</div>
+    <div class="t-artist">Naughty By Nature</div>
+    <a class="t-open" href="https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Teenage Love - Slick Rick">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a5234ad1d0dbc9dfc94c5ee5" alt="Teenage Love">
+    <div class="t-name">Teenage Love</div>
+    <div class="t-artist">Slick Rick</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nAukQPJhSwQMCAvRrQnb4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Mama Said Knock You Out - LL COOL J">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ea56f049af3cd747595ca724" alt="Mama Said Knock You Out">
+    <div class="t-name">Mama Said Knock You Out</div>
+    <div class="t-artist">LL COOL J</div>
+    <a class="t-open" href="https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fight The Power - Public Enemy">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732e3d1de8b2f61a477ae1ed6c" alt="Fight The Power">
+    <div class="t-name">Fight The Power</div>
+    <div class="t-artist">Public Enemy</div>
+    <a class="t-open" href="https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It&#x27;s Tricky - Run–D.M.C.">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738eba18f886ca46ae6f948c54" alt="It&#x27;s Tricky">
+    <div class="t-name">It&#x27;s Tricky</div>
+    <div class="t-artist">Run–D.M.C.</div>
+    <a class="t-open" href="https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="March for Peace - Aki Toyosaki">
     <img src="https://i.scdn.co/image/ab67616d0000b27341b5e7edf72f1ab40be7c29f" alt="March for Peace">
     <div class="t-name">March for Peace</div>
@@ -506,48 +534,6 @@ From TOKYO JAPAN
     <div class="t-name">Forever Blue</div>
     <div class="t-artist">Swing Out Sister</div>
     <a class="t-open" href="https://open.spotify.com/track/3oCPTV2y4dHOl8dcMxRr6Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting Game - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306efa7cce2eb1911c1f3e3db" alt="Waiting Game">
-    <div class="t-name">Waiting Game</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/2YWiD7mVNd2tPqDND0FczP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Surrender - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Surrender">
-    <div class="t-name">Surrender</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/5DWXIxyp3NphgznDrDonx3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You On My Mind - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306efa7cce2eb1911c1f3e3db" alt="You On My Mind">
-    <div class="t-name">You On My Mind</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/4uYeKlfkLQMubZ9FhcbDfP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Am I The Same Girl? - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b27389262f0ade50b02952a78d21" alt="Am I The Same Girl?">
-    <div class="t-name">Am I The Same Girl?</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/3m8xQzsSrUzOgExeTmcXAU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Breakout - Swing Out Sister">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b952ed92628fab279c961526" alt="Breakout">
-    <div class="t-name">Breakout</div>
-    <div class="t-artist">Swing Out Sister</div>
-    <a class="t-open" href="https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Howl - Mei Semones">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb8128da615a0869166ac135" alt="Howl">
-    <div class="t-name">Howl</div>
-    <div class="t-artist">Mei Semones</div>
-    <a class="t-open" href="https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Break Up With Me (feat. 10 Year Plan) - Kyle Gordon">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739d939f0193600abe70dacd6c" alt="If You Break Up With Me (feat. 10 Year Plan)">
-    <div class="t-name">If You Break Up With Me (feat. 10 Year Plan)</div>
-    <div class="t-artist">Kyle Gordon</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Cf2Z1W4uISIIiy8aXOXrU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
