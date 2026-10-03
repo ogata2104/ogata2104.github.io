@@ -355,25 +355,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +434,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Waiting - Midnight Pool Party">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d9aa5c0d9ba6babc638a5f9d" alt="Waiting">
+    <div class="t-name">Waiting</div>
+    <div class="t-artist">Midnight Pool Party</div>
+    <a class="t-open" href="https://open.spotify.com/track/1mhnNX8NChf9S7VEH1Qhve" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hold Me Now - キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734378d9eb85031d774e94d17f" alt="Hold Me Now">
+    <div class="t-name">Hold Me Now</div>
+    <div class="t-artist">キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KYQfBt49UM0GYBHkD9TgF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Superstar - Majid Jordan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a809752f22ddc85ee63a36a7" alt="Superstar">
+    <div class="t-name">Superstar</div>
+    <div class="t-artist">Majid Jordan</div>
+    <a class="t-open" href="https://open.spotify.com/track/2xnYqX95ftldr1yo6FRfVa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Thinking - Louis Cole">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369f27ac28a49aadfd395b4ae" alt="Thinking">
+    <div class="t-name">Thinking</div>
+    <div class="t-artist">Louis Cole</div>
+    <a class="t-open" href="https://open.spotify.com/track/1JDS6yAk0wCsfkFLN9Tr7i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b21774d015308d3f0cc2643e" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/6h9pvvISB34nLG9f1kzQ6P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Georgy Porgy - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
     <div class="t-name">Georgy Porgy</div>
@@ -507,48 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Kicking It</div>
     <div class="t-artist">After 7</div>
     <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Crooklyn - Crooklyn/Soundtrack Version - Crooklyn Dodgers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27358eae281fedfd1f31472d6f2" alt="Crooklyn - Crooklyn/Soundtrack Version">
-    <div class="t-name">Crooklyn - Crooklyn/Soundtrack Version</div>
-    <div class="t-artist">Crooklyn Dodgers</div>
-    <a class="t-open" href="https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Breakadawn - De La Soul">
-    <img src="https://i.scdn.co/image/ab67616d0000b273425d6882cbb8165986ca7c40" alt="Breakadawn">
-    <div class="t-name">Breakadawn</div>
-    <div class="t-artist">De La Soul</div>
-    <a class="t-open" href="https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It Ain&#x27;t Hard to Tell - Nas">
-    <img src="https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd" alt="It Ain&#x27;t Hard to Tell">
-    <div class="t-name">It Ain&#x27;t Hard to Tell</div>
-    <div class="t-artist">Nas</div>
-    <a class="t-open" href="https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit - Wu-Tang Clan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c" alt="Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit">
-    <div class="t-name">Wu-Tang Clan Ain&#x27;t Nuthing ta F&#x27; Wit</div>
-    <div class="t-artist">Wu-Tang Clan</div>
-    <a class="t-open" href="https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Who Am I (What’s My Name)? - Snoop Dogg">
-    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Who Am I (What’s My Name)?">
-    <div class="t-name">Who Am I (What’s My Name)?</div>
-    <div class="t-artist">Snoop Dogg</div>
-    <a class="t-open" href="https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Straight Outta Compton - N.W.A.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Straight Outta Compton">
-    <div class="t-name">Straight Outta Compton</div>
-    <div class="t-artist">N.W.A.</div>
-    <a class="t-open" href="https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Juicy - 2005 Remaster - The Notorious B.I.G.">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" alt="Juicy - 2005 Remaster">
-    <div class="t-name">Juicy - 2005 Remaster</div>
-    <div class="t-artist">The Notorious B.I.G.</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
