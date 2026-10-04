@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="NEW ERA - Nulbarich">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f3a8dcaac27c24388c6f1260" alt="NEW ERA">
+    <div class="t-name">NEW ERA</div>
+    <div class="t-artist">Nulbarich</div>
+    <a class="t-open" href="https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Chest Pain (I Love) - Malcolm Todd">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c4b4ad9943cf308e464f7a3c" alt="Chest Pain (I Love)">
+    <div class="t-name">Chest Pain (I Love)</div>
+    <div class="t-artist">Malcolm Todd</div>
+    <a class="t-open" href="https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Linger - SiriusXM Session - Royel Otis">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccaa2ab01efad107f3952454" alt="Linger - SiriusXM Session">
+    <div class="t-name">Linger - SiriusXM Session</div>
+    <div class="t-artist">Royel Otis</div>
+    <a class="t-open" href="https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="twilight zone - Ariana Grande">
     <img src="https://i.scdn.co/image/ab67616d0000b2732ec9889c4127d1b6a30d9887" alt="twilight zone">
     <div class="t-name">twilight zone</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Slow Wave</div>
     <div class="t-artist">Cala Blanca</div>
     <a class="t-open" href="https://open.spotify.com/track/6NRPePdNp6v0mqWwx8G2rv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Quiet Noon - Proyecto Alizé">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f0afee4e91237287af9b3a1b" alt="Quiet Noon">
-    <div class="t-name">Quiet Noon</div>
-    <div class="t-artist">Proyecto Alizé</div>
-    <a class="t-open" href="https://open.spotify.com/track/1X9kMDMmgAJErQ2mnPwFwj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ischia - Cala Blanca">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735ab9df3ec2e676dfa03d07ad" alt="Ischia">
-    <div class="t-name">Ischia</div>
-    <div class="t-artist">Cala Blanca</div>
-    <a class="t-open" href="https://open.spotify.com/track/20ryLEMNK4GtC88BvvMHRq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TECHNOVA - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
-    <div class="t-name">TECHNOVA</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
