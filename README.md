@@ -434,6 +434,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ALPHA (feat. TAPRIKK SWEEZEE) - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387c1e4e274816f7e9a061d03" alt="ALPHA (feat. TAPRIKK SWEEZEE)">
+    <div class="t-name">ALPHA (feat. TAPRIKK SWEEZEE)</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Q9mTY8g80ynAkL8XLYWxP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Remember! - TOWA TEI REMIX - SE SO NEON">
+    <img src="https://i.scdn.co/image/ab67616d0000b273dfe64357c18ffbd06130dd6f" alt="Remember! - TOWA TEI REMIX">
+    <div class="t-name">Remember! - TOWA TEI REMIX</div>
+    <div class="t-artist">SE SO NEON</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Z0H9yvR5Wguva5aKowF5w" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The Quiet Between Waves - Hora Azul">
     <img src="https://i.scdn.co/image/ab67616d0000b273a504103b99f570c2dfe4321e" alt="The Quiet Between Waves">
     <div class="t-name">The Quiet Between Waves</div>
@@ -523,18 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Prophecy Theme - From &quot;Dune&quot; Soundtrack</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/3UlOFxfc4nj5DiDc4efZqd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rosanna - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
-    <div class="t-name">Rosanna</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
