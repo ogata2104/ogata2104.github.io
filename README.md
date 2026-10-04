@@ -434,6 +434,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="SOFTLY (TOKYO) - Benny Sings">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY (TOKYO)">
+    <div class="t-name">SOFTLY (TOKYO)</div>
+    <div class="t-artist">Benny Sings</div>
+    <a class="t-open" href="https://open.spotify.com/track/5YEKLfrv1CenNUPhX0b33q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shine - Original Mix - Chuck New">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732ff89e5c56347ccac1fae742" alt="Shine - Original Mix">
+    <div class="t-name">Shine - Original Mix</div>
+    <div class="t-artist">Chuck New</div>
+    <a class="t-open" href="https://open.spotify.com/track/6uYCP6MK1oxgQZAxxXOTLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Waiting - Midnight Pool Party">
     <img src="https://i.scdn.co/image/ab67616d0000b273d9aa5c0d9ba6babc638a5f9d" alt="Waiting">
     <div class="t-name">Waiting</div>
@@ -523,18 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Feels Good</div>
     <div class="t-artist">Tony! Toni! Toné!</div>
     <a class="t-open" href="https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dreamin&#x27; - Radio Mix - Christopher Williams">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b2a17aea2445bdff19ea620" alt="Dreamin&#x27; - Radio Mix">
-    <div class="t-name">Dreamin&#x27; - Radio Mix</div>
-    <div class="t-artist">Christopher Williams</div>
-    <a class="t-open" href="https://open.spotify.com/track/6nhrMTQT2ehVD7mFESk82D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Kicking It - After 7">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736f96aad749cb6d09d4fe8394" alt="Kicking It">
-    <div class="t-name">Kicking It</div>
-    <div class="t-artist">After 7</div>
-    <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
