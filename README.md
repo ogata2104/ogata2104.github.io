@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="come again - m-flo">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
+    <div class="t-name">come again</div>
+    <div class="t-artist">m-flo</div>
+    <a class="t-open" href="https://open.spotify.com/track/477CB93mH986mrIheQD0RR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Close to you - Fujii Kaze">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca221b0c323b13b314460abf" alt="Close to you">
+    <div class="t-name">Close to you</div>
+    <div class="t-artist">Fujii Kaze</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="NEW ERA - Nulbarich">
     <img src="https://i.scdn.co/image/ab67616d0000b273f3a8dcaac27c24388c6f1260" alt="NEW ERA">
     <div class="t-name">NEW ERA</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">The Quiet Between Waves</div>
     <div class="t-artist">Hora Azul</div>
     <a class="t-open" href="https://open.spotify.com/track/3Xeldxn3e6oHqJ3gyzxene" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Silencio Dorado - Mar Vidal">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a59045d51be9c1370564f69" alt="Silencio Dorado">
-    <div class="t-name">Silencio Dorado</div>
-    <div class="t-artist">Mar Vidal</div>
-    <a class="t-open" href="https://open.spotify.com/track/0eU2weLcUOAvjvJy9keWrC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slow Wave - Cala Blanca">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d0a197ef0c82e82402c6d6bf" alt="Slow Wave">
-    <div class="t-name">Slow Wave</div>
-    <div class="t-artist">Cala Blanca</div>
-    <a class="t-open" href="https://open.spotify.com/track/6NRPePdNp6v0mqWwx8G2rv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
