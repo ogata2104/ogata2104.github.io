@@ -434,6 +434,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Quiet Between Waves - Hora Azul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a504103b99f570c2dfe4321e" alt="The Quiet Between Waves">
+    <div class="t-name">The Quiet Between Waves</div>
+    <div class="t-artist">Hora Azul</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Xeldxn3e6oHqJ3gyzxene" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Silencio Dorado - Mar Vidal">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a59045d51be9c1370564f69" alt="Silencio Dorado">
+    <div class="t-name">Silencio Dorado</div>
+    <div class="t-artist">Mar Vidal</div>
+    <a class="t-open" href="https://open.spotify.com/track/0eU2weLcUOAvjvJy9keWrC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Slow Wave - Cala Blanca">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d0a197ef0c82e82402c6d6bf" alt="Slow Wave">
+    <div class="t-name">Slow Wave</div>
+    <div class="t-artist">Cala Blanca</div>
+    <a class="t-open" href="https://open.spotify.com/track/6NRPePdNp6v0mqWwx8G2rv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Quiet Noon - Proyecto Alizé">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f0afee4e91237287af9b3a1b" alt="Quiet Noon">
+    <div class="t-name">Quiet Noon</div>
+    <div class="t-artist">Proyecto Alizé</div>
+    <a class="t-open" href="https://open.spotify.com/track/1X9kMDMmgAJErQ2mnPwFwj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ischia - Cala Blanca">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735ab9df3ec2e676dfa03d07ad" alt="Ischia">
+    <div class="t-name">Ischia</div>
+    <div class="t-artist">Cala Blanca</div>
+    <a class="t-open" href="https://open.spotify.com/track/20ryLEMNK4GtC88BvvMHRq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="TECHNOVA - TOWA TEI">
     <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
     <div class="t-name">TECHNOVA</div>
@@ -505,36 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Stop Loving You</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
-    <div class="t-name">I&#x27;ll Be Over You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold the Line - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
-    <div class="t-name">Hold the Line</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="守ってみたい - Takashi Fujii">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735b2474c14a0776b836179335" alt="守ってみたい">
-    <div class="t-name">守ってみたい</div>
-    <div class="t-artist">Takashi Fujii</div>
-    <a class="t-open" href="https://open.spotify.com/track/2975S5T0vkyUUajqCj8XkS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Live and Learn - Joe Public">
-    <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
-    <div class="t-name">Live and Learn</div>
-    <div class="t-artist">Joe Public</div>
-    <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
