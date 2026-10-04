@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="miss you - m-flo">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733836d8a2a603f28043e7901a" alt="miss you">
+    <div class="t-name">miss you</div>
+    <div class="t-artist">m-flo</div>
+    <a class="t-open" href="https://open.spotify.com/track/260m9QWbSbcsDfV8kNJe5T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="come again - m-flo">
     <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
     <div class="t-name">come again</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Remember! - TOWA TEI REMIX</div>
     <div class="t-artist">SE SO NEON</div>
     <a class="t-open" href="https://open.spotify.com/track/4Z0H9yvR5Wguva5aKowF5w" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Quiet Between Waves - Hora Azul">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a504103b99f570c2dfe4321e" alt="The Quiet Between Waves">
-    <div class="t-name">The Quiet Between Waves</div>
-    <div class="t-artist">Hora Azul</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Xeldxn3e6oHqJ3gyzxene" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
