@@ -434,6 +434,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="TECHNOVA - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
+    <div class="t-name">TECHNOVA</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="SOFTLY (TOKYO) - Benny Sings">
     <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY (TOKYO)">
     <div class="t-name">SOFTLY (TOKYO)</div>
@@ -529,12 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Live and Learn</div>
     <div class="t-artist">Joe Public</div>
     <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feels Good - Tony! Toni! Toné!">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737d0fa81881e9313e77463eaa" alt="Feels Good">
-    <div class="t-name">Feels Good</div>
-    <div class="t-artist">Tony! Toni! Toné!</div>
-    <a class="t-open" href="https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
