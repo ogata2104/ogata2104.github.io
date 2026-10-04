@@ -355,24 +355,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -435,6 +437,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="twilight zone - Ariana Grande">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732ec9889c4127d1b6a30d9887" alt="twilight zone">
+    <div class="t-name">twilight zone</div>
+    <div class="t-artist">Ariana Grande</div>
+    <a class="t-open" href="https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Like This - Fujii Kaze">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733706a2459c0f1d9a155493dd" alt="Love Like This">
+    <div class="t-name">Love Like This</div>
+    <div class="t-artist">Fujii Kaze</div>
+    <a class="t-open" href="https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Send It Back - DON WEST">
+    <img src="https://i.scdn.co/image/ab67616d0000b27336eaecc9cc117883ca7423d5" alt="Send It Back">
+    <div class="t-name">Send It Back</div>
+    <div class="t-artist">DON WEST</div>
+    <a class="t-open" href="https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Good Reason - Gracie Abrams">
+    <img src="https://i.scdn.co/image/ab67616d0000b27399bc33b47a0a67fd50783055" alt="Good Reason">
+    <div class="t-name">Good Reason</div>
+    <div class="t-artist">Gracie Abrams</div>
+    <a class="t-open" href="https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="朝日のあたる道 - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b1888bf67035b04cd818a426" alt="朝日のあたる道">
+    <div class="t-name">朝日のあたる道</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Worth It. - RAYE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
+    <div class="t-name">Worth It.</div>
+    <div class="t-artist">RAYE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="AMAI SEIKATSU - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="AMAI SEIKATSU">
+    <div class="t-name">AMAI SEIKATSU</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/6HecQzlf4YPCOsluclK0aU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="LET ME KNOW - TOWA TEI">
     <img src="https://i.scdn.co/image/ab67616d0000b27301731ec5dee1934d16cffb6c" alt="LET ME KNOW">
     <div class="t-name">LET ME KNOW</div>
@@ -512,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">TECHNOVA</div>
     <div class="t-artist">TOWA TEI</div>
     <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOFTLY (TOKYO) - Benny Sings">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY (TOKYO)">
-    <div class="t-name">SOFTLY (TOKYO)</div>
-    <div class="t-artist">Benny Sings</div>
-    <a class="t-open" href="https://open.spotify.com/track/5YEKLfrv1CenNUPhX0b33q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shine - Original Mix - Chuck New">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732ff89e5c56347ccac1fae742" alt="Shine - Original Mix">
-    <div class="t-name">Shine - Original Mix</div>
-    <div class="t-artist">Chuck New</div>
-    <a class="t-open" href="https://open.spotify.com/track/6uYCP6MK1oxgQZAxxXOTLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting - Midnight Pool Party">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d9aa5c0d9ba6babc638a5f9d" alt="Waiting">
-    <div class="t-name">Waiting</div>
-    <div class="t-artist">Midnight Pool Party</div>
-    <a class="t-open" href="https://open.spotify.com/track/1mhnNX8NChf9S7VEH1Qhve" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold Me Now - キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734378d9eb85031d774e94d17f" alt="Hold Me Now">
-    <div class="t-name">Hold Me Now</div>
-    <div class="t-artist">キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KYQfBt49UM0GYBHkD9TgF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Superstar - Majid Jordan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a809752f22ddc85ee63a36a7" alt="Superstar">
-    <div class="t-name">Superstar</div>
-    <div class="t-artist">Majid Jordan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2xnYqX95ftldr1yo6FRfVa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
