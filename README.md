@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="GATSBY WOMAN - Kingo Hamada">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" alt="GATSBY WOMAN">
+    <div class="t-name">GATSBY WOMAN</div>
+    <div class="t-artist">Kingo Hamada</div>
+    <a class="t-open" href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Just a Joke - Yurie Kokubu">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735190706dec2eaabebd08059e" alt="Just a Joke">
+    <div class="t-name">Just a Joke</div>
+    <div class="t-artist">Yurie Kokubu</div>
+    <a class="t-open" href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Angel Disco Love - 落日飛車 Sunset Rollercoaster">
     <img src="https://i.scdn.co/image/ab67616d0000b2737141fde8396d1d796728d036" alt="Angel Disco Love">
     <div class="t-name">Angel Disco Love</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Hold the Line</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="miss you - m-flo">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733836d8a2a603f28043e7901a" alt="miss you">
-    <div class="t-name">miss you</div>
-    <div class="t-artist">m-flo</div>
-    <a class="t-open" href="https://open.spotify.com/track/260m9QWbSbcsDfV8kNJe5T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
