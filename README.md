@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="nestling - KIRINJI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b914be5691fc8d857d562b22" alt="nestling">
+    <div class="t-name">nestling</div>
+    <div class="t-artist">KIRINJI</div>
+    <a class="t-open" href="https://open.spotify.com/track/6A5fPQIwIMVEYFCqz6I44o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="GATSBY WOMAN - Kingo Hamada">
     <img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" alt="GATSBY WOMAN">
     <div class="t-name">GATSBY WOMAN</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">I&#x27;ll Be Over You</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold the Line - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
-    <div class="t-name">Hold the Line</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
