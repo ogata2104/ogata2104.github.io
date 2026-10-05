@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Angel Disco Love - 落日飛車 Sunset Rollercoaster">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737141fde8396d1d796728d036" alt="Angel Disco Love">
+    <div class="t-name">Angel Disco Love</div>
+    <div class="t-artist">落日飛車 Sunset Rollercoaster</div>
+    <a class="t-open" href="https://open.spotify.com/track/5BdzVbXt2XEBmottYsFe5q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Over the Hill - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b27397aca0fcb9b5024cacf6a94b" alt="Over the Hill">
+    <div class="t-name">Over the Hill</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Lvu7qtIJkrp3zLQwVc16G" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Million Miles Away - Milk Talk">
+    <img src="https://i.scdn.co/image/ab67616d0000b27393293d9a5bdd180ba7821d32" alt="Million Miles Away">
+    <div class="t-name">Million Miles Away</div>
+    <div class="t-artist">Milk Talk</div>
+    <a class="t-open" href="https://open.spotify.com/track/7CCAQR0TjqlyYY0tbbIZnX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ordinary Pleasure - Toro y Moi">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fbce9114edace45a2ed95580" alt="Ordinary Pleasure">
+    <div class="t-name">Ordinary Pleasure</div>
+    <div class="t-artist">Toro y Moi</div>
+    <a class="t-open" href="https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Horsey (feat. Sarah Bonito) - Macross 82-99">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b1aa6008216eeef4b72722b4" alt="Horsey (feat. Sarah Bonito)">
+    <div class="t-name">Horsey (feat. Sarah Bonito)</div>
+    <div class="t-artist">Macross 82-99</div>
+    <a class="t-open" href="https://open.spotify.com/track/2YP9BF2Y9NUMJqgmx50FLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Summer Breeze - PIPER">
     <img src="https://i.scdn.co/image/ab67616d0000b273eaa3f37e3d40747266cdecc2" alt="Summer Breeze">
     <div class="t-name">Summer Breeze</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">miss you</div>
     <div class="t-artist">m-flo</div>
     <a class="t-open" href="https://open.spotify.com/track/260m9QWbSbcsDfV8kNJe5T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="come again - m-flo">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
-    <div class="t-name">come again</div>
-    <div class="t-artist">m-flo</div>
-    <a class="t-open" href="https://open.spotify.com/track/477CB93mH986mrIheQD0RR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Close to you - Fujii Kaze">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca221b0c323b13b314460abf" alt="Close to you">
-    <div class="t-name">Close to you</div>
-    <div class="t-artist">Fujii Kaze</div>
-    <a class="t-open" href="https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NEW ERA - Nulbarich">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f3a8dcaac27c24388c6f1260" alt="NEW ERA">
-    <div class="t-name">NEW ERA</div>
-    <div class="t-artist">Nulbarich</div>
-    <a class="t-open" href="https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Chest Pain (I Love) - Malcolm Todd">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c4b4ad9943cf308e464f7a3c" alt="Chest Pain (I Love)">
-    <div class="t-name">Chest Pain (I Love)</div>
-    <div class="t-artist">Malcolm Todd</div>
-    <a class="t-open" href="https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Linger - SiriusXM Session - Royel Otis">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccaa2ab01efad107f3952454" alt="Linger - SiriusXM Session">
-    <div class="t-name">Linger - SiriusXM Session</div>
-    <div class="t-artist">Royel Otis</div>
-    <a class="t-open" href="https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
