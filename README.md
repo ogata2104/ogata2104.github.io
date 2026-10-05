@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Lea - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
+    <div class="t-name">Lea</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Georgy Porgy - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
+    <div class="t-name">Georgy Porgy</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Rosanna - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
+    <div class="t-name">Rosanna</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Stop Loving You - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
     <div class="t-name">Stop Loving You</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">AMAI SEIKATSU</div>
     <div class="t-artist">TOWA TEI</div>
     <a class="t-open" href="https://open.spotify.com/track/6HecQzlf4YPCOsluclK0aU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LET ME KNOW - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b27301731ec5dee1934d16cffb6c" alt="LET ME KNOW">
-    <div class="t-name">LET ME KNOW</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/4LKOusBuafldk15QTjj4xj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="KASEY - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733cbdd77d6af57b4a81468601" alt="KASEY">
-    <div class="t-name">KASEY</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/17XNWKBLba0QdWI8Ec3OdD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
