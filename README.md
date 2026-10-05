@@ -437,6 +437,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Summer Breeze - PIPER">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eaa3f37e3d40747266cdecc2" alt="Summer Breeze">
+    <div class="t-name">Summer Breeze</div>
+    <div class="t-artist">PIPER</div>
+    <a class="t-open" href="https://open.spotify.com/track/3szFx2vlepFUbnSG7kY1z8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Weather - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b27376bbce9671ee85ec78a86fb8" alt="Weather">
+    <div class="t-name">Weather</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/07Fd3u3IAYjrxDpYk6dKik" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="First Light - Makoto Matsushita">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b2b15f0d83d7f5b82f7af279" alt="First Light">
+    <div class="t-name">First Light</div>
+    <div class="t-artist">Makoto Matsushita</div>
+    <a class="t-open" href="https://open.spotify.com/track/78w6fsLJaULJkyesAh2wzk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="時間がない - KIRINJI">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739259361b006ad3108801a541" alt="時間がない">
+    <div class="t-name">時間がない</div>
+    <div class="t-artist">KIRINJI</div>
+    <a class="t-open" href="https://open.spotify.com/track/4X6jKZPHkKLbrcEZu13VXK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="midnight cruisin&#x27; - Kingo Hamada">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d175d8963d44efb4cce117ae" alt="midnight cruisin&#x27;">
+    <div class="t-name">midnight cruisin&#x27;</div>
+    <div class="t-artist">Kingo Hamada</div>
+    <a class="t-open" href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Million Miles Away - Edit - Vantage">
+    <img src="https://i.scdn.co/image/ab67616d0000b27382df759079a7196a9b90deae" alt="Million Miles Away - Edit">
+    <div class="t-name">Million Miles Away - Edit</div>
+    <div class="t-artist">Vantage</div>
+    <a class="t-open" href="https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Only You - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Only You">
+    <div class="t-name">Only You</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/0I50Bs22HqESirPg66IkE2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Lea - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
     <div class="t-name">Lea</div>
@@ -514,48 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Linger - SiriusXM Session</div>
     <div class="t-artist">Royel Otis</div>
     <a class="t-open" href="https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="twilight zone - Ariana Grande">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732ec9889c4127d1b6a30d9887" alt="twilight zone">
-    <div class="t-name">twilight zone</div>
-    <div class="t-artist">Ariana Grande</div>
-    <a class="t-open" href="https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Like This - Fujii Kaze">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733706a2459c0f1d9a155493dd" alt="Love Like This">
-    <div class="t-name">Love Like This</div>
-    <div class="t-artist">Fujii Kaze</div>
-    <a class="t-open" href="https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Send It Back - DON WEST">
-    <img src="https://i.scdn.co/image/ab67616d0000b27336eaecc9cc117883ca7423d5" alt="Send It Back">
-    <div class="t-name">Send It Back</div>
-    <div class="t-artist">DON WEST</div>
-    <a class="t-open" href="https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Good Reason - Gracie Abrams">
-    <img src="https://i.scdn.co/image/ab67616d0000b27399bc33b47a0a67fd50783055" alt="Good Reason">
-    <div class="t-name">Good Reason</div>
-    <div class="t-artist">Gracie Abrams</div>
-    <a class="t-open" href="https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="朝日のあたる道 - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b1888bf67035b04cd818a426" alt="朝日のあたる道">
-    <div class="t-name">朝日のあたる道</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Worth It. - RAYE">
-    <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
-    <div class="t-name">Worth It.</div>
-    <div class="t-artist">RAYE</div>
-    <a class="t-open" href="https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="AMAI SEIKATSU - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="AMAI SEIKATSU">
-    <div class="t-name">AMAI SEIKATSU</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/6HecQzlf4YPCOsluclK0aU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
