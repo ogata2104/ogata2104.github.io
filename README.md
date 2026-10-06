@@ -437,6 +437,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="STEPPER&#x27;S DELIGHT - RIP SLYME">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736c2ee67920ea1f9ea6f162f3" alt="STEPPER&#x27;S DELIGHT">
+    <div class="t-name">STEPPER&#x27;S DELIGHT</div>
+    <div class="t-artist">RIP SLYME</div>
+    <a class="t-open" href="https://open.spotify.com/track/31Xrw5Cw5DfCtPzp9zwAdT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Rock The Bells - LL COOL J">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731cb9b88a3e8d5344a10184bc" alt="Rock The Bells">
+    <div class="t-name">Rock The Bells</div>
+    <div class="t-artist">LL COOL J</div>
+    <a class="t-open" href="https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="A Good Day - Anderson .Paak">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b18a11a302d8bead0f45985c" alt="A Good Day">
+    <div class="t-name">A Good Day</div>
+    <div class="t-artist">Anderson .Paak</div>
+    <a class="t-open" href="https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Who Am I (What’s My Name)? - Snoop Dogg">
+    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Who Am I (What’s My Name)?">
+    <div class="t-name">Who Am I (What’s My Name)?</div>
+    <div class="t-artist">Snoop Dogg</div>
+    <a class="t-open" href="https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered - Coolio">
+    <img src="https://i.scdn.co/image/ab67616d0000b27350d024d6b2fa643d32760de1" alt="1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered">
+    <div class="t-name">1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered</div>
+    <div class="t-artist">Coolio</div>
+    <a class="t-open" href="https://open.spotify.com/track/35mPmXeNuIzkeEAFfyfUla" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Eye Know - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" alt="Eye Know">
+    <div class="t-name">Eye Know</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="O.P.P - Naughty By Nature">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e" alt="O.P.P">
+    <div class="t-name">O.P.P</div>
+    <div class="t-artist">Naughty By Nature</div>
+    <a class="t-open" href="https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Juicy - 2005 Remaster - The Notorious B.I.G.">
     <img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" alt="Juicy - 2005 Remaster">
     <div class="t-name">Juicy - 2005 Remaster</div>
@@ -514,48 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Feel Me Flow</div>
     <div class="t-artist">Naughty By Nature</div>
     <a class="t-open" href="https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunshine - De La Soul">
-    <img src="https://i.scdn.co/image/ab67616d0000b273092a9f0f2f9bf08cdf0cdf17" alt="Sunshine">
-    <div class="t-name">Sunshine</div>
-    <div class="t-artist">De La Soul</div>
-    <a class="t-open" href="https://open.spotify.com/track/0iQsIdVdM1vu2dpVO3u087" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Groovin Tonight - St. Lunatics">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d984373bd160d7518528a586" alt="Groovin Tonight">
-    <div class="t-name">Groovin Tonight</div>
-    <div class="t-artist">St. Lunatics</div>
-    <a class="t-open" href="https://open.spotify.com/track/0e7PZ3NZ2u9f8FY8wjZZ1K" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Central - Worldwide Skippa">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c8452895bdc6ef2d59b46ea9" alt="Central">
-    <div class="t-name">Central</div>
-    <div class="t-artist">Worldwide Skippa</div>
-    <a class="t-open" href="https://open.spotify.com/track/3e2M2bUYuHKbFyxznC6Trj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Intergalactic - Remastered 2009 - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Intergalactic - Remastered 2009">
-    <div class="t-name">Intergalactic - Remastered 2009</div>
-    <div class="t-artist">Beastie Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Drive - 2017 Remaster - The Cars">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f607580794ed5b352884fd47" alt="Drive - 2017 Remaster">
-    <div class="t-name">Drive - 2017 Remaster</div>
-    <div class="t-artist">The Cars</div>
-    <a class="t-open" href="https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Living Inside Myself - Gino Vannelli">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
-    <div class="t-name">Living Inside Myself</div>
-    <div class="t-artist">Gino Vannelli</div>
-    <a class="t-open" href="https://open.spotify.com/track/6IAh4MjV3GRkvIHrCbUFWY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Through the Fire - Chaka Khan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738be5f9356ee08a1f9e67ff87" alt="Through the Fire">
-    <div class="t-name">Through the Fire</div>
-    <div class="t-artist">Chaka Khan</div>
-    <a class="t-open" href="https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
