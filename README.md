@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Around The Way Girl - LL COOL J">
+    <img src="https://i.scdn.co/image/ab67616d0000b27382dfae6e3a8f7a387f741ed1" alt="Around The Way Girl">
+    <div class="t-name">Around The Way Girl</div>
+    <div class="t-artist">LL COOL J</div>
+    <a class="t-open" href="https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Harder Than You Think - Public Enemy">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732acb820332d5f37cd536cc98" alt="Harder Than You Think">
+    <div class="t-name">Harder Than You Think</div>
+    <div class="t-artist">Public Enemy</div>
+    <a class="t-open" href="https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Feather - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b273421d647a4f604d79943f4dad" alt="Feather">
+    <div class="t-name">Feather</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/4aK4LNijbD7kkCg54UoIij" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ooh La La - Coolio">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bdf1893dd79236b73bfd2a04" alt="Ooh La La">
+    <div class="t-name">Ooh La La</div>
+    <div class="t-artist">Coolio</div>
+    <a class="t-open" href="https://open.spotify.com/track/0JDpQYEIgXGI1MFLzFNQAT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Until We Rich - Ice Cube">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857" alt="Until We Rich">
+    <div class="t-name">Until We Rich</div>
+    <div class="t-artist">Ice Cube</div>
+    <a class="t-open" href="https://open.spotify.com/track/6l3b8BOBDRDM1ne9fpOygz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Ain’t No Fun (If The Homies Can’t Have None) - Snoop Dogg">
     <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Ain’t No Fun (If The Homies Can’t Have None)">
     <div class="t-name">Ain’t No Fun (If The Homies Can’t Have None)</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Just the Way You Are</div>
     <div class="t-artist">Billy Joel</div>
     <a class="t-open" href="https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Missing You - John Waite">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7730f46da78d52e66bd6f65" alt="Missing You">
-    <div class="t-name">Missing You</div>
-    <div class="t-artist">John Waite</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Can&#x27;t Fight This Feeling - REO Speedwagon">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b815265c56ecfa5136a4015d" alt="Can&#x27;t Fight This Feeling">
-    <div class="t-name">Can&#x27;t Fight This Feeling</div>
-    <div class="t-artist">REO Speedwagon</div>
-    <a class="t-open" href="https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="How Deep Is Your Love - Bee Gees">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c93a2d859ee3635aa415d61d" alt="How Deep Is Your Love">
-    <div class="t-name">How Deep Is Your Love</div>
-    <div class="t-artist">Bee Gees</div>
-    <a class="t-open" href="https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="After the Love Has Gone - Earth, Wind &amp; Fire">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca" alt="After the Love Has Gone">
-    <div class="t-name">After the Love Has Gone</div>
-    <div class="t-artist">Earth, Wind &amp; Fire</div>
-    <a class="t-open" href="https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Way It Is - Bruce Hornsby and the Range">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736cfad72543b5cf95b5864146" alt="The Way It Is">
-    <div class="t-name">The Way It Is</div>
-    <div class="t-artist">Bruce Hornsby and the Range</div>
-    <a class="t-open" href="https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
