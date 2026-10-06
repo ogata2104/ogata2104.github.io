@@ -355,25 +355,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +437,54 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
+    <div class="t-name">You&#x27;re the Inspiration</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/34dS8UC4Wc3WHqS5lbwJ3U" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="99 - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
+    <div class="t-name">99</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cadc46d3afdf205ca9c6ffd6" alt="Hard to Say I&#x27;m Sorry">
+    <div class="t-name">Hard to Say I&#x27;m Sorry</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/2snFVTguRJ42e5bq1YiR58" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Loretta - 日本語 version - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f2e91d4856514e6f73961918" alt="Loretta - 日本語 version">
+    <div class="t-name">Loretta - 日本語 version</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/6jdZMmISOKaI2DwVyJRGc8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
+    <div class="t-name">What a Fool Believes</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hard Habit to Break - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="Hard Habit to Break">
+    <div class="t-name">Hard Habit to Break</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/1aKClOSAzZjbNHgZwNGRlO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If You Leave Me Now - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b27333d11cc8c7268a26fd29c2a7" alt="If You Leave Me Now">
+    <div class="t-name">If You Leave Me Now</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/55AsFbRKYFdvoDn1Vyqurk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="nestling - KIRINJI">
     <img src="https://i.scdn.co/image/ab67616d0000b273b914be5691fc8d857d562b22" alt="nestling">
     <div class="t-name">nestling</div>
@@ -507,48 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">First Light</div>
     <div class="t-artist">Makoto Matsushita</div>
     <a class="t-open" href="https://open.spotify.com/track/78w6fsLJaULJkyesAh2wzk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="時間がない - KIRINJI">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739259361b006ad3108801a541" alt="時間がない">
-    <div class="t-name">時間がない</div>
-    <div class="t-artist">KIRINJI</div>
-    <a class="t-open" href="https://open.spotify.com/track/4X6jKZPHkKLbrcEZu13VXK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="midnight cruisin&#x27; - Kingo Hamada">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d175d8963d44efb4cce117ae" alt="midnight cruisin&#x27;">
-    <div class="t-name">midnight cruisin&#x27;</div>
-    <div class="t-artist">Kingo Hamada</div>
-    <a class="t-open" href="https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Million Miles Away - Edit - Vantage">
-    <img src="https://i.scdn.co/image/ab67616d0000b27382df759079a7196a9b90deae" alt="Million Miles Away - Edit">
-    <div class="t-name">Million Miles Away - Edit</div>
-    <div class="t-artist">Vantage</div>
-    <a class="t-open" href="https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Only You - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Only You">
-    <div class="t-name">Only You</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/0I50Bs22HqESirPg66IkE2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Georgy Porgy - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
-    <div class="t-name">Georgy Porgy</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rosanna - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
-    <div class="t-name">Rosanna</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
