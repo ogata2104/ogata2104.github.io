@@ -437,6 +437,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Missing You - John Waite">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7730f46da78d52e66bd6f65" alt="Missing You">
+    <div class="t-name">Missing You</div>
+    <div class="t-artist">John Waite</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Can&#x27;t Fight This Feeling - REO Speedwagon">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b815265c56ecfa5136a4015d" alt="Can&#x27;t Fight This Feeling">
+    <div class="t-name">Can&#x27;t Fight This Feeling</div>
+    <div class="t-artist">REO Speedwagon</div>
+    <a class="t-open" href="https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="How Deep Is Your Love - Bee Gees">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c93a2d859ee3635aa415d61d" alt="How Deep Is Your Love">
+    <div class="t-name">How Deep Is Your Love</div>
+    <div class="t-artist">Bee Gees</div>
+    <a class="t-open" href="https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="After the Love Has Gone - Earth, Wind &amp; Fire">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca" alt="After the Love Has Gone">
+    <div class="t-name">After the Love Has Gone</div>
+    <div class="t-artist">Earth, Wind &amp; Fire</div>
+    <a class="t-open" href="https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Way It Is - Bruce Hornsby and the Range">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736cfad72543b5cf95b5864146" alt="The Way It Is">
+    <div class="t-name">The Way It Is</div>
+    <div class="t-artist">Bruce Hornsby and the Range</div>
+    <a class="t-open" href="https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Baby Come Back - Player">
+    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
+    <div class="t-name">Baby Come Back</div>
+    <div class="t-artist">Player</div>
+    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Will You Still Love Me? - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273def88dc9b941a818647e711a" alt="Will You Still Love Me?">
+    <div class="t-name">Will You Still Love Me?</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/7oQwWGj4zGagT93zB8qWJt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sailing - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
+    <div class="t-name">Sailing</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Glory of Love - Peter Cetera">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739cd3665c5518c19b9ba36676" alt="Glory of Love">
+    <div class="t-name">Glory of Love</div>
+    <div class="t-artist">Peter Cetera</div>
+    <a class="t-open" href="https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Karma Chameleon - Remastered 2002 - Culture Club">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c7d7cdad0c2ffa5620129ee8" alt="Karma Chameleon - Remastered 2002">
+    <div class="t-name">Karma Chameleon - Remastered 2002</div>
+    <div class="t-artist">Culture Club</div>
+    <a class="t-open" href="https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Want to Know What Love Is - 1999 Remaster - Foreigner">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" alt="I Want to Know What Love Is - 1999 Remaster">
+    <div class="t-name">I Want to Know What Love Is - 1999 Remaster</div>
+    <div class="t-artist">Foreigner</div>
+    <a class="t-open" href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
     <div class="t-name">You&#x27;re the Inspiration</div>
@@ -490,72 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">nestling</div>
     <div class="t-artist">KIRINJI</div>
     <a class="t-open" href="https://open.spotify.com/track/6A5fPQIwIMVEYFCqz6I44o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="GATSBY WOMAN - Kingo Hamada">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ef1a9c55567eb75fc0ca0ad0" alt="GATSBY WOMAN">
-    <div class="t-name">GATSBY WOMAN</div>
-    <div class="t-artist">Kingo Hamada</div>
-    <a class="t-open" href="https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just a Joke - Yurie Kokubu">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735190706dec2eaabebd08059e" alt="Just a Joke">
-    <div class="t-name">Just a Joke</div>
-    <div class="t-artist">Yurie Kokubu</div>
-    <a class="t-open" href="https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lea - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
-    <div class="t-name">Lea</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Angel Disco Love - 落日飛車 Sunset Rollercoaster">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737141fde8396d1d796728d036" alt="Angel Disco Love">
-    <div class="t-name">Angel Disco Love</div>
-    <div class="t-artist">落日飛車 Sunset Rollercoaster</div>
-    <a class="t-open" href="https://open.spotify.com/track/5BdzVbXt2XEBmottYsFe5q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Over the Hill - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b27397aca0fcb9b5024cacf6a94b" alt="Over the Hill">
-    <div class="t-name">Over the Hill</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Lvu7qtIJkrp3zLQwVc16G" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Million Miles Away - Milk Talk">
-    <img src="https://i.scdn.co/image/ab67616d0000b27393293d9a5bdd180ba7821d32" alt="Million Miles Away">
-    <div class="t-name">Million Miles Away</div>
-    <div class="t-artist">Milk Talk</div>
-    <a class="t-open" href="https://open.spotify.com/track/7CCAQR0TjqlyYY0tbbIZnX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ordinary Pleasure - Toro y Moi">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fbce9114edace45a2ed95580" alt="Ordinary Pleasure">
-    <div class="t-name">Ordinary Pleasure</div>
-    <div class="t-artist">Toro y Moi</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Horsey (feat. Sarah Bonito) - Macross 82-99">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b1aa6008216eeef4b72722b4" alt="Horsey (feat. Sarah Bonito)">
-    <div class="t-name">Horsey (feat. Sarah Bonito)</div>
-    <div class="t-artist">Macross 82-99</div>
-    <a class="t-open" href="https://open.spotify.com/track/2YP9BF2Y9NUMJqgmx50FLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Breeze - PIPER">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eaa3f37e3d40747266cdecc2" alt="Summer Breeze">
-    <div class="t-name">Summer Breeze</div>
-    <div class="t-artist">PIPER</div>
-    <a class="t-open" href="https://open.spotify.com/track/3szFx2vlepFUbnSG7kY1z8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Weather - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b27376bbce9671ee85ec78a86fb8" alt="Weather">
-    <div class="t-name">Weather</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/07Fd3u3IAYjrxDpYk6dKik" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="First Light - Makoto Matsushita">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b2b15f0d83d7f5b82f7af279" alt="First Light">
-    <div class="t-name">First Light</div>
-    <div class="t-artist">Makoto Matsushita</div>
-    <a class="t-open" href="https://open.spotify.com/track/78w6fsLJaULJkyesAh2wzk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
