@@ -437,6 +437,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Living Inside Myself - Gino Vannelli">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
+    <div class="t-name">Living Inside Myself</div>
+    <div class="t-artist">Gino Vannelli</div>
+    <a class="t-open" href="https://open.spotify.com/track/6IAh4MjV3GRkvIHrCbUFWY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Through the Fire - Chaka Khan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738be5f9356ee08a1f9e67ff87" alt="Through the Fire">
+    <div class="t-name">Through the Fire</div>
+    <div class="t-artist">Chaka Khan</div>
+    <a class="t-open" href="https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sara - Starship">
+    <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="Sara">
+    <div class="t-name">Sara</div>
+    <div class="t-artist">Starship</div>
+    <a class="t-open" href="https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Just the Way You Are - Billy Joel">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="Just the Way You Are">
+    <div class="t-name">Just the Way You Are</div>
+    <div class="t-artist">Billy Joel</div>
+    <a class="t-open" href="https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Missing You - John Waite">
     <img src="https://i.scdn.co/image/ab67616d0000b273f7730f46da78d52e66bd6f65" alt="Missing You">
     <div class="t-name">Missing You</div>
@@ -532,30 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">What a Fool Believes</div>
     <div class="t-artist">The Doobie Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hard Habit to Break - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="Hard Habit to Break">
-    <div class="t-name">Hard Habit to Break</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/1aKClOSAzZjbNHgZwNGRlO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Leave Me Now - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b27333d11cc8c7268a26fd29c2a7" alt="If You Leave Me Now">
-    <div class="t-name">If You Leave Me Now</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/55AsFbRKYFdvoDn1Vyqurk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="nestling - KIRINJI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b914be5691fc8d857d562b22" alt="nestling">
-    <div class="t-name">nestling</div>
-    <div class="t-artist">KIRINJI</div>
-    <a class="t-open" href="https://open.spotify.com/track/6A5fPQIwIMVEYFCqz6I44o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
