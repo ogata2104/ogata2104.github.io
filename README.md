@@ -437,6 +437,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Ain’t No Fun (If The Homies Can’t Have None) - Snoop Dogg">
+    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Ain’t No Fun (If The Homies Can’t Have None)">
+    <div class="t-name">Ain’t No Fun (If The Homies Can’t Have None)</div>
+    <div class="t-artist">Snoop Dogg</div>
+    <a class="t-open" href="https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ARIGATTO - m-flo">
+    <img src="https://i.scdn.co/image/ab67616d0000b27346776a173428d38f2726515e" alt="ARIGATTO">
+    <div class="t-name">ARIGATTO</div>
+    <div class="t-artist">m-flo</div>
+    <a class="t-open" href="https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="She Knows Too Much - Thundercat">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" alt="She Knows Too Much">
+    <div class="t-name">She Knows Too Much</div>
+    <div class="t-artist">Thundercat</div>
+    <a class="t-open" href="https://open.spotify.com/track/1TK2iF5KlY8OEm5k5AeyBk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hypnotize - 2014 Remaster - The Notorious B.I.G.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" alt="Hypnotize - 2014 Remaster">
+    <div class="t-name">Hypnotize - 2014 Remaster</div>
+    <div class="t-artist">The Notorious B.I.G.</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
+    <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
+    <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
+    <div class="t-artist">Kenny Mason</div>
+    <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Feel Me Flow - Naughty By Nature">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a1f71f48201f450cb230e284" alt="Feel Me Flow">
+    <div class="t-name">Feel Me Flow</div>
+    <div class="t-artist">Naughty By Nature</div>
+    <a class="t-open" href="https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunshine - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273092a9f0f2f9bf08cdf0cdf17" alt="Sunshine">
+    <div class="t-name">Sunshine</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/0iQsIdVdM1vu2dpVO3u087" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Groovin Tonight - St. Lunatics">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d984373bd160d7518528a586" alt="Groovin Tonight">
+    <div class="t-name">Groovin Tonight</div>
+    <div class="t-artist">St. Lunatics</div>
+    <a class="t-open" href="https://open.spotify.com/track/0e7PZ3NZ2u9f8FY8wjZZ1K" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Central - Worldwide Skippa">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c8452895bdc6ef2d59b46ea9" alt="Central">
+    <div class="t-name">Central</div>
+    <div class="t-artist">Worldwide Skippa</div>
+    <a class="t-open" href="https://open.spotify.com/track/3e2M2bUYuHKbFyxznC6Trj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Intergalactic - Remastered 2009 - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Intergalactic - Remastered 2009">
     <div class="t-name">Intergalactic - Remastered 2009</div>
@@ -502,60 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">The Way It Is</div>
     <div class="t-artist">Bruce Hornsby and the Range</div>
     <a class="t-open" href="https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Baby Come Back - Player">
-    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
-    <div class="t-name">Baby Come Back</div>
-    <div class="t-artist">Player</div>
-    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Will You Still Love Me? - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273def88dc9b941a818647e711a" alt="Will You Still Love Me?">
-    <div class="t-name">Will You Still Love Me?</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/7oQwWGj4zGagT93zB8qWJt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Glory of Love - Peter Cetera">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739cd3665c5518c19b9ba36676" alt="Glory of Love">
-    <div class="t-name">Glory of Love</div>
-    <div class="t-artist">Peter Cetera</div>
-    <a class="t-open" href="https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Karma Chameleon - Remastered 2002 - Culture Club">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c7d7cdad0c2ffa5620129ee8" alt="Karma Chameleon - Remastered 2002">
-    <div class="t-name">Karma Chameleon - Remastered 2002</div>
-    <div class="t-artist">Culture Club</div>
-    <a class="t-open" href="https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Want to Know What Love Is - 1999 Remaster - Foreigner">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" alt="I Want to Know What Love Is - 1999 Remaster">
-    <div class="t-name">I Want to Know What Love Is - 1999 Remaster</div>
-    <div class="t-artist">Foreigner</div>
-    <a class="t-open" href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
-    <div class="t-name">You&#x27;re the Inspiration</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/34dS8UC4Wc3WHqS5lbwJ3U" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="99 - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
-    <div class="t-name">99</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cadc46d3afdf205ca9c6ffd6" alt="Hard to Say I&#x27;m Sorry">
-    <div class="t-name">Hard to Say I&#x27;m Sorry</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/2snFVTguRJ42e5bq1YiR58" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
