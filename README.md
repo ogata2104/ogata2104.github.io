@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="No Time To Play - Guru">
+    <img src="https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0" alt="No Time To Play">
+    <div class="t-name">No Time To Play</div>
+    <div class="t-artist">Guru</div>
+    <a class="t-open" href="https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="STEPPER&#x27;S DELIGHT - RIP SLYME">
     <img src="https://i.scdn.co/image/ab67616d0000b2736c2ee67920ea1f9ea6f162f3" alt="STEPPER&#x27;S DELIGHT">
     <div class="t-name">STEPPER&#x27;S DELIGHT</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
     <div class="t-artist">Kenny Mason</div>
     <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feel Me Flow - Naughty By Nature">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a1f71f48201f450cb230e284" alt="Feel Me Flow">
-    <div class="t-name">Feel Me Flow</div>
-    <div class="t-artist">Naughty By Nature</div>
-    <a class="t-open" href="https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
