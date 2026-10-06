@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Juicy - 2005 Remaster - The Notorious B.I.G.">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" alt="Juicy - 2005 Remaster">
+    <div class="t-name">Juicy - 2005 Remaster</div>
+    <div class="t-artist">The Notorious B.I.G.</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fuck Tha Police - N.W.A.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Fuck Tha Police">
+    <div class="t-name">Fuck Tha Police</div>
+    <div class="t-artist">N.W.A.</div>
+    <a class="t-open" href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Around The Way Girl - LL COOL J">
     <img src="https://i.scdn.co/image/ab67616d0000b27382dfae6e3a8f7a387f741ed1" alt="Around The Way Girl">
     <div class="t-name">Around The Way Girl</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Through the Fire</div>
     <div class="t-artist">Chaka Khan</div>
     <a class="t-open" href="https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sara - Starship">
-    <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="Sara">
-    <div class="t-name">Sara</div>
-    <div class="t-artist">Starship</div>
-    <a class="t-open" href="https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just the Way You Are - Billy Joel">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="Just the Way You Are">
-    <div class="t-name">Just the Way You Are</div>
-    <div class="t-artist">Billy Joel</div>
-    <a class="t-open" href="https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
