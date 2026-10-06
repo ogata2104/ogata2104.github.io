@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Intergalactic - Remastered 2009 - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa" alt="Intergalactic - Remastered 2009">
+    <div class="t-name">Intergalactic - Remastered 2009</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Drive - 2017 Remaster - The Cars">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f607580794ed5b352884fd47" alt="Drive - 2017 Remaster">
+    <div class="t-name">Drive - 2017 Remaster</div>
+    <div class="t-artist">The Cars</div>
+    <a class="t-open" href="https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Living Inside Myself - Gino Vannelli">
     <img src="https://i.scdn.co/image/ab67616d0000b273f9bc04d6afcd5eae01831867" alt="Living Inside Myself">
     <div class="t-name">Living Inside Myself</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Hard to Say I&#x27;m Sorry</div>
     <div class="t-artist">Chicago</div>
     <a class="t-open" href="https://open.spotify.com/track/2snFVTguRJ42e5bq1YiR58" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Loretta - 日本語 version - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f2e91d4856514e6f73961918" alt="Loretta - 日本語 version">
-    <div class="t-name">Loretta - 日本語 version</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/6jdZMmISOKaI2DwVyJRGc8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
-    <div class="t-name">What a Fool Believes</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
