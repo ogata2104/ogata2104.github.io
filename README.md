@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="TOP OF TOKYO - ILLMATIC BUDDHA MC&#x27;S">
+    <img src="https://i.scdn.co/image/ab67616d0000b27377796d6098ecae156a4d8269" alt="TOP OF TOKYO">
+    <div class="t-name">TOP OF TOKYO</div>
+    <div class="t-artist">ILLMATIC BUDDHA MC&#x27;S</div>
+    <a class="t-open" href="https://open.spotify.com/track/6yQjot5JkUPupshDZEyreg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PIZZA &amp; COKE - Mellow Yellow">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737bf4e8eaf321a06f254d8bfa" alt="PIZZA &amp; COKE">
+    <div class="t-name">PIZZA &amp; COKE</div>
+    <div class="t-artist">Mellow Yellow</div>
+    <a class="t-open" href="https://open.spotify.com/track/7pJ1cA4N0Zrd8ee9fWINQW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Just Want To Be Your Everything - Andy Gibb">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739007e7e22a518d1a8647c70b" alt="I Just Want To Be Your Everything">
+    <div class="t-name">I Just Want To Be Your Everything</div>
+    <div class="t-artist">Andy Gibb</div>
+    <a class="t-open" href="https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Listen to the Music - The Doobie Brothers">
     <img src="https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498" alt="Listen to the Music">
     <div class="t-name">Listen to the Music</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Ordinary World</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Against All Odds (Take a Look at Me Now) - 2016 Remaster - Phil Collins">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736731eabe4c268971eeed3c06" alt="Against All Odds (Take a Look at Me Now) - 2016 Remaster">
-    <div class="t-name">Against All Odds (Take a Look at Me Now) - 2016 Remaster</div>
-    <div class="t-artist">Phil Collins</div>
-    <a class="t-open" href="https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting for a Girl like You - Foreigner">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" alt="Waiting for a Girl like You">
-    <div class="t-name">Waiting for a Girl like You</div>
-    <div class="t-artist">Foreigner</div>
-    <a class="t-open" href="https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hard Habit to Break - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="Hard Habit to Break">
-    <div class="t-name">Hard Habit to Break</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/1aKClOSAzZjbNHgZwNGRlO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
