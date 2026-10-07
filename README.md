@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Rosanna - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
+    <div class="t-name">Rosanna</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Stop Loving You - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
     <div class="t-name">Stop Loving You</div>
@@ -543,12 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Drive - 2017 Remaster</div>
     <div class="t-artist">The Cars</div>
     <a class="t-open" href="https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Dream It&#x27;s Over - Crowded House">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86" alt="Don&#x27;t Dream It&#x27;s Over">
-    <div class="t-name">Don&#x27;t Dream It&#x27;s Over</div>
-    <div class="t-artist">Crowded House</div>
-    <a class="t-open" href="https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
