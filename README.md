@@ -437,6 +437,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
+    <div class="t-name">You&#x27;re the Inspiration</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/34dS8UC4Wc3WHqS5lbwJ3U" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Arthur&#x27;s Theme (Best That You Can Do) - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" alt="Arthur&#x27;s Theme (Best That You Can Do)">
+    <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ef255849780dca4ccb991cbe" alt="Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster">
+    <div class="t-name">Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cadc46d3afdf205ca9c6ffd6" alt="Hard to Say I&#x27;m Sorry">
+    <div class="t-name">Hard to Say I&#x27;m Sorry</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/2snFVTguRJ42e5bq1YiR58" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="No Time To Play - Guru">
     <img src="https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0" alt="No Time To Play">
     <div class="t-name">No Time To Play</div>
@@ -532,30 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Ain’t No Fun (If The Homies Can’t Have None)</div>
     <div class="t-artist">Snoop Dogg</div>
     <a class="t-open" href="https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ARIGATTO - m-flo">
-    <img src="https://i.scdn.co/image/ab67616d0000b27346776a173428d38f2726515e" alt="ARIGATTO">
-    <div class="t-name">ARIGATTO</div>
-    <div class="t-artist">m-flo</div>
-    <a class="t-open" href="https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="She Knows Too Much - Thundercat">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" alt="She Knows Too Much">
-    <div class="t-name">She Knows Too Much</div>
-    <div class="t-artist">Thundercat</div>
-    <a class="t-open" href="https://open.spotify.com/track/1TK2iF5KlY8OEm5k5AeyBk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hypnotize - 2014 Remaster - The Notorious B.I.G.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" alt="Hypnotize - 2014 Remaster">
-    <div class="t-name">Hypnotize - 2014 Remaster</div>
-    <div class="t-artist">The Notorious B.I.G.</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="FIND GOD (feat. Dominic Fike) - Kenny Mason">
-    <img src="https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8" alt="FIND GOD (feat. Dominic Fike)">
-    <div class="t-name">FIND GOD (feat. Dominic Fike)</div>
-    <div class="t-artist">Kenny Mason</div>
-    <a class="t-open" href="https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
