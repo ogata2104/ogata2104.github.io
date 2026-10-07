@@ -355,26 +355,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -437,6 +436,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Stop Loving You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
+    <div class="t-name">Stop Loving You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
+    <div class="t-name">I&#x27;ll Be Over You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hold the Line - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
+    <div class="t-name">Hold the Line</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Africa - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
+    <div class="t-name">Africa</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="雨降りの月曜 - LIBRO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e76bd6a222c855c8f63a0931" alt="雨降りの月曜">
+    <div class="t-name">雨降りの月曜</div>
+    <div class="t-artist">LIBRO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2NVwpdXHdSKjrGDmutNjAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="浸透 - NAKED ARTZ">
     <img src="https://i.scdn.co/image/ab67616d0000b2734d301b6937b9e07c6824e3ca" alt="浸透">
     <div class="t-name">浸透</div>
@@ -520,42 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Don&#x27;t Dream It&#x27;s Over</div>
     <div class="t-artist">Crowded House</div>
     <a class="t-open" href="https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It Must Have Been Love - From the Film &quot;Pretty Woman&quot; - Roxette">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c807d82d5aaacbba96a487b" alt="It Must Have Been Love - From the Film &quot;Pretty Woman&quot;">
-    <div class="t-name">It Must Have Been Love - From the Film &quot;Pretty Woman&quot;</div>
-    <div class="t-artist">Roxette</div>
-    <a class="t-open" href="https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Just Wanna Stop - Gino Vannelli">
-    <img src="https://i.scdn.co/image/ab67616d0000b273697c76eeeb7de3fab4d55ea9" alt="I Just Wanna Stop">
-    <div class="t-name">I Just Wanna Stop</div>
-    <div class="t-artist">Gino Vannelli</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Saturday in the Park - 2002 Remaster - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fd00df189dedf5d4eb5d9e1" alt="Saturday in the Park - 2002 Remaster">
-    <div class="t-name">Saturday in the Park - 2002 Remaster</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Holding Back the Years - 2008 Remaster - Simply Red">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d27f104dd5adb7029d109720" alt="Holding Back the Years - 2008 Remaster">
-    <div class="t-name">Holding Back the Years - 2008 Remaster</div>
-    <div class="t-artist">Simply Red</div>
-    <a class="t-open" href="https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Me Tomorrow - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a57295112ba99760b186b877" alt="Love Me Tomorrow">
-    <div class="t-name">Love Me Tomorrow</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/2taTwJsSblWRasoJjGtPxg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;d Really Love to See You Tonight - England Dan &amp; John Ford Coley">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b28344e9f8f359a95aa9cfe6" alt="I&#x27;d Really Love to See You Tonight">
-    <div class="t-name">I&#x27;d Really Love to See You Tonight</div>
-    <div class="t-artist">England Dan &amp; John Ford Coley</div>
-    <a class="t-open" href="https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
