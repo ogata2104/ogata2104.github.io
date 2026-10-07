@@ -436,6 +436,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
+    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
+    <div class="t-name">Gorilla Grip</div>
+    <div class="t-artist">Greg Shilling</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Morning Sun - Otis Kane">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737508086c154d77221be8f990" alt="Morning Sun">
+    <div class="t-name">Morning Sun</div>
+    <div class="t-artist">Otis Kane</div>
+    <a class="t-open" href="https://open.spotify.com/track/1vYLJk2Rxn1QzUwyYjulsY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="On the Beach - Jafunk">
+    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
+    <div class="t-name">On the Beach</div>
+    <div class="t-artist">Jafunk</div>
+    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Because We Can - Fatboy Slim">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736a2beee0ce71fce8931790a3" alt="Because We Can">
+    <div class="t-name">Because We Can</div>
+    <div class="t-artist">Fatboy Slim</div>
+    <a class="t-open" href="https://open.spotify.com/track/7bbUtZjj5rWWKD3XXOksXq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Rosanna - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
     <div class="t-name">Rosanna</div>
@@ -519,36 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Will You Still Love Me?</div>
     <div class="t-artist">Chicago</div>
     <a class="t-open" href="https://open.spotify.com/track/7oQwWGj4zGagT93zB8qWJt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Together Forever - 2022 Remaster - Rick Astley">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733a67639779ccabd632e1a80e" alt="Together Forever - 2022 Remaster">
-    <div class="t-name">Together Forever - 2022 Remaster</div>
-    <div class="t-artist">Rick Astley</div>
-    <a class="t-open" href="https://open.spotify.com/track/0txA8cFKpWRm9qjuetgH3O" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Nothing&#x27;s Gonna Change My Love for You - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e71efa8c6cfc1f8b39b0bdab" alt="Nothing&#x27;s Gonna Change My Love for You">
-    <div class="t-name">Nothing&#x27;s Gonna Change My Love for You</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="In Too Deep - 2007 Remaster - Genesis">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="In Too Deep - 2007 Remaster">
-    <div class="t-name">In Too Deep - 2007 Remaster</div>
-    <div class="t-artist">Genesis</div>
-    <a class="t-open" href="https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Babe - Styx">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735375070081edf3a7b188f0c7" alt="Babe">
-    <div class="t-name">Babe</div>
-    <div class="t-artist">Styx</div>
-    <a class="t-open" href="https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Drive - 2017 Remaster - The Cars">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f607580794ed5b352884fd47" alt="Drive - 2017 Remaster">
-    <div class="t-name">Drive - 2017 Remaster</div>
-    <div class="t-artist">The Cars</div>
-    <a class="t-open" href="https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
