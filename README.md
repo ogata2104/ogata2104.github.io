@@ -437,6 +437,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Listen to the Music - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498" alt="Listen to the Music">
+    <div class="t-name">Listen to the Music</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Will You Still Love Me? - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273def88dc9b941a818647e711a" alt="Will You Still Love Me?">
+    <div class="t-name">Will You Still Love Me?</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/7oQwWGj4zGagT93zB8qWJt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Together Forever - 2022 Remaster - Rick Astley">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733a67639779ccabd632e1a80e" alt="Together Forever - 2022 Remaster">
+    <div class="t-name">Together Forever - 2022 Remaster</div>
+    <div class="t-artist">Rick Astley</div>
+    <a class="t-open" href="https://open.spotify.com/track/0txA8cFKpWRm9qjuetgH3O" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Nothing&#x27;s Gonna Change My Love for You - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e71efa8c6cfc1f8b39b0bdab" alt="Nothing&#x27;s Gonna Change My Love for You">
+    <div class="t-name">Nothing&#x27;s Gonna Change My Love for You</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="In Too Deep - 2007 Remaster - Genesis">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="In Too Deep - 2007 Remaster">
+    <div class="t-name">In Too Deep - 2007 Remaster</div>
+    <div class="t-artist">Genesis</div>
+    <a class="t-open" href="https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Babe - Styx">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735375070081edf3a7b188f0c7" alt="Babe">
+    <div class="t-name">Babe</div>
+    <div class="t-artist">Styx</div>
+    <a class="t-open" href="https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Drive - 2017 Remaster - The Cars">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f607580794ed5b352884fd47" alt="Drive - 2017 Remaster">
+    <div class="t-name">Drive - 2017 Remaster</div>
+    <div class="t-artist">The Cars</div>
+    <a class="t-open" href="https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Dream It&#x27;s Over - Crowded House">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86" alt="Don&#x27;t Dream It&#x27;s Over">
+    <div class="t-name">Don&#x27;t Dream It&#x27;s Over</div>
+    <div class="t-artist">Crowded House</div>
+    <a class="t-open" href="https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It Must Have Been Love - From the Film &quot;Pretty Woman&quot; - Roxette">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c807d82d5aaacbba96a487b" alt="It Must Have Been Love - From the Film &quot;Pretty Woman&quot;">
+    <div class="t-name">It Must Have Been Love - From the Film &quot;Pretty Woman&quot;</div>
+    <div class="t-artist">Roxette</div>
+    <a class="t-open" href="https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Just Wanna Stop - Gino Vannelli">
+    <img src="https://i.scdn.co/image/ab67616d0000b273697c76eeeb7de3fab4d55ea9" alt="I Just Wanna Stop">
+    <div class="t-name">I Just Wanna Stop</div>
+    <div class="t-artist">Gino Vannelli</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Saturday in the Park - 2002 Remaster - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b2738fd00df189dedf5d4eb5d9e1" alt="Saturday in the Park - 2002 Remaster">
     <div class="t-name">Saturday in the Park - 2002 Remaster</div>
@@ -496,66 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Hard Habit to Break</div>
     <div class="t-artist">Chicago</div>
     <a class="t-open" href="https://open.spotify.com/track/1aKClOSAzZjbNHgZwNGRlO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Nothing&#x27;s Gonna Stop Us Now - Starship">
-    <img src="https://i.scdn.co/image/ab67616d0000b27350254eb5684495b8b67f507b" alt="Nothing&#x27;s Gonna Stop Us Now">
-    <div class="t-name">Nothing&#x27;s Gonna Stop Us Now</div>
-    <div class="t-artist">Starship</div>
-    <a class="t-open" href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
-    <div class="t-name">Biggest Part of Me</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Higher Love - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
-    <div class="t-name">Higher Love</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
-    <div class="t-name">You&#x27;re the Inspiration</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/34dS8UC4Wc3WHqS5lbwJ3U" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Arthur&#x27;s Theme (Best That You Can Do) - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" alt="Arthur&#x27;s Theme (Best That You Can Do)">
-    <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ef255849780dca4ccb991cbe" alt="Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster">
-    <div class="t-name">Hard to Say I&#x27;m Sorry / Get Away - 2006 Remaster</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hard to Say I&#x27;m Sorry - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cadc46d3afdf205ca9c6ffd6" alt="Hard to Say I&#x27;m Sorry">
-    <div class="t-name">Hard to Say I&#x27;m Sorry</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/2snFVTguRJ42e5bq1YiR58" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Time To Play - Guru">
-    <img src="https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0" alt="No Time To Play">
-    <div class="t-name">No Time To Play</div>
-    <div class="t-artist">Guru</div>
-    <a class="t-open" href="https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="STEPPER&#x27;S DELIGHT - RIP SLYME">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736c2ee67920ea1f9ea6f162f3" alt="STEPPER&#x27;S DELIGHT">
-    <div class="t-name">STEPPER&#x27;S DELIGHT</div>
-    <div class="t-artist">RIP SLYME</div>
-    <a class="t-open" href="https://open.spotify.com/track/31Xrw5Cw5DfCtPzp9zwAdT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rock The Bells - LL COOL J">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731cb9b88a3e8d5344a10184bc" alt="Rock The Bells">
-    <div class="t-name">Rock The Bells</div>
-    <div class="t-artist">LL COOL J</div>
-    <a class="t-open" href="https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
