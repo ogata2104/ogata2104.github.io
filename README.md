@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="浸透 - NAKED ARTZ">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d301b6937b9e07c6824e3ca" alt="浸透">
+    <div class="t-name">浸透</div>
+    <div class="t-artist">NAKED ARTZ</div>
+    <a class="t-open" href="https://open.spotify.com/track/4oRKPHi3sl6jH3WpHnAqje" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="対話 feat.Momoe Shimano a.k.a. MOE&#x27;T - LIBRO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e76bd6a222c855c8f63a0931" alt="対話 feat.Momoe Shimano a.k.a. MOE&#x27;T">
+    <div class="t-name">対話 feat.Momoe Shimano a.k.a. MOE&#x27;T</div>
+    <div class="t-artist">LIBRO</div>
+    <a class="t-open" href="https://open.spotify.com/track/3QdikJf1nE793dfRRxwG8t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TWO NIGHT - MICROPHONE PAGER">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a5a10dc33c947f9327389e31" alt="TWO NIGHT">
+    <div class="t-name">TWO NIGHT</div>
+    <div class="t-artist">MICROPHONE PAGER</div>
+    <a class="t-open" href="https://open.spotify.com/track/0HB5GANCGamiprFkr3igZ5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="TOP OF TOKYO - ILLMATIC BUDDHA MC&#x27;S">
     <img src="https://i.scdn.co/image/ab67616d0000b27377796d6098ecae156a4d8269" alt="TOP OF TOKYO">
     <div class="t-name">TOP OF TOKYO</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">I&#x27;d Really Love to See You Tonight</div>
     <div class="t-artist">England Dan &amp; John Ford Coley</div>
     <a class="t-open" href="https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Glory of Love - Peter Cetera">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739cd3665c5518c19b9ba36676" alt="Glory of Love">
-    <div class="t-name">Glory of Love</div>
-    <div class="t-artist">Peter Cetera</div>
-    <a class="t-open" href="https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="True - 2003 Remaster - Spandau Ballet">
-    <img src="https://i.scdn.co/image/ab67616d0000b273423e79bb88e572ba87cdd185" alt="True - 2003 Remaster">
-    <div class="t-name">True - 2003 Remaster</div>
-    <div class="t-artist">Spandau Ballet</div>
-    <a class="t-open" href="https://open.spotify.com/track/10I09MLZCY4pK37XxAfkw0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ordinary World - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" alt="Ordinary World">
-    <div class="t-name">Ordinary World</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
