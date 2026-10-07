@@ -437,6 +437,84 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Saturday in the Park - 2002 Remaster - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fd00df189dedf5d4eb5d9e1" alt="Saturday in the Park - 2002 Remaster">
+    <div class="t-name">Saturday in the Park - 2002 Remaster</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Holding Back the Years - 2008 Remaster - Simply Red">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d27f104dd5adb7029d109720" alt="Holding Back the Years - 2008 Remaster">
+    <div class="t-name">Holding Back the Years - 2008 Remaster</div>
+    <div class="t-artist">Simply Red</div>
+    <a class="t-open" href="https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Me Tomorrow - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a57295112ba99760b186b877" alt="Love Me Tomorrow">
+    <div class="t-name">Love Me Tomorrow</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/2taTwJsSblWRasoJjGtPxg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;d Really Love to See You Tonight - England Dan &amp; John Ford Coley">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b28344e9f8f359a95aa9cfe6" alt="I&#x27;d Really Love to See You Tonight">
+    <div class="t-name">I&#x27;d Really Love to See You Tonight</div>
+    <div class="t-artist">England Dan &amp; John Ford Coley</div>
+    <a class="t-open" href="https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Glory of Love - Peter Cetera">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739cd3665c5518c19b9ba36676" alt="Glory of Love">
+    <div class="t-name">Glory of Love</div>
+    <div class="t-artist">Peter Cetera</div>
+    <a class="t-open" href="https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="True - 2003 Remaster - Spandau Ballet">
+    <img src="https://i.scdn.co/image/ab67616d0000b273423e79bb88e572ba87cdd185" alt="True - 2003 Remaster">
+    <div class="t-name">True - 2003 Remaster</div>
+    <div class="t-artist">Spandau Ballet</div>
+    <a class="t-open" href="https://open.spotify.com/track/10I09MLZCY4pK37XxAfkw0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ordinary World - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" alt="Ordinary World">
+    <div class="t-name">Ordinary World</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Against All Odds (Take a Look at Me Now) - 2016 Remaster - Phil Collins">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736731eabe4c268971eeed3c06" alt="Against All Odds (Take a Look at Me Now) - 2016 Remaster">
+    <div class="t-name">Against All Odds (Take a Look at Me Now) - 2016 Remaster</div>
+    <div class="t-artist">Phil Collins</div>
+    <a class="t-open" href="https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waiting for a Girl like You - Foreigner">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3" alt="Waiting for a Girl like You">
+    <div class="t-name">Waiting for a Girl like You</div>
+    <div class="t-artist">Foreigner</div>
+    <a class="t-open" href="https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hard Habit to Break - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="Hard Habit to Break">
+    <div class="t-name">Hard Habit to Break</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/1aKClOSAzZjbNHgZwNGRlO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Nothing&#x27;s Gonna Stop Us Now - Starship">
+    <img src="https://i.scdn.co/image/ab67616d0000b27350254eb5684495b8b67f507b" alt="Nothing&#x27;s Gonna Stop Us Now">
+    <div class="t-name">Nothing&#x27;s Gonna Stop Us Now</div>
+    <div class="t-artist">Starship</div>
+    <a class="t-open" href="https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
+    <div class="t-name">Biggest Part of Me</div>
+    <div class="t-artist">Ambrosia</div>
+    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Higher Love - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
+    <div class="t-name">Higher Love</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="You&#x27;re the Inspiration - Chicago">
     <img src="https://i.scdn.co/image/ab67616d0000b273414c589539fc4be1c06bb72a" alt="You&#x27;re the Inspiration">
     <div class="t-name">You&#x27;re the Inspiration</div>
@@ -478,84 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Rock The Bells</div>
     <div class="t-artist">LL COOL J</div>
     <a class="t-open" href="https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="A Good Day - Anderson .Paak">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b18a11a302d8bead0f45985c" alt="A Good Day">
-    <div class="t-name">A Good Day</div>
-    <div class="t-artist">Anderson .Paak</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Who Am I (What’s My Name)? - Snoop Dogg">
-    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Who Am I (What’s My Name)?">
-    <div class="t-name">Who Am I (What’s My Name)?</div>
-    <div class="t-artist">Snoop Dogg</div>
-    <a class="t-open" href="https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered - Coolio">
-    <img src="https://i.scdn.co/image/ab67616d0000b27350d024d6b2fa643d32760de1" alt="1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered">
-    <div class="t-name">1, 2, 3, 4 (Sumpin&#x27; New) [Timber Mix] - Remastered</div>
-    <div class="t-artist">Coolio</div>
-    <a class="t-open" href="https://open.spotify.com/track/35mPmXeNuIzkeEAFfyfUla" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Eye Know - De La Soul">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71" alt="Eye Know">
-    <div class="t-name">Eye Know</div>
-    <div class="t-artist">De La Soul</div>
-    <a class="t-open" href="https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="O.P.P - Naughty By Nature">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e" alt="O.P.P">
-    <div class="t-name">O.P.P</div>
-    <div class="t-artist">Naughty By Nature</div>
-    <a class="t-open" href="https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Juicy - 2005 Remaster - The Notorious B.I.G.">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830" alt="Juicy - 2005 Remaster">
-    <div class="t-name">Juicy - 2005 Remaster</div>
-    <div class="t-artist">The Notorious B.I.G.</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fuck Tha Police - N.W.A.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781" alt="Fuck Tha Police">
-    <div class="t-name">Fuck Tha Police</div>
-    <div class="t-artist">N.W.A.</div>
-    <a class="t-open" href="https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Around The Way Girl - LL COOL J">
-    <img src="https://i.scdn.co/image/ab67616d0000b27382dfae6e3a8f7a387f741ed1" alt="Around The Way Girl">
-    <div class="t-name">Around The Way Girl</div>
-    <div class="t-artist">LL COOL J</div>
-    <a class="t-open" href="https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Harder Than You Think - Public Enemy">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732acb820332d5f37cd536cc98" alt="Harder Than You Think">
-    <div class="t-name">Harder Than You Think</div>
-    <div class="t-artist">Public Enemy</div>
-    <a class="t-open" href="https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feather - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b273421d647a4f604d79943f4dad" alt="Feather">
-    <div class="t-name">Feather</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aK4LNijbD7kkCg54UoIij" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ooh La La - Coolio">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bdf1893dd79236b73bfd2a04" alt="Ooh La La">
-    <div class="t-name">Ooh La La</div>
-    <div class="t-artist">Coolio</div>
-    <a class="t-open" href="https://open.spotify.com/track/0JDpQYEIgXGI1MFLzFNQAT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Until We Rich - Ice Cube">
-    <img src="https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857" alt="Until We Rich">
-    <div class="t-name">Until We Rich</div>
-    <div class="t-artist">Ice Cube</div>
-    <a class="t-open" href="https://open.spotify.com/track/6l3b8BOBDRDM1ne9fpOygz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ain’t No Fun (If The Homies Can’t Have None) - Snoop Dogg">
-    <img src="https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29" alt="Ain’t No Fun (If The Homies Can’t Have None)">
-    <div class="t-name">Ain’t No Fun (If The Homies Can’t Have None)</div>
-    <div class="t-artist">Snoop Dogg</div>
-    <a class="t-open" href="https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
