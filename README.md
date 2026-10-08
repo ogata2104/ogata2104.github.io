@@ -355,26 +355,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -437,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Starlights In Sunshine - Takkyu Ishino">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733a6f4412a83432079502ba37" alt="Starlights In Sunshine">
+    <div class="t-name">Starlights In Sunshine</div>
+    <div class="t-artist">Takkyu Ishino</div>
+    <a class="t-open" href="https://open.spotify.com/track/70EicbQlI3XpJys4GBC6BT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="stereo nights - Takkyu Ishino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273758f208ac19f8bfce00e5a9a" alt="stereo nights">
+    <div class="t-name">stereo nights</div>
+    <div class="t-artist">Takkyu Ishino</div>
+    <a class="t-open" href="https://open.spotify.com/track/3PwG2RWwEUhrMTC63ZpA3U" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Giddy Up - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Giddy Up">
+    <div class="t-name">Giddy Up</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/5mrA886l2Xd6DKHHjCmmSr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="(You Gotta) Fight For Your Right (To Party!) - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab6742d3000053b74a31734dc6157cef68a0b780" alt="(You Gotta) Fight For Your Right (To Party!)">
+    <div class="t-name">(You Gotta) Fight For Your Right (To Party!)</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/4CM1XzWaMvMV7uXS2XlF9c" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lost Ones - Ms. Lauryn Hill">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9" alt="Lost Ones">
+    <div class="t-name">Lost Ones</div>
+    <div class="t-artist">Ms. Lauryn Hill</div>
+    <a class="t-open" href="https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Let Me Blow Ya Mind - Eve">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732dd8a31709137799f5c937f2" alt="Let Me Blow Ya Mind">
+    <div class="t-name">Let Me Blow Ya Mind</div>
+    <div class="t-artist">Eve</div>
+    <a class="t-open" href="https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shade - IAMDDB">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735d078b119272fb1f35cec33a" alt="Shade">
+    <div class="t-name">Shade</div>
+    <div class="t-artist">IAMDDB</div>
+    <a class="t-open" href="https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="GOING CRAZY - Ktlyn">
     <img src="https://i.scdn.co/image/ab67616d0000b273c040bba0fa22713a6fe0934f" alt="GOING CRAZY">
     <div class="t-name">GOING CRAZY</div>
@@ -454,18 +494,6 @@ From TOKYO JAPAN
     <div class="t-name">DENIAL IS A RIVER</div>
     <div class="t-artist">Doechii</div>
     <a class="t-open" href="https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Let Me Blow Ya Mind - Eve">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732dd8a31709137799f5c937f2" alt="Let Me Blow Ya Mind">
-    <div class="t-name">Let Me Blow Ya Mind</div>
-    <div class="t-artist">Eve</div>
-    <a class="t-open" href="https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shade - IAMDDB">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735d078b119272fb1f35cec33a" alt="Shade">
-    <div class="t-name">Shade</div>
-    <div class="t-artist">IAMDDB</div>
-    <a class="t-open" href="https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Doo Wop (That Thing) - Ms. Lauryn Hill">
     <img src="https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9" alt="Doo Wop (That Thing)">
@@ -514,48 +542,6 @@ From TOKYO JAPAN
     <div class="t-name">Breakadawn</div>
     <div class="t-artist">De La Soul</div>
     <a class="t-open" href="https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Sleep Till Brooklyn - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="No Sleep Till Brooklyn">
-    <div class="t-name">No Sleep Till Brooklyn</div>
-    <div class="t-artist">Beastie Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ambitionz Az A Ridah - 2Pac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="Ambitionz Az A Ridah">
-    <div class="t-name">Ambitionz Az A Ridah</div>
-    <div class="t-artist">2Pac</div>
-    <a class="t-open" href="https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Here Comes The Hammer - MC Hammer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
-    <div class="t-name">Here Comes The Hammer</div>
-    <div class="t-artist">MC Hammer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
-    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
-    <div class="t-name">Gorilla Grip</div>
-    <div class="t-artist">Greg Shilling</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Morning Sun - Otis Kane">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737508086c154d77221be8f990" alt="Morning Sun">
-    <div class="t-name">Morning Sun</div>
-    <div class="t-artist">Otis Kane</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vYLJk2Rxn1QzUwyYjulsY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
-    <div class="t-name">Asleep Talking</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="On the Beach - Jafunk">
-    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
-    <div class="t-name">On the Beach</div>
-    <div class="t-artist">Jafunk</div>
-    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
