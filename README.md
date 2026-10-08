@@ -355,25 +355,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +437,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster - The Notorious B.I.G.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" alt="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster">
+    <div class="t-name">Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster</div>
+    <div class="t-artist">The Notorious B.I.G.</div>
+    <a class="t-open" href="https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It&#x27;s On - Kay Gee Remix - Naughty By Nature">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731954eaf942950b061923813c" alt="It&#x27;s On - Kay Gee Remix">
+    <div class="t-name">It&#x27;s On - Kay Gee Remix</div>
+    <div class="t-artist">Naughty By Nature</div>
+    <a class="t-open" href="https://open.spotify.com/track/5UnZLhEHmhgr03aP2AYRuZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="A Good Day - Anderson .Paak">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b18a11a302d8bead0f45985c" alt="A Good Day">
+    <div class="t-name">A Good Day</div>
+    <div class="t-artist">Anderson .Paak</div>
+    <a class="t-open" href="https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Mama Said Knock You Out - LL COOL J">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ea56f049af3cd747595ca724" alt="Mama Said Knock You Out">
+    <div class="t-name">Mama Said Knock You Out</div>
+    <div class="t-artist">LL COOL J</div>
+    <a class="t-open" href="https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Signs - Snoop Dogg">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057" alt="Signs">
+    <div class="t-name">Signs</div>
+    <div class="t-artist">Snoop Dogg</div>
+    <a class="t-open" href="https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Breakadawn - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273425d6882cbb8165986ca7c40" alt="Breakadawn">
+    <div class="t-name">Breakadawn</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="No Sleep Till Brooklyn - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="No Sleep Till Brooklyn">
+    <div class="t-name">No Sleep Till Brooklyn</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ambitionz Az A Ridah - 2Pac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="Ambitionz Az A Ridah">
+    <div class="t-name">Ambitionz Az A Ridah</div>
+    <div class="t-artist">2Pac</div>
+    <a class="t-open" href="https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Here Comes The Hammer - MC Hammer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
+    <div class="t-name">Here Comes The Hammer</div>
+    <div class="t-artist">MC Hammer</div>
+    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
     <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
     <div class="t-name">Gorilla Grip</div>
@@ -501,54 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">雨降りの月曜</div>
     <div class="t-artist">LIBRO</div>
     <a class="t-open" href="https://open.spotify.com/track/2NVwpdXHdSKjrGDmutNjAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="浸透 - NAKED ARTZ">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d301b6937b9e07c6824e3ca" alt="浸透">
-    <div class="t-name">浸透</div>
-    <div class="t-artist">NAKED ARTZ</div>
-    <a class="t-open" href="https://open.spotify.com/track/4oRKPHi3sl6jH3WpHnAqje" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="対話 feat.Momoe Shimano a.k.a. MOE&#x27;T - LIBRO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e76bd6a222c855c8f63a0931" alt="対話 feat.Momoe Shimano a.k.a. MOE&#x27;T">
-    <div class="t-name">対話 feat.Momoe Shimano a.k.a. MOE&#x27;T</div>
-    <div class="t-artist">LIBRO</div>
-    <a class="t-open" href="https://open.spotify.com/track/3QdikJf1nE793dfRRxwG8t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TWO NIGHT - MICROPHONE PAGER">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a5a10dc33c947f9327389e31" alt="TWO NIGHT">
-    <div class="t-name">TWO NIGHT</div>
-    <div class="t-artist">MICROPHONE PAGER</div>
-    <a class="t-open" href="https://open.spotify.com/track/0HB5GANCGamiprFkr3igZ5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TOP OF TOKYO - ILLMATIC BUDDHA MC&#x27;S">
-    <img src="https://i.scdn.co/image/ab67616d0000b27377796d6098ecae156a4d8269" alt="TOP OF TOKYO">
-    <div class="t-name">TOP OF TOKYO</div>
-    <div class="t-artist">ILLMATIC BUDDHA MC&#x27;S</div>
-    <a class="t-open" href="https://open.spotify.com/track/6yQjot5JkUPupshDZEyreg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="PIZZA &amp; COKE - Mellow Yellow">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737bf4e8eaf321a06f254d8bfa" alt="PIZZA &amp; COKE">
-    <div class="t-name">PIZZA &amp; COKE</div>
-    <div class="t-artist">Mellow Yellow</div>
-    <a class="t-open" href="https://open.spotify.com/track/7pJ1cA4N0Zrd8ee9fWINQW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Just Want To Be Your Everything - Andy Gibb">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739007e7e22a518d1a8647c70b" alt="I Just Want To Be Your Everything">
-    <div class="t-name">I Just Want To Be Your Everything</div>
-    <div class="t-artist">Andy Gibb</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Listen to the Music - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498" alt="Listen to the Music">
-    <div class="t-name">Listen to the Music</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Will You Still Love Me? - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b273def88dc9b941a818647e711a" alt="Will You Still Love Me?">
-    <div class="t-name">Will You Still Love Me?</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/7oQwWGj4zGagT93zB8qWJt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
