@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Doo Wop (That Thing) - Ms. Lauryn Hill">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9" alt="Doo Wop (That Thing)">
+    <div class="t-name">Doo Wop (That Thing)</div>
+    <div class="t-artist">Ms. Lauryn Hill</div>
+    <a class="t-open" href="https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Family Affair - Mary J. Blige">
+    <img src="https://i.scdn.co/image/ab67616d0000b273096a7fc9668305db9d3175fc" alt="Family Affair">
+    <div class="t-name">Family Affair</div>
+    <div class="t-artist">Mary J. Blige</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster - The Notorious B.I.G.">
     <img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" alt="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster">
     <div class="t-name">Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Hold the Line</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="雨降りの月曜 - LIBRO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e76bd6a222c855c8f63a0931" alt="雨降りの月曜">
-    <div class="t-name">雨降りの月曜</div>
-    <div class="t-artist">LIBRO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2NVwpdXHdSKjrGDmutNjAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
