@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="GOING CRAZY - Ktlyn">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c040bba0fa22713a6fe0934f" alt="GOING CRAZY">
+    <div class="t-name">GOING CRAZY</div>
+    <div class="t-artist">Ktlyn</div>
+    <a class="t-open" href="https://open.spotify.com/track/1mlO8hhMCe48yPfkSIhXpd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Paint The Town Red - Doja Cat">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a54499d7ba4e9afeea91df86" alt="Paint The Town Red">
+    <div class="t-name">Paint The Town Red</div>
+    <div class="t-artist">Doja Cat</div>
+    <a class="t-open" href="https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DENIAL IS A RIVER - Doechii">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b245099fe26319344ddf6054" alt="DENIAL IS A RIVER">
+    <div class="t-name">DENIAL IS A RIVER</div>
+    <div class="t-artist">Doechii</div>
+    <a class="t-open" href="https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Let Me Blow Ya Mind - Eve">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732dd8a31709137799f5c937f2" alt="Let Me Blow Ya Mind">
+    <div class="t-name">Let Me Blow Ya Mind</div>
+    <div class="t-artist">Eve</div>
+    <a class="t-open" href="https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shade - IAMDDB">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735d078b119272fb1f35cec33a" alt="Shade">
+    <div class="t-name">Shade</div>
+    <div class="t-artist">IAMDDB</div>
+    <a class="t-open" href="https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Doo Wop (That Thing) - Ms. Lauryn Hill">
     <img src="https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9" alt="Doo Wop (That Thing)">
     <div class="t-name">Doo Wop (That Thing)</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">On the Beach</div>
     <div class="t-artist">Jafunk</div>
     <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Because We Can - Fatboy Slim">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736a2beee0ce71fce8931790a3" alt="Because We Can">
-    <div class="t-name">Because We Can</div>
-    <div class="t-artist">Fatboy Slim</div>
-    <a class="t-open" href="https://open.spotify.com/track/7bbUtZjj5rWWKD3XXOksXq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rosanna - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Rosanna">
-    <div class="t-name">Rosanna</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
-    <div class="t-name">I&#x27;ll Be Over You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold the Line - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
-    <div class="t-name">Hold the Line</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
