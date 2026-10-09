@@ -434,6 +434,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Karaoke - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332d132688d2b91ab868f034e" alt="Karaoke">
+    <div class="t-name">Karaoke</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ktBpL2bkVOx0NmgB91A9F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Starlights In Sunshine - Takkyu Ishino">
     <img src="https://i.scdn.co/image/ab67616d0000b2733a6f4412a83432079502ba37" alt="Starlights In Sunshine">
     <div class="t-name">Starlights In Sunshine</div>
@@ -529,12 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">Mama Said Knock You Out</div>
     <div class="t-artist">LL COOL J</div>
     <a class="t-open" href="https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Signs - Snoop Dogg">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057" alt="Signs">
-    <div class="t-name">Signs</div>
-    <div class="t-artist">Snoop Dogg</div>
-    <a class="t-open" href="https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
