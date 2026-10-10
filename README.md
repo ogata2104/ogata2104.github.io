@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ハイスクールララバイ - Imo-Kin Trio">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732f5d9f7142cd9e697107588e" alt="ハイスクールララバイ">
+    <div class="t-name">ハイスクールララバイ</div>
+    <div class="t-artist">Imo-Kin Trio</div>
+    <a class="t-open" href="https://open.spotify.com/track/2Z0nUCFKvTFzi4yaSb7zQ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="PRESTO - Ken Ishii">
     <img src="https://i.scdn.co/image/ab67616d0000b273099e40a5333555464655657a" alt="PRESTO">
     <div class="t-name">PRESTO</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Karaoke</div>
     <div class="t-artist">Ginger Root</div>
     <a class="t-open" href="https://open.spotify.com/track/4ktBpL2bkVOx0NmgB91A9F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Starlights In Sunshine - Takkyu Ishino">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733a6f4412a83432079502ba37" alt="Starlights In Sunshine">
-    <div class="t-name">Starlights In Sunshine</div>
-    <div class="t-artist">Takkyu Ishino</div>
-    <a class="t-open" href="https://open.spotify.com/track/70EicbQlI3XpJys4GBC6BT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
