@@ -355,23 +355,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 17; }
-.spotify-card:nth-child(2) { z-index: 16; }
-.spotify-card:nth-child(3) { z-index: 15; }
-.spotify-card:nth-child(4) { z-index: 14; }
-.spotify-card:nth-child(5) { z-index: 13; }
-.spotify-card:nth-child(6) { z-index: 12; }
-.spotify-card:nth-child(7) { z-index: 11; }
-.spotify-card:nth-child(8) { z-index: 10; }
-.spotify-card:nth-child(9) { z-index: 9; }
-.spotify-card:nth-child(10) { z-index: 8; }
-.spotify-card:nth-child(11) { z-index: 7; }
-.spotify-card:nth-child(12) { z-index: 6; }
-.spotify-card:nth-child(13) { z-index: 5; }
-.spotify-card:nth-child(14) { z-index: 4; }
-.spotify-card:nth-child(15) { z-index: 3; }
-.spotify-card:nth-child(16) { z-index: 2; }
-.spotify-card:nth-child(17) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -434,6 +436,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Way You Make Me Feel - 2012 Remaster - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" alt="The Way You Make Me Feel - 2012 Remaster">
+    <div class="t-name">The Way You Make Me Feel - 2012 Remaster</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="P.Y.T. (Pretty Young Thing) - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="P.Y.T. (Pretty Young Thing)">
+    <div class="t-name">P.Y.T. (Pretty Young Thing)</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="They Don&#x27;t Care About Us - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="They Don&#x27;t Care About Us">
+    <div class="t-name">They Don&#x27;t Care About Us</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Rock with You - Single Version - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" alt="Rock with You - Single Version">
+    <div class="t-name">Rock with You - Single Version</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Smooth Criminal - 2012 Remaster - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" alt="Smooth Criminal - 2012 Remaster">
+    <div class="t-name">Smooth Criminal - 2012 Remaster</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Beat It - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Beat It">
+    <div class="t-name">Beat It</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Remember the Time - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" alt="Remember the Time">
+    <div class="t-name">Remember the Time</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Stop &#x27;Til You Get Enough - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" alt="Don&#x27;t Stop &#x27;Til You Get Enough">
+    <div class="t-name">Don&#x27;t Stop &#x27;Til You Get Enough</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Chicago - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" alt="Chicago">
+    <div class="t-name">Chicago</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Billie Jean - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Billie Jean">
+    <div class="t-name">Billie Jean</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Twilights - Takkyu Ishino">
     <img src="https://i.scdn.co/image/ab67616d0000b2738e7f6ce66783c1d18a173f52" alt="Twilights">
     <div class="t-name">Twilights</div>
@@ -487,54 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Shade</div>
     <div class="t-artist">IAMDDB</div>
     <a class="t-open" href="https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="GOING CRAZY - Ktlyn">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c040bba0fa22713a6fe0934f" alt="GOING CRAZY">
-    <div class="t-name">GOING CRAZY</div>
-    <div class="t-artist">Ktlyn</div>
-    <a class="t-open" href="https://open.spotify.com/track/1mlO8hhMCe48yPfkSIhXpd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Paint The Town Red - Doja Cat">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a54499d7ba4e9afeea91df86" alt="Paint The Town Red">
-    <div class="t-name">Paint The Town Red</div>
-    <div class="t-artist">Doja Cat</div>
-    <a class="t-open" href="https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DENIAL IS A RIVER - Doechii">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b245099fe26319344ddf6054" alt="DENIAL IS A RIVER">
-    <div class="t-name">DENIAL IS A RIVER</div>
-    <div class="t-artist">Doechii</div>
-    <a class="t-open" href="https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Doo Wop (That Thing) - Ms. Lauryn Hill">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9" alt="Doo Wop (That Thing)">
-    <div class="t-name">Doo Wop (That Thing)</div>
-    <div class="t-artist">Ms. Lauryn Hill</div>
-    <a class="t-open" href="https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Family Affair - Mary J. Blige">
-    <img src="https://i.scdn.co/image/ab67616d0000b273096a7fc9668305db9d3175fc" alt="Family Affair">
-    <div class="t-name">Family Affair</div>
-    <div class="t-artist">Mary J. Blige</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster - The Notorious B.I.G.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30" alt="Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster">
-    <div class="t-name">Mo Money Mo Problems (feat. Puff Daddy &amp; Mase) - 2014 Remaster</div>
-    <div class="t-artist">The Notorious B.I.G.</div>
-    <a class="t-open" href="https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It&#x27;s On - Kay Gee Remix - Naughty By Nature">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731954eaf942950b061923813c" alt="It&#x27;s On - Kay Gee Remix">
-    <div class="t-name">It&#x27;s On - Kay Gee Remix</div>
-    <div class="t-artist">Naughty By Nature</div>
-    <a class="t-open" href="https://open.spotify.com/track/5UnZLhEHmhgr03aP2AYRuZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="A Good Day - Anderson .Paak">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b18a11a302d8bead0f45985c" alt="A Good Day">
-    <div class="t-name">A Good Day</div>
-    <div class="t-artist">Anderson .Paak</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
