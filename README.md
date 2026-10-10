@@ -436,6 +436,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
+    <div class="t-name">Reelin&#x27; In The Years</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Peg - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
+    <div class="t-name">Peg</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Rikki Don&#x27;t Lose That Number - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273120746a40f65d11c2ac29647" alt="Rikki Don&#x27;t Lose That Number">
+    <div class="t-name">Rikki Don&#x27;t Lose That Number</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hey Nineteen - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" alt="Hey Nineteen">
+    <div class="t-name">Hey Nineteen</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Do It Again - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
+    <div class="t-name">Do It Again</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ハイスクールララバイ - Imo-Kin Trio">
     <img src="https://i.scdn.co/image/ab67616d0000b2732f5d9f7142cd9e697107588e" alt="ハイスクールララバイ">
     <div class="t-name">ハイスクールララバイ</div>
@@ -525,36 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Remember the Time</div>
     <div class="t-artist">Michael Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Stop &#x27;Til You Get Enough - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" alt="Don&#x27;t Stop &#x27;Til You Get Enough">
-    <div class="t-name">Don&#x27;t Stop &#x27;Til You Get Enough</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Chicago - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" alt="Chicago">
-    <div class="t-name">Chicago</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Billie Jean - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Billie Jean">
-    <div class="t-name">Billie Jean</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Twilights - Takkyu Ishino">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e7f6ce66783c1d18a173f52" alt="Twilights">
-    <div class="t-name">Twilights</div>
-    <div class="t-artist">Takkyu Ishino</div>
-    <a class="t-open" href="https://open.spotify.com/track/2QMI1FcqnI9NH0yEFHH4NE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Karaoke - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332d132688d2b91ab868f034e" alt="Karaoke">
-    <div class="t-name">Karaoke</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ktBpL2bkVOx0NmgB91A9F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
