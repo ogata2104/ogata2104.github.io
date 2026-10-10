@@ -434,6 +434,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Twilights - Takkyu Ishino">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e7f6ce66783c1d18a173f52" alt="Twilights">
+    <div class="t-name">Twilights</div>
+    <div class="t-artist">Takkyu Ishino</div>
+    <a class="t-open" href="https://open.spotify.com/track/2QMI1FcqnI9NH0yEFHH4NE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Karaoke - Ginger Root">
     <img src="https://i.scdn.co/image/ab67616d0000b27332d132688d2b91ab868f034e" alt="Karaoke">
     <div class="t-name">Karaoke</div>
@@ -529,12 +535,6 @@ From TOKYO JAPAN
     <div class="t-name">A Good Day</div>
     <div class="t-artist">Anderson .Paak</div>
     <a class="t-open" href="https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mama Said Knock You Out - LL COOL J">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ea56f049af3cd747595ca724" alt="Mama Said Knock You Out">
-    <div class="t-name">Mama Said Knock You Out</div>
-    <div class="t-artist">LL COOL J</div>
-    <a class="t-open" href="https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
