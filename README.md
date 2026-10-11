@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Runner&#x27;s High - KIRINJI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b914be5691fc8d857d562b22" alt="Runner&#x27;s High">
+    <div class="t-name">Runner&#x27;s High</div>
+    <div class="t-artist">KIRINJI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3bNvT1ITPUrDtDs8tDAtZe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="My Old School - Steely Dan">
     <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
     <div class="t-name">My Old School</div>
@@ -549,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Smooth Criminal - 2012 Remaster</div>
     <div class="t-artist">Michael Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Beat It - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Beat It">
-    <div class="t-name">Beat It</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
