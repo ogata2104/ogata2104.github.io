@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="My Old School - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
+    <div class="t-name">My Old School</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
     <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
     <div class="t-name">Reelin&#x27; In The Years</div>
@@ -549,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Beat It</div>
     <div class="t-artist">Michael Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Remember the Time - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a" alt="Remember the Time">
-    <div class="t-name">Remember the Time</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
