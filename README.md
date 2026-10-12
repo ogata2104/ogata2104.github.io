@@ -436,125 +436,125 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
-  <div class="spotify-card" title="Runner&#x27;s High - KIRINJI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b914be5691fc8d857d562b22" alt="Runner&#x27;s High">
-    <div class="t-name">Runner&#x27;s High</div>
-    <div class="t-artist">KIRINJI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3bNvT1ITPUrDtDs8tDAtZe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Blue Vibe - Red Waterline">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b89dbe422457436bcefc8ff6" alt="Blue Vibe">
+    <div class="t-name">Blue Vibe</div>
+    <div class="t-artist">Red Waterline</div>
+    <a class="t-open" href="https://open.spotify.com/track/3ThK3VmGnQ6vwtBti59e4X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="My Old School - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
-    <div class="t-name">My Old School</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Higher Spirits - crayg">
+    <img src="https://i.scdn.co/image/ab67616d0000b27311d43741363c94b34f579f29" alt="Higher Spirits">
+    <div class="t-name">Higher Spirits</div>
+    <div class="t-artist">crayg</div>
+    <a class="t-open" href="https://open.spotify.com/track/1wlhboZ1uS1FrjgbotAFgy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
-    <div class="t-name">Reelin&#x27; In The Years</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Winding Down - Sean Rivers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273063b43ebf4c0f6dfab3c4ced" alt="Winding Down">
+    <div class="t-name">Winding Down</div>
+    <div class="t-artist">Sean Rivers</div>
+    <a class="t-open" href="https://open.spotify.com/track/5veTy4pDUo3ZrbAo9UCG8L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Peg - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
-    <div class="t-name">Peg</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Wondrous - Gabri From France">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737d8acac38b7afc520be59cbb" alt="Wondrous">
+    <div class="t-name">Wondrous</div>
+    <div class="t-artist">Gabri From France</div>
+    <a class="t-open" href="https://open.spotify.com/track/2aq8jle6usOYVe3QFfdObn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Rikki Don&#x27;t Lose That Number - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273120746a40f65d11c2ac29647" alt="Rikki Don&#x27;t Lose That Number">
-    <div class="t-name">Rikki Don&#x27;t Lose That Number</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="paraiso - Ferrosia">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b3f7aab43ad74350ee875069" alt="paraiso">
+    <div class="t-name">paraiso</div>
+    <div class="t-artist">Ferrosia</div>
+    <a class="t-open" href="https://open.spotify.com/track/5KwC3fCl00RAh2Mwa8m2J8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Hey Nineteen - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" alt="Hey Nineteen">
-    <div class="t-name">Hey Nineteen</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Botanical - Peqasus">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d2c707d8fc6b4d9fe8fcccc6" alt="Botanical">
+    <div class="t-name">Botanical</div>
+    <div class="t-artist">Peqasus</div>
+    <a class="t-open" href="https://open.spotify.com/track/7DkDa7D6kJD0b2inpd0Afy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Do It Again - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
-    <div class="t-name">Do It Again</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Vivid Sun - Goland">
+    <img src="https://i.scdn.co/image/ab67616d0000b27389ee698046a85fb950262159" alt="Vivid Sun">
+    <div class="t-name">Vivid Sun</div>
+    <div class="t-artist">Goland</div>
+    <a class="t-open" href="https://open.spotify.com/track/38JnXkAb2MzcvniBlsGo7W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="ハイスクールララバイ - Imo-Kin Trio">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732f5d9f7142cd9e697107588e" alt="ハイスクールララバイ">
-    <div class="t-name">ハイスクールララバイ</div>
-    <div class="t-artist">Imo-Kin Trio</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Z0nUCFKvTFzi4yaSb7zQ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="tangerine - Landayn">
+    <img src="https://i.scdn.co/image/ab67616d0000b27309ce177fadf4142f3fc23926" alt="tangerine">
+    <div class="t-name">tangerine</div>
+    <div class="t-artist">Landayn</div>
+    <a class="t-open" href="https://open.spotify.com/track/6IJ9v96Mexj1LnImwzzW3F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="PRESTO - Ken Ishii">
-    <img src="https://i.scdn.co/image/ab67616d0000b273099e40a5333555464655657a" alt="PRESTO">
-    <div class="t-name">PRESTO</div>
-    <div class="t-artist">Ken Ishii</div>
-    <a class="t-open" href="https://open.spotify.com/track/3jltfe9PazkUkbzsa6TwxU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Camas Lily - Fabi.">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737a5cdaf2a7f7d4455d8165d1" alt="Camas Lily">
+    <div class="t-name">Camas Lily</div>
+    <div class="t-artist">Fabi.</div>
+    <a class="t-open" href="https://open.spotify.com/track/461DAGzoGETwtBN1eIVwWK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="I My Me Mine - POLYSICS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735034548745d3cad62ad0aa24" alt="I My Me Mine">
-    <div class="t-name">I My Me Mine</div>
-    <div class="t-artist">POLYSICS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0ULvXwvXirxbzArIddWCDY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Infinity - rigii">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734a6052e208c42754f164d008" alt="Infinity">
+    <div class="t-name">Infinity</div>
+    <div class="t-artist">rigii</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fuybsyPtOCKgWg1Vwmp4S" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="さらば青春のハイウェイ - Virgin Vs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273523d3ef04585e528ffa5fb6d" alt="さらば青春のハイウェイ">
-    <div class="t-name">さらば青春のハイウェイ</div>
-    <div class="t-artist">Virgin Vs</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Rhz5yB7MFtTtvgGZmPQRZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Mount Seymour - Deep Cove">
+    <img src="https://i.scdn.co/image/ab67616d0000b27324e62092b76be5d93dd32800" alt="Mount Seymour">
+    <div class="t-name">Mount Seymour</div>
+    <div class="t-artist">Deep Cove</div>
+    <a class="t-open" href="https://open.spotify.com/track/77gQmuygWFPTokQvDOnvZh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="stereo nights - Takkyu Ishino">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731e9edddf500a8d951cb0d26c" alt="stereo nights">
-    <div class="t-name">stereo nights</div>
-    <div class="t-artist">Takkyu Ishino</div>
-    <a class="t-open" href="https://open.spotify.com/track/04XVLtNV3H9ckIIDGN4huk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Where Poles Disappear - Bare Resonance">
+    <img src="https://i.scdn.co/image/ab67616d0000b273afd79189e7f3c10ddc2f364d" alt="Where Poles Disappear">
+    <div class="t-name">Where Poles Disappear</div>
+    <div class="t-artist">Bare Resonance</div>
+    <a class="t-open" href="https://open.spotify.com/track/5lMs3LZ8EelvRnqQ7ECxR1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="トラベル・チャンス - SCHA DARA PARR">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" alt="トラベル・チャンス">
-    <div class="t-name">トラベル・チャンス</div>
-    <div class="t-artist">SCHA DARA PARR</div>
-    <a class="t-open" href="https://open.spotify.com/track/4JxgqaiTVhINyiq0mFf9YI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Costa - Pjor">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733c09b4f88cb59f927c8a61cf" alt="Costa">
+    <div class="t-name">Costa</div>
+    <div class="t-artist">Pjor</div>
+    <a class="t-open" href="https://open.spotify.com/track/7AmPFLaF3eRoI3hqTdETkz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="ナンダカンダ - Takashi Fujii">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735b65fb6606aa75749db3b936" alt="ナンダカンダ">
-    <div class="t-name">ナンダカンダ</div>
-    <div class="t-artist">Takashi Fujii</div>
-    <a class="t-open" href="https://open.spotify.com/track/3KsYTu8fkANzZuVxNsUSeR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="a path less taken - moe sizzle">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730966977d571353f95525291a" alt="a path less taken">
+    <div class="t-name">a path less taken</div>
+    <div class="t-artist">moe sizzle</div>
+    <a class="t-open" href="https://open.spotify.com/track/2K8acTxAvlJzRDEqVPCdpK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="You Are Not Alone - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="You Are Not Alone">
-    <div class="t-name">You Are Not Alone</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="brown sugar - moe sizzle">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732f221f8f4e6ab283168453b3" alt="brown sugar">
+    <div class="t-name">brown sugar</div>
+    <div class="t-artist">moe sizzle</div>
+    <a class="t-open" href="https://open.spotify.com/track/6fgKvWl0BqpHNBAozJtM96" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="The Way You Make Me Feel - 2012 Remaster - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" alt="The Way You Make Me Feel - 2012 Remaster">
-    <div class="t-name">The Way You Make Me Feel - 2012 Remaster</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Sense of Timing - far away mei">
+    <img src="https://i.scdn.co/image/ab67616d0000b27391418b188b17af8cbc04db1c" alt="Sense of Timing">
+    <div class="t-name">Sense of Timing</div>
+    <div class="t-artist">far away mei</div>
+    <a class="t-open" href="https://open.spotify.com/track/2xBnZkZ8Ms7BD9LxrQygqs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="P.Y.T. (Pretty Young Thing) - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="P.Y.T. (Pretty Young Thing)">
-    <div class="t-name">P.Y.T. (Pretty Young Thing)</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Epiphany - Lndonfox">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306e99202dc4630e9b2880b9b" alt="Epiphany">
+    <div class="t-name">Epiphany</div>
+    <div class="t-artist">Lndonfox</div>
+    <a class="t-open" href="https://open.spotify.com/track/5TwX2FkMDATNTac7ilXosD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="They Don&#x27;t Care About Us - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="They Don&#x27;t Care About Us">
-    <div class="t-name">They Don&#x27;t Care About Us</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="On Time - Tilja">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738442a881b22a096e26efc889" alt="On Time">
+    <div class="t-name">On Time</div>
+    <div class="t-artist">Tilja</div>
+    <a class="t-open" href="https://open.spotify.com/track/0LqsZFFmoXxAK1enJcBqmS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Rock with You - Single Version - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949" alt="Rock with You - Single Version">
-    <div class="t-name">Rock with You - Single Version</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Café Nocturne - Generation.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba1570892f4d1f549f03bf9a" alt="Café Nocturne">
+    <div class="t-name">Café Nocturne</div>
+    <div class="t-artist">Generation.</div>
+    <a class="t-open" href="https://open.spotify.com/track/1LKoAmLMnNJ4Dwr77unc0h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Smooth Criminal - 2012 Remaster - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff" alt="Smooth Criminal - 2012 Remaster">
-    <div class="t-name">Smooth Criminal - 2012 Remaster</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Tangerine Glow - Zaytune">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732981bfc06a402a3b3c18d187" alt="Tangerine Glow">
+    <div class="t-name">Tangerine Glow</div>
+    <div class="t-artist">Zaytune</div>
+    <a class="t-open" href="https://open.spotify.com/track/2G97So3rK1wS4kauOzDxFU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
