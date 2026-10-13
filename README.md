@@ -436,6 +436,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="中国女 - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="中国女">
+    <div class="t-name">中国女</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/6cu5OgWB6AGlk3UjzHfy7F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="BEHIND THE MASK - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="BEHIND THE MASK">
+    <div class="t-name">BEHIND THE MASK</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1SQ9dZzgG7Yvhqh0jQeH3j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="マッド・ピエロ - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="マッド・ピエロ">
+    <div class="t-name">マッド・ピエロ</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/49DOGR4oq7AwdfvGRMMUHx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PERSPECTIVE - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" alt="PERSPECTIVE">
+    <div class="t-name">PERSPECTIVE</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4mVfB0heHLAH6hCJorTtL7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="COSMIC SURFIN&#x27; - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4dba27da8ceb1325c1aeb65" alt="COSMIC SURFIN&#x27;">
+    <div class="t-name">COSMIC SURFIN&#x27;</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/71GmSuAIU8fkX51fKcnpGC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TECHNOPOLIS - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="TECHNOPOLIS">
+    <div class="t-name">TECHNOPOLIS</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NICE AGE - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="NICE AGE">
+    <div class="t-name">NICE AGE</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4wCiIfpEgN0vaTZahvAHTl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="東風 - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="東風">
+    <div class="t-name">東風</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1HvhHayieUMMmHB9RDUm0W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="君に、胸キュン。-浮気なヴァカンス- - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="君に、胸キュン。-浮気なヴァカンス-">
+    <div class="t-name">君に、胸キュン。-浮気なヴァカンス-</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/6paTU0tOOtOizrVNnyLHdk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
+    <div class="t-name">RYDEEN</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Comfortably Numb - Pink Floyd">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" alt="Comfortably Numb">
+    <div class="t-name">Comfortably Numb</div>
+    <div class="t-artist">Pink Floyd</div>
+    <a class="t-open" href="https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Walk Of Life - Remastered 1996 - Dire Straits">
     <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" alt="Walk Of Life - Remastered 1996">
     <div class="t-name">Walk Of Life - Remastered 1996</div>
@@ -489,72 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Hold the Line</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wish You Were Here - Pink Floyd">
-    <img src="https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e" alt="Wish You Were Here">
-    <div class="t-name">Wish You Were Here</div>
-    <div class="t-artist">Pink Floyd</div>
-    <a class="t-open" href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="More Than a Feeling - Boston">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694" alt="More Than a Feeling">
-    <div class="t-name">More Than a Feeling</div>
-    <div class="t-artist">Boston</div>
-    <a class="t-open" href="https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Want to Know What Love Is - 1999 Remaster - Foreigner">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" alt="I Want to Know What Love Is - 1999 Remaster">
-    <div class="t-name">I Want to Know What Love Is - 1999 Remaster</div>
-    <div class="t-artist">Foreigner</div>
-    <a class="t-open" href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="My Mind - Francois Lé">
-    <img src="https://i.scdn.co/image/ab67616d0000b27312b043a6aec24ec730613bbc" alt="My Mind">
-    <div class="t-name">My Mind</div>
-    <div class="t-artist">Francois Lé</div>
-    <a class="t-open" href="https://open.spotify.com/track/1gT8ZVCJmgDoOjoqAdSuaT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sultans Of Swing - Dire Straits">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" alt="Sultans Of Swing">
-    <div class="t-name">Sultans Of Swing</div>
-    <div class="t-artist">Dire Straits</div>
-    <a class="t-open" href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Landslide - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Landslide">
-    <div class="t-name">Landslide</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Stop Believin&#x27; (2022 Remaster) - Journey">
-    <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" alt="Don&#x27;t Stop Believin&#x27; (2022 Remaster)">
-    <div class="t-name">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</div>
-    <div class="t-artist">Journey</div>
-    <a class="t-open" href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="relaxing day - gelato mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273437986ce7dfb2870832278aa" alt="relaxing day">
-    <div class="t-name">relaxing day</div>
-    <div class="t-artist">gelato mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/5yP4evKiW8zWsxhiBL1wjU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunset Spritz - French Coast">
-    <img src="https://i.scdn.co/image/ab67616d0000b27303af836d5872561ddd538d93" alt="Sunset Spritz">
-    <div class="t-name">Sunset Spritz</div>
-    <div class="t-artist">French Coast</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Hk6j31dwcbDRjXVo9oPrc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Velvet - Golden After">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cb67041c10921f52e302027b" alt="Velvet">
-    <div class="t-name">Velvet</div>
-    <div class="t-artist">Golden After</div>
-    <a class="t-open" href="https://open.spotify.com/track/4fVDlwhZo5SkGOIBILWDsL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Yellow on Blue - Friendly Mess">
-    <img src="https://i.scdn.co/image/ab67616d0000b27381c005ddfe54a1535fed3d86" alt="Yellow on Blue">
-    <div class="t-name">Yellow on Blue</div>
-    <div class="t-artist">Friendly Mess</div>
-    <a class="t-open" href="https://open.spotify.com/track/6oWNm8fswN2lOm5N8Phpef" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
