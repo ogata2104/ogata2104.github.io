@@ -435,6 +435,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Thousand Knives - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b11b27c983da2f69fed067d4" alt="Thousand Knives">
+    <div class="t-name">Thousand Knives</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/37HVnL1yl0VHT4Dr3sMIbl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ユーティー - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="ユーティー">
     <div class="t-name">ユーティー</div>
@@ -542,12 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">COSMIC SURFIN&#x27;</div>
     <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
     <a class="t-open" href="https://open.spotify.com/track/71GmSuAIU8fkX51fKcnpGC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TECHNOPOLIS - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="TECHNOPOLIS">
-    <div class="t-name">TECHNOPOLIS</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
