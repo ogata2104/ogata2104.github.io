@@ -436,6 +436,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ファイアークラッカー - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="ファイアークラッカー">
+    <div class="t-name">ファイアークラッカー</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/2nXsIBsEDbMblmfQVEboLU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ABSOLUTE EGO DANCE - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="ABSOLUTE EGO DANCE">
+    <div class="t-name">ABSOLUTE EGO DANCE</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1vueiQApGNailsCp8MKd71" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MULTIPLIES (THE MAGNIFICENT SEVEN) - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="MULTIPLIES (THE MAGNIFICENT SEVEN)">
+    <div class="t-name">MULTIPLIES (THE MAGNIFICENT SEVEN)</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/5n2GIUtIhsJrfgTVCy0Whb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="キュー - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="キュー">
+    <div class="t-name">キュー</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3JQQap0iGnVOzcof11u5Cv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="中国女 - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="中国女">
     <div class="t-name">中国女</div>
@@ -531,30 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Dust in the Wind</div>
     <div class="t-artist">Kansas</div>
     <a class="t-open" href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stairway to Heaven - Remaster - Led Zeppelin">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Stairway to Heaven - Remaster">
-    <div class="t-name">Stairway to Heaven - Remaster</div>
-    <div class="t-artist">Led Zeppelin</div>
-    <a class="t-open" href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
-    <div class="t-name">Silver Springs - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Another Brick in the Wall, Pt. 2 - Pink Floyd">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" alt="Another Brick in the Wall, Pt. 2">
-    <div class="t-name">Another Brick in the Wall, Pt. 2</div>
-    <div class="t-artist">Pink Floyd</div>
-    <a class="t-open" href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold the Line - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
-    <div class="t-name">Hold the Line</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
