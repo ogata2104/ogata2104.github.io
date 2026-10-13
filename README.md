@@ -435,6 +435,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="邂逅 - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="邂逅">
+    <div class="t-name">邂逅</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/7xB2hJbHOGNz2f7EGPWJ3o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Thousand Knives - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b273b11b27c983da2f69fed067d4" alt="Thousand Knives">
     <div class="t-name">Thousand Knives</div>
@@ -542,12 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">PERSPECTIVE</div>
     <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
     <a class="t-open" href="https://open.spotify.com/track/4mVfB0heHLAH6hCJorTtL7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="COSMIC SURFIN&#x27; - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4dba27da8ceb1325c1aeb65" alt="COSMIC SURFIN&#x27;">
-    <div class="t-name">COSMIC SURFIN&#x27;</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/71GmSuAIU8fkX51fKcnpGC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
