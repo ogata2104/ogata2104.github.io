@@ -435,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="No Choice - Fly By Midnight">
+    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
+    <div class="t-name">No Choice</div>
+    <div class="t-artist">Fly By Midnight</div>
+    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Risk It All - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Risk It All">
+    <div class="t-name">Risk It All</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Chest Pain (I Love) - Malcolm Todd">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387607b2c8f5f52f1f057be0d" alt="Chest Pain (I Love)">
+    <div class="t-name">Chest Pain (I Love)</div>
+    <div class="t-artist">Malcolm Todd</div>
+    <a class="t-open" href="https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="twilight zone - Ariana Grande">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9" alt="twilight zone">
+    <div class="t-name">twilight zone</div>
+    <div class="t-artist">Ariana Grande</div>
+    <a class="t-open" href="https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="blue - yung kai">
+    <img src="https://i.scdn.co/image/ab67616d0000b273def6ffd0e4b80cb0d2a0d00f" alt="blue">
+    <div class="t-name">blue</div>
+    <div class="t-artist">yung kai</div>
+    <a class="t-open" href="https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Tip Toe - HYBS">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
+    <div class="t-name">Tip Toe</div>
+    <div class="t-artist">HYBS</div>
+    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
+    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
+    <div class="t-name">Immigrant Song - Remaster</div>
+    <div class="t-artist">Led Zeppelin</div>
+    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="邂逅 - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="邂逅">
     <div class="t-name">邂逅</div>
@@ -506,48 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">ファイアークラッカー</div>
     <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
     <a class="t-open" href="https://open.spotify.com/track/2nXsIBsEDbMblmfQVEboLU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ABSOLUTE EGO DANCE - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="ABSOLUTE EGO DANCE">
-    <div class="t-name">ABSOLUTE EGO DANCE</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vueiQApGNailsCp8MKd71" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MULTIPLIES (THE MAGNIFICENT SEVEN) - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="MULTIPLIES (THE MAGNIFICENT SEVEN)">
-    <div class="t-name">MULTIPLIES (THE MAGNIFICENT SEVEN)</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/5n2GIUtIhsJrfgTVCy0Whb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="キュー - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="キュー">
-    <div class="t-name">キュー</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/3JQQap0iGnVOzcof11u5Cv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="中国女 - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="中国女">
-    <div class="t-name">中国女</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/6cu5OgWB6AGlk3UjzHfy7F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BEHIND THE MASK - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="BEHIND THE MASK">
-    <div class="t-name">BEHIND THE MASK</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/1SQ9dZzgG7Yvhqh0jQeH3j" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="マッド・ピエロ - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="マッド・ピエロ">
-    <div class="t-name">マッド・ピエロ</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/49DOGR4oq7AwdfvGRMMUHx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="PERSPECTIVE - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" alt="PERSPECTIVE">
-    <div class="t-name">PERSPECTIVE</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4mVfB0heHLAH6hCJorTtL7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
