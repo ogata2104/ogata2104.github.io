@@ -354,26 +354,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +435,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ユーティー - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="ユーティー">
+    <div class="t-name">ユーティー</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!) - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!)">
+    <div class="t-name">TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!)</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/0ymwuEO5iWNcXj6KdTSn8E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="コズミック・サーフィン - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="コズミック・サーフィン">
+    <div class="t-name">コズミック・サーフィン</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ngCkr56fx3yPCTt99rtQD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="バレエ - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="バレエ">
+    <div class="t-name">バレエ</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ImWkue7NEmo6uqdX8vVsA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DAY TRIPPER - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="DAY TRIPPER">
+    <div class="t-name">DAY TRIPPER</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1uVET3qK6fcRSVuDAUNgBp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="音楽 - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="音楽">
+    <div class="t-name">音楽</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Q2gLWdSh90isUFyyLnkYw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SOLID STATE SURVIVOR - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="SOLID STATE SURVIVOR">
+    <div class="t-name">SOLID STATE SURVIVOR</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/5hHjs19qB3hzaBzzOLVjCo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ブリッジ・オーバー・トラブルド・ミュージック - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="ブリッジ・オーバー・トラブルド・ミュージック">
+    <div class="t-name">ブリッジ・オーバー・トラブルド・ミュージック</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/0McZPVQP3u16HCr8zSeAQQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="以心電信 - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" alt="以心電信">
+    <div class="t-name">以心電信</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nwAqei0tOviGnZPK7Atoh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ファイアークラッカー - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="ファイアークラッカー">
     <div class="t-name">ファイアークラッカー</div>
@@ -495,66 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">TECHNOPOLIS</div>
     <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
     <a class="t-open" href="https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NICE AGE - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="NICE AGE">
-    <div class="t-name">NICE AGE</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4wCiIfpEgN0vaTZahvAHTl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="東風 - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="東風">
-    <div class="t-name">東風</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/1HvhHayieUMMmHB9RDUm0W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="君に、胸キュン。-浮気なヴァカンス- - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="君に、胸キュン。-浮気なヴァカンス-">
-    <div class="t-name">君に、胸キュン。-浮気なヴァカンス-</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/6paTU0tOOtOizrVNnyLHdk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
-    <div class="t-name">RYDEEN</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Comfortably Numb - Pink Floyd">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" alt="Comfortably Numb">
-    <div class="t-name">Comfortably Numb</div>
-    <div class="t-artist">Pink Floyd</div>
-    <a class="t-open" href="https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Walk Of Life - Remastered 1996 - Dire Straits">
-    <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" alt="Walk Of Life - Remastered 1996">
-    <div class="t-name">Walk Of Life - Remastered 1996</div>
-    <div class="t-artist">Dire Straits</div>
-    <a class="t-open" href="https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
-    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
-    <div class="t-name">Immigrant Song - Remaster</div>
-    <div class="t-artist">Led Zeppelin</div>
-    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Free Fallin&#x27; - Tom Petty">
-    <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="Free Fallin&#x27;">
-    <div class="t-name">Free Fallin&#x27;</div>
-    <div class="t-artist">Tom Petty</div>
-    <a class="t-open" href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Baby Come Back - Player">
-    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
-    <div class="t-name">Baby Come Back</div>
-    <div class="t-artist">Player</div>
-    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dust in the Wind - Kansas">
-    <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="Dust in the Wind">
-    <div class="t-name">Dust in the Wind</div>
-    <div class="t-artist">Kansas</div>
-    <a class="t-open" href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
