@@ -436,6 +436,54 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Hold the Line - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
+    <div class="t-name">Hold the Line</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Wish You Were Here - Pink Floyd">
+    <img src="https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e" alt="Wish You Were Here">
+    <div class="t-name">Wish You Were Here</div>
+    <div class="t-artist">Pink Floyd</div>
+    <a class="t-open" href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="More Than a Feeling - Boston">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694" alt="More Than a Feeling">
+    <div class="t-name">More Than a Feeling</div>
+    <div class="t-artist">Boston</div>
+    <a class="t-open" href="https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Want to Know What Love Is - 1999 Remaster - Foreigner">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274" alt="I Want to Know What Love Is - 1999 Remaster">
+    <div class="t-name">I Want to Know What Love Is - 1999 Remaster</div>
+    <div class="t-artist">Foreigner</div>
+    <a class="t-open" href="https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="My Mind - Francois Lé">
+    <img src="https://i.scdn.co/image/ab67616d0000b27312b043a6aec24ec730613bbc" alt="My Mind">
+    <div class="t-name">My Mind</div>
+    <div class="t-artist">Francois Lé</div>
+    <a class="t-open" href="https://open.spotify.com/track/1gT8ZVCJmgDoOjoqAdSuaT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sultans Of Swing - Dire Straits">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" alt="Sultans Of Swing">
+    <div class="t-name">Sultans Of Swing</div>
+    <div class="t-artist">Dire Straits</div>
+    <a class="t-open" href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Landslide - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Landslide">
+    <div class="t-name">Landslide</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Stop Believin&#x27; (2022 Remaster) - Journey">
+    <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" alt="Don&#x27;t Stop Believin&#x27; (2022 Remaster)">
+    <div class="t-name">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</div>
+    <div class="t-artist">Journey</div>
+    <a class="t-open" href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="relaxing day - gelato mac">
     <img src="https://i.scdn.co/image/ab67616d0000b273437986ce7dfb2870832278aa" alt="relaxing day">
     <div class="t-name">relaxing day</div>
@@ -507,54 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Maui</div>
     <div class="t-artist">Golden After</div>
     <a class="t-open" href="https://open.spotify.com/track/0Q5gFY7uiRF5ntkNfwimCO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="paloma - MayDance">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccf98f30b46921985484f108" alt="paloma">
-    <div class="t-name">paloma</div>
-    <div class="t-artist">MayDance</div>
-    <a class="t-open" href="https://open.spotify.com/track/36D5NsUqwWZFwfYhYtS6Tc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Friday Lights - Zenn">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736f23614042099fd1596bf7e2" alt="Friday Lights">
-    <div class="t-name">Friday Lights</div>
-    <div class="t-artist">Zenn</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZGJo9tYvEIYyvQm1NMxif" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dream about us - Cedar Room">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736d8dcf245c378a6d2b8083c8" alt="Dream about us">
-    <div class="t-name">Dream about us</div>
-    <div class="t-artist">Cedar Room</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Drifting Clouds - Hello Carmelo">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732dc0f114ea06a7046c3ff122" alt="Drifting Clouds">
-    <div class="t-name">Drifting Clouds</div>
-    <div class="t-artist">Hello Carmelo</div>
-    <a class="t-open" href="https://open.spotify.com/track/1zN3Gg900pDQBVfoOXgHnY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Alone - Chill Motion">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebe1f3180327d5de37a4ad61" alt="Alone">
-    <div class="t-name">Alone</div>
-    <div class="t-artist">Chill Motion</div>
-    <a class="t-open" href="https://open.spotify.com/track/6FGgCrgB3iAEIvVinORkp9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lushy - Peat Spaceman">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735691dafc591bab94055f19f6" alt="Lushy">
-    <div class="t-name">Lushy</div>
-    <div class="t-artist">Peat Spaceman</div>
-    <a class="t-open" href="https://open.spotify.com/track/4jNJlmX0VtGPmAKFzSslNr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Borrowed Blue - Seawiew">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b0e3d411433e03ff76822bc" alt="Borrowed Blue">
-    <div class="t-name">Borrowed Blue</div>
-    <div class="t-artist">Seawiew</div>
-    <a class="t-open" href="https://open.spotify.com/track/708H1bXoW1UDrpu8WWkE7m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Running out of time - Seawiew">
-    <img src="https://i.scdn.co/image/ab67616d0000b273acc11e254f12ad03535c080a" alt="Running out of time">
-    <div class="t-name">Running out of time</div>
-    <div class="t-artist">Seawiew</div>
-    <a class="t-open" href="https://open.spotify.com/track/46gHk18SLlF6juH6fjqwBc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
