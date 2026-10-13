@@ -436,6 +436,54 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Walk Of Life - Remastered 1996 - Dire Straits">
+    <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" alt="Walk Of Life - Remastered 1996">
+    <div class="t-name">Walk Of Life - Remastered 1996</div>
+    <div class="t-artist">Dire Straits</div>
+    <a class="t-open" href="https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
+    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
+    <div class="t-name">Immigrant Song - Remaster</div>
+    <div class="t-artist">Led Zeppelin</div>
+    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Free Fallin&#x27; - Tom Petty">
+    <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="Free Fallin&#x27;">
+    <div class="t-name">Free Fallin&#x27;</div>
+    <div class="t-artist">Tom Petty</div>
+    <a class="t-open" href="https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Baby Come Back - Player">
+    <img src="https://i.scdn.co/image/ab67616d0000b27381eae9a98487ae512df29469" alt="Baby Come Back">
+    <div class="t-name">Baby Come Back</div>
+    <div class="t-artist">Player</div>
+    <a class="t-open" href="https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dust in the Wind - Kansas">
+    <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="Dust in the Wind">
+    <div class="t-name">Dust in the Wind</div>
+    <div class="t-artist">Kansas</div>
+    <a class="t-open" href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Stairway to Heaven - Remaster - Led Zeppelin">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Stairway to Heaven - Remaster">
+    <div class="t-name">Stairway to Heaven - Remaster</div>
+    <div class="t-artist">Led Zeppelin</div>
+    <a class="t-open" href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
+    <div class="t-name">Silver Springs - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Another Brick in the Wall, Pt. 2 - Pink Floyd">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c" alt="Another Brick in the Wall, Pt. 2">
+    <div class="t-name">Another Brick in the Wall, Pt. 2</div>
+    <div class="t-artist">Pink Floyd</div>
+    <a class="t-open" href="https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Hold the Line - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Hold the Line">
     <div class="t-name">Hold the Line</div>
@@ -507,54 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Yellow on Blue</div>
     <div class="t-artist">Friendly Mess</div>
     <a class="t-open" href="https://open.spotify.com/track/6oWNm8fswN2lOm5N8Phpef" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Beyond - Valea">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739c2ec271504c1f176c74c6a6" alt="Beyond">
-    <div class="t-name">Beyond</div>
-    <div class="t-artist">Valea</div>
-    <a class="t-open" href="https://open.spotify.com/track/3y0jG8fMHZOOmL8oW9uJIX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ultraviolet - Landayn">
-    <img src="https://i.scdn.co/image/ab67616d0000b27387c02ba61ec0dd5359ffc1e3" alt="ultraviolet">
-    <div class="t-name">ultraviolet</div>
-    <div class="t-artist">Landayn</div>
-    <a class="t-open" href="https://open.spotify.com/track/4bPJlxKstW9b01M7S66Be8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cranberry Canyon - Frank Rune">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b437441e2553676bc2a33a4b" alt="Cranberry Canyon">
-    <div class="t-name">Cranberry Canyon</div>
-    <div class="t-artist">Frank Rune</div>
-    <a class="t-open" href="https://open.spotify.com/track/1NJP2NTaGRht3vIykLyeXz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Wanna Be With You - Leany">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735fcda7ddcaa0477a5f37a7f7" alt="I Wanna Be With You">
-    <div class="t-name">I Wanna Be With You</div>
-    <div class="t-artist">Leany</div>
-    <a class="t-open" href="https://open.spotify.com/track/4vWdiF3e1udDOxW2QpDoEJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Reach - Paon Bleu">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738d7b7909645d460828a2ecd0" alt="Reach">
-    <div class="t-name">Reach</div>
-    <div class="t-artist">Paon Bleu</div>
-    <a class="t-open" href="https://open.spotify.com/track/1BelB6wU658c8bf3szaC71" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tidal Glass - Pure Recall">
-    <img src="https://i.scdn.co/image/ab67616d0000b273484de54d0b0f189507a3930e" alt="Tidal Glass">
-    <div class="t-name">Tidal Glass</div>
-    <div class="t-artist">Pure Recall</div>
-    <a class="t-open" href="https://open.spotify.com/track/7F0STUUSKr6HmI9GcPOIxt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Skeppet - Deep Sea Society">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d32e21c3a0770e7fa4a16ac8" alt="Skeppet">
-    <div class="t-name">Skeppet</div>
-    <div class="t-artist">Deep Sea Society</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ThjUzgqmxSkKpPhkiQb2f" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Maui - Golden After">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ee3a538d5b4795dd363e9b56" alt="Maui">
-    <div class="t-name">Maui</div>
-    <div class="t-artist">Golden After</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Q5gFY7uiRF5ntkNfwimCO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
