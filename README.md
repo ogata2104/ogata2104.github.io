@@ -538,6 +538,12 @@ From TOKYO JAPAN
     <div class="t-artist">Christopher Cross</div>
     <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
+  <div class="spotify-card" title="Dancing with my phone - HYBS">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a" alt="Dancing with my phone">
+    <div class="t-name">Dancing with my phone</div>
+    <div class="t-artist">HYBS</div>
+    <a class="t-open" href="https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="No Choice - Fly By Midnight">
     <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
     <div class="t-name">No Choice</div>
@@ -549,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Risk It All</div>
     <div class="t-artist">Bruno Mars</div>
     <a class="t-open" href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Chest Pain (I Love) - Malcolm Todd">
-    <img src="https://i.scdn.co/image/ab67616d0000b27387607b2c8f5f52f1f057be0d" alt="Chest Pain (I Love)">
-    <div class="t-name">Chest Pain (I Love)</div>
-    <div class="t-artist">Malcolm Todd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
