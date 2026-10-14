@@ -354,25 +354,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -435,6 +436,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="All Good? - Can 7 Supermarket Remix - De La Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e75b11cdd2e82c0799567e7a" alt="All Good? - Can 7 Supermarket Remix">
+    <div class="t-name">All Good? - Can 7 Supermarket Remix</div>
+    <div class="t-artist">De La Soul</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bGBnSrO3tEESsTPh8hnWF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ride Like The Wind - Yacht House Mix - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273691d50b75992ecc0371ae480" alt="Ride Like The Wind - Yacht House Mix">
+    <div class="t-name">Ride Like The Wind - Yacht House Mix</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="No Choice - Fly By Midnight">
     <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
     <div class="t-name">No Choice</div>
@@ -542,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">以心電信</div>
     <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
     <a class="t-open" href="https://open.spotify.com/track/4nwAqei0tOviGnZPK7Atoh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ファイアークラッカー - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273713f183cf8567f0f428acc70" alt="ファイアークラッカー">
-    <div class="t-name">ファイアークラッカー</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/2nXsIBsEDbMblmfQVEboLU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
