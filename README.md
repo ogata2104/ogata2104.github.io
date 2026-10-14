@@ -436,6 +436,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
+    <div class="t-name">Waste Your Heart</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Someone To Call My Lover - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3" alt="Someone To Call My Lover">
+    <div class="t-name">Someone To Call My Lover</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="These Dreams - Heart">
     <img src="https://i.scdn.co/image/ab67616d0000b273aac099da610b063763c63117" alt="These Dreams">
     <div class="t-name">These Dreams</div>
@@ -543,18 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Chest Pain (I Love)</div>
     <div class="t-artist">Malcolm Todd</div>
     <a class="t-open" href="https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="twilight zone - Ariana Grande">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9" alt="twilight zone">
-    <div class="t-name">twilight zone</div>
-    <div class="t-artist">Ariana Grande</div>
-    <a class="t-open" href="https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="blue - yung kai">
-    <img src="https://i.scdn.co/image/ab67616d0000b273def6ffd0e4b80cb0d2a0d00f" alt="blue">
-    <div class="t-name">blue</div>
-    <div class="t-artist">yung kai</div>
-    <a class="t-open" href="https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
