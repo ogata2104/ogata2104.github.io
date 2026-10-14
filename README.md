@@ -436,6 +436,84 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="These Dreams - Heart">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aac099da610b063763c63117" alt="These Dreams">
+    <div class="t-name">These Dreams</div>
+    <div class="t-artist">Heart</div>
+    <a class="t-open" href="https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Slipped Away - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
+    <div class="t-name">Slipped Away</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Why Can&#x27;t This Be Love - Van Halen">
+    <img src="https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57" alt="Why Can&#x27;t This Be Love">
+    <div class="t-name">Why Can&#x27;t This Be Love</div>
+    <div class="t-artist">Van Halen</div>
+    <a class="t-open" href="https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Is A Long Road - Tom Petty">
+    <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="Love Is A Long Road">
+    <div class="t-name">Love Is A Long Road</div>
+    <div class="t-artist">Tom Petty</div>
+    <a class="t-open" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="China Grove - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb" alt="China Grove">
+    <div class="t-name">China Grove</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Sign - Ace of Base">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
+    <div class="t-name">The Sign</div>
+    <div class="t-artist">Ace of Base</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Personal Effects - Chromeo">
+    <img src="https://i.scdn.co/image/ab67616d0000b273202cebe80b7bd96c869b50d7" alt="Personal Effects">
+    <div class="t-name">Personal Effects</div>
+    <div class="t-artist">Chromeo</div>
+    <a class="t-open" href="https://open.spotify.com/track/5pyWDpYISS2poUbYp0ckfk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Manhattan - Carlita">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735ffe20dbddc10a8911ea2473" alt="Manhattan">
+    <div class="t-name">Manhattan</div>
+    <div class="t-artist">Carlita</div>
+    <a class="t-open" href="https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
+    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
+    <div class="t-name">Dance Dance Dance!</div>
+    <div class="t-artist">Barry Can&#x27;t Swim</div>
+    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Move - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" alt="Don&#x27;t Move">
+    <div class="t-name">Don&#x27;t Move</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sweet Freedom - The Reflex Revision - Norman Doray">
+    <img src="https://i.scdn.co/image/ab67616d0000b273048c62e6e0404c85b14a8eff" alt="Sweet Freedom - The Reflex Revision">
+    <div class="t-name">Sweet Freedom - The Reflex Revision</div>
+    <div class="t-artist">Norman Doray</div>
+    <a class="t-open" href="https://open.spotify.com/track/4GJVddiCmdw8g8G6aOfyK9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Less Is More - Choices">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734dd9e1ce83e47beffcfc74f4" alt="Less Is More">
+    <div class="t-name">Less Is More</div>
+    <div class="t-artist">Choices</div>
+    <a class="t-open" href="https://open.spotify.com/track/7MWJzAWFWT1ZSvf3D2dQrG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Touch the Sky - Miami Funk Machine">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330fe87befdaa4807dca71033" alt="Touch the Sky">
+    <div class="t-name">Touch the Sky</div>
+    <div class="t-artist">Miami Funk Machine</div>
+    <a class="t-open" href="https://open.spotify.com/track/0scISiurKsMhKTpIXpOomV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="All Good? - Can 7 Supermarket Remix - De La Soul">
     <img src="https://i.scdn.co/image/ab67616d0000b273e75b11cdd2e82c0799567e7a" alt="All Good? - Can 7 Supermarket Remix">
     <div class="t-name">All Good? - Can 7 Supermarket Remix</div>
@@ -477,84 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">blue</div>
     <div class="t-artist">yung kai</div>
     <a class="t-open" href="https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tip Toe - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
-    <div class="t-name">Tip Toe</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
-    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
-    <div class="t-name">Immigrant Song - Remaster</div>
-    <div class="t-artist">Led Zeppelin</div>
-    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="邂逅 - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="邂逅">
-    <div class="t-name">邂逅</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/7xB2hJbHOGNz2f7EGPWJ3o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Thousand Knives - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b11b27c983da2f69fed067d4" alt="Thousand Knives">
-    <div class="t-name">Thousand Knives</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/37HVnL1yl0VHT4Dr3sMIbl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ユーティー - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="ユーティー">
-    <div class="t-name">ユーティー</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/0ZOj2MA96Cw4olmhbpzivb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!) - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737164eeb2a3df4e80af381f64" alt="TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!)">
-    <div class="t-name">TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!)</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/0ymwuEO5iWNcXj6KdTSn8E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="コズミック・サーフィン - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="コズミック・サーフィン">
-    <div class="t-name">コズミック・サーフィン</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ngCkr56fx3yPCTt99rtQD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="バレエ - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273feeb0775d5434ee8df97a1fa" alt="バレエ">
-    <div class="t-name">バレエ</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ImWkue7NEmo6uqdX8vVsA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DAY TRIPPER - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="DAY TRIPPER">
-    <div class="t-name">DAY TRIPPER</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/1uVET3qK6fcRSVuDAUNgBp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="音楽 - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b7a747e2d4ace0d38210114e" alt="音楽">
-    <div class="t-name">音楽</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Q2gLWdSh90isUFyyLnkYw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOLID STATE SURVIVOR - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="SOLID STATE SURVIVOR">
-    <div class="t-name">SOLID STATE SURVIVOR</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/5hHjs19qB3hzaBzzOLVjCo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ブリッジ・オーバー・トラブルド・ミュージック - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273622361b902600f4b787811cb" alt="ブリッジ・オーバー・トラブルド・ミュージック">
-    <div class="t-name">ブリッジ・オーバー・トラブルド・ミュージック</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/0McZPVQP3u16HCr8zSeAQQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="以心電信 - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273744e692f243c53f9b8c50d6d" alt="以心電信">
-    <div class="t-name">以心電信</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nwAqei0tOviGnZPK7Atoh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
