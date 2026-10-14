@@ -436,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="SOS - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="SOS">
+    <div class="t-name">SOS</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lay All Your Love On Me - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="Lay All Your Love On Me">
+    <div class="t-name">Lay All Your Love On Me</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/2245x0g1ft0HC7sf79zbYN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Mamma Mia - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2" alt="Mamma Mia">
+    <div class="t-name">Mamma Mia</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dancing Queen - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" alt="Dancing Queen">
+    <div class="t-name">Dancing Queen</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waterloo - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27311c24dc7f5ef909381c0a7d6" alt="Waterloo">
+    <div class="t-name">Waterloo</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gimme! Gimme! Gimme! (A Man After Midnight) - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="Gimme! Gimme! Gimme! (A Man After Midnight)">
+    <div class="t-name">Gimme! Gimme! Gimme! (A Man After Midnight)</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
     <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
     <div class="t-name">Waste Your Heart</div>
@@ -519,42 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Less Is More</div>
     <div class="t-artist">Choices</div>
     <a class="t-open" href="https://open.spotify.com/track/7MWJzAWFWT1ZSvf3D2dQrG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Touch the Sky - Miami Funk Machine">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330fe87befdaa4807dca71033" alt="Touch the Sky">
-    <div class="t-name">Touch the Sky</div>
-    <div class="t-artist">Miami Funk Machine</div>
-    <a class="t-open" href="https://open.spotify.com/track/0scISiurKsMhKTpIXpOomV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All Good? - Can 7 Supermarket Remix - De La Soul">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e75b11cdd2e82c0799567e7a" alt="All Good? - Can 7 Supermarket Remix">
-    <div class="t-name">All Good? - Can 7 Supermarket Remix</div>
-    <div class="t-artist">De La Soul</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bGBnSrO3tEESsTPh8hnWF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ride Like The Wind - Yacht House Mix - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273691d50b75992ecc0371ae480" alt="Ride Like The Wind - Yacht House Mix">
-    <div class="t-name">Ride Like The Wind - Yacht House Mix</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dancing with my phone - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a" alt="Dancing with my phone">
-    <div class="t-name">Dancing with my phone</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Choice - Fly By Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
-    <div class="t-name">No Choice</div>
-    <div class="t-artist">Fly By Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Risk It All - Bruno Mars">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Risk It All">
-    <div class="t-name">Risk It All</div>
-    <div class="t-artist">Bruno Mars</div>
-    <a class="t-open" href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
