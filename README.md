@@ -436,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="One Too Many Mornings - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732d47d65f2938c9da2ff7f57c" alt="One Too Many Mornings">
+    <div class="t-name">One Too Many Mornings</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
+    <div class="t-name">Block Rockin&#x27; Beats</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
+    <div class="t-name">Galvanize</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
+    <div class="t-name">Hey Boy Hey Girl</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
+    <div class="t-name">Go</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="My Old School - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
+    <div class="t-name">My Old School</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
     <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
     <div class="t-name">Reelin&#x27; In The Years</div>
@@ -519,42 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Take A Chance On Me</div>
     <div class="t-artist">ABBA</div>
     <a class="t-open" href="https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOS - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="SOS">
-    <div class="t-name">SOS</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lay All Your Love On Me - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="Lay All Your Love On Me">
-    <div class="t-name">Lay All Your Love On Me</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/2245x0g1ft0HC7sf79zbYN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mamma Mia - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2" alt="Mamma Mia">
-    <div class="t-name">Mamma Mia</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dancing Queen - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" alt="Dancing Queen">
-    <div class="t-name">Dancing Queen</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waterloo - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b27311c24dc7f5ef909381c0a7d6" alt="Waterloo">
-    <div class="t-name">Waterloo</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gimme! Gimme! Gimme! (A Man After Midnight) - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="Gimme! Gimme! Gimme! (A Man After Midnight)">
-    <div class="t-name">Gimme! Gimme! Gimme! (A Man After Midnight)</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
