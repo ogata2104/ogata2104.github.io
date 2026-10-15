@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Out Of Control - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Out Of Control">
+    <div class="t-name">Out Of Control</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/6zIkiZqUnSMsuRJ6acyJuD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Do It Again - The Chemical Brothers">
     <img src="https://i.scdn.co/image/ab67616d0000b273e70a17eb4f76721f1344310e" alt="Do It Again">
     <div class="t-name">Do It Again</div>
@@ -549,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Boogie&#x27;s in My Soul</div>
     <div class="t-artist">Chaka Khan</div>
     <a class="t-open" href="https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Shut Me Down - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b27323533fedac2927315c55d34b" alt="Don&#x27;t Shut Me Down">
-    <div class="t-name">Don&#x27;t Shut Me Down</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
