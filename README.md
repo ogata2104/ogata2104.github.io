@@ -436,6 +436,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Boogie&#x27;s in My Soul - Chaka Khan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739fd1f644cdad140887d5f1ca" alt="Boogie&#x27;s in My Soul">
+    <div class="t-name">Boogie&#x27;s in My Soul</div>
+    <div class="t-artist">Chaka Khan</div>
+    <a class="t-open" href="https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Shut Me Down - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27323533fedac2927315c55d34b" alt="Don&#x27;t Shut Me Down">
+    <div class="t-name">Don&#x27;t Shut Me Down</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Super Trouper - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="Super Trouper">
+    <div class="t-name">Super Trouper</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Angeleyes - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" alt="Angeleyes">
+    <div class="t-name">Angeleyes</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/1zZLRpTzRTqPQ7G7uxYI9Y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Winner Takes It All - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="The Winner Takes It All">
+    <div class="t-name">The Winner Takes It All</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Voulez-Vous - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="Voulez-Vous">
+    <div class="t-name">Voulez-Vous</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Money, Money, Money - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="Money, Money, Money">
+    <div class="t-name">Money, Money, Money</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/29FNeqjOV2kPWGS55qhtGB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Chiquitita - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="Chiquitita">
+    <div class="t-name">Chiquitita</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Take A Chance On Me - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c" alt="Take A Chance On Me">
+    <div class="t-name">Take A Chance On Me</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="SOS - ABBA">
     <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="SOS">
     <div class="t-name">SOS</div>
@@ -501,60 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Why Can&#x27;t This Be Love</div>
     <div class="t-artist">Van Halen</div>
     <a class="t-open" href="https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Is A Long Road - Tom Petty">
-    <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="Love Is A Long Road">
-    <div class="t-name">Love Is A Long Road</div>
-    <div class="t-artist">Tom Petty</div>
-    <a class="t-open" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="China Grove - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb" alt="China Grove">
-    <div class="t-name">China Grove</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Sign - Ace of Base">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
-    <div class="t-name">The Sign</div>
-    <div class="t-artist">Ace of Base</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Personal Effects - Chromeo">
-    <img src="https://i.scdn.co/image/ab67616d0000b273202cebe80b7bd96c869b50d7" alt="Personal Effects">
-    <div class="t-name">Personal Effects</div>
-    <div class="t-artist">Chromeo</div>
-    <a class="t-open" href="https://open.spotify.com/track/5pyWDpYISS2poUbYp0ckfk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Manhattan - Carlita">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735ffe20dbddc10a8911ea2473" alt="Manhattan">
-    <div class="t-name">Manhattan</div>
-    <div class="t-artist">Carlita</div>
-    <a class="t-open" href="https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
-    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
-    <div class="t-name">Dance Dance Dance!</div>
-    <div class="t-artist">Barry Can&#x27;t Swim</div>
-    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Move - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" alt="Don&#x27;t Move">
-    <div class="t-name">Don&#x27;t Move</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sweet Freedom - The Reflex Revision - Norman Doray">
-    <img src="https://i.scdn.co/image/ab67616d0000b273048c62e6e0404c85b14a8eff" alt="Sweet Freedom - The Reflex Revision">
-    <div class="t-name">Sweet Freedom - The Reflex Revision</div>
-    <div class="t-artist">Norman Doray</div>
-    <a class="t-open" href="https://open.spotify.com/track/4GJVddiCmdw8g8G6aOfyK9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Less Is More - Choices">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734dd9e1ce83e47beffcfc74f4" alt="Less Is More">
-    <div class="t-name">Less Is More</div>
-    <div class="t-artist">Choices</div>
-    <a class="t-open" href="https://open.spotify.com/track/7MWJzAWFWT1ZSvf3D2dQrG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
