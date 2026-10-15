@@ -545,7 +545,7 @@ From TOKYO JAPAN
     <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Boogie&#x27;s in My Soul - Chaka Khan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739fd1f644cdad140887d5f1ca" alt="Boogie&#x27;s in My Soul">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c870622c6031a2291c283a06" alt="Boogie&#x27;s in My Soul">
     <div class="t-name">Boogie&#x27;s in My Soul</div>
     <div class="t-artist">Chaka Khan</div>
     <a class="t-open" href="https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
