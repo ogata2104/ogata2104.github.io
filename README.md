@@ -436,6 +436,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Tuxedo Way - Tuxedo">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c8f267bcf304aa9ee665f88" alt="The Tuxedo Way">
+    <div class="t-name">The Tuxedo Way</div>
+    <div class="t-artist">Tuxedo</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Smd57mL7iXhFNyVg3ExP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="2nd Time Around - Tuxedo">
+    <img src="https://i.scdn.co/image/ab67616d0000b273504fb7fb29f2f72ec3e12ab1" alt="2nd Time Around">
+    <div class="t-name">2nd Time Around</div>
+    <div class="t-artist">Tuxedo</div>
+    <a class="t-open" href="https://open.spotify.com/track/6AC04d82tt0MHMMivnhYds" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Back In Town - Tuxedo">
+    <img src="https://i.scdn.co/image/ab67616d0000b273504fb7fb29f2f72ec3e12ab1" alt="Back In Town">
+    <div class="t-name">Back In Town</div>
+    <div class="t-artist">Tuxedo</div>
+    <a class="t-open" href="https://open.spotify.com/track/18tFTA0wO7xI2GqBTHo6PN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Patagonia - Patawawa">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734c638098530fb9582f13bda1" alt="Patagonia">
+    <div class="t-name">Patagonia</div>
+    <div class="t-artist">Patawawa</div>
+    <a class="t-open" href="https://open.spotify.com/track/1e46ZC7vtQcyGEOFbyv1df" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hold Me Now - キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734378d9eb85031d774e94d17f" alt="Hold Me Now">
+    <div class="t-name">Hold Me Now</div>
+    <div class="t-artist">キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KYQfBt49UM0GYBHkD9TgF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Superstar - Majid Jordan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a809752f22ddc85ee63a36a7" alt="Superstar">
+    <div class="t-name">Superstar</div>
+    <div class="t-artist">Majid Jordan</div>
+    <a class="t-open" href="https://open.spotify.com/track/2xnYqX95ftldr1yo6FRfVa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Thinking - Louis Cole">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369f27ac28a49aadfd395b4ae" alt="Thinking">
+    <div class="t-name">Thinking</div>
+    <div class="t-artist">Louis Cole</div>
+    <a class="t-open" href="https://open.spotify.com/track/1JDS6yAk0wCsfkFLN9Tr7i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b21774d015308d3f0cc2643e" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/6h9pvvISB34nLG9f1kzQ6P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Out Of Control - The Chemical Brothers">
     <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Out Of Control">
     <div class="t-name">Out Of Control</div>
@@ -495,66 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Block Rockin&#x27; Beats</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
-    <div class="t-name">Galvanize</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
-    <div class="t-name">Hey Boy Hey Girl</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
-    <div class="t-name">Go</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="My Old School - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
-    <div class="t-name">My Old School</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
-    <div class="t-name">Reelin&#x27; In The Years</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Peg - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
-    <div class="t-name">Peg</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rikki Don&#x27;t Lose That Number - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273120746a40f65d11c2ac29647" alt="Rikki Don&#x27;t Lose That Number">
-    <div class="t-name">Rikki Don&#x27;t Lose That Number</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hey Nineteen - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d" alt="Hey Nineteen">
-    <div class="t-name">Hey Nineteen</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Do It Again - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
-    <div class="t-name">Do It Again</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Boogie&#x27;s in My Soul - Chaka Khan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c870622c6031a2291c283a06" alt="Boogie&#x27;s in My Soul">
-    <div class="t-name">Boogie&#x27;s in My Soul</div>
-    <div class="t-artist">Chaka Khan</div>
-    <a class="t-open" href="https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
