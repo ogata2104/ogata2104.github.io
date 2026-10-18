@@ -436,6 +436,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dirty - CAPYAC">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736ae4ede42cdca5446116fdfb" alt="Dirty">
+    <div class="t-name">Dirty</div>
+    <div class="t-artist">CAPYAC</div>
+    <a class="t-open" href="https://open.spotify.com/track/70gB3XHgeevIQd8dWYJdPL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Fight It - Gavin Turek">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f69689886ee59a9fd1b25e1" alt="Don&#x27;t Fight It">
+    <div class="t-name">Don&#x27;t Fight It</div>
+    <div class="t-artist">Gavin Turek</div>
+    <a class="t-open" href="https://open.spotify.com/track/2r7NltS8enbgDQlOWUPCi2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The Tuxedo Way - Tuxedo">
     <img src="https://i.scdn.co/image/ab67616d0000b2738c8f267bcf304aa9ee665f88" alt="The Tuxedo Way">
     <div class="t-name">The Tuxedo Way</div>
@@ -543,18 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Let Forever Be</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One Too Many Mornings - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732d47d65f2938c9da2ff7f57c" alt="One Too Many Mornings">
-    <div class="t-name">One Too Many Mornings</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
-    <div class="t-name">Block Rockin&#x27; Beats</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
