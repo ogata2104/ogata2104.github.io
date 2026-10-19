@@ -354,26 +354,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,11 +433,65 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="鎌倉グッドバイ - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="鎌倉グッドバイ">
+    <div class="t-name">鎌倉グッドバイ</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/7q9xc1HlFwngc2oPfKgate" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="由比ヶ浜カイト - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="由比ヶ浜カイト">
+    <div class="t-name">由比ヶ浜カイト</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/4jOcHjJYRLXykeoegDtbUF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="長谷サンズ - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="長谷サンズ">
+    <div class="t-name">長谷サンズ</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/6ejhdVZBx1naKsS15OJL9B" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="極楽寺ハートブレイク - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="極楽寺ハートブレイク">
+    <div class="t-name">極楽寺ハートブレイク</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/7l3euKoFO24vfHakyVyso2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="稲村ヶ崎ジェーン - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="稲村ヶ崎ジェーン">
+    <div class="t-name">稲村ヶ崎ジェーン</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/43GipwmizIZVGCQnNZUP8V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="七里ヶ浜スカイウォーク - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="七里ヶ浜スカイウォーク">
+    <div class="t-name">七里ヶ浜スカイウォーク</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/2TtIo7b1IIyjY1TWoC6fRA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="腰越クライベイビー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="腰越クライベイビー">
+    <div class="t-name">腰越クライベイビー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/13tvchV3WElZxWCg5HLv9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
     <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
     <div class="t-name">江ノ島エスカー</div>
     <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
     <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="鵠沼サーフ - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="鵠沼サーフ">
+    <div class="t-name">鵠沼サーフ</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/5q3Quevic6d1a7AFPGfq8J" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="藤沢ルーザー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="藤沢ルーザー">
+    <div class="t-name">藤沢ルーザー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/1EHsyVTxdGKZJiUYnR5yET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Dirty - CAPYAC">
     <img src="https://i.scdn.co/image/ab67616d0000b2736ae4ede42cdca5446116fdfb" alt="Dirty">
@@ -483,78 +534,6 @@ From TOKYO JAPAN
     <div class="t-name">NOTHING ELSE 2</div>
     <div class="t-artist">TOWA TEI</div>
     <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold Me Now - キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734378d9eb85031d774e94d17f" alt="Hold Me Now">
-    <div class="t-name">Hold Me Now</div>
-    <div class="t-artist">キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KYQfBt49UM0GYBHkD9TgF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Superstar - Majid Jordan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a809752f22ddc85ee63a36a7" alt="Superstar">
-    <div class="t-name">Superstar</div>
-    <div class="t-artist">Majid Jordan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2xnYqX95ftldr1yo6FRfVa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Thinking - Louis Cole">
-    <img src="https://i.scdn.co/image/ab67616d0000b27369f27ac28a49aadfd395b4ae" alt="Thinking">
-    <div class="t-name">Thinking</div>
-    <div class="t-artist">Louis Cole</div>
-    <a class="t-open" href="https://open.spotify.com/track/1JDS6yAk0wCsfkFLN9Tr7i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b21774d015308d3f0cc2643e" alt="The Walk">
-    <div class="t-name">The Walk</div>
-    <div class="t-artist">Mayer Hawthorne</div>
-    <a class="t-open" href="https://open.spotify.com/track/6h9pvvISB34nLG9f1kzQ6P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out Of Control - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Out Of Control">
-    <div class="t-name">Out Of Control</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/6zIkiZqUnSMsuRJ6acyJuD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Do It Again - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e70a17eb4f76721f1344310e" alt="Do It Again">
-    <div class="t-name">Do It Again</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/6eypw7fGYBtYxD3dCE2pld" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Leave Home - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732d47d65f2938c9da2ff7f57c" alt="Leave Home">
-    <div class="t-name">Leave Home</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Got To Keep On - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a6eda16f17371a30534b4bba" alt="Got To Keep On">
-    <div class="t-name">Got To Keep On</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4vh6Rn6FVG4w79JmlZ5p7d" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
-    <div class="t-name">Star Guitar</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Salmon Dance - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e70a17eb4f76721f1344310e" alt="The Salmon Dance">
-    <div class="t-name">The Salmon Dance</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wide Open - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Wide Open">
-    <div class="t-name">Wide Open</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/6cHb0vMyrGXMamRwLOmQmm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
