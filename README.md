@@ -433,6 +433,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="THE SOURCE - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="THE SOURCE">
+    <div class="t-name">THE SOURCE</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/4gcv3taFGtAVoi7ETlPP2i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="HEY! - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="HEY!">
+    <div class="t-name">HEY!</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/4olZGtlfTIRdvSh2civt5X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TOUCH - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
+    <div class="t-name">TOUCH</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="鎌倉グッドバイ - ASIAN KUNG-FU GENERATION">
     <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="鎌倉グッドバイ">
     <div class="t-name">鎌倉グッドバイ</div>
@@ -510,30 +534,6 @@ From TOKYO JAPAN
     <div class="t-name">The Tuxedo Way</div>
     <div class="t-artist">Tuxedo</div>
     <a class="t-open" href="https://open.spotify.com/track/1Smd57mL7iXhFNyVg3ExP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="2nd Time Around - Tuxedo">
-    <img src="https://i.scdn.co/image/ab67616d0000b273504fb7fb29f2f72ec3e12ab1" alt="2nd Time Around">
-    <div class="t-name">2nd Time Around</div>
-    <div class="t-artist">Tuxedo</div>
-    <a class="t-open" href="https://open.spotify.com/track/6AC04d82tt0MHMMivnhYds" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Back In Town - Tuxedo">
-    <img src="https://i.scdn.co/image/ab67616d0000b273504fb7fb29f2f72ec3e12ab1" alt="Back In Town">
-    <div class="t-name">Back In Town</div>
-    <div class="t-artist">Tuxedo</div>
-    <a class="t-open" href="https://open.spotify.com/track/18tFTA0wO7xI2GqBTHo6PN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Patagonia - Patawawa">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734c638098530fb9582f13bda1" alt="Patagonia">
-    <div class="t-name">Patagonia</div>
-    <div class="t-artist">Patawawa</div>
-    <a class="t-open" href="https://open.spotify.com/track/1e46ZC7vtQcyGEOFbyv1df" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
