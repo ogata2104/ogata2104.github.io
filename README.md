@@ -435,6 +435,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="MEMORY - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30" alt="MEMORY">
+    <div class="t-name">MEMORY</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/6dHbMqHLpGk7riGCFra1y6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ONLY YOU - BOØWY">
     <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
     <div class="t-name">ONLY YOU</div>
@@ -542,12 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">THE PEARL &amp; OYSTER</div>
     <div class="t-artist">TOWA TEI</div>
     <a class="t-open" href="https://open.spotify.com/track/3Pndlr3nZlRdF00c8dzv1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DEW MARIMBA TOUR - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="DEW MARIMBA TOUR">
-    <div class="t-name">DEW MARIMBA TOUR</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1yjIg5mVjxQLCgVDNIZrQf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
