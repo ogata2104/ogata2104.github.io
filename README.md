@@ -354,23 +354,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 17; }
-.spotify-card:nth-child(2) { z-index: 16; }
-.spotify-card:nth-child(3) { z-index: 15; }
-.spotify-card:nth-child(4) { z-index: 14; }
-.spotify-card:nth-child(5) { z-index: 13; }
-.spotify-card:nth-child(6) { z-index: 12; }
-.spotify-card:nth-child(7) { z-index: 11; }
-.spotify-card:nth-child(8) { z-index: 10; }
-.spotify-card:nth-child(9) { z-index: 9; }
-.spotify-card:nth-child(10) { z-index: 8; }
-.spotify-card:nth-child(11) { z-index: 7; }
-.spotify-card:nth-child(12) { z-index: 6; }
-.spotify-card:nth-child(13) { z-index: 5; }
-.spotify-card:nth-child(14) { z-index: 4; }
-.spotify-card:nth-child(15) { z-index: 3; }
-.spotify-card:nth-child(16) { z-index: 2; }
-.spotify-card:nth-child(17) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -433,6 +436,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
+    <div class="t-name">Reelin&#x27; In The Years</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Peg - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
+    <div class="t-name">Peg</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="THE PEARL &amp; OYSTER - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="THE PEARL &amp; OYSTER">
+    <div class="t-name">THE PEARL &amp; OYSTER</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Pndlr3nZlRdF00c8dzv1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DEW MARIMBA TOUR - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="DEW MARIMBA TOUR">
+    <div class="t-name">DEW MARIMBA TOUR</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1yjIg5mVjxQLCgVDNIZrQf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="KATABUI - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="KATABUI">
+    <div class="t-name">KATABUI</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/11Ge8hybDIEDHrtSw448GC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PERSIMMON &amp; KOMATSUNA KIMCHI - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="PERSIMMON &amp; KOMATSUNA KIMCHI">
+    <div class="t-name">PERSIMMON &amp; KOMATSUNA KIMCHI</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1wpvDxLARPmk4PZ2tDifqg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MOSAIC - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="MOSAIC">
+    <div class="t-name">MOSAIC</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3H7NZg2HTBkGbjAWCQuj92" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="GANG AVOCADO TEAM - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="GANG AVOCADO TEAM">
+    <div class="t-name">GANG AVOCADO TEAM</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/6LHlkQmeD9PiRMayxnmzwZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DAPPLED SUN - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="DAPPLED SUN">
+    <div class="t-name">DAPPLED SUN</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/2ANEsAk8zIVOT60tnOXrH4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ALA &amp; MOANA - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="ALA &amp; MOANA">
+    <div class="t-name">ALA &amp; MOANA</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Kf3jE76XwTb4wcEjJUMpB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="THE SOURCE - TOWA TEI">
     <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="THE SOURCE">
     <div class="t-name">THE SOURCE</div>
@@ -492,48 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">七里ヶ浜スカイウォーク</div>
     <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
     <a class="t-open" href="https://open.spotify.com/track/2TtIo7b1IIyjY1TWoC6fRA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="腰越クライベイビー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="腰越クライベイビー">
-    <div class="t-name">腰越クライベイビー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/13tvchV3WElZxWCg5HLv9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
-    <div class="t-name">江ノ島エスカー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="鵠沼サーフ - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="鵠沼サーフ">
-    <div class="t-name">鵠沼サーフ</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/5q3Quevic6d1a7AFPGfq8J" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="藤沢ルーザー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="藤沢ルーザー">
-    <div class="t-name">藤沢ルーザー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/1EHsyVTxdGKZJiUYnR5yET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dirty - CAPYAC">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736ae4ede42cdca5446116fdfb" alt="Dirty">
-    <div class="t-name">Dirty</div>
-    <div class="t-artist">CAPYAC</div>
-    <a class="t-open" href="https://open.spotify.com/track/70gB3XHgeevIQd8dWYJdPL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Fight It - Gavin Turek">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736f69689886ee59a9fd1b25e1" alt="Don&#x27;t Fight It">
-    <div class="t-name">Don&#x27;t Fight It</div>
-    <div class="t-artist">Gavin Turek</div>
-    <a class="t-open" href="https://open.spotify.com/track/2r7NltS8enbgDQlOWUPCi2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Tuxedo Way - Tuxedo">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c8f267bcf304aa9ee665f88" alt="The Tuxedo Way">
-    <div class="t-name">The Tuxedo Way</div>
-    <div class="t-artist">Tuxedo</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Smd57mL7iXhFNyVg3ExP0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
