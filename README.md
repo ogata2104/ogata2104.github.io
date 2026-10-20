@@ -436,6 +436,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Remember Summer Days - Anri">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="Remember Summer Days">
+    <div class="t-name">Remember Summer Days</div>
+    <div class="t-artist">Anri</div>
+    <a class="t-open" href="https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Summer Breeze - PIPER">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eaa3f37e3d40747266cdecc2" alt="Summer Breeze">
+    <div class="t-name">Summer Breeze</div>
+    <div class="t-artist">PIPER</div>
+    <a class="t-open" href="https://open.spotify.com/track/3szFx2vlepFUbnSG7kY1z8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="East River Drive - Grover Washington, Jr.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a2d128413c44f432f5209b03" alt="East River Drive">
+    <div class="t-name">East River Drive</div>
+    <div class="t-artist">Grover Washington, Jr.</div>
+    <a class="t-open" href="https://open.spotify.com/track/2TtNgUY9qcpv51jVFHJR1v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="My Old School - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
+    <div class="t-name">My Old School</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
     <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
     <div class="t-name">Reelin&#x27; In The Years</div>
@@ -531,30 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">由比ヶ浜カイト</div>
     <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
     <a class="t-open" href="https://open.spotify.com/track/4jOcHjJYRLXykeoegDtbUF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="長谷サンズ - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="長谷サンズ">
-    <div class="t-name">長谷サンズ</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/6ejhdVZBx1naKsS15OJL9B" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="極楽寺ハートブレイク - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="極楽寺ハートブレイク">
-    <div class="t-name">極楽寺ハートブレイク</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/7l3euKoFO24vfHakyVyso2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="稲村ヶ崎ジェーン - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="稲村ヶ崎ジェーン">
-    <div class="t-name">稲村ヶ崎ジェーン</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/43GipwmizIZVGCQnNZUP8V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="七里ヶ浜スカイウォーク - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="七里ヶ浜スカイウォーク">
-    <div class="t-name">七里ヶ浜スカイウォーク</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/2TtIo7b1IIyjY1TWoC6fRA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
