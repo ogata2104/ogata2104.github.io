@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="When I Give My Love to You (with Brenda Russell) - Michael Franks">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" alt="When I Give My Love to You (with Brenda Russell)">
+    <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
+    <div class="t-artist">Michael Franks</div>
+    <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Remember Summer Days - Anri">
     <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="Remember Summer Days">
     <div class="t-name">Remember Summer Days</div>
@@ -549,12 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">鎌倉グッドバイ</div>
     <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
     <a class="t-open" href="https://open.spotify.com/track/7q9xc1HlFwngc2oPfKgate" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="由比ヶ浜カイト - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="由比ヶ浜カイト">
-    <div class="t-name">由比ヶ浜カイト</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/4jOcHjJYRLXykeoegDtbUF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
