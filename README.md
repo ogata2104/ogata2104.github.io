@@ -435,6 +435,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Relationships - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
     <div class="t-name">Relationships</div>
@@ -542,12 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">抱かれに来た女</div>
     <div class="t-artist">Kingo Hamada</div>
     <a class="t-open" href="https://open.spotify.com/track/5ZwDNdZHE1HC4nJPWG321K" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When I Give My Love to You (with Brenda Russell) - Michael Franks">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" alt="When I Give My Love to You (with Brenda Russell)">
-    <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
-    <div class="t-artist">Michael Franks</div>
-    <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
