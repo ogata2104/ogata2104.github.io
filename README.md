@@ -435,6 +435,54 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ONLY YOU - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
+    <div class="t-name">ONLY YOU</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DREAMIN&#x27; - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736ce5d29557541f1f32df4b12" alt="DREAMIN&#x27;">
+    <div class="t-name">DREAMIN&#x27;</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/6myuthjsDanIS22oWkB4wm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="CLOUDY HEART - Single Version - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fe25c11a88715f5a5f3361dc" alt="CLOUDY HEART - Single Version">
+    <div class="t-name">CLOUDY HEART - Single Version</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/362Nsx49m03u4X0WwuYSVh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MARIONETTE - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30" alt="MARIONETTE">
+    <div class="t-name">MARIONETTE</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/1zg3S9jjRaKG3O9TMU6Cnh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="B・BLUE - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
+    <div class="t-name">B・BLUE</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Catching the Sun - Spyro Gyra">
+    <img src="https://i.scdn.co/image/ab67616d0000b27337b7ff1a2a9f4b3bf2f82a3e" alt="Catching the Sun">
+    <div class="t-name">Catching the Sun</div>
+    <div class="t-artist">Spyro Gyra</div>
+    <a class="t-open" href="https://open.spotify.com/track/60LB0zOW8ZqU9qcBraBntU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dreamin&#x27; - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731a7b51e768b041dbd48c0e55" alt="Dreamin&#x27;">
+    <div class="t-name">Dreamin&#x27;</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bvXAQdMYHZCPRJeVsAsa4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Winelight - Grover Washington, Jr.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7" alt="Winelight">
+    <div class="t-name">Winelight</div>
+    <div class="t-artist">Grover Washington, Jr.</div>
+    <a class="t-open" href="https://open.spotify.com/track/0nN2D5xwVtLrgUw0TIQ5CI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Bahia Funk - Remastered - Lee Ritenour">
     <img src="https://i.scdn.co/image/ab67616d0000b2731acf01c06ed17cd166fdf8c2" alt="Bahia Funk - Remastered">
     <div class="t-name">Bahia Funk - Remastered</div>
@@ -500,54 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">DEW MARIMBA TOUR</div>
     <div class="t-artist">TOWA TEI</div>
     <a class="t-open" href="https://open.spotify.com/track/1yjIg5mVjxQLCgVDNIZrQf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="KATABUI - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="KATABUI">
-    <div class="t-name">KATABUI</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/11Ge8hybDIEDHrtSw448GC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="PERSIMMON &amp; KOMATSUNA KIMCHI - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="PERSIMMON &amp; KOMATSUNA KIMCHI">
-    <div class="t-name">PERSIMMON &amp; KOMATSUNA KIMCHI</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1wpvDxLARPmk4PZ2tDifqg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MOSAIC - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="MOSAIC">
-    <div class="t-name">MOSAIC</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3H7NZg2HTBkGbjAWCQuj92" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="GANG AVOCADO TEAM - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="GANG AVOCADO TEAM">
-    <div class="t-name">GANG AVOCADO TEAM</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/6LHlkQmeD9PiRMayxnmzwZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DAPPLED SUN - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="DAPPLED SUN">
-    <div class="t-name">DAPPLED SUN</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/2ANEsAk8zIVOT60tnOXrH4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ALA &amp; MOANA - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="ALA &amp; MOANA">
-    <div class="t-name">ALA &amp; MOANA</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Kf3jE76XwTb4wcEjJUMpB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="THE SOURCE - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="THE SOURCE">
-    <div class="t-name">THE SOURCE</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/4gcv3taFGtAVoi7ETlPP2i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="HEY! - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="HEY!">
-    <div class="t-name">HEY!</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/4olZGtlfTIRdvSh2civt5X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
