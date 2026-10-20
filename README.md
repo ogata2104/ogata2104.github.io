@@ -435,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Relationships - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
+    <div class="t-name">Relationships</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
+    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gasoline (feat. Taylor Swift) - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Gasoline (feat. Taylor Swift)">
+    <div class="t-name">Gasoline (feat. Taylor Swift)</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
+    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Wire - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
+    <div class="t-name">The Wire</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Pray to God (feat. HAIM)">
+    <div class="t-name">Pray to God (feat. HAIM)</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="no body, no crime (feat. HAIM) - Taylor Swift">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737035f417c37a4a9c2670aa91" alt="no body, no crime (feat. HAIM)">
+    <div class="t-name">no body, no crime (feat. HAIM)</div>
+    <div class="t-artist">Taylor Swift</div>
+    <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="MEMORY - BOØWY">
     <img src="https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30" alt="MEMORY">
     <div class="t-name">MEMORY</div>
@@ -506,48 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
     <div class="t-artist">Michael Franks</div>
     <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Remember Summer Days - Anri">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="Remember Summer Days">
-    <div class="t-name">Remember Summer Days</div>
-    <div class="t-artist">Anri</div>
-    <a class="t-open" href="https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Summer Breeze - PIPER">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eaa3f37e3d40747266cdecc2" alt="Summer Breeze">
-    <div class="t-name">Summer Breeze</div>
-    <div class="t-artist">PIPER</div>
-    <a class="t-open" href="https://open.spotify.com/track/3szFx2vlepFUbnSG7kY1z8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="East River Drive - Grover Washington, Jr.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a2d128413c44f432f5209b03" alt="East River Drive">
-    <div class="t-name">East River Drive</div>
-    <div class="t-artist">Grover Washington, Jr.</div>
-    <a class="t-open" href="https://open.spotify.com/track/2TtNgUY9qcpv51jVFHJR1v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="My Old School - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8" alt="My Old School">
-    <div class="t-name">My Old School</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
-    <div class="t-name">Reelin&#x27; In The Years</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Peg - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
-    <div class="t-name">Peg</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="THE PEARL &amp; OYSTER - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="THE PEARL &amp; OYSTER">
-    <div class="t-name">THE PEARL &amp; OYSTER</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Pndlr3nZlRdF00c8dzv1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
