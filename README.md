@@ -436,6 +436,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
+    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
+    <div class="t-name">Dance Dance Dance!</div>
+    <div class="t-artist">Barry Can&#x27;t Swim</div>
+    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
+    <div class="t-name">Waste Your Heart</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
+    <div class="t-name">Hey Boy Hey Girl</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Everywhere - Fleetwood Mac">
     <img src="https://i.scdn.co/image/ab67616d0000b273562c3dffcc5dc89d7af1a47e" alt="Everywhere">
     <div class="t-name">Everywhere</div>
@@ -537,24 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Do You Believe in Me</div>
     <div class="t-artist">Eric Gadd</div>
     <a class="t-open" href="https://open.spotify.com/track/1w09YJ2UvJvCR4q0W44snv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="After the Love Is Gone - Airplay">
-    <img src="https://i.scdn.co/image/ab67616d0000b27322596cf6aeb42444b32b39be" alt="After the Love Is Gone">
-    <div class="t-name">After the Love Is Gone</div>
-    <div class="t-artist">Airplay</div>
-    <a class="t-open" href="https://open.spotify.com/track/06SfqJmXEWvO9V92l1yzJ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When the Going Gets Tough, The Tough Get Going - Billy Ocean">
-    <img src="https://i.scdn.co/image/ab67616d0000b27399ee23dac7128cb5754f593c" alt="When the Going Gets Tough, The Tough Get Going">
-    <div class="t-name">When the Going Gets Tough, The Tough Get Going</div>
-    <div class="t-artist">Billy Ocean</div>
-    <a class="t-open" href="https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The King of Wishful Thinking - Go West">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a4191847d232ac422c74b94" alt="The King of Wishful Thinking">
-    <div class="t-name">The King of Wishful Thinking</div>
-    <div class="t-artist">Go West</div>
-    <a class="t-open" href="https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
