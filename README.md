@@ -354,26 +354,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +435,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="I&#x27;m Going Down - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="I&#x27;m Going Down">
+    <div class="t-name">I&#x27;m Going Down</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/3C2B1j4sOXOw1uoADrBiRH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Holding On to Love - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b273323e538b7b98da975161a4de" alt="Holding On to Love">
+    <div class="t-name">Holding On to Love</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/1uzaFntXR5Q9K99LlduyhP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You&#x27;re My World Girl - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a9dd6842b248f3881167199e" alt="You&#x27;re My World Girl">
+    <div class="t-name">You&#x27;re My World Girl</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bZvKdJg0alJJ24m7fzZDm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Best Love - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b27322ab2fddf995b6d686e78b54" alt="Best Love">
+    <div class="t-name">Best Love</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Car Wash - Long Version - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="Car Wash - Long Version">
+    <div class="t-name">Car Wash - Long Version</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Magic Touch - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b273323e538b7b98da975161a4de" alt="Magic Touch">
+    <div class="t-name">Magic Touch</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/24GdvgGscF5qmVPuXYP7a5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ooh Boy - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a9dd6842b248f3881167199e" alt="Ooh Boy">
+    <div class="t-name">Ooh Boy</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/0ScKoL46M5u6wHzsR3JjdS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Is It Love You&#x27;re After - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bfee1291b4f2f67051e9af72" alt="Is It Love You&#x27;re After">
+    <div class="t-name">Is It Love You&#x27;re After</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/0khj0hwCq1S6Sbhit1lvb6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Wanna Get Next To You - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="I Wanna Get Next To You">
+    <div class="t-name">I Wanna Get Next To You</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Don&#x27;t Live Here Anymore - Rose Royce">
+    <img src="https://i.scdn.co/image/ab67616d0000b27352fc32e87cf48546dd6e992d" alt="Love Don&#x27;t Live Here Anymore">
+    <div class="t-name">Love Don&#x27;t Live Here Anymore</div>
+    <div class="t-artist">Rose Royce</div>
+    <a class="t-open" href="https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Wishing on a Star - Rose Royce">
     <img src="https://i.scdn.co/image/ab67616d0000b273a9dd6842b248f3881167199e" alt="Wishing on a Star">
     <div class="t-name">Wishing on a Star</div>
@@ -489,72 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">no body, no crime (feat. HAIM)</div>
     <div class="t-artist">Taylor Swift</div>
     <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MEMORY - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30" alt="MEMORY">
-    <div class="t-name">MEMORY</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/6dHbMqHLpGk7riGCFra1y6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ONLY YOU - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
-    <div class="t-name">ONLY YOU</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DREAMIN&#x27; - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736ce5d29557541f1f32df4b12" alt="DREAMIN&#x27;">
-    <div class="t-name">DREAMIN&#x27;</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/6myuthjsDanIS22oWkB4wm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="CLOUDY HEART - Single Version - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe25c11a88715f5a5f3361dc" alt="CLOUDY HEART - Single Version">
-    <div class="t-name">CLOUDY HEART - Single Version</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/362Nsx49m03u4X0WwuYSVh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MARIONETTE - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30" alt="MARIONETTE">
-    <div class="t-name">MARIONETTE</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/1zg3S9jjRaKG3O9TMU6Cnh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="B・BLUE - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
-    <div class="t-name">B・BLUE</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Catching the Sun - Spyro Gyra">
-    <img src="https://i.scdn.co/image/ab67616d0000b27337b7ff1a2a9f4b3bf2f82a3e" alt="Catching the Sun">
-    <div class="t-name">Catching the Sun</div>
-    <div class="t-artist">Spyro Gyra</div>
-    <a class="t-open" href="https://open.spotify.com/track/60LB0zOW8ZqU9qcBraBntU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dreamin&#x27; - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731a7b51e768b041dbd48c0e55" alt="Dreamin&#x27;">
-    <div class="t-name">Dreamin&#x27;</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/2bvXAQdMYHZCPRJeVsAsa4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Winelight - Grover Washington, Jr.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7" alt="Winelight">
-    <div class="t-name">Winelight</div>
-    <div class="t-artist">Grover Washington, Jr.</div>
-    <a class="t-open" href="https://open.spotify.com/track/0nN2D5xwVtLrgUw0TIQ5CI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Bahia Funk - Remastered - Lee Ritenour">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731acf01c06ed17cd166fdf8c2" alt="Bahia Funk - Remastered">
-    <div class="t-name">Bahia Funk - Remastered</div>
-    <div class="t-artist">Lee Ritenour</div>
-    <a class="t-open" href="https://open.spotify.com/track/4znq2zjtVCctHhDmzkY25g" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="抱かれに来た女 - Kingo Hamada">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d175d8963d44efb4cce117ae" alt="抱かれに来た女">
-    <div class="t-name">抱かれに来た女</div>
-    <div class="t-artist">Kingo Hamada</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZwDNdZHE1HC4nJPWG321K" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
