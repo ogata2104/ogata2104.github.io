@@ -436,6 +436,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Everywhere - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273562c3dffcc5dc89d7af1a47e" alt="Everywhere">
+    <div class="t-name">Everywhere</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/38iKuyifRL4mQ36F2hIxmF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Never Too Much - Luther Vandross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273102bebc4807fc0952a754d0f" alt="Never Too Much">
+    <div class="t-name">Never Too Much</div>
+    <div class="t-artist">Luther Vandross</div>
+    <a class="t-open" href="https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Caribbean Queen (No More Love On the Run) - Billy Ocean">
+    <img src="https://i.scdn.co/image/ab67616d0000b27399ee23dac7128cb5754f593c" alt="Caribbean Queen (No More Love On the Run)">
+    <div class="t-name">Caribbean Queen (No More Love On the Run)</div>
+    <div class="t-artist">Billy Ocean</div>
+    <a class="t-open" href="https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Easy Lover - Philip Bailey">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d05d00a34eee4d09ec104298" alt="Easy Lover">
+    <div class="t-name">Easy Lover</div>
+    <div class="t-artist">Philip Bailey</div>
+    <a class="t-open" href="https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You&#x27;re a God - Vertical Horizon">
+    <img src="https://i.scdn.co/image/ab67616d0000b273dde37a43468f6a6f60f782e1" alt="You&#x27;re a God">
+    <div class="t-name">You&#x27;re a God</div>
+    <div class="t-artist">Vertical Horizon</div>
+    <a class="t-open" href="https://open.spotify.com/track/758wp6xs3ADdgIwdeHoXmX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Even Flow - Pearl Jam">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" alt="Even Flow">
+    <div class="t-name">Even Flow</div>
+    <div class="t-artist">Pearl Jam</div>
+    <a class="t-open" href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="High and Dry - Radiohead">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="High and Dry">
+    <div class="t-name">High and Dry</div>
+    <div class="t-artist">Radiohead</div>
+    <a class="t-open" href="https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="My Own Worst Enemy - Lit">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" alt="My Own Worst Enemy">
+    <div class="t-name">My Own Worst Enemy</div>
+    <div class="t-artist">Lit</div>
+    <a class="t-open" href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="All I Want - The Offspring">
     <img src="https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b" alt="All I Want">
     <div class="t-name">All I Want</div>
@@ -501,60 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">The King of Wishful Thinking</div>
     <div class="t-artist">Go West</div>
     <a class="t-open" href="https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Manhattan - Carlita">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735ffe20dbddc10a8911ea2473" alt="Manhattan">
-    <div class="t-name">Manhattan</div>
-    <div class="t-artist">Carlita</div>
-    <a class="t-open" href="https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version - Carl Carlton">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e" alt="She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version">
-    <div class="t-name">She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version</div>
-    <div class="t-artist">Carl Carlton</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
-    <div class="t-name">Block Rockin&#x27; Beats</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
-    <div class="t-name">RYDEEN</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MMMBop - Hanson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
-    <div class="t-name">MMMBop</div>
-    <div class="t-artist">Hanson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Higher Love - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
-    <div class="t-name">Higher Love</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="シャイニン・オン　君が哀しい - Look">
-    <img src="https://i.scdn.co/image/ab67616d0000b27352b81482b45667296123809b" alt="シャイニン・オン　君が哀しい">
-    <div class="t-name">シャイニン・オン　君が哀しい</div>
-    <div class="t-artist">Look</div>
-    <a class="t-open" href="https://open.spotify.com/track/2MVlkBp6qUoxIWXRptsUcA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Together Again - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Together Again">
-    <div class="t-name">Together Again</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
-    <div class="t-name">江ノ島エスカー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
