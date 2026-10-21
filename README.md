@@ -436,6 +436,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The King of Wishful Thinking - Go West">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a4191847d232ac422c74b94" alt="The King of Wishful Thinking">
+    <div class="t-name">The King of Wishful Thinking</div>
+    <div class="t-artist">Go West</div>
+    <a class="t-open" href="https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Manhattan - Carlita">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735ffe20dbddc10a8911ea2473" alt="Manhattan">
+    <div class="t-name">Manhattan</div>
+    <div class="t-artist">Carlita</div>
+    <a class="t-open" href="https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version - Carl Carlton">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e" alt="She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version">
+    <div class="t-name">She&#x27;s A Bad Mama Jama (She&#x27;s Built, She&#x27;s Stacked) - Single Version</div>
+    <div class="t-artist">Carl Carlton</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
+    <div class="t-name">Block Rockin&#x27; Beats</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
+    <div class="t-name">RYDEEN</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MMMBop - Hanson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Higher Love - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
+    <div class="t-name">Higher Love</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="シャイニン・オン　君が哀しい - Look">
+    <img src="https://i.scdn.co/image/ab67616d0000b27352b81482b45667296123809b" alt="シャイニン・オン　君が哀しい">
+    <div class="t-name">シャイニン・オン　君が哀しい</div>
+    <div class="t-artist">Look</div>
+    <a class="t-open" href="https://open.spotify.com/track/2MVlkBp6qUoxIWXRptsUcA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Together Again - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Together Again">
+    <div class="t-name">Together Again</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
+    <div class="t-name">江ノ島エスカー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Just The Way You Are - Milky">
     <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
     <div class="t-name">Just The Way You Are</div>
@@ -495,66 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Africa</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Do It Again - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
-    <div class="t-name">Do It Again</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Bring The Noise 2026 - Nico de Andrea">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c1687881fd67f57fc132a7ee" alt="Bring The Noise 2026">
-    <div class="t-name">Bring The Noise 2026</div>
-    <div class="t-artist">Nico de Andrea</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Gqg0STCge89oA9NNk2viY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Baby Come Back (feat. Mayer Hawthorne) - Party Pupils">
-    <img src="https://i.scdn.co/image/ab67616d0000b273808c63c3f5d584ea63bc3a62" alt="Baby Come Back (feat. Mayer Hawthorne)">
-    <div class="t-name">Baby Come Back (feat. Mayer Hawthorne)</div>
-    <div class="t-artist">Party Pupils</div>
-    <a class="t-open" href="https://open.spotify.com/track/5V7PUAfCy02UxXauMnN9T8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ride Like The Wind - Yacht House Mix - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273691d50b75992ecc0371ae480" alt="Ride Like The Wind - Yacht House Mix">
-    <div class="t-name">Ride Like The Wind - Yacht House Mix</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
-    <div class="t-name">Go</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wife - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
-    <div class="t-name">Wife</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Grateful For - Natalie Layne">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733c7d48c36c26310bd05751d4" alt="Grateful For">
-    <div class="t-name">Grateful For</div>
-    <div class="t-artist">Natalie Layne</div>
-    <a class="t-open" href="https://open.spotify.com/track/5rlg70Ek5xpqsvCUBKxs3N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What More Can I Say - Teddy Swims">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287" alt="What More Can I Say">
-    <div class="t-name">What More Can I Say</div>
-    <div class="t-artist">Teddy Swims</div>
-    <a class="t-open" href="https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Fate of Ophelia - Taylor Swift">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" alt="The Fate of Ophelia">
-    <div class="t-name">The Fate of Ophelia</div>
-    <div class="t-artist">Taylor Swift</div>
-    <a class="t-open" href="https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
