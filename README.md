@@ -436,6 +436,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="All I Want - The Offspring">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b" alt="All I Want">
+    <div class="t-name">All I Want</div>
+    <div class="t-artist">The Offspring</div>
+    <a class="t-open" href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunday Morning - Earth, Wind &amp; Fire">
+    <img src="https://i.scdn.co/image/ab67616d0000b27333fd03d073b929af95f0dc76" alt="Sunday Morning">
+    <div class="t-name">Sunday Morning</div>
+    <div class="t-artist">Earth, Wind &amp; Fire</div>
+    <a class="t-open" href="https://open.spotify.com/track/2lnx4mfdXyAYvtVPYXRPcD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Can Break Your Heart - Michael McDonald">
+    <img src="https://i.scdn.co/image/ab67616d0000b27372a576d2fe2270948871ed94" alt="Love Can Break Your Heart">
+    <div class="t-name">Love Can Break Your Heart</div>
+    <div class="t-artist">Michael McDonald</div>
+    <a class="t-open" href="https://open.spotify.com/track/4PgihlWbbhLpuiSTleaVtF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Art of Love - Michael Franks">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fbb4cf0fad6069df7b0aad51" alt="The Art of Love">
+    <div class="t-name">The Art of Love</div>
+    <div class="t-artist">Michael Franks</div>
+    <a class="t-open" href="https://open.spotify.com/track/0wL8CVdPC4XZqfOu4mVWad" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="So What&#x27;Cha Want - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b27396c3a9e140c8ff0ab0d8a91e" alt="So What&#x27;Cha Want">
+    <div class="t-name">So What&#x27;Cha Want</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/25pl7kV4OxafIc9wPAggYf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Best Things In Life Are Free - Classic 7&quot; With Rap - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c4c5b728ebb6a4b6e6aba491" alt="The Best Things In Life Are Free - Classic 7&quot; With Rap">
+    <div class="t-name">The Best Things In Life Are Free - Classic 7&quot; With Rap</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/2YPfGRDRBBd48PXIbmlgO4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cross My Heart - Lee Ritenour">
+    <img src="https://i.scdn.co/image/ab67616d0000b27373f6184307d024998392cded" alt="Cross My Heart">
+    <div class="t-name">Cross My Heart</div>
+    <div class="t-artist">Lee Ritenour</div>
+    <a class="t-open" href="https://open.spotify.com/track/6AVRRcLF9kJ57rwO5cCRE3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Do You Believe in Me - Eric Gadd">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737b1361614dcdff8c48b606b9" alt="Do You Believe in Me">
+    <div class="t-name">Do You Believe in Me</div>
+    <div class="t-artist">Eric Gadd</div>
+    <a class="t-open" href="https://open.spotify.com/track/1w09YJ2UvJvCR4q0W44snv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="After the Love Is Gone - Airplay">
+    <img src="https://i.scdn.co/image/ab67616d0000b27322596cf6aeb42444b32b39be" alt="After the Love Is Gone">
+    <div class="t-name">After the Love Is Gone</div>
+    <div class="t-artist">Airplay</div>
+    <a class="t-open" href="https://open.spotify.com/track/06SfqJmXEWvO9V92l1yzJ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="When the Going Gets Tough, The Tough Get Going - Billy Ocean">
+    <img src="https://i.scdn.co/image/ab67616d0000b27399ee23dac7128cb5754f593c" alt="When the Going Gets Tough, The Tough Get Going">
+    <div class="t-name">When the Going Gets Tough, The Tough Get Going</div>
+    <div class="t-artist">Billy Ocean</div>
+    <a class="t-open" href="https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The King of Wishful Thinking - Go West">
     <img src="https://i.scdn.co/image/ab67616d0000b2739a4191847d232ac422c74b94" alt="The King of Wishful Thinking">
     <div class="t-name">The King of Wishful Thinking</div>
@@ -495,66 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">江ノ島エスカー</div>
     <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
     <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just The Way You Are - Milky">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
-    <div class="t-name">Just The Way You Are</div>
-    <div class="t-artist">Milky</div>
-    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Midnight Pretenders - Tomoko Aran">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737d2d24d8a6bf7578a140db55" alt="Midnight Pretenders">
-    <div class="t-name">Midnight Pretenders</div>
-    <div class="t-artist">Tomoko Aran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="誕生日はマイナス1 - Kanako Wada">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738c4999a6de085d2bd04df1d9" alt="誕生日はマイナス1">
-    <div class="t-name">誕生日はマイナス1</div>
-    <div class="t-artist">Kanako Wada</div>
-    <a class="t-open" href="https://open.spotify.com/track/7aoAKpdbFqQmQO6WZU4ky0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
-    <div class="t-name">WATERMELON</div>
-    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LIGHT&#x27;N UP - Minako Yoshida">
-    <img src="https://i.scdn.co/image/ab67616d0000b27316b436daf80627e7e30142e5" alt="LIGHT&#x27;N UP">
-    <div class="t-name">LIGHT&#x27;N UP</div>
-    <div class="t-artist">Minako Yoshida</div>
-    <a class="t-open" href="https://open.spotify.com/track/1T8ufm71IHfYNrNaLTrVRn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
-    <div class="t-name">Cartoon Heroes - Radio Edit</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Kicking It - After 7">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736f96aad749cb6d09d4fe8394" alt="Kicking It">
-    <div class="t-name">Kicking It</div>
-    <div class="t-artist">After 7</div>
-    <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
