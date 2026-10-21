@@ -436,6 +436,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="What More Can I Say - Teddy Swims">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287" alt="What More Can I Say">
+    <div class="t-name">What More Can I Say</div>
+    <div class="t-artist">Teddy Swims</div>
+    <a class="t-open" href="https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Fate of Ophelia - Taylor Swift">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" alt="The Fate of Ophelia">
+    <div class="t-name">The Fate of Ophelia</div>
+    <div class="t-artist">Taylor Swift</div>
+    <a class="t-open" href="https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Come Through - Ben Fox">
+    <img src="https://i.scdn.co/image/ab67616d0000b27344c900f34d0a7ea3b3e27d89" alt="Come Through">
+    <div class="t-name">Come Through</div>
+    <div class="t-artist">Ben Fox</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ZN1laidcLocjcZCdMDBB9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="YOUR WAY&#x27;S BETTER - Forrest Frank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c7d6942542cc33eb5fedbb30" alt="YOUR WAY&#x27;S BETTER">
+    <div class="t-name">YOUR WAY&#x27;S BETTER</div>
+    <div class="t-artist">Forrest Frank</div>
+    <a class="t-open" href="https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cha Cha Cha - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Cha Cha Cha">
+    <div class="t-name">Cha Cha Cha</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Someday, Somewhere - Jungle">
+    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Someday, Somewhere">
+    <div class="t-name">Someday, Somewhere</div>
+    <div class="t-artist">Jungle</div>
+    <a class="t-open" href="https://open.spotify.com/track/69wmkZCUwdr2T0HvXKtNoa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Prema - Fujii Kaze">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733706a2459c0f1d9a155493dd" alt="Prema">
+    <div class="t-name">Prema</div>
+    <div class="t-artist">Fujii Kaze</div>
+    <a class="t-open" href="https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="I Knew It, I Knew You - From &quot;Toy Story 5&quot; - Taylor Swift">
     <img src="https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910" alt="I Knew It, I Knew You - From &quot;Toy Story 5&quot;">
     <div class="t-name">I Knew It, I Knew You - From &quot;Toy Story 5&quot;</div>
@@ -513,48 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Holding On to Love</div>
     <div class="t-artist">Rose Royce</div>
     <a class="t-open" href="https://open.spotify.com/track/1uzaFntXR5Q9K99LlduyhP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re My World Girl - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a9dd6842b248f3881167199e" alt="You&#x27;re My World Girl">
-    <div class="t-name">You&#x27;re My World Girl</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/2bZvKdJg0alJJ24m7fzZDm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Best Love - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b27322ab2fddf995b6d686e78b54" alt="Best Love">
-    <div class="t-name">Best Love</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Car Wash - Long Version - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="Car Wash - Long Version">
-    <div class="t-name">Car Wash - Long Version</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Magic Touch - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b273323e538b7b98da975161a4de" alt="Magic Touch">
-    <div class="t-name">Magic Touch</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/24GdvgGscF5qmVPuXYP7a5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ooh Boy - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a9dd6842b248f3881167199e" alt="Ooh Boy">
-    <div class="t-name">Ooh Boy</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/0ScKoL46M5u6wHzsR3JjdS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Is It Love You&#x27;re After - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bfee1291b4f2f67051e9af72" alt="Is It Love You&#x27;re After">
-    <div class="t-name">Is It Love You&#x27;re After</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/0khj0hwCq1S6Sbhit1lvb6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Wanna Get Next To You - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="I Wanna Get Next To You">
-    <div class="t-name">I Wanna Get Next To You</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
