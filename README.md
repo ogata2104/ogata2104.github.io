@@ -436,6 +436,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Wife - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
+    <div class="t-name">Wife</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Grateful For - Natalie Layne">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733c7d48c36c26310bd05751d4" alt="Grateful For">
+    <div class="t-name">Grateful For</div>
+    <div class="t-artist">Natalie Layne</div>
+    <a class="t-open" href="https://open.spotify.com/track/5rlg70Ek5xpqsvCUBKxs3N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="What More Can I Say - Teddy Swims">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287" alt="What More Can I Say">
     <div class="t-name">What More Can I Say</div>
@@ -537,24 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Life Or Death</div>
     <div class="t-artist">Magnus Ferrell</div>
     <a class="t-open" href="https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOFTLY - Benny Sings">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY">
-    <div class="t-name">SOFTLY</div>
-    <div class="t-artist">Benny Sings</div>
-    <a class="t-open" href="https://open.spotify.com/track/4BhF5FBT6LPUnDpBlJ7emz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;m Going Down - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737e40943c3f4ce9c25ec7b098" alt="I&#x27;m Going Down">
-    <div class="t-name">I&#x27;m Going Down</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/3C2B1j4sOXOw1uoADrBiRH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Holding On to Love - Rose Royce">
-    <img src="https://i.scdn.co/image/ab67616d0000b273323e538b7b98da975161a4de" alt="Holding On to Love">
-    <div class="t-name">Holding On to Love</div>
-    <div class="t-artist">Rose Royce</div>
-    <a class="t-open" href="https://open.spotify.com/track/1uzaFntXR5Q9K99LlduyhP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
