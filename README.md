@@ -436,6 +436,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
+    <div class="t-name">If I Could Change Your Mind</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sweet Freedom - The Reflex Revision - Norman Doray">
+    <img src="https://i.scdn.co/image/ab67616d0000b273048c62e6e0404c85b14a8eff" alt="Sweet Freedom - The Reflex Revision">
+    <div class="t-name">Sweet Freedom - The Reflex Revision</div>
+    <div class="t-artist">Norman Doray</div>
+    <a class="t-open" href="https://open.spotify.com/track/4GJVddiCmdw8g8G6aOfyK9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
     <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
     <div class="t-name">Dance Dance Dance!</div>
@@ -543,18 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">The Best Things In Life Are Free - Classic 7&quot; With Rap</div>
     <div class="t-artist">Janet Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/2YPfGRDRBBd48PXIbmlgO4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cross My Heart - Lee Ritenour">
-    <img src="https://i.scdn.co/image/ab67616d0000b27373f6184307d024998392cded" alt="Cross My Heart">
-    <div class="t-name">Cross My Heart</div>
-    <div class="t-artist">Lee Ritenour</div>
-    <a class="t-open" href="https://open.spotify.com/track/6AVRRcLF9kJ57rwO5cCRE3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Do You Believe in Me - Eric Gadd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737b1361614dcdff8c48b606b9" alt="Do You Believe in Me">
-    <div class="t-name">Do You Believe in Me</div>
-    <div class="t-artist">Eric Gadd</div>
-    <a class="t-open" href="https://open.spotify.com/track/1w09YJ2UvJvCR4q0W44snv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
