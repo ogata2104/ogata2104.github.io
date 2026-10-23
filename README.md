@@ -434,6 +434,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="キライのちスキ！ - ano">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebccd3e280930f9bb81b83da" alt="キライのちスキ！">
+    <div class="t-name">キライのちスキ！</div>
+    <div class="t-artist">ano</div>
+    <a class="t-open" href="https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Want You Back - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
     <div class="t-name">Want You Back</div>
@@ -535,12 +541,6 @@ From TOKYO JAPAN
     <div class="t-name">All I Want</div>
     <div class="t-artist">The Offspring</div>
     <a class="t-open" href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunday Morning - Earth, Wind &amp; Fire">
-    <img src="https://i.scdn.co/image/ab67616d0000b27333fd03d073b929af95f0dc76" alt="Sunday Morning">
-    <div class="t-name">Sunday Morning</div>
-    <div class="t-artist">Earth, Wind &amp; Fire</div>
-    <a class="t-open" href="https://open.spotify.com/track/2lnx4mfdXyAYvtVPYXRPcD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
