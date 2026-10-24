@@ -354,24 +354,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -434,6 +435,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="MORNING AFTER - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="MORNING AFTER">
+    <div class="t-name">MORNING AFTER</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/3BSPooDkhiGoav49ZxT9hU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pill - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca573a0450689d82a0e191c6" alt="Pill">
+    <div class="t-name">Pill</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/1du7Za39n3M0FLdrIWUzsh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dive For You - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731581e5d8368a63aa5e6cf912" alt="Dive For You">
+    <div class="t-name">Dive For You</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4fc1eb4b19aa74d4b87f9e2" alt="LAY YOUR HANDS ON ME (2017)">
+    <div class="t-name">LAY YOUR HANDS ON ME (2017)</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
+    <div class="t-name">SHUT UP AND EXPLODE</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Brand New Drive - THE SPELLBOUND">
+    <img src="https://i.scdn.co/image/ab67616d0000b273141db84a893fb83c2b3826ab" alt="Brand New Drive">
+    <div class="t-name">Brand New Drive</div>
+    <div class="t-artist">THE SPELLBOUND</div>
+    <a class="t-open" href="https://open.spotify.com/track/2mGu7s8aM1z0YiGMbAIiBs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kick It Out - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca573a0450689d82a0e191c6" alt="Kick It Out">
+    <div class="t-name">Kick It Out</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Wx4ek4qANtHUuVWVXObNQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Rock the Casbah - Remastered - The Clash">
     <img src="https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e" alt="Rock the Casbah - Remastered">
     <div class="t-name">Rock the Casbah - Remastered</div>
@@ -505,42 +548,6 @@ From TOKYO JAPAN
     <div class="t-name">Marvel Studios Fanfare</div>
     <div class="t-artist">Michael Giacchino</div>
     <a class="t-open" href="https://open.spotify.com/track/5xdTdPiQVFhI5iVEw2ctbk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
-    <div class="t-name">If I Could Change Your Mind</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sweet Freedom - The Reflex Revision - Norman Doray">
-    <img src="https://i.scdn.co/image/ab67616d0000b273048c62e6e0404c85b14a8eff" alt="Sweet Freedom - The Reflex Revision">
-    <div class="t-name">Sweet Freedom - The Reflex Revision</div>
-    <div class="t-artist">Norman Doray</div>
-    <a class="t-open" href="https://open.spotify.com/track/4GJVddiCmdw8g8G6aOfyK9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
-    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
-    <div class="t-name">Dance Dance Dance!</div>
-    <div class="t-artist">Barry Can&#x27;t Swim</div>
-    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
-    <div class="t-name">Waste Your Heart</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
-    <div class="t-name">Hey Boy Hey Girl</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Everywhere - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273562c3dffcc5dc89d7af1a47e" alt="Everywhere">
-    <div class="t-name">Everywhere</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/38iKuyifRL4mQ36F2hIxmF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
