@@ -434,6 +434,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Rock the Casbah - Remastered - The Clash">
+    <img src="https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e" alt="Rock the Casbah - Remastered">
+    <div class="t-name">Rock the Casbah - Remastered</div>
+    <div class="t-artist">The Clash</div>
+    <a class="t-open" href="https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Just Can&#x27;t Get Enough - Depeche Mode">
+    <img src="https://i.scdn.co/image/ab67616d0000b27388ffe8c41647856e6fa5e1ab" alt="Just Can&#x27;t Get Enough">
+    <div class="t-name">Just Can&#x27;t Get Enough</div>
+    <div class="t-artist">Depeche Mode</div>
+    <a class="t-open" href="https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="How Soon Is Now? - 2011 Remaster - The Smiths">
+    <img src="https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660" alt="How Soon Is Now? - 2011 Remaster">
+    <div class="t-name">How Soon Is Now? - 2011 Remaster</div>
+    <div class="t-artist">The Smiths</div>
+    <a class="t-open" href="https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Radio Ga Ga - Queen">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65" alt="Radio Ga Ga">
+    <div class="t-name">Radio Ga Ga</div>
+    <div class="t-artist">Queen</div>
+    <a class="t-open" href="https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="West End Girls - 2018 Remaster - Pet Shop Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db" alt="West End Girls - 2018 Remaster">
+    <div class="t-name">West End Girls - 2018 Remaster</div>
+    <div class="t-artist">Pet Shop Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Come On Eileen - Dexys Midnight Runners">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" alt="Come On Eileen">
+    <div class="t-name">Come On Eileen</div>
+    <div class="t-artist">Dexys Midnight Runners</div>
+    <a class="t-open" href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Still Standing - Elton John">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89" alt="I&#x27;m Still Standing">
+    <div class="t-name">I&#x27;m Still Standing</div>
+    <div class="t-artist">Elton John</div>
+    <a class="t-open" href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Winner Takes It All - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="The Winner Takes It All">
+    <div class="t-name">The Winner Takes It All</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The War Song - Remastered 2003 - Culture Club">
+    <img src="https://i.scdn.co/image/ab67616d0000b27375769be6090fa408b38ca148" alt="The War Song - Remastered 2003">
+    <div class="t-name">The War Song - Remastered 2003</div>
+    <div class="t-artist">Culture Club</div>
+    <a class="t-open" href="https://open.spotify.com/track/1UjdzJkBwidn55CUo5TB1O" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="キライのちスキ！ - ano">
     <img src="https://i.scdn.co/image/ab67616d0000b273ebccd3e280930f9bb81b83da" alt="キライのちスキ！">
     <div class="t-name">キライのちスキ！</div>
@@ -487,60 +541,6 @@ From TOKYO JAPAN
     <div class="t-name">Everywhere</div>
     <div class="t-artist">Fleetwood Mac</div>
     <a class="t-open" href="https://open.spotify.com/track/38iKuyifRL4mQ36F2hIxmF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Never Too Much - Luther Vandross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273102bebc4807fc0952a754d0f" alt="Never Too Much">
-    <div class="t-name">Never Too Much</div>
-    <div class="t-artist">Luther Vandross</div>
-    <a class="t-open" href="https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Caribbean Queen (No More Love On the Run) - Billy Ocean">
-    <img src="https://i.scdn.co/image/ab67616d0000b27399ee23dac7128cb5754f593c" alt="Caribbean Queen (No More Love On the Run)">
-    <div class="t-name">Caribbean Queen (No More Love On the Run)</div>
-    <div class="t-artist">Billy Ocean</div>
-    <a class="t-open" href="https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Easy Lover - Philip Bailey">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d05d00a34eee4d09ec104298" alt="Easy Lover">
-    <div class="t-name">Easy Lover</div>
-    <div class="t-artist">Philip Bailey</div>
-    <a class="t-open" href="https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re a God - Vertical Horizon">
-    <img src="https://i.scdn.co/image/ab67616d0000b273dde37a43468f6a6f60f782e1" alt="You&#x27;re a God">
-    <div class="t-name">You&#x27;re a God</div>
-    <div class="t-artist">Vertical Horizon</div>
-    <a class="t-open" href="https://open.spotify.com/track/758wp6xs3ADdgIwdeHoXmX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Even Flow - Pearl Jam">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0" alt="Even Flow">
-    <div class="t-name">Even Flow</div>
-    <div class="t-artist">Pearl Jam</div>
-    <a class="t-open" href="https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="High and Dry - Radiohead">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="High and Dry">
-    <div class="t-name">High and Dry</div>
-    <div class="t-artist">Radiohead</div>
-    <a class="t-open" href="https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="My Own Worst Enemy - Lit">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed" alt="My Own Worst Enemy">
-    <div class="t-name">My Own Worst Enemy</div>
-    <div class="t-artist">Lit</div>
-    <a class="t-open" href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All I Want - The Offspring">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b" alt="All I Want">
-    <div class="t-name">All I Want</div>
-    <div class="t-artist">The Offspring</div>
-    <a class="t-open" href="https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
