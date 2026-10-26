@@ -436,6 +436,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="99 - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
+    <div class="t-name">99</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Monsoon - Tokio Hotel">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
+    <div class="t-name">Monsoon</div>
+    <div class="t-artist">Tokio Hotel</div>
+    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="One on One - Wildson">
     <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
     <div class="t-name">One on One</div>
@@ -537,24 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Do It Again</div>
     <div class="t-artist">Steely Dan</div>
     <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
-    <div class="t-name">Asleep Talking</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
-    <div class="t-name">What a Fool Believes</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
-    <div class="t-name">JoJo (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
