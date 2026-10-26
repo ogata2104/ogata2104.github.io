@@ -436,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Lady Love Me (One More Time) - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Lady Love Me (One More Time)">
+    <div class="t-name">Lady Love Me (One More Time)</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Gotta Try - Michael McDonald">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Gotta Try">
+    <div class="t-name">I Gotta Try</div>
+    <div class="t-artist">Michael McDonald</div>
+    <a class="t-open" href="https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
+    <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
+    <div class="t-name">Livin&#x27; It Up</div>
+    <div class="t-artist">Bill LaBounty</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="YES MY LOVE - Remastered 2022 - Eikichi Yazawa">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738713ba5f13b6d4dbaaef171a" alt="YES MY LOVE - Remastered 2022">
+    <div class="t-name">YES MY LOVE - Remastered 2022</div>
+    <div class="t-artist">Eikichi Yazawa</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ht7olV8uxTN5LS6s8ahzd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
+    <div class="t-name">Silver Springs - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="BROKEN MIRROR - BOOM BOOM SATELLITES">
     <img src="https://i.scdn.co/image/ab67616d0000b27314d5ab5d7a08843505889064" alt="BROKEN MIRROR">
     <div class="t-name">BROKEN MIRROR</div>
@@ -519,42 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Come On Eileen</div>
     <div class="t-artist">Dexys Midnight Runners</div>
     <a class="t-open" href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;m Still Standing - Elton John">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89" alt="I&#x27;m Still Standing">
-    <div class="t-name">I&#x27;m Still Standing</div>
-    <div class="t-artist">Elton John</div>
-    <a class="t-open" href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Winner Takes It All - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="The Winner Takes It All">
-    <div class="t-name">The Winner Takes It All</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The War Song - Remastered 2003 - Culture Club">
-    <img src="https://i.scdn.co/image/ab67616d0000b27375769be6090fa408b38ca148" alt="The War Song - Remastered 2003">
-    <div class="t-name">The War Song - Remastered 2003</div>
-    <div class="t-artist">Culture Club</div>
-    <a class="t-open" href="https://open.spotify.com/track/1UjdzJkBwidn55CUo5TB1O" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="キライのちスキ！ - ano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebccd3e280930f9bb81b83da" alt="キライのちスキ！">
-    <div class="t-name">キライのちスキ！</div>
-    <div class="t-artist">ano</div>
-    <a class="t-open" href="https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Marvel Studios Fanfare - Michael Giacchino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273df0b8480336e407d174bf040" alt="Marvel Studios Fanfare">
-    <div class="t-name">Marvel Studios Fanfare</div>
-    <div class="t-artist">Michael Giacchino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5xdTdPiQVFhI5iVEw2ctbk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
