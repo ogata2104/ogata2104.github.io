@@ -436,6 +436,96 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="One on One - Wildson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
+    <div class="t-name">One on One</div>
+    <div class="t-artist">Wildson</div>
+    <a class="t-open" href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Together Again - Dave Koz">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d933a78a47754555bdf906c3" alt="Together Again">
+    <div class="t-name">Together Again</div>
+    <div class="t-artist">Dave Koz</div>
+    <a class="t-open" href="https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Mornin&#x27; - Al Jarreau">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ab756d8faa3c30aec66a720d" alt="Mornin&#x27;">
+    <div class="t-name">Mornin&#x27;</div>
+    <div class="t-artist">Al Jarreau</div>
+    <a class="t-open" href="https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Is It You - Lee Ritenour">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" alt="Is It You">
+    <div class="t-name">Is It You</div>
+    <div class="t-artist">Lee Ritenour</div>
+    <a class="t-open" href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="On the Beach - Jafunk">
+    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
+    <div class="t-name">On the Beach</div>
+    <div class="t-artist">Jafunk</div>
+    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Breezin&#x27; - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735a5a012f4063c464eab6aec3" alt="Breezin&#x27;">
+    <div class="t-name">Breezin&#x27;</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If You Leave Me Now - Chicago">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
+    <div class="t-name">If You Leave Me Now</div>
+    <div class="t-artist">Chicago</div>
+    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DOWN TOWN - EPO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
+    <div class="t-name">DOWN TOWN</div>
+    <div class="t-artist">EPO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MMMBop - Hanson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Through Being Cool - DEVO">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a9850a67086009c64dbc369" alt="Through Being Cool">
+    <div class="t-name">Through Being Cool</div>
+    <div class="t-artist">DEVO</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KgabRHMtg4fDaNTutYrDE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
+    <div class="t-name">Ghostbusters</div>
+    <div class="t-artist">Run–D.M.C.</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What&#x27;s Going On - Michael McDonald">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737f6bfd1586bf305337134d76" alt="What&#x27;s Going On">
+    <div class="t-name">What&#x27;s Going On</div>
+    <div class="t-artist">Michael McDonald</div>
+    <a class="t-open" href="https://open.spotify.com/track/5I2pfdeBa5Y7Ktr2ubZWGU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
+    <div class="t-name">Cartoon Heroes - Radio Edit</div>
+    <div class="t-artist">Aqua</div>
+    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Someone To Call My Lover - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3" alt="Someone To Call My Lover">
+    <div class="t-name">Someone To Call My Lover</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="七里ヶ浜スカイウォーク - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="七里ヶ浜スカイウォーク">
+    <div class="t-name">七里ヶ浜スカイウォーク</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/2TtIo7b1IIyjY1TWoC6fRA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Ch-Check It Out - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
     <div class="t-name">Ch-Check It Out</div>
@@ -465,96 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">JoJo (2023 Remaster)</div>
     <div class="t-artist">Boz Scaggs</div>
     <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TOUCH - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
-    <div class="t-name">TOUCH</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;m Coming Out - Diana Ross">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733e58082f362590e07334fbbd" alt="I&#x27;m Coming Out">
-    <div class="t-name">I&#x27;m Coming Out</div>
-    <div class="t-artist">Diana Ross</div>
-    <a class="t-open" href="https://open.spotify.com/track/64kN5vtSeGeOXeF9zulRn1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hella Good - No Doubt">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374d6d9af056634cb96a6f5ac" alt="Hella Good">
-    <div class="t-name">Hella Good</div>
-    <div class="t-artist">No Doubt</div>
-    <a class="t-open" href="https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
-    <div class="t-name">Go</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Easy Lover - Live 1997 - Phil Collins">
-    <img src="https://i.scdn.co/image/ab67616d0000b273483bd6317eab8652ef3473d3" alt="Easy Lover - Live 1997">
-    <div class="t-name">Easy Lover - Live 1997</div>
-    <div class="t-artist">Phil Collins</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ImAm5dXDMvW4Fskn69UeC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lady Love Me (One More Time) - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Lady Love Me (One More Time)">
-    <div class="t-name">Lady Love Me (One More Time)</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/52QRIheaefNCUA4HdEGpAo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Gotta Try - Michael McDonald">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Gotta Try">
-    <div class="t-name">I Gotta Try</div>
-    <div class="t-artist">Michael McDonald</div>
-    <a class="t-open" href="https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
-    <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
-    <div class="t-name">Livin&#x27; It Up</div>
-    <div class="t-artist">Bill LaBounty</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="YES MY LOVE - Remastered 2022 - Eikichi Yazawa">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738713ba5f13b6d4dbaaef171a" alt="YES MY LOVE - Remastered 2022">
-    <div class="t-name">YES MY LOVE - Remastered 2022</div>
-    <div class="t-artist">Eikichi Yazawa</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ht7olV8uxTN5LS6s8ahzd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
-    <div class="t-name">Silver Springs - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BROKEN MIRROR - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314d5ab5d7a08843505889064" alt="BROKEN MIRROR">
-    <div class="t-name">BROKEN MIRROR</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MORNING AFTER - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="MORNING AFTER">
-    <div class="t-name">MORNING AFTER</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/3BSPooDkhiGoav49ZxT9hU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pill - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca573a0450689d82a0e191c6" alt="Pill">
-    <div class="t-name">Pill</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/1du7Za39n3M0FLdrIWUzsh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dive For You - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731581e5d8368a63aa5e6cf912" alt="Dive For You">
-    <div class="t-name">Dive For You</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
