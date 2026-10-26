@@ -436,6 +436,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Hella Good - No Doubt">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374d6d9af056634cb96a6f5ac" alt="Hella Good">
+    <div class="t-name">Hella Good</div>
+    <div class="t-artist">No Doubt</div>
+    <a class="t-open" href="https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
+    <div class="t-name">Go</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Easy Lover - Live 1997 - Phil Collins">
+    <img src="https://i.scdn.co/image/ab67616d0000b273483bd6317eab8652ef3473d3" alt="Easy Lover - Live 1997">
+    <div class="t-name">Easy Lover - Live 1997</div>
+    <div class="t-artist">Phil Collins</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ImAm5dXDMvW4Fskn69UeC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Lady Love Me (One More Time) - George Benson">
     <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Lady Love Me (One More Time)">
     <div class="t-name">Lady Love Me (One More Time)</div>
@@ -537,24 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">How Soon Is Now? - 2011 Remaster</div>
     <div class="t-artist">The Smiths</div>
     <a class="t-open" href="https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Radio Ga Ga - Queen">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65" alt="Radio Ga Ga">
-    <div class="t-name">Radio Ga Ga</div>
-    <div class="t-artist">Queen</div>
-    <a class="t-open" href="https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="West End Girls - 2018 Remaster - Pet Shop Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db" alt="West End Girls - 2018 Remaster">
-    <div class="t-name">West End Girls - 2018 Remaster</div>
-    <div class="t-artist">Pet Shop Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Come On Eileen - Dexys Midnight Runners">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" alt="Come On Eileen">
-    <div class="t-name">Come On Eileen</div>
-    <div class="t-artist">Dexys Midnight Runners</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
