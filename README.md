@@ -436,6 +436,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Ch-Check It Out - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
+    <div class="t-name">Ch-Check It Out</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Do It Again - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
+    <div class="t-name">Do It Again</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
+    <div class="t-name">What a Fool Believes</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
+    <div class="t-name">JoJo (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TOUCH - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
+    <div class="t-name">TOUCH</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Coming Out - Diana Ross">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e58082f362590e07334fbbd" alt="I&#x27;m Coming Out">
+    <div class="t-name">I&#x27;m Coming Out</div>
+    <div class="t-artist">Diana Ross</div>
+    <a class="t-open" href="https://open.spotify.com/track/64kN5vtSeGeOXeF9zulRn1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Hella Good - No Doubt">
     <img src="https://i.scdn.co/image/ab67616d0000b27374d6d9af056634cb96a6f5ac" alt="Hella Good">
     <div class="t-name">Hella Good</div>
@@ -513,48 +555,6 @@ From TOKYO JAPAN
     <div class="t-name">Dive For You</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
     <a class="t-open" href="https://open.spotify.com/track/55KudSdzwibWh5pfQUS6av" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4fc1eb4b19aa74d4b87f9e2" alt="LAY YOUR HANDS ON ME (2017)">
-    <div class="t-name">LAY YOUR HANDS ON ME (2017)</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
-    <div class="t-name">SHUT UP AND EXPLODE</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Brand New Drive - THE SPELLBOUND">
-    <img src="https://i.scdn.co/image/ab67616d0000b273141db84a893fb83c2b3826ab" alt="Brand New Drive">
-    <div class="t-name">Brand New Drive</div>
-    <div class="t-artist">THE SPELLBOUND</div>
-    <a class="t-open" href="https://open.spotify.com/track/2mGu7s8aM1z0YiGMbAIiBs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Kick It Out - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca573a0450689d82a0e191c6" alt="Kick It Out">
-    <div class="t-name">Kick It Out</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Wx4ek4qANtHUuVWVXObNQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rock the Casbah - Remastered - The Clash">
-    <img src="https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e" alt="Rock the Casbah - Remastered">
-    <div class="t-name">Rock the Casbah - Remastered</div>
-    <div class="t-artist">The Clash</div>
-    <a class="t-open" href="https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just Can&#x27;t Get Enough - Depeche Mode">
-    <img src="https://i.scdn.co/image/ab67616d0000b27388ffe8c41647856e6fa5e1ab" alt="Just Can&#x27;t Get Enough">
-    <div class="t-name">Just Can&#x27;t Get Enough</div>
-    <div class="t-artist">Depeche Mode</div>
-    <a class="t-open" href="https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="How Soon Is Now? - 2011 Remaster - The Smiths">
-    <img src="https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660" alt="How Soon Is Now? - 2011 Remaster">
-    <div class="t-name">How Soon Is Now? - 2011 Remaster</div>
-    <div class="t-artist">The Smiths</div>
-    <a class="t-open" href="https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
