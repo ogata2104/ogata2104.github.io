@@ -437,6 +437,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Stop Loving You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
+    <div class="t-name">Stop Loving You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WINDY SUMMER - Anri">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="WINDY SUMMER">
+    <div class="t-name">WINDY SUMMER</div>
+    <div class="t-artist">Anri</div>
+    <a class="t-open" href="https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="頬に夜の灯 - Minako Yoshida">
+    <img src="https://i.scdn.co/image/ab67616d0000b27316b436daf80627e7e30142e5" alt="頬に夜の灯">
+    <div class="t-name">頬に夜の灯</div>
+    <div class="t-artist">Minako Yoshida</div>
+    <a class="t-open" href="https://open.spotify.com/track/4M245xPGlW3WNuijduErTj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
+    <div class="t-name">Star Guitar</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunrise - Simply Red">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Sunrise">
+    <div class="t-name">Sunrise</div>
+    <div class="t-artist">Simply Red</div>
+    <a class="t-open" href="https://open.spotify.com/track/4LxDdYU3x9tyDxy3CghqdC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dove (I&#x27;ll Be Loving You) - Moony">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739fc902ce5d8f58cc9706aab4" alt="Dove (I&#x27;ll Be Loving You)">
+    <div class="t-name">Dove (I&#x27;ll Be Loving You)</div>
+    <div class="t-artist">Moony</div>
+    <a class="t-open" href="https://open.spotify.com/track/2YCesiSx9IgzW37uDAgtJ9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Arthur&#x27;s Theme (Best That You Can Do) - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" alt="Arthur&#x27;s Theme (Best That You Can Do)">
+    <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="腰越クライベイビー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="腰越クライベイビー">
+    <div class="t-name">腰越クライベイビー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/13tvchV3WElZxWCg5HLv9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Billie Jean - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Billie Jean">
+    <div class="t-name">Billie Jean</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
+    <div class="t-name">Block Rockin&#x27; Beats</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Higher Love - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
+    <div class="t-name">Higher Love</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Just The Way You Are - Milky">
     <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
     <div class="t-name">Just The Way You Are</div>
@@ -490,72 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Is It You</div>
     <div class="t-artist">Lee Ritenour</div>
     <a class="t-open" href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="On the Beach - Jafunk">
-    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
-    <div class="t-name">On the Beach</div>
-    <div class="t-artist">Jafunk</div>
-    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Breezin&#x27; - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735a5a012f4063c464eab6aec3" alt="Breezin&#x27;">
-    <div class="t-name">Breezin&#x27;</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Leave Me Now - Chicago">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a" alt="If You Leave Me Now">
-    <div class="t-name">If You Leave Me Now</div>
-    <div class="t-artist">Chicago</div>
-    <a class="t-open" href="https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MMMBop - Hanson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
-    <div class="t-name">MMMBop</div>
-    <div class="t-artist">Hanson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Through Being Cool - DEVO">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a9850a67086009c64dbc369" alt="Through Being Cool">
-    <div class="t-name">Through Being Cool</div>
-    <div class="t-artist">DEVO</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KgabRHMtg4fDaNTutYrDE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
-    <div class="t-name">Ghostbusters</div>
-    <div class="t-artist">Run–D.M.C.</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What&#x27;s Going On - Michael McDonald">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737f6bfd1586bf305337134d76" alt="What&#x27;s Going On">
-    <div class="t-name">What&#x27;s Going On</div>
-    <div class="t-artist">Michael McDonald</div>
-    <a class="t-open" href="https://open.spotify.com/track/5I2pfdeBa5Y7Ktr2ubZWGU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cartoon Heroes - Radio Edit - Aqua">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d97078467429eff08e98c79" alt="Cartoon Heroes - Radio Edit">
-    <div class="t-name">Cartoon Heroes - Radio Edit</div>
-    <div class="t-artist">Aqua</div>
-    <a class="t-open" href="https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Someone To Call My Lover - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3" alt="Someone To Call My Lover">
-    <div class="t-name">Someone To Call My Lover</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="七里ヶ浜スカイウォーク - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="七里ヶ浜スカイウォーク">
-    <div class="t-name">七里ヶ浜スカイウォーク</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/2TtIo7b1IIyjY1TWoC6fRA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
