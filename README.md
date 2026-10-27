@@ -436,6 +436,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ガンダーラ - Godiego">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fa20f00129606afcd3778c14" alt="ガンダーラ">
+    <div class="t-name">ガンダーラ</div>
+    <div class="t-artist">Godiego</div>
+    <a class="t-open" href="https://open.spotify.com/track/1U06PhP5wL6xLA5eg0ZiFt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="銀河鉄道999 - Godiego">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b338c1027de8dd7c79614876" alt="銀河鉄道999">
+    <div class="t-name">銀河鉄道999</div>
+    <div class="t-artist">Godiego</div>
+    <a class="t-open" href="https://open.spotify.com/track/2eTFeq3uicvq8wzG00JMQx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
+    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Games People Play - The Alan Parsons Project">
     <img src="https://i.scdn.co/image/ab67616d0000b27397640e686c66ea57428ead21" alt="Games People Play">
     <div class="t-name">Games People Play</div>
@@ -531,24 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Star Guitar</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunrise - Simply Red">
-    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Sunrise">
-    <div class="t-name">Sunrise</div>
-    <div class="t-artist">Simply Red</div>
-    <a class="t-open" href="https://open.spotify.com/track/4LxDdYU3x9tyDxy3CghqdC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dove (I&#x27;ll Be Loving You) - Moony">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739fc902ce5d8f58cc9706aab4" alt="Dove (I&#x27;ll Be Loving You)">
-    <div class="t-name">Dove (I&#x27;ll Be Loving You)</div>
-    <div class="t-artist">Moony</div>
-    <a class="t-open" href="https://open.spotify.com/track/2YCesiSx9IgzW37uDAgtJ9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Arthur&#x27;s Theme (Best That You Can Do) - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" alt="Arthur&#x27;s Theme (Best That You Can Do)">
-    <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
