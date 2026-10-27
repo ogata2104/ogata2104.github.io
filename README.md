@@ -355,26 +355,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -437,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Slipped Away - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
+    <div class="t-name">Slipped Away</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="So What&#x27;Cha Want - Beastie Boys">
+    <img src="https://i.scdn.co/image/ab67616d0000b27396c3a9e140c8ff0ab0d8a91e" alt="So What&#x27;Cha Want">
+    <div class="t-name">So What&#x27;Cha Want</div>
+    <div class="t-artist">Beastie Boys</div>
+    <a class="t-open" href="https://open.spotify.com/track/25pl7kV4OxafIc9wPAggYf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Can Break Your Heart - Michael McDonald">
+    <img src="https://i.scdn.co/image/ab67616d0000b27372a576d2fe2270948871ed94" alt="Love Can Break Your Heart">
+    <div class="t-name">Love Can Break Your Heart</div>
+    <div class="t-artist">Michael McDonald</div>
+    <a class="t-open" href="https://open.spotify.com/track/4PgihlWbbhLpuiSTleaVtF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
+    <div class="t-name">Hey Boy Hey Girl</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="夏のクラクション - Junichi Inagaki">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a2a62f368024a3ec472b28e5" alt="夏のクラクション">
+    <div class="t-name">夏のクラクション</div>
+    <div class="t-artist">Junichi Inagaki</div>
+    <a class="t-open" href="https://open.spotify.com/track/0amHaWvbCh9heYbmFfIcWh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="真夜中のドア〜stay with me - Miki Matsubara">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d2d1c44c2767567810b051ef" alt="真夜中のドア〜stay with me">
+    <div class="t-name">真夜中のドア〜stay with me</div>
+    <div class="t-artist">Miki Matsubara</div>
+    <a class="t-open" href="https://open.spotify.com/track/5cSX07KNlqf8EHQ6VXWgsM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Stop Loving You - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
     <div class="t-name">Stop Loving You</div>
@@ -514,48 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">The Wire</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="99 - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
-    <div class="t-name">99</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Monsoon - Tokio Hotel">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
-    <div class="t-name">Monsoon</div>
-    <div class="t-artist">Tokio Hotel</div>
-    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
-    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
-    <div class="t-name">The Walk</div>
-    <div class="t-artist">Mayer Hawthorne</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One on One - Wildson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
-    <div class="t-name">One on One</div>
-    <div class="t-artist">Wildson</div>
-    <a class="t-open" href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Together Again - Dave Koz">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d933a78a47754555bdf906c3" alt="Together Again">
-    <div class="t-name">Together Again</div>
-    <div class="t-artist">Dave Koz</div>
-    <a class="t-open" href="https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mornin&#x27; - Al Jarreau">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ab756d8faa3c30aec66a720d" alt="Mornin&#x27;">
-    <div class="t-name">Mornin&#x27;</div>
-    <div class="t-artist">Al Jarreau</div>
-    <a class="t-open" href="https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Is It You - Lee Ritenour">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f65e207167b7b3870f616f76" alt="Is It You">
-    <div class="t-name">Is It You</div>
-    <div class="t-artist">Lee Ritenour</div>
-    <a class="t-open" href="https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
