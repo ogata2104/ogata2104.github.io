@@ -436,6 +436,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Games People Play - The Alan Parsons Project">
+    <img src="https://i.scdn.co/image/ab67616d0000b27397640e686c66ea57428ead21" alt="Games People Play">
+    <div class="t-name">Games People Play</div>
+    <div class="t-artist">The Alan Parsons Project</div>
+    <a class="t-open" href="https://open.spotify.com/track/0PbFXpNL2f34qFtJrR3OSW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Song for You - John Miles">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bfb7bf43908ac203f2e89400" alt="Song for You">
+    <div class="t-name">Song for You</div>
+    <div class="t-artist">John Miles</div>
+    <a class="t-open" href="https://open.spotify.com/track/5JJbToUZIgIlp2yXQZhoP5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Will Find a Way - Yes">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f84de264e1e5c451c553c5b9" alt="Love Will Find a Way">
+    <div class="t-name">Love Will Find a Way</div>
+    <div class="t-artist">Yes</div>
+    <a class="t-open" href="https://open.spotify.com/track/3rYzScXbrk39vRl9KrFcOL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="C&#x27;est La Vie - Robbie Nevil">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fbdbb53cce319653883fbe8d" alt="C&#x27;est La Vie">
+    <div class="t-name">C&#x27;est La Vie</div>
+    <div class="t-artist">Robbie Nevil</div>
+    <a class="t-open" href="https://open.spotify.com/track/7nx6bmfojpAW4SCwoZM13B" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kyrie - Mr. Mister">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfccabf39d00d34235d5bcd6" alt="Kyrie">
+    <div class="t-name">Kyrie</div>
+    <div class="t-artist">Mr. Mister</div>
+    <a class="t-open" href="https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunday Morning - Earth, Wind &amp; Fire">
+    <img src="https://i.scdn.co/image/ab67616d0000b27333fd03d073b929af95f0dc76" alt="Sunday Morning">
+    <div class="t-name">Sunday Morning</div>
+    <div class="t-artist">Earth, Wind &amp; Fire</div>
+    <a class="t-open" href="https://open.spotify.com/track/2lnx4mfdXyAYvtVPYXRPcD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Slipped Away - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
     <div class="t-name">Slipped Away</div>
@@ -513,42 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
     <div class="t-artist">Christopher Cross</div>
     <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="腰越クライベイビー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="腰越クライベイビー">
-    <div class="t-name">腰越クライベイビー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/13tvchV3WElZxWCg5HLv9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Billie Jean - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="Billie Jean">
-    <div class="t-name">Billie Jean</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
-    <div class="t-name">Block Rockin&#x27; Beats</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Higher Love - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738362a7a26eaf279f336f1494" alt="Higher Love">
-    <div class="t-name">Higher Love</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just The Way You Are - Milky">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
-    <div class="t-name">Just The Way You Are</div>
-    <div class="t-artist">Milky</div>
-    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Wire - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
-    <div class="t-name">The Wire</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
