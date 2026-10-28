@@ -436,6 +436,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Send It Back - DON WEST">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378b22ab7e27a2c6dff1b2281" alt="Send It Back">
+    <div class="t-name">Send It Back</div>
+    <div class="t-artist">DON WEST</div>
+    <a class="t-open" href="https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Tip Toe - HYBS">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
+    <div class="t-name">Tip Toe</div>
+    <div class="t-artist">HYBS</div>
+    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
+    <div class="t-name">I&#x27;ll Be Over You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cool Cat - Queen">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fb96f10f9423264184066cdd" alt="Cool Cat">
+    <div class="t-name">Cool Cat</div>
+    <div class="t-artist">Queen</div>
+    <a class="t-open" href="https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hawaiian Soul - Troy Fernandez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ae305ab82b00588db8af546c" alt="Hawaiian Soul">
+    <div class="t-name">Hawaiian Soul</div>
+    <div class="t-artist">Troy Fernandez</div>
+    <a class="t-open" href="https://open.spotify.com/track/5wKv9yiRF2O0v2ycdFHPqu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Someday, Somewhere - Jungle">
+    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Someday, Somewhere">
+    <div class="t-name">Someday, Somewhere</div>
+    <div class="t-artist">Jungle</div>
+    <a class="t-open" href="https://open.spotify.com/track/69wmkZCUwdr2T0HvXKtNoa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="When I Give My Love to You (with Brenda Russell) - Michael Franks">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" alt="When I Give My Love to You (with Brenda Russell)">
+    <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
+    <div class="t-artist">Michael Franks</div>
+    <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Who&#x27;s Right, Who&#x27;s Wrong - Pages">
+    <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" alt="Who&#x27;s Right, Who&#x27;s Wrong">
+    <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
+    <div class="t-artist">Pages</div>
+    <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
+    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
+    <div class="t-name">Gorilla Grip</div>
+    <div class="t-artist">Greg Shilling</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
+    <div class="t-name">Waste Your Heart</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="エンジェル - Jake Shimabukuro">
     <img src="https://i.scdn.co/image/ab67616d0000b2735580f9d20176e090cc7f81c0" alt="エンジェル">
     <div class="t-name">エンジェル</div>
@@ -483,72 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Kalena Kai (feat. George Winston)</div>
     <div class="t-artist">Keola Beamer</div>
     <a class="t-open" href="https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When I Give My Love to You (with Brenda Russell) - Michael Franks">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" alt="When I Give My Love to You (with Brenda Russell)">
-    <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
-    <div class="t-artist">Michael Franks</div>
-    <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Who&#x27;s Right, Who&#x27;s Wrong - Pages">
-    <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" alt="Who&#x27;s Right, Who&#x27;s Wrong">
-    <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
-    <div class="t-artist">Pages</div>
-    <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
-    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
-    <div class="t-name">Gorilla Grip</div>
-    <div class="t-artist">Greg Shilling</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
-    <div class="t-name">Waste Your Heart</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOFTLY - Benny Sings">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY">
-    <div class="t-name">SOFTLY</div>
-    <div class="t-artist">Benny Sings</div>
-    <a class="t-open" href="https://open.spotify.com/track/4BhF5FBT6LPUnDpBlJ7emz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="そして僕は途方に暮れる - Yoshiyuki Osawa">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730945151be5c0315611ae9267" alt="そして僕は途方に暮れる">
-    <div class="t-name">そして僕は途方に暮れる</div>
-    <div class="t-artist">Yoshiyuki Osawa</div>
-    <a class="t-open" href="https://open.spotify.com/track/33th3tyMkM4RA1vBmolsax" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Choo Choo TRAIN - ZOO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27357879fcefca09d9654f1a799" alt="Choo Choo TRAIN">
-    <div class="t-name">Choo Choo TRAIN</div>
-    <div class="t-artist">ZOO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1XS2YCEvJA4xCczBwaUl9F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ハピネス - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7f160adbf8ad1edf4f32d8e" alt="ハピネス">
-    <div class="t-name">ハピネス</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/34mRWN5VjvaU2NzBJ4i9WK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ミラージュのテーマ - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b27377079ebdd0f051bf72ff36a6" alt="ミラージュのテーマ">
-    <div class="t-name">ミラージュのテーマ</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/3OOIZrGMFNDAJSFQpXHvXs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ピアノ・ブルー - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734014e57143c83f9045d225a7" alt="ピアノ・ブルー">
-    <div class="t-name">ピアノ・ブルー</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/6cklbF7K08XWBMrz2BOl22" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
