@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="そして僕は途方に暮れる - Yoshiyuki Osawa">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730945151be5c0315611ae9267" alt="そして僕は途方に暮れる">
+    <div class="t-name">そして僕は途方に暮れる</div>
+    <div class="t-artist">Yoshiyuki Osawa</div>
+    <a class="t-open" href="https://open.spotify.com/track/33th3tyMkM4RA1vBmolsax" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
     <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
     <div class="t-name">虹の都へ</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Song for You</div>
     <div class="t-artist">John Miles</div>
     <a class="t-open" href="https://open.spotify.com/track/5JJbToUZIgIlp2yXQZhoP5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Will Find a Way - Yes">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f84de264e1e5c451c553c5b9" alt="Love Will Find a Way">
-    <div class="t-name">Love Will Find a Way</div>
-    <div class="t-artist">Yes</div>
-    <a class="t-open" href="https://open.spotify.com/track/3rYzScXbrk39vRl9KrFcOL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
