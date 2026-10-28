@@ -436,6 +436,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="エンジェル - Jake Shimabukuro">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735580f9d20176e090cc7f81c0" alt="エンジェル">
+    <div class="t-name">エンジェル</div>
+    <div class="t-artist">Jake Shimabukuro</div>
+    <a class="t-open" href="https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pua Līlīlehua - Keola Beamer">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387b8573e31b59fbd6d186eae" alt="Pua Līlīlehua">
+    <div class="t-name">Pua Līlīlehua</div>
+    <div class="t-artist">Keola Beamer</div>
+    <a class="t-open" href="https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Maika&#x27;i Ka Makani O Kahala - Bryan Tolentino">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731d8d797187f14d9b035d3c10" alt="Maika&#x27;i Ka Makani O Kahala">
+    <div class="t-name">Maika&#x27;i Ka Makani O Kahala</div>
+    <div class="t-artist">Bryan Tolentino</div>
+    <a class="t-open" href="https://open.spotify.com/track/7bqFpW2gUd9yyKx8SBlxFy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Fly Me To The Moon - Kaikane">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731bd73423ad314881e5070f94" alt="Fly Me To The Moon">
+    <div class="t-name">Fly Me To The Moon</div>
+    <div class="t-artist">Kaikane</div>
+    <a class="t-open" href="https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Europa - Brittni Paiva">
+    <img src="https://i.scdn.co/image/ab67616d0000b273922ed728a27395e799f5b066" alt="Europa">
+    <div class="t-name">Europa</div>
+    <div class="t-artist">Brittni Paiva</div>
+    <a class="t-open" href="https://open.spotify.com/track/3p4e6xgL6gfY2xqwYCLQcj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Honey Baby - Three Plus">
     <img src="https://i.scdn.co/image/ab67616d0000b2736ebe4da4d872ad0a0157c8f4" alt="Honey Baby">
     <div class="t-name">Honey Baby</div>
@@ -519,36 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">ピアノ・ブルー</div>
     <div class="t-artist">Godiego</div>
     <a class="t-open" href="https://open.spotify.com/track/6cklbF7K08XWBMrz2BOl22" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ポートピア - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fa20f00129606afcd3778c14" alt="ポートピア">
-    <div class="t-name">ポートピア</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/0mKTRAq1Agt4MzXpML66rm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Monkey Magic - シン・ミックス - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273455ad2e03ea34bd8a23ff4ed" alt="Monkey Magic - シン・ミックス">
-    <div class="t-name">Monkey Magic - シン・ミックス</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/0EGQNyotV7qs8auBDbUYZg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="はるかな旅へ - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cb945cdc70231b9c3b336ede" alt="はるかな旅へ">
-    <div class="t-name">はるかな旅へ</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/6GrPeSmve086TQbKr9xKOy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="イエロー・センター・ライン - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a2300f147aaa040c1fc459cd" alt="イエロー・センター・ライン">
-    <div class="t-name">イエロー・センター・ライン</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Dt7T4Nyhh4AaIxvjHRCK2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="テイキング・オフ! - Godiego">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b338c1027de8dd7c79614876" alt="テイキング・オフ!">
-    <div class="t-name">テイキング・オフ!</div>
-    <div class="t-artist">Godiego</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZwUF8PzuiIxeryTVsCf6b" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
