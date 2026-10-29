@@ -437,6 +437,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="MAN HUMAN（DEVILMAN crybaby Ver.） - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273686ccba518eb3a6ca60ee26d" alt="MAN HUMAN（DEVILMAN crybaby Ver.）">
+    <div class="t-name">MAN HUMAN（DEVILMAN crybaby Ver.）</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/1WXdpAzM6dRwPlpbcjQEG3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="N.O. - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="N.O.">
+    <div class="t-name">N.O.</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/78mnqVs0eo5h3gR0E7pKwe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shangri-La - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="Shangri-La">
+    <div class="t-name">Shangri-La</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/5Q18D00FTTQ1LEPMFrtgyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Don&#x27;t Want to Know - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="I Don&#x27;t Want to Know - 2004 Remaster">
+    <div class="t-name">I Don&#x27;t Want to Know - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/3B1lK5gNppO22gQLozrxeA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You Make Loving Fun - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="You Make Loving Fun - 2004 Remaster">
+    <div class="t-name">You Make Loving Fun - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Chain - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="The Chain - 2004 Remaster">
+    <div class="t-name">The Chain - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Songbird - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Songbird - 2004 Remaster">
+    <div class="t-name">Songbird - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/6DrXZwTuhl5Ow4mcmSWjME" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go Your Own Way - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Go Your Own Way - 2004 Remaster">
+    <div class="t-name">Go Your Own Way - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Stop - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Don&#x27;t Stop - 2004 Remaster">
+    <div class="t-name">Don&#x27;t Stop - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/3CPeWqqaHR0hmyfsWhMJQs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Never Going Back Again - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Never Going Back Again - 2004 Remaster">
+    <div class="t-name">Never Going Back Again - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dreams - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Dreams - 2004 Remaster">
+    <div class="t-name">Dreams - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Second Hand News - 2004 Remaster - Fleetwood Mac">
     <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Second Hand News - 2004 Remaster">
     <div class="t-name">Second Hand News - 2004 Remaster</div>
@@ -490,72 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
     <div class="t-artist">Michael Franks</div>
     <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Who&#x27;s Right, Who&#x27;s Wrong - Pages">
-    <img src="https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8" alt="Who&#x27;s Right, Who&#x27;s Wrong">
-    <div class="t-name">Who&#x27;s Right, Who&#x27;s Wrong</div>
-    <div class="t-artist">Pages</div>
-    <a class="t-open" href="https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
-    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
-    <div class="t-name">Gorilla Grip</div>
-    <div class="t-artist">Greg Shilling</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waste Your Heart - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Waste Your Heart">
-    <div class="t-name">Waste Your Heart</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/1xt1hywU6rQx1lgK8axTuf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="エンジェル - Jake Shimabukuro">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735580f9d20176e090cc7f81c0" alt="エンジェル">
-    <div class="t-name">エンジェル</div>
-    <div class="t-artist">Jake Shimabukuro</div>
-    <a class="t-open" href="https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pua Līlīlehua - Keola Beamer">
-    <img src="https://i.scdn.co/image/ab67616d0000b27387b8573e31b59fbd6d186eae" alt="Pua Līlīlehua">
-    <div class="t-name">Pua Līlīlehua</div>
-    <div class="t-artist">Keola Beamer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Maika&#x27;i Ka Makani O Kahala - Bryan Tolentino">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731d8d797187f14d9b035d3c10" alt="Maika&#x27;i Ka Makani O Kahala">
-    <div class="t-name">Maika&#x27;i Ka Makani O Kahala</div>
-    <div class="t-artist">Bryan Tolentino</div>
-    <a class="t-open" href="https://open.spotify.com/track/7bqFpW2gUd9yyKx8SBlxFy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Fly Me To The Moon - Kaikane">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731bd73423ad314881e5070f94" alt="Fly Me To The Moon">
-    <div class="t-name">Fly Me To The Moon</div>
-    <div class="t-artist">Kaikane</div>
-    <a class="t-open" href="https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Europa - Brittni Paiva">
-    <img src="https://i.scdn.co/image/ab67616d0000b273922ed728a27395e799f5b066" alt="Europa">
-    <div class="t-name">Europa</div>
-    <div class="t-artist">Brittni Paiva</div>
-    <a class="t-open" href="https://open.spotify.com/track/3p4e6xgL6gfY2xqwYCLQcj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Honey Baby - Three Plus">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736ebe4da4d872ad0a0157c8f4" alt="Honey Baby">
-    <div class="t-name">Honey Baby</div>
-    <div class="t-artist">Three Plus</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Xbf0hQXV5IbSXkKsjcvna" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="A Place In The Sun - Jake Shimabukuro">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735193d715e5c7a978caab5cd7" alt="A Place In The Sun">
-    <div class="t-name">A Place In The Sun</div>
-    <div class="t-artist">Jake Shimabukuro</div>
-    <a class="t-open" href="https://open.spotify.com/track/5IEC7XzNz9hue3aH4VA6vY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Kalena Kai (feat. George Winston) - Keola Beamer">
-    <img src="https://i.scdn.co/image/ab67616d0000b27326482efae3b263ac57de446d" alt="Kalena Kai (feat. George Winston)">
-    <div class="t-name">Kalena Kai (feat. George Winston)</div>
-    <div class="t-artist">Keola Beamer</div>
-    <a class="t-open" href="https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
