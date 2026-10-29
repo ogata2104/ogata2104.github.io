@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Baby&#x27;s on Fire - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273365a4417a74c5c98d20004be" alt="Baby&#x27;s on Fire">
+    <div class="t-name">Baby&#x27;s on Fire</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/47RoU2DOu0hDhvYoiP08Hy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ポケット　カウボーイ - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="ポケット　カウボーイ">
+    <div class="t-name">ポケット　カウボーイ</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/5WVsh0WuDUxighaCw0ax9Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="富士山 - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="富士山">
+    <div class="t-name">富士山</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nHroV5rVV0f3WHXQtwTIZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="モノノケダンス - Single Ver. / 2017 Remaster - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734e3145de97a53cac02c5ce07" alt="モノノケダンス - Single Ver. / 2017 Remaster">
+    <div class="t-name">モノノケダンス - Single Ver. / 2017 Remaster</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/1zUDfxtL0pjBoCoi4bWImZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="虹 - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273da025d5cb8e5068817123d42" alt="虹">
+    <div class="t-name">虹</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/40OG7X8RBnV4Jdt7pAi35z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="MAN HUMAN（DEVILMAN crybaby Ver.） - Denki Groove">
     <img src="https://i.scdn.co/image/ab67616d0000b273686ccba518eb3a6ca60ee26d" alt="MAN HUMAN（DEVILMAN crybaby Ver.）">
     <div class="t-name">MAN HUMAN（DEVILMAN crybaby Ver.）</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">I&#x27;ll Be Over You</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
-    <div class="t-name">Asleep Talking</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cool Cat - Queen">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fb96f10f9423264184066cdd" alt="Cool Cat">
-    <div class="t-name">Cool Cat</div>
-    <div class="t-artist">Queen</div>
-    <a class="t-open" href="https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hawaiian Soul - Troy Fernandez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ae305ab82b00588db8af546c" alt="Hawaiian Soul">
-    <div class="t-name">Hawaiian Soul</div>
-    <div class="t-artist">Troy Fernandez</div>
-    <a class="t-open" href="https://open.spotify.com/track/5wKv9yiRF2O0v2ycdFHPqu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Someday, Somewhere - Jungle">
-    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Someday, Somewhere">
-    <div class="t-name">Someday, Somewhere</div>
-    <div class="t-artist">Jungle</div>
-    <a class="t-open" href="https://open.spotify.com/track/69wmkZCUwdr2T0HvXKtNoa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When I Give My Love to You (with Brenda Russell) - Michael Franks">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d53cf72a642c54e39f3febb4" alt="When I Give My Love to You (with Brenda Russell)">
-    <div class="t-name">When I Give My Love to You (with Brenda Russell)</div>
-    <div class="t-artist">Michael Franks</div>
-    <a class="t-open" href="https://open.spotify.com/track/7mH6UmmGkLyg4h1qvv2fsw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
