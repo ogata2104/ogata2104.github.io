@@ -437,6 +437,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="目ゲキ者 !!!! - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731d290dbd64fa150ffc7ecb35" alt="目ゲキ者 !!!!">
+    <div class="t-name">目ゲキ者 !!!!</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/6O2yir6tYbLI6ZAL6PIvDD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="人間大統領 / Ningen President - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733113d96679fba1af2c48d555" alt="人間大統領 / Ningen President">
+    <div class="t-name">人間大統領 / Ningen President</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/7vVUt5mQr7jnXcIf0NmInu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="FLASHBACK DISCO - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cea3ebf405f14b535f3c4da0" alt="FLASHBACK DISCO">
+    <div class="t-name">FLASHBACK DISCO</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/1svVchw21RVif3kHYSBHWz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="いちご娘はひとりっ子 - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfa77288bc59fe9de2f623c8" alt="いちご娘はひとりっ子">
+    <div class="t-name">いちご娘はひとりっ子</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/5GrU50DADLUYlNf1mPCfjn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Missing Beatz - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340551ac775aacc528390f492" alt="Missing Beatz">
+    <div class="t-name">Missing Beatz</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/33og0YAYJz855bYLw9sow6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Love Session - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731d290dbd64fa150ffc7ecb35" alt="Love Love Session">
+    <div class="t-name">Love Love Session</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/0IJAu2mylJUNL0Sa9XhzT1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Upside Down - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cea3ebf405f14b535f3c4da0" alt="Upside Down">
+    <div class="t-name">Upside Down</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/2C7vgZihoJdE7u8pLvMcMn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="POPCORN - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="POPCORN">
+    <div class="t-name">POPCORN</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/46iofCp3Kngocx8Emw1QQx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sailing - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
+    <div class="t-name">Sailing</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Baby&#x27;s on Fire - Denki Groove">
     <img src="https://i.scdn.co/image/ab67616d0000b273365a4417a74c5c98d20004be" alt="Baby&#x27;s on Fire">
     <div class="t-name">Baby&#x27;s on Fire</div>
@@ -502,60 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">The Chain - 2004 Remaster</div>
     <div class="t-artist">Fleetwood Mac</div>
     <a class="t-open" href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Songbird - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Songbird - 2004 Remaster">
-    <div class="t-name">Songbird - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/6DrXZwTuhl5Ow4mcmSWjME" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go Your Own Way - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Go Your Own Way - 2004 Remaster">
-    <div class="t-name">Go Your Own Way - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Stop - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Don&#x27;t Stop - 2004 Remaster">
-    <div class="t-name">Don&#x27;t Stop - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/3CPeWqqaHR0hmyfsWhMJQs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Never Going Back Again - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Never Going Back Again - 2004 Remaster">
-    <div class="t-name">Never Going Back Again - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dreams - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Dreams - 2004 Remaster">
-    <div class="t-name">Dreams - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Second Hand News - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Second Hand News - 2004 Remaster">
-    <div class="t-name">Second Hand News - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/4SZhxF0sIS8nDvwhT0Tt2V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Send It Back - DON WEST">
-    <img src="https://i.scdn.co/image/ab67616d0000b27378b22ab7e27a2c6dff1b2281" alt="Send It Back">
-    <div class="t-name">Send It Back</div>
-    <div class="t-artist">DON WEST</div>
-    <a class="t-open" href="https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tip Toe - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
-    <div class="t-name">Tip Toe</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
-    <div class="t-name">I&#x27;ll Be Over You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
