@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Flashback Disco（is Back!） - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfa77288bc59fe9de2f623c8" alt="Flashback Disco（is Back!）">
+    <div class="t-name">Flashback Disco（is Back!）</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/4A5Evk4ZVLZcILtqhLvBH3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="目ゲキ者 !!!! - Denki Groove">
     <img src="https://i.scdn.co/image/ab67616d0000b2731d290dbd64fa150ffc7ecb35" alt="目ゲキ者 !!!!">
     <div class="t-name">目ゲキ者 !!!!</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">You Make Loving Fun - 2004 Remaster</div>
     <div class="t-artist">Fleetwood Mac</div>
     <a class="t-open" href="https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Chain - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="The Chain - 2004 Remaster">
-    <div class="t-name">The Chain - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
