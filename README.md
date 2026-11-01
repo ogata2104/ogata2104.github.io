@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="In Too Deep - 2007 Remaster - Genesis">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="In Too Deep - 2007 Remaster">
+    <div class="t-name">In Too Deep - 2007 Remaster</div>
+    <div class="t-artist">Genesis</div>
+    <a class="t-open" href="https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SO GOOD (ft. Simone Ashley) - Charlie Jeer">
+    <img src="https://i.scdn.co/image/ab67616d0000b27376468e8233039bdc14a80fd1" alt="SO GOOD (ft. Simone Ashley)">
+    <div class="t-name">SO GOOD (ft. Simone Ashley)</div>
+    <div class="t-artist">Charlie Jeer</div>
+    <a class="t-open" href="https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="No Choice - Fly By Midnight">
+    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
+    <div class="t-name">No Choice</div>
+    <div class="t-artist">Fly By Midnight</div>
+    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Flashback Disco（is Back!） - Denki Groove">
     <img src="https://i.scdn.co/image/ab67616d0000b273cfa77288bc59fe9de2f623c8" alt="Flashback Disco（is Back!）">
     <div class="t-name">Flashback Disco（is Back!）</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">N.O.</div>
     <div class="t-artist">Denki Groove</div>
     <a class="t-open" href="https://open.spotify.com/track/78mnqVs0eo5h3gR0E7pKwe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shangri-La - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="Shangri-La">
-    <div class="t-name">Shangri-La</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/5Q18D00FTTQ1LEPMFrtgyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Don&#x27;t Want to Know - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="I Don&#x27;t Want to Know - 2004 Remaster">
-    <div class="t-name">I Don&#x27;t Want to Know - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/3B1lK5gNppO22gQLozrxeA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You Make Loving Fun - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="You Make Loving Fun - 2004 Remaster">
-    <div class="t-name">You Make Loving Fun - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
