@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Remember Summer Days - Anri">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="Remember Summer Days">
+    <div class="t-name">Remember Summer Days</div>
+    <div class="t-artist">Anri</div>
+    <a class="t-open" href="https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Lea - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
     <div class="t-name">Lea</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">いちご娘はひとりっ子</div>
     <div class="t-artist">Denki Groove</div>
     <a class="t-open" href="https://open.spotify.com/track/5GrU50DADLUYlNf1mPCfjn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Missing Beatz - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340551ac775aacc528390f492" alt="Missing Beatz">
-    <div class="t-name">Missing Beatz</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/33og0YAYJz855bYLw9sow6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
