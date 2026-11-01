@@ -437,6 +437,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Don&#x27;t Dream It&#x27;s Over - Crowded House">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86" alt="Don&#x27;t Dream It&#x27;s Over">
+    <div class="t-name">Don&#x27;t Dream It&#x27;s Over</div>
+    <div class="t-artist">Crowded House</div>
+    <a class="t-open" href="https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cool Cat - Queen">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fb96f10f9423264184066cdd" alt="Cool Cat">
+    <div class="t-name">Cool Cat</div>
+    <div class="t-artist">Queen</div>
+    <a class="t-open" href="https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Arthur&#x27;s Theme (Best That You Can Do) - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b00a6721828724ce38a1e7a3" alt="Arthur&#x27;s Theme (Best That You Can Do)">
+    <div class="t-name">Arthur&#x27;s Theme (Best That You Can Do)</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dancing with my phone - HYBS">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a" alt="Dancing with my phone">
+    <div class="t-name">Dancing with my phone</div>
+    <div class="t-artist">HYBS</div>
+    <a class="t-open" href="https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
+    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
+    <div class="t-name">Gorilla Grip</div>
+    <div class="t-artist">Greg Shilling</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;ll Be Over You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="I&#x27;ll Be Over You">
+    <div class="t-name">I&#x27;ll Be Over You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Close to you - Fujii Kaze">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca221b0c323b13b314460abf" alt="Close to you">
+    <div class="t-name">Close to you</div>
+    <div class="t-artist">Fujii Kaze</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Nothing&#x27;s Gonna Change My Love for You - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e71efa8c6cfc1f8b39b0bdab" alt="Nothing&#x27;s Gonna Change My Love for You">
+    <div class="t-name">Nothing&#x27;s Gonna Change My Love for You</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Landslide - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Landslide">
+    <div class="t-name">Landslide</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="In Too Deep - 2007 Remaster - Genesis">
     <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="In Too Deep - 2007 Remaster">
     <div class="t-name">In Too Deep - 2007 Remaster</div>
@@ -496,66 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Love Love Session</div>
     <div class="t-artist">Denki Groove</div>
     <a class="t-open" href="https://open.spotify.com/track/0IJAu2mylJUNL0Sa9XhzT1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Upside Down - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cea3ebf405f14b535f3c4da0" alt="Upside Down">
-    <div class="t-name">Upside Down</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/2C7vgZihoJdE7u8pLvMcMn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="POPCORN - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="POPCORN">
-    <div class="t-name">POPCORN</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/46iofCp3Kngocx8Emw1QQx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sailing - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Sailing">
-    <div class="t-name">Sailing</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Baby&#x27;s on Fire - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273365a4417a74c5c98d20004be" alt="Baby&#x27;s on Fire">
-    <div class="t-name">Baby&#x27;s on Fire</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/47RoU2DOu0hDhvYoiP08Hy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ポケット　カウボーイ - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="ポケット　カウボーイ">
-    <div class="t-name">ポケット　カウボーイ</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/5WVsh0WuDUxighaCw0ax9Q" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="富士山 - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="富士山">
-    <div class="t-name">富士山</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nHroV5rVV0f3WHXQtwTIZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="モノノケダンス - Single Ver. / 2017 Remaster - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734e3145de97a53cac02c5ce07" alt="モノノケダンス - Single Ver. / 2017 Remaster">
-    <div class="t-name">モノノケダンス - Single Ver. / 2017 Remaster</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/1zUDfxtL0pjBoCoi4bWImZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹 - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273da025d5cb8e5068817123d42" alt="虹">
-    <div class="t-name">虹</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/40OG7X8RBnV4Jdt7pAi35z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MAN HUMAN（DEVILMAN crybaby Ver.） - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273686ccba518eb3a6ca60ee26d" alt="MAN HUMAN（DEVILMAN crybaby Ver.）">
-    <div class="t-name">MAN HUMAN（DEVILMAN crybaby Ver.）</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WXdpAzM6dRwPlpbcjQEG3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="N.O. - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="N.O.">
-    <div class="t-name">N.O.</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/78mnqVs0eo5h3gR0E7pKwe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
