@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Lea - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273607df94849bcd2c3f5505fc5" alt="Lea">
+    <div class="t-name">Lea</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Don&#x27;t Dream It&#x27;s Over - Crowded House">
     <img src="https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86" alt="Don&#x27;t Dream It&#x27;s Over">
     <div class="t-name">Don&#x27;t Dream It&#x27;s Over</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Missing Beatz</div>
     <div class="t-artist">Denki Groove</div>
     <a class="t-open" href="https://open.spotify.com/track/33og0YAYJz855bYLw9sow6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Love Session - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731d290dbd64fa150ffc7ecb35" alt="Love Love Session">
-    <div class="t-name">Love Love Session</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/0IJAu2mylJUNL0Sa9XhzT1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
