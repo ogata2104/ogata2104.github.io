@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
+    <div class="t-name">Silver Springs - 2004 Remaster</div>
+    <div class="t-artist">Fleetwood Mac</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="High and Dry - Radiohead">
     <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="High and Dry">
     <div class="t-name">High and Dry</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Just The Way You Are</div>
     <div class="t-artist">Milky</div>
     <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SO GOOD (ft. Simone Ashley) - Charlie Jeer">
-    <img src="https://i.scdn.co/image/ab67616d0000b27376468e8233039bdc14a80fd1" alt="SO GOOD (ft. Simone Ashley)">
-    <div class="t-name">SO GOOD (ft. Simone Ashley)</div>
-    <div class="t-artist">Charlie Jeer</div>
-    <a class="t-open" href="https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
