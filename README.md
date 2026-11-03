@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Peg - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
+    <div class="t-name">Peg</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Laughter In The Rain - Neil Sedaka">
     <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" alt="Laughter In The Rain">
     <div class="t-name">Laughter In The Rain</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Ordinary World</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Never Felt So Good - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0" alt="Love Never Felt So Good">
-    <div class="t-name">Love Never Felt So Good</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
