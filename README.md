@@ -437,6 +437,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Laughter In The Rain - Neil Sedaka">
+    <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" alt="Laughter In The Rain">
+    <div class="t-name">Laughter In The Rain</div>
+    <div class="t-artist">Neil Sedaka</div>
+    <a class="t-open" href="https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Georgy Porgy - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
+    <div class="t-name">Georgy Porgy</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
+    <div class="t-name">What a Fool Believes</div>
+    <div class="t-artist">The Doobie Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
+    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
+    <div class="t-name">Ghostbusters</div>
+    <div class="t-artist">Run–D.M.C.</div>
+    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Morning Sun - Robin Thicke">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ae48f835b7f13261cf935a81" alt="Morning Sun">
+    <div class="t-name">Morning Sun</div>
+    <div class="t-artist">Robin Thicke</div>
+    <a class="t-open" href="https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="忘れられないの - sakanaction">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="忘れられないの">
+    <div class="t-name">忘れられないの</div>
+    <div class="t-artist">sakanaction</div>
+    <a class="t-open" href="https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
+    <div class="t-name">Go</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
+    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
+    <div class="t-name">Immigrant Song - Remaster</div>
+    <div class="t-artist">Led Zeppelin</div>
+    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Slipped Away - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
+    <div class="t-name">Slipped Away</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="B・BLUE - BOØWY">
     <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
     <div class="t-name">B・BLUE</div>
@@ -496,66 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Love Never Felt So Good</div>
     <div class="t-artist">Michael Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
-    <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
-    <div class="t-artist">SIENNA SPIRO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ALWAYS - Forrest Frank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273500c84a64b89a118c27e5f59" alt="ALWAYS">
-    <div class="t-name">ALWAYS</div>
-    <div class="t-artist">Forrest Frank</div>
-    <a class="t-open" href="https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Jennifer - Charlie Jeer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4f150304ec37a5d64a7b3f7" alt="Jennifer">
-    <div class="t-name">Jennifer</div>
-    <div class="t-artist">Charlie Jeer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="God Was Showing Off - Bruno Mars">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="God Was Showing Off">
-    <div class="t-name">God Was Showing Off</div>
-    <div class="t-artist">Bruno Mars</div>
-    <a class="t-open" href="https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What More Can I Say - Teddy Swims">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287" alt="What More Can I Say">
-    <div class="t-name">What More Can I Say</div>
-    <div class="t-artist">Teddy Swims</div>
-    <a class="t-open" href="https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Choice - Fly By Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
-    <div class="t-name">No Choice</div>
-    <div class="t-artist">Fly By Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Fate of Ophelia - Taylor Swift">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" alt="The Fate of Ophelia">
-    <div class="t-name">The Fate of Ophelia</div>
-    <div class="t-artist">Taylor Swift</div>
-    <a class="t-open" href="https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="YOUR WAY&#x27;S BETTER - Forrest Frank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c7d6942542cc33eb5fedbb30" alt="YOUR WAY&#x27;S BETTER">
-    <div class="t-name">YOUR WAY&#x27;S BETTER</div>
-    <div class="t-artist">Forrest Frank</div>
-    <a class="t-open" href="https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="She Knows Too Much - Thundercat">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b" alt="She Knows Too Much">
-    <div class="t-name">She Knows Too Much</div>
-    <div class="t-artist">Thundercat</div>
-    <a class="t-open" href="https://open.spotify.com/track/1TK2iF5KlY8OEm5k5AeyBk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Just Might - Bruno Mars">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="I Just Might">
-    <div class="t-name">I Just Might</div>
-    <div class="t-artist">Bruno Mars</div>
-    <a class="t-open" href="https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
