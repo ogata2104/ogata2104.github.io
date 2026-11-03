@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="B・BLUE - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
+    <div class="t-name">B・BLUE</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Monsoon - Tokio Hotel">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
+    <div class="t-name">Monsoon</div>
+    <div class="t-artist">Tokio Hotel</div>
+    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
+    <div class="t-name">江ノ島エスカー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sussudio - 2016 Remaster - Phil Collins">
+    <img src="https://i.scdn.co/image/ab67616d0000b273de0753cd4e8c86dbf6e2f9f0" alt="Sussudio - 2016 Remaster">
+    <div class="t-name">Sussudio - 2016 Remaster</div>
+    <div class="t-artist">Phil Collins</div>
+    <a class="t-open" href="https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="リズム - Kono">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737467569845327c32484f6ed0" alt="リズム">
+    <div class="t-name">リズム</div>
+    <div class="t-artist">Kono</div>
+    <a class="t-open" href="https://open.spotify.com/track/3xu41GE7Ln4o6S01Zo4L08" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
     <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
     <div class="t-name">Silver Springs - 2004 Remaster</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">I Just Might</div>
     <div class="t-artist">Bruno Mars</div>
     <a class="t-open" href="https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
-    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
-    <div class="t-name">Gorilla Grip</div>
-    <div class="t-artist">Greg Shilling</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Someday, Somewhere - Jungle">
-    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Someday, Somewhere">
-    <div class="t-name">Someday, Somewhere</div>
-    <div class="t-artist">Jungle</div>
-    <a class="t-open" href="https://open.spotify.com/track/69wmkZCUwdr2T0HvXKtNoa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SOFTLY - Benny Sings">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b337c2e11b29440a36acd554" alt="SOFTLY">
-    <div class="t-name">SOFTLY</div>
-    <div class="t-artist">Benny Sings</div>
-    <a class="t-open" href="https://open.spotify.com/track/4BhF5FBT6LPUnDpBlJ7emz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Grateful For - Natalie Layne">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733c7d48c36c26310bd05751d4" alt="Grateful For">
-    <div class="t-name">Grateful For</div>
-    <div class="t-artist">Natalie Layne</div>
-    <a class="t-open" href="https://open.spotify.com/track/5rlg70Ek5xpqsvCUBKxs3N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Just The Way You Are - Milky">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
-    <div class="t-name">Just The Way You Are</div>
-    <div class="t-artist">Milky</div>
-    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
