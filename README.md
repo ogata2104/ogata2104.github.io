@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="The Wire - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
+    <div class="t-name">The Wire</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Pray to God (feat. HAIM)">
+    <div class="t-name">Pray to God (feat. HAIM)</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="no body, no crime (feat. HAIM) - Taylor Swift">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737035f417c37a4a9c2670aa91" alt="no body, no crime (feat. HAIM)">
+    <div class="t-name">no body, no crime (feat. HAIM)</div>
+    <div class="t-artist">Taylor Swift</div>
+    <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Peg - Steely Dan">
     <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
     <div class="t-name">Peg</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Silver Springs - 2004 Remaster</div>
     <div class="t-artist">Fleetwood Mac</div>
     <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="High and Dry - Radiohead">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="High and Dry">
-    <div class="t-name">High and Dry</div>
-    <div class="t-artist">Radiohead</div>
-    <a class="t-open" href="https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="シャイニン・オン　君が哀しい - Look">
-    <img src="https://i.scdn.co/image/ab67616d0000b27352b81482b45667296123809b" alt="シャイニン・オン　君が哀しい">
-    <div class="t-name">シャイニン・オン　君が哀しい</div>
-    <div class="t-artist">Look</div>
-    <a class="t-open" href="https://open.spotify.com/track/2MVlkBp6qUoxIWXRptsUcA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ordinary World - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107" alt="Ordinary World">
-    <div class="t-name">Ordinary World</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
