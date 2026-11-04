@@ -437,6 +437,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Want You Back - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
+    <div class="t-name">Want You Back</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Relationships - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
+    <div class="t-name">Relationships</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
+    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
+    <div class="t-artist">Calvin Harris</div>
+    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gasoline (feat. Taylor Swift) - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Gasoline (feat. Taylor Swift)">
+    <div class="t-name">Gasoline (feat. Taylor Swift)</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
+    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="The Wire - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
     <div class="t-name">The Wire</div>
@@ -526,36 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">B・BLUE</div>
     <div class="t-artist">BOØWY</div>
     <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Monsoon - Tokio Hotel">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
-    <div class="t-name">Monsoon</div>
-    <div class="t-artist">Tokio Hotel</div>
-    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="江ノ島エスカー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="江ノ島エスカー">
-    <div class="t-name">江ノ島エスカー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nXd5mb14Ek2xLnOV9mRtn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sussudio - 2016 Remaster - Phil Collins">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de0753cd4e8c86dbf6e2f9f0" alt="Sussudio - 2016 Remaster">
-    <div class="t-name">Sussudio - 2016 Remaster</div>
-    <div class="t-artist">Phil Collins</div>
-    <a class="t-open" href="https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="リズム - Kono">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737467569845327c32484f6ed0" alt="リズム">
-    <div class="t-name">リズム</div>
-    <div class="t-artist">Kono</div>
-    <a class="t-open" href="https://open.spotify.com/track/3xu41GE7Ln4o6S01Zo4L08" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Silver Springs - 2004 Remaster - Fleetwood Mac">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Silver Springs - 2004 Remaster">
-    <div class="t-name">Silver Springs - 2004 Remaster</div>
-    <div class="t-artist">Fleetwood Mac</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
