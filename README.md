@@ -437,6 +437,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="One Day In The Sun - PREP">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d9af3b3a71e2bd785f58b509" alt="One Day In The Sun">
+    <div class="t-name">One Day In The Sun</div>
+    <div class="t-artist">PREP</div>
+    <a class="t-open" href="https://open.spotify.com/track/4VQ8FRM06kQE1EH8mDoAO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Bird Song (Keep On Keeping Me Up) - The Lagoons">
+    <img src="https://i.scdn.co/image/ab67616d0000b27347eb480863b4a439169426a4" alt="Bird Song (Keep On Keeping Me Up)">
+    <div class="t-name">Bird Song (Keep On Keeping Me Up)</div>
+    <div class="t-artist">The Lagoons</div>
+    <a class="t-open" href="https://open.spotify.com/track/34addCTR2bPaR8iZ7pUsDe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You Are The Universe - The Brand New Heavies">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f463d4bc53a9e53151b48d64" alt="You Are The Universe">
+    <div class="t-name">You Are The Universe</div>
+    <div class="t-artist">The Brand New Heavies</div>
+    <a class="t-open" href="https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
+    <img src="https://i.scdn.co/image/ab67616d0000b27380ccdbf9221460316dbb8f3f" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
+    <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
+    <div class="t-artist">James Brown</div>
+    <a class="t-open" href="https://open.spotify.com/track/2Gm8VFVQrRd0AUP1wZuCQR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Feel Like Making Love - George Benson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Feel Like Making Love">
+    <div class="t-name">Feel Like Making Love</div>
+    <div class="t-artist">George Benson</div>
+    <a class="t-open" href="https://open.spotify.com/track/47igaFgsiP4feN73cHnYOC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="On the Beach - Jafunk">
+    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
+    <div class="t-name">On the Beach</div>
+    <div class="t-artist">Jafunk</div>
+    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Go - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
+    <div class="t-name">Go</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Sign - Ace of Base">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
+    <div class="t-name">The Sign</div>
+    <div class="t-artist">Ace of Base</div>
+    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Life Or Death - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735468ec8cc5d91166e7536b55" alt="Life Or Death">
+    <div class="t-name">Life Or Death</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="MMMBop - Hanson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Move - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" alt="Don&#x27;t Move">
+    <div class="t-name">Don&#x27;t Move</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Call Me Maybe - Carly Rae Jepsen">
     <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
     <div class="t-name">Call Me Maybe</div>
@@ -490,72 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">ONLY YOU</div>
     <div class="t-artist">BOØWY</div>
     <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="藤沢ルーザー - ASIAN KUNG-FU GENERATION">
-    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="藤沢ルーザー">
-    <div class="t-name">藤沢ルーザー</div>
-    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
-    <a class="t-open" href="https://open.spotify.com/track/1EHsyVTxdGKZJiUYnR5yET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
-    <div class="t-name">SHUT UP AND EXPLODE</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
-    <div class="t-name">WATERMELON</div>
-    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ALA &amp; MOANA - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="ALA &amp; MOANA">
-    <div class="t-name">ALA &amp; MOANA</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Kf3jE76XwTb4wcEjJUMpB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shangri-La - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="Shangri-La">
-    <div class="t-name">Shangri-La</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/5Q18D00FTTQ1LEPMFrtgyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Want You Back - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
-    <div class="t-name">Want You Back</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/745yZj7TBNnJzI3TYpCD4A" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Relationships - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731b2cb340e6818369e9120efa" alt="Relationships">
-    <div class="t-name">Relationships</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/46s4mYaQ5YVmwxvDa0oYC3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix - Calvin Harris">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735189584e867db982fdaa9a06" alt="Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix">
-    <div class="t-name">Pray to God (feat. HAIM) - Calvin Harris vs Mike Pickering Hacienda Extended Remix</div>
-    <div class="t-artist">Calvin Harris</div>
-    <a class="t-open" href="https://open.spotify.com/track/4uIgfleks9MGN8mzdQUTWZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gasoline (feat. Taylor Swift) - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Gasoline (feat. Taylor Swift)">
-    <div class="t-name">Gasoline (feat. Taylor Swift)</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/2bzUVEvpZ7At5cYz1kOLI9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Now I&#x27;m In It - Bonus Track - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25" alt="Now I&#x27;m In It - Bonus Track">
-    <div class="t-name">Now I&#x27;m In It - Bonus Track</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Wire - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="The Wire">
-    <div class="t-name">The Wire</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
