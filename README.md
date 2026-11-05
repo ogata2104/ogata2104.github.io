@@ -437,6 +437,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Patagonia - Patawawa">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734c638098530fb9582f13bda1" alt="Patagonia">
+    <div class="t-name">Patagonia</div>
+    <div class="t-artist">Patawawa</div>
+    <a class="t-open" href="https://open.spotify.com/track/1e46ZC7vtQcyGEOFbyv1df" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="サヴォタージュ - Senri Oe">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e6b6320a21a2a6b883708b95" alt="サヴォタージュ">
+    <div class="t-name">サヴォタージュ</div>
+    <div class="t-artist">Senri Oe</div>
+    <a class="t-open" href="https://open.spotify.com/track/0XGybcHdOgD2xJB2gynBJc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
+    <div class="t-name">虹の都へ</div>
+    <div class="t-artist">Hiroshi Takano</div>
+    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="接吻 kiss - Single Version - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="接吻 kiss - Single Version">
+    <div class="t-name">接吻 kiss - Single Version</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="LA･LA･LA LOVE SONG - Toshinobu Kubota">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f1cf66536db093da49ea8571" alt="LA･LA･LA LOVE SONG">
+    <div class="t-name">LA･LA･LA LOVE SONG</div>
+    <div class="t-artist">Toshinobu Kubota</div>
+    <a class="t-open" href="https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ONLY YOU - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
+    <div class="t-name">ONLY YOU</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="藤沢ルーザー - ASIAN KUNG-FU GENERATION">
+    <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="藤沢ルーザー">
+    <div class="t-name">藤沢ルーザー</div>
+    <div class="t-artist">ASIAN KUNG-FU GENERATION</div>
+    <a class="t-open" href="https://open.spotify.com/track/1EHsyVTxdGKZJiUYnR5yET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
+    <div class="t-name">SHUT UP AND EXPLODE</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
+    <div class="t-name">WATERMELON</div>
+    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
+    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ALA &amp; MOANA - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="ALA &amp; MOANA">
+    <div class="t-name">ALA &amp; MOANA</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Kf3jE76XwTb4wcEjJUMpB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shangri-La - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b27314035aa27eb585393bf7199e" alt="Shangri-La">
+    <div class="t-name">Shangri-La</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/5Q18D00FTTQ1LEPMFrtgyc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Want You Back - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2731f2842bb6040d15821cb81bb" alt="Want You Back">
     <div class="t-name">Want You Back</div>
@@ -490,72 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Peg</div>
     <div class="t-artist">Steely Dan</div>
     <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Laughter In The Rain - Neil Sedaka">
-    <img src="https://i.scdn.co/image/ab67616d0000b27305ab46dbaf585da6622cca5e" alt="Laughter In The Rain">
-    <div class="t-name">Laughter In The Rain</div>
-    <div class="t-artist">Neil Sedaka</div>
-    <a class="t-open" href="https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Georgy Porgy - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
-    <div class="t-name">Georgy Porgy</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="What a Fool Believes - The Doobie Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5" alt="What a Fool Believes">
-    <div class="t-name">What a Fool Believes</div>
-    <div class="t-artist">The Doobie Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ghostbusters - Run–D.M.C.">
-    <img src="https://i.scdn.co/image/ab67616d0000b273635a89bf8faaad4775c1fda9" alt="Ghostbusters">
-    <div class="t-name">Ghostbusters</div>
-    <div class="t-artist">Run–D.M.C.</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R2PYNy4Lre7VpHFS8LkhQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Morning Sun - Robin Thicke">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ae48f835b7f13261cf935a81" alt="Morning Sun">
-    <div class="t-name">Morning Sun</div>
-    <div class="t-artist">Robin Thicke</div>
-    <a class="t-open" href="https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="忘れられないの - sakanaction">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="忘れられないの">
-    <div class="t-name">忘れられないの</div>
-    <div class="t-artist">sakanaction</div>
-    <a class="t-open" href="https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
-    <div class="t-name">Go</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
-    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
-    <div class="t-name">The Walk</div>
-    <div class="t-artist">Mayer Hawthorne</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Immigrant Song - Remaster - Led Zeppelin">
-    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Immigrant Song - Remaster">
-    <div class="t-name">Immigrant Song - Remaster</div>
-    <div class="t-artist">Led Zeppelin</div>
-    <a class="t-open" href="https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slipped Away - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
-    <div class="t-name">Slipped Away</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="B・BLUE - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
-    <div class="t-name">B・BLUE</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
