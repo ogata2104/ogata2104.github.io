@@ -437,6 +437,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Call Me Maybe - Carly Rae Jepsen">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
+    <div class="t-name">Call Me Maybe</div>
+    <div class="t-artist">Carly Rae Jepsen</div>
+    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Got To Keep On - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a6eda16f17371a30534b4bba" alt="Got To Keep On">
+    <div class="t-name">Got To Keep On</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/4vh6Rn6FVG4w79JmlZ5p7d" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4fc1eb4b19aa74d4b87f9e2" alt="LAY YOUR HANDS ON ME (2017)">
+    <div class="t-name">LAY YOUR HANDS ON ME (2017)</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Patagonia - Patawawa">
     <img src="https://i.scdn.co/image/ab67616d0000b2734c638098530fb9582f13bda1" alt="Patagonia">
     <div class="t-name">Patagonia</div>
@@ -538,24 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">The Wire</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pray to God (feat. HAIM) - Calvin Harris">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Pray to God (feat. HAIM)">
-    <div class="t-name">Pray to God (feat. HAIM)</div>
-    <div class="t-artist">Calvin Harris</div>
-    <a class="t-open" href="https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="no body, no crime (feat. HAIM) - Taylor Swift">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737035f417c37a4a9c2670aa91" alt="no body, no crime (feat. HAIM)">
-    <div class="t-name">no body, no crime (feat. HAIM)</div>
-    <div class="t-artist">Taylor Swift</div>
-    <a class="t-open" href="https://open.spotify.com/track/33TKylf4GCTBNgneA4VRia" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Peg - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
-    <div class="t-name">Peg</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
