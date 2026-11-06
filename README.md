@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Marvel Studios Fanfare - Michael Giacchino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273df0b8480336e407d174bf040" alt="Marvel Studios Fanfare">
+    <div class="t-name">Marvel Studios Fanfare</div>
+    <div class="t-artist">Michael Giacchino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5xdTdPiQVFhI5iVEw2ctbk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
     <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
     <div class="t-name">If I Could Change Your Mind</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">虹の都へ</div>
     <div class="t-artist">Hiroshi Takano</div>
     <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="接吻 kiss - Single Version - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="接吻 kiss - Single Version">
-    <div class="t-name">接吻 kiss - Single Version</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
