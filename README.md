@@ -437,6 +437,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
+    <div class="t-name">If I Could Change Your Mind</div>
+    <div class="t-artist">HAIM</div>
+    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunshine - Jungle">
+    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Sunshine">
+    <div class="t-name">Sunshine</div>
+    <div class="t-artist">Jungle</div>
+    <a class="t-open" href="https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="One Day In The Sun - PREP">
     <img src="https://i.scdn.co/image/ab67616d0000b273d9af3b3a71e2bd785f58b509" alt="One Day In The Sun">
     <div class="t-name">One Day In The Sun</div>
@@ -544,18 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">接吻 kiss - Single Version</div>
     <div class="t-artist">Original Love</div>
     <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LA･LA･LA LOVE SONG - Toshinobu Kubota">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f1cf66536db093da49ea8571" alt="LA･LA･LA LOVE SONG">
-    <div class="t-name">LA･LA･LA LOVE SONG</div>
-    <div class="t-artist">Toshinobu Kubota</div>
-    <a class="t-open" href="https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ONLY YOU - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
-    <div class="t-name">ONLY YOU</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
