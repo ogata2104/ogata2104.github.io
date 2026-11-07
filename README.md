@@ -355,26 +355,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -437,6 +436,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Catching Bodies - Sekou">
+    <img src="https://i.scdn.co/image/ab67616d0000b27385a531ee6f5169a175d312c6" alt="Catching Bodies">
+    <div class="t-name">Catching Bodies</div>
+    <div class="t-artist">Sekou</div>
+    <a class="t-open" href="https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Out of Time - The Weeknd">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
+    <div class="t-name">Out of Time</div>
+    <div class="t-artist">The Weeknd</div>
+    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Got &#x27;Til It&#x27;s Gone - Janet Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Got &#x27;Til It&#x27;s Gone">
+    <div class="t-name">Got &#x27;Til It&#x27;s Gone</div>
+    <div class="t-artist">Janet Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="She’s Gonna Break My Heart - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="She’s Gonna Break My Heart">
+    <div class="t-name">She’s Gonna Break My Heart</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="One on One - Wildson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
+    <div class="t-name">One on One</div>
+    <div class="t-artist">Wildson</div>
+    <a class="t-open" href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
+    <div class="t-name">Biggest Part of Me</div>
+    <div class="t-artist">Ambrosia</div>
+    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
+    <div class="t-name">JoJo (2023 Remaster)</div>
+    <div class="t-artist">Boz Scaggs</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Africa - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
+    <div class="t-name">Africa</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Marvel Studios Fanfare - Michael Giacchino">
     <img src="https://i.scdn.co/image/ab67616d0000b273df0b8480336e407d174bf040" alt="Marvel Studios Fanfare">
     <div class="t-name">Marvel Studios Fanfare</div>
@@ -496,66 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Go</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Sign - Ace of Base">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" alt="The Sign">
-    <div class="t-name">The Sign</div>
-    <div class="t-artist">Ace of Base</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Life Or Death - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735468ec8cc5d91166e7536b55" alt="Life Or Death">
-    <div class="t-name">Life Or Death</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MMMBop - Hanson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
-    <div class="t-name">MMMBop</div>
-    <div class="t-artist">Hanson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Move - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732a61b592c01646a4c342b485" alt="Don&#x27;t Move">
-    <div class="t-name">Don&#x27;t Move</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Call Me Maybe - Carly Rae Jepsen">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735039eac30f931ef39405717b" alt="Call Me Maybe">
-    <div class="t-name">Call Me Maybe</div>
-    <div class="t-artist">Carly Rae Jepsen</div>
-    <a class="t-open" href="https://open.spotify.com/track/4L3Vw8hTyqJ1AdyypY4e61" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Got To Keep On - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a6eda16f17371a30534b4bba" alt="Got To Keep On">
-    <div class="t-name">Got To Keep On</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4vh6Rn6FVG4w79JmlZ5p7d" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LAY YOUR HANDS ON ME (2017) - BOOM BOOM SATELLITES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4fc1eb4b19aa74d4b87f9e2" alt="LAY YOUR HANDS ON ME (2017)">
-    <div class="t-name">LAY YOUR HANDS ON ME (2017)</div>
-    <div class="t-artist">BOOM BOOM SATELLITES</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Patagonia - Patawawa">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734c638098530fb9582f13bda1" alt="Patagonia">
-    <div class="t-name">Patagonia</div>
-    <div class="t-artist">Patawawa</div>
-    <a class="t-open" href="https://open.spotify.com/track/1e46ZC7vtQcyGEOFbyv1df" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="サヴォタージュ - Senri Oe">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e6b6320a21a2a6b883708b95" alt="サヴォタージュ">
-    <div class="t-name">サヴォタージュ</div>
-    <div class="t-artist">Senri Oe</div>
-    <a class="t-open" href="https://open.spotify.com/track/0XGybcHdOgD2xJB2gynBJc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
