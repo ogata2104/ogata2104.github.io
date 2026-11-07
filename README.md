@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="This Night - Billy Joel">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" alt="This Night">
+    <div class="t-name">This Night</div>
+    <div class="t-artist">Billy Joel</div>
+    <a class="t-open" href="https://open.spotify.com/track/6ZTRRn6pGCt2qxkiUKgqqk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Catching Bodies - Sekou">
     <img src="https://i.scdn.co/image/ab67616d0000b27385a531ee6f5169a175d312c6" alt="Catching Bodies">
     <div class="t-name">Catching Bodies</div>
@@ -543,12 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">On the Beach</div>
     <div class="t-artist">Jafunk</div>
     <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Go - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e9ad8d9a35be7992ad186958" alt="Go">
-    <div class="t-name">Go</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/0hR7hFdCmi9ITQIqc0lhP8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
