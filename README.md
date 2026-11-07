@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
+    <div class="t-name">Hey Boy Hey Girl</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="This Night - Billy Joel">
     <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" alt="This Night">
     <div class="t-name">This Night</div>
@@ -543,12 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">Feel Like Making Love</div>
     <div class="t-artist">George Benson</div>
     <a class="t-open" href="https://open.spotify.com/track/47igaFgsiP4feN73cHnYOC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="On the Beach - Jafunk">
-    <img src="https://i.scdn.co/image/ab67616d0000b27375de0b2615953e84c9f970d7" alt="On the Beach">
-    <div class="t-name">On the Beach</div>
-    <div class="t-artist">Jafunk</div>
-    <a class="t-open" href="https://open.spotify.com/track/2g7miCfDcSGtlbhX3xSucA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
