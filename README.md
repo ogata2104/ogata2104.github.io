@@ -355,25 +355,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +437,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="SHE STILL MOVES - Surreal AI">
+    <img src="https://i.scdn.co/image/ab67616d0000b27319b44369ebe2a0486a20c8d5" alt="SHE STILL MOVES">
+    <div class="t-name">SHE STILL MOVES</div>
+    <div class="t-artist">Surreal AI</div>
+    <a class="t-open" href="https://open.spotify.com/track/7M3S8vGsLeYxzWIahiBKYU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Reggae Sua Fé - Maneva">
+    <img src="https://i.scdn.co/image/ab67616d0000b273705670d895b5fa8f116d2076" alt="Reggae Sua Fé">
+    <div class="t-name">Reggae Sua Fé</div>
+    <div class="t-artist">Maneva</div>
+    <a class="t-open" href="https://open.spotify.com/track/4c2kJgOj4AFwociziQA2yF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lifted - Lighthouse Family">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bde4adaefc81b0502e081e82" alt="Lifted">
+    <div class="t-name">Lifted</div>
+    <div class="t-artist">Lighthouse Family</div>
+    <a class="t-open" href="https://open.spotify.com/track/1HdoZ6Ql7nx5HfQrlVYtoM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It Must Have Been Love - DEEP HOUSE - HARDMAX">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730eecf3d47a6a7913d4d5d33b" alt="It Must Have Been Love - DEEP HOUSE">
+    <div class="t-name">It Must Have Been Love - DEEP HOUSE</div>
+    <div class="t-artist">HARDMAX</div>
+    <a class="t-open" href="https://open.spotify.com/track/3ugNL4CY2WI2agr0wznu09" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Free - Jon Secada">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4b02d890230139604057523" alt="I&#x27;m Free">
+    <div class="t-name">I&#x27;m Free</div>
+    <div class="t-artist">Jon Secada</div>
+    <a class="t-open" href="https://open.spotify.com/track/2UfAxAPFNHkpArkEhBbyd4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sunshine - Instrumental - Twista">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ad3e1d861e39de5c5fa9e224" alt="Sunshine - Instrumental">
+    <div class="t-name">Sunshine - Instrumental</div>
+    <div class="t-artist">Twista</div>
+    <a class="t-open" href="https://open.spotify.com/track/3rsgaZR50jG4C7s8XUBM5n" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pra Melhorar - Marisa Monte">
+    <img src="https://i.scdn.co/image/ab67616d0000b27342c1678d56ba2f525986f361" alt="Pra Melhorar">
+    <div class="t-name">Pra Melhorar</div>
+    <div class="t-artist">Marisa Monte</div>
+    <a class="t-open" href="https://open.spotify.com/track/77ZXpEPLBswvfVFVrLjpTi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Feel Good - Pink Sweat$">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737184652d64b4b8abb241f657" alt="I Feel Good">
+    <div class="t-name">I Feel Good</div>
+    <div class="t-artist">Pink Sweat$</div>
+    <a class="t-open" href="https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dive - Olivia Dean">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cac9b52107643faf13a7587b" alt="Dive">
+    <div class="t-name">Dive</div>
+    <div class="t-artist">Olivia Dean</div>
+    <a class="t-open" href="https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Another Night - Real McCoy">
+    <img src="https://i.scdn.co/image/ab67616d0000b27331ff166101b3f1f93919abf0" alt="Another Night">
+    <div class="t-name">Another Night</div>
+    <div class="t-artist">Real McCoy</div>
+    <a class="t-open" href="https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Da Ya Think I&#x27;m Sexy? - N-Trance">
     <img src="https://i.scdn.co/image/ab67616d0000b273c6d7ae896869e9f9a0549e7b" alt="Da Ya Think I&#x27;m Sexy?">
     <div class="t-name">Da Ya Think I&#x27;m Sexy?</div>
@@ -495,60 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Kicking It</div>
     <div class="t-artist">After 7</div>
     <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Da Funk - Daft Punk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738ac778cc7d88779f74d33311" alt="Da Funk">
-    <div class="t-name">Da Funk</div>
-    <div class="t-artist">Daft Punk</div>
-    <a class="t-open" href="https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Keep Hope Alive - The Crystal Method">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d44198bc243f82fe5a5341f5" alt="Keep Hope Alive">
-    <div class="t-name">Keep Hope Alive</div>
-    <div class="t-artist">The Crystal Method</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MmAMXCl5e3oJFMzhpfXkM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
-    <div class="t-name">Hey Boy Hey Girl</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="This Night - Billy Joel">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" alt="This Night">
-    <div class="t-name">This Night</div>
-    <div class="t-artist">Billy Joel</div>
-    <a class="t-open" href="https://open.spotify.com/track/6ZTRRn6pGCt2qxkiUKgqqk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Catching Bodies - Sekou">
-    <img src="https://i.scdn.co/image/ab67616d0000b27385a531ee6f5169a175d312c6" alt="Catching Bodies">
-    <div class="t-name">Catching Bodies</div>
-    <div class="t-artist">Sekou</div>
-    <a class="t-open" href="https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out of Time - The Weeknd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
-    <div class="t-name">Out of Time</div>
-    <div class="t-artist">The Weeknd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Got &#x27;Til It&#x27;s Gone - Janet Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe" alt="Got &#x27;Til It&#x27;s Gone">
-    <div class="t-name">Got &#x27;Til It&#x27;s Gone</div>
-    <div class="t-artist">Janet Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="She’s Gonna Break My Heart - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="She’s Gonna Break My Heart">
-    <div class="t-name">She’s Gonna Break My Heart</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One on One - Wildson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d886a5f7a7f6d6509aec1a2c" alt="One on One">
-    <div class="t-name">One on One</div>
-    <div class="t-artist">Wildson</div>
-    <a class="t-open" href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
