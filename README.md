@@ -438,6 +438,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="蜉蝣 - Yukihiro Takahashi">
+    <img src="https://i.scdn.co/image/ab67616d0000b273de986aa160c5707a546dc236" alt="蜉蝣">
+    <div class="t-name">蜉蝣</div>
+    <div class="t-artist">Yukihiro Takahashi</div>
+    <a class="t-open" href="https://open.spotify.com/track/0Eg1iucdsJzt6LEkXwzfHL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering - Yukihiro Takahashi">
     <img src="https://i.scdn.co/image/ab67616d0000b273d028b567f32046dbc4be0e4f" alt="ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering">
     <div class="t-name">ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering</div>
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Lifted</div>
     <div class="t-artist">Lighthouse Family</div>
     <a class="t-open" href="https://open.spotify.com/track/1HdoZ6Ql7nx5HfQrlVYtoM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It Must Have Been Love - DEEP HOUSE - HARDMAX">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730eecf3d47a6a7913d4d5d33b" alt="It Must Have Been Love - DEEP HOUSE">
-    <div class="t-name">It Must Have Been Love - DEEP HOUSE</div>
-    <div class="t-artist">HARDMAX</div>
-    <a class="t-open" href="https://open.spotify.com/track/3ugNL4CY2WI2agr0wznu09" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
