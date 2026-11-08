@@ -355,24 +355,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -435,6 +436,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Da Ya Think I&#x27;m Sexy? - N-Trance">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c6d7ae896869e9f9a0549e7b" alt="Da Ya Think I&#x27;m Sexy?">
+    <div class="t-name">Da Ya Think I&#x27;m Sexy?</div>
+    <div class="t-artist">N-Trance</div>
+    <a class="t-open" href="https://open.spotify.com/track/1mtPAScMyV3iowIeentFa3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cowgirl - Remastered - Underworld">
+    <img src="https://i.scdn.co/image/ab67616d0000b27364f0ae6040dc56a925cb67a9" alt="Cowgirl - Remastered">
+    <div class="t-name">Cowgirl - Remastered</div>
+    <div class="t-artist">Underworld</div>
+    <a class="t-open" href="https://open.spotify.com/track/5nDndZX9lrYjAS4d1aWFxM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Children - Robert Miles">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b32c683cba9d35640c19ef21" alt="Children">
+    <div class="t-name">Children</div>
+    <div class="t-artist">Robert Miles</div>
+    <a class="t-open" href="https://open.spotify.com/track/73iNrs3ww2JCPHS4pgTryg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Leave You Far Behind - Lunatic Calm">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a6e6e600e0ae7abc77058a95" alt="Leave You Far Behind">
+    <div class="t-name">Leave You Far Behind</div>
+    <div class="t-artist">Lunatic Calm</div>
+    <a class="t-open" href="https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="High Roller - The Crystal Method">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d44198bc243f82fe5a5341f5" alt="High Roller">
+    <div class="t-name">High Roller</div>
+    <div class="t-artist">The Crystal Method</div>
+    <a class="t-open" href="https://open.spotify.com/track/0gYrCS1xKsQlMY38hbpxb7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Block Rockin&#x27; Beats - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f" alt="Block Rockin&#x27; Beats">
+    <div class="t-name">Block Rockin&#x27; Beats</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Confusion - Pump Panel Reconstruction Mix - New Order">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732cb4d73a988ef5983e3276ed" alt="Confusion - Pump Panel Reconstruction Mix">
+    <div class="t-name">Confusion - Pump Panel Reconstruction Mix</div>
+    <div class="t-artist">New Order</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Ap85jPfZq0DIgglSKPf55" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Get Funky Get Down - Daft Punk Remix - The Micronauts">
     <img src="https://i.scdn.co/image/ab67616d0000b273ddf492e53dba6683428299ac" alt="Get Funky Get Down - Daft Punk Remix">
     <div class="t-name">Get Funky Get Down - Daft Punk Remix</div>
@@ -506,42 +549,6 @@ From TOKYO JAPAN
     <div class="t-name">One on One</div>
     <div class="t-artist">Wildson</div>
     <a class="t-open" href="https://open.spotify.com/track/6dKstPF4kcF1j0oKAAaAET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Biggest Part of Me - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="Biggest Part of Me">
-    <div class="t-name">Biggest Part of Me</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="JoJo (2023 Remaster) - Boz Scaggs">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e4432bae2b4043fdb7ce092d" alt="JoJo (2023 Remaster)">
-    <div class="t-name">JoJo (2023 Remaster)</div>
-    <div class="t-artist">Boz Scaggs</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Liswfbb32U80A9eryPikM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Marvel Studios Fanfare - Michael Giacchino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273df0b8480336e407d174bf040" alt="Marvel Studios Fanfare">
-    <div class="t-name">Marvel Studios Fanfare</div>
-    <div class="t-artist">Michael Giacchino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5xdTdPiQVFhI5iVEw2ctbk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If I Could Change Your Mind - HAIM">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735841140a46549b7e95202b9f" alt="If I Could Change Your Mind">
-    <div class="t-name">If I Could Change Your Mind</div>
-    <div class="t-artist">HAIM</div>
-    <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
