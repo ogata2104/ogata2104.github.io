@@ -437,6 +437,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Loretta - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e9876be6bd512f0ff86de9e" alt="Loretta">
+    <div class="t-name">Loretta</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/4v3icU8NQfjM8uwIz9Ug1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
     <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
     <div class="t-name">WATERMELON</div>
@@ -550,12 +556,6 @@ From TOKYO JAPAN
     <div class="t-name">Sunshine - Instrumental</div>
     <div class="t-artist">Twista</div>
     <a class="t-open" href="https://open.spotify.com/track/3rsgaZR50jG4C7s8XUBM5n" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Pra Melhorar - Marisa Monte">
-    <img src="https://i.scdn.co/image/ab67616d0000b27342c1678d56ba2f525986f361" alt="Pra Melhorar">
-    <div class="t-name">Pra Melhorar</div>
-    <div class="t-artist">Marisa Monte</div>
-    <a class="t-open" href="https://open.spotify.com/track/77ZXpEPLBswvfVFVrLjpTi" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
