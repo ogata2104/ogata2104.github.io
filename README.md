@@ -355,25 +355,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -436,6 +435,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Get Funky Get Down - Daft Punk Remix - The Micronauts">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ddf492e53dba6683428299ac" alt="Get Funky Get Down - Daft Punk Remix">
+    <div class="t-name">Get Funky Get Down - Daft Punk Remix</div>
+    <div class="t-artist">The Micronauts</div>
+    <a class="t-open" href="https://open.spotify.com/track/1y6uqb3E1Mtk7jUhp3DWXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Extra - Ken Ishii">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a253af3ac35a68ad2cf3542f" alt="Extra">
+    <div class="t-name">Extra</div>
+    <div class="t-artist">Ken Ishii</div>
+    <a class="t-open" href="https://open.spotify.com/track/1eth9TJiZlJmfmeBjazMEF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kicking It - After 7">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736f96aad749cb6d09d4fe8394" alt="Kicking It">
+    <div class="t-name">Kicking It</div>
+    <div class="t-artist">After 7</div>
+    <a class="t-open" href="https://open.spotify.com/track/43W4SFa3gwUMc37y9HArAd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Da Funk - Daft Punk">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738ac778cc7d88779f74d33311" alt="Da Funk">
+    <div class="t-name">Da Funk</div>
+    <div class="t-artist">Daft Punk</div>
+    <a class="t-open" href="https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Keep Hope Alive - The Crystal Method">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d44198bc243f82fe5a5341f5" alt="Keep Hope Alive">
+    <div class="t-name">Keep Hope Alive</div>
+    <div class="t-artist">The Crystal Method</div>
+    <a class="t-open" href="https://open.spotify.com/track/3MmAMXCl5e3oJFMzhpfXkM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
     <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
     <div class="t-name">Hey Boy Hey Girl</div>
@@ -513,42 +542,6 @@ From TOKYO JAPAN
     <div class="t-name">If I Could Change Your Mind</div>
     <div class="t-artist">HAIM</div>
     <a class="t-open" href="https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunshine - Jungle">
-    <img src="https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3" alt="Sunshine">
-    <div class="t-name">Sunshine</div>
-    <div class="t-artist">Jungle</div>
-    <a class="t-open" href="https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One Day In The Sun - PREP">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d9af3b3a71e2bd785f58b509" alt="One Day In The Sun">
-    <div class="t-name">One Day In The Sun</div>
-    <div class="t-artist">PREP</div>
-    <a class="t-open" href="https://open.spotify.com/track/4VQ8FRM06kQE1EH8mDoAO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Bird Song (Keep On Keeping Me Up) - The Lagoons">
-    <img src="https://i.scdn.co/image/ab67616d0000b27347eb480863b4a439169426a4" alt="Bird Song (Keep On Keeping Me Up)">
-    <div class="t-name">Bird Song (Keep On Keeping Me Up)</div>
-    <div class="t-artist">The Lagoons</div>
-    <a class="t-open" href="https://open.spotify.com/track/34addCTR2bPaR8iZ7pUsDe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You Are The Universe - The Brand New Heavies">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f463d4bc53a9e53151b48d64" alt="You Are The Universe">
-    <div class="t-name">You Are The Universe</div>
-    <div class="t-artist">The Brand New Heavies</div>
-    <a class="t-open" href="https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Living in America - From &quot;Rocky IV&quot; Soundtrack - James Brown">
-    <img src="https://i.scdn.co/image/ab67616d0000b27380ccdbf9221460316dbb8f3f" alt="Living in America - From &quot;Rocky IV&quot; Soundtrack">
-    <div class="t-name">Living in America - From &quot;Rocky IV&quot; Soundtrack</div>
-    <div class="t-artist">James Brown</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Gm8VFVQrRd0AUP1wZuCQR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Feel Like Making Love - George Benson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f29e14e8fd0ccec63bd30ad1" alt="Feel Like Making Love">
-    <div class="t-name">Feel Like Making Love</div>
-    <div class="t-artist">George Benson</div>
-    <a class="t-open" href="https://open.spotify.com/track/47igaFgsiP4feN73cHnYOC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
