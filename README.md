@@ -438,6 +438,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Don&#x27;t Bring Me Down - Electric Light Orchestra">
+    <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Don&#x27;t Bring Me Down">
+    <div class="t-name">Don&#x27;t Bring Me Down</div>
+    <div class="t-artist">Electric Light Orchestra</div>
+    <a class="t-open" href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Last Train to London - Electric Light Orchestra">
     <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Last Train to London">
     <div class="t-name">Last Train to London</div>
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">BLUE MOON BLUE</div>
     <div class="t-artist">Yukihiro Takahashi</div>
     <a class="t-open" href="https://open.spotify.com/track/6X9UzPTbU6874ZPTrmtZuE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Loretta - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e9876be6bd512f0ff86de9e" alt="Loretta">
-    <div class="t-name">Loretta</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/4v3icU8NQfjM8uwIz9Ug1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
