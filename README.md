@@ -438,6 +438,84 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dance Again - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273de83c517bc250ad5eff2c951" alt="Dance Again">
+    <div class="t-name">Dance Again</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Can&#x27;t Get Enough - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c55a2100e9a5bb8cc5eba05c" alt="Can&#x27;t Get Enough">
+    <div class="t-name">Can&#x27;t Get Enough</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Get Right - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739ee4b5ffbc4dd4d336c799ff" alt="Get Right">
+    <div class="t-name">Get Right</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Real - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb" alt="I&#x27;m Real">
+    <div class="t-name">I&#x27;m Real</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/3tnxGMetnz5YVivUWJJ8ay" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I&#x27;m Glad - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f" alt="I&#x27;m Glad">
+    <div class="t-name">I&#x27;m Glad</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Play - Radio Edit - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a3da0f6dfdc5a33c3f51efdb" alt="Play - Radio Edit">
+    <div class="t-name">Play - Radio Edit</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/7olHpJkZTI0EVrAASFRpeS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Una Noche Más - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739f8872d948b2f5ec7b7c830b" alt="Una Noche Más">
+    <div class="t-name">Una Noche Más</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b27397f70b437de0502815f545b7" alt="Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix">
+    <div class="t-name">Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/5amq728fXh4T5WmFN5Uh2t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Let&#x27;s Get Loud - Kung Pow Radio Mix - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b15cb0aff64471f56262579f" alt="Let&#x27;s Get Loud - Kung Pow Radio Mix">
+    <div class="t-name">Let&#x27;s Get Loud - Kung Pow Radio Mix</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/2k61rVdD1O9oOXGKJpNF7m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Love Don&#x27;t Cost a Thing - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb" alt="Love Don&#x27;t Cost a Thing">
+    <div class="t-name">Love Don&#x27;t Cost a Thing</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Jenny from the Block - Bronx Remix - Edit - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d5cf73c1679244d959651dff" alt="Jenny from the Block - Bronx Remix - Edit">
+    <div class="t-name">Jenny from the Block - Bronx Remix - Edit</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/1aEZnPwWwL0ESJObzMsusD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="If You Had My Love - Radio Edit - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b273adc91dc5346af24bdf07a55f" alt="If You Had My Love - Radio Edit">
+    <div class="t-name">If You Had My Love - Radio Edit</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/1p8GNE0OTH0khjLr8ztcpP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Waiting for Tonight - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739f8872d948b2f5ec7b7c830b" alt="Waiting for Tonight">
+    <div class="t-name">Waiting for Tonight</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/1ffslNl0FbbFvorcEVLUFL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="蜉蝣 - Yukihiro Takahashi">
     <img src="https://i.scdn.co/image/ab67616d0000b273de986aa160c5707a546dc236" alt="蜉蝣">
     <div class="t-name">蜉蝣</div>
@@ -479,84 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Take on Me</div>
     <div class="t-artist">a-ha</div>
     <a class="t-open" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Living Years - Mike + The Mechanics">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735034d0ce6736c2055846ea20" alt="The Living Years">
-    <div class="t-name">The Living Years</div>
-    <div class="t-artist">Mike + The Mechanics</div>
-    <a class="t-open" href="https://open.spotify.com/track/1TyQLxeG40Ufw5tcAlWSw6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Nervous - Jordan Susanto">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e15d72611b17403d459eeac5" alt="Nervous">
-    <div class="t-name">Nervous</div>
-    <div class="t-artist">Jordan Susanto</div>
-    <a class="t-open" href="https://open.spotify.com/track/5SfGXuRhzG4Dzop0XO2c1Y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Daqui Só Se Leva o Amor - Acústico - Jota Quest">
-    <img src="https://i.scdn.co/image/ab67616d0000b273763dfb2b564ca76deb72f036" alt="Daqui Só Se Leva o Amor - Acústico">
-    <div class="t-name">Daqui Só Se Leva o Amor - Acústico</div>
-    <div class="t-artist">Jota Quest</div>
-    <a class="t-open" href="https://open.spotify.com/track/6q5m9cbJErQBEWt9Z8zaZy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Coragem - David Coelho">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737a7d86a5a0227704ae347b25" alt="Coragem">
-    <div class="t-name">Coragem</div>
-    <div class="t-artist">David Coelho</div>
-    <a class="t-open" href="https://open.spotify.com/track/5gfdPRmB56fcLRe4KvXyaF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Antifreeze - Yerin Baek">
-    <img src="https://i.scdn.co/image/ab67616d0000b273627b4da419bddabfce86f98e" alt="Antifreeze">
-    <div class="t-name">Antifreeze</div>
-    <div class="t-artist">Yerin Baek</div>
-    <a class="t-open" href="https://open.spotify.com/track/1osW08ygBwopWmjWzqWbfJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shine Your Light - Family of Things">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d09462767938f09781eef5f4" alt="Shine Your Light">
-    <div class="t-name">Shine Your Light</div>
-    <div class="t-artist">Family of Things</div>
-    <a class="t-open" href="https://open.spotify.com/track/0QlTB9FKOimwx9KTTGq9O3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Filtro Solar (Everybody&#x27;s Free (To Feel Good)) - Pedro Bial">
-    <img src="https://i.scdn.co/image/ab67616d0000b273515e404f099eb84772ca88d5" alt="Filtro Solar (Everybody&#x27;s Free (To Feel Good))">
-    <div class="t-name">Filtro Solar (Everybody&#x27;s Free (To Feel Good))</div>
-    <div class="t-artist">Pedro Bial</div>
-    <a class="t-open" href="https://open.spotify.com/track/0jaFcLr8RmOffYWaHgZXP5" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Spiritual High, Pt. 3 - Moodswings">
-    <img src="https://i.scdn.co/image/ab67616d0000b27398d1b0f5ca926165dfcb46a1" alt="Spiritual High, Pt. 3">
-    <div class="t-name">Spiritual High, Pt. 3</div>
-    <div class="t-artist">Moodswings</div>
-    <a class="t-open" href="https://open.spotify.com/track/4muCu39O1URYmUPRHEq34L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Count On You - Jeremiah Miller">
-    <img src="https://i.scdn.co/image/ab67616d0000b273627ad93dec42652f131eae71" alt="Count On You">
-    <div class="t-name">Count On You</div>
-    <div class="t-artist">Jeremiah Miller</div>
-    <a class="t-open" href="https://open.spotify.com/track/4KtdPk8vDeoRy4FVIhOvkU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SHE STILL MOVES - Surreal AI">
-    <img src="https://i.scdn.co/image/ab67616d0000b27319b44369ebe2a0486a20c8d5" alt="SHE STILL MOVES">
-    <div class="t-name">SHE STILL MOVES</div>
-    <div class="t-artist">Surreal AI</div>
-    <a class="t-open" href="https://open.spotify.com/track/7M3S8vGsLeYxzWIahiBKYU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Reggae Sua Fé - Maneva">
-    <img src="https://i.scdn.co/image/ab67616d0000b273705670d895b5fa8f116d2076" alt="Reggae Sua Fé">
-    <div class="t-name">Reggae Sua Fé</div>
-    <div class="t-artist">Maneva</div>
-    <a class="t-open" href="https://open.spotify.com/track/4c2kJgOj4AFwociziQA2yF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lifted - Lighthouse Family">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bde4adaefc81b0502e081e82" alt="Lifted">
-    <div class="t-name">Lifted</div>
-    <div class="t-artist">Lighthouse Family</div>
-    <a class="t-open" href="https://open.spotify.com/track/1HdoZ6Ql7nx5HfQrlVYtoM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
