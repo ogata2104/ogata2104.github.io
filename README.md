@@ -439,6 +439,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
+    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
+    <div class="t-name">Dance Dance Dance!</div>
+    <div class="t-artist">Barry Can&#x27;t Swim</div>
+    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
     <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
     <div class="t-name">RYDEEN</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix</div>
     <div class="t-artist">Jennifer Lopez</div>
     <a class="t-open" href="https://open.spotify.com/track/5amq728fXh4T5WmFN5Uh2t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Let&#x27;s Get Loud - Kung Pow Radio Mix - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b15cb0aff64471f56262579f" alt="Let&#x27;s Get Loud - Kung Pow Radio Mix">
-    <div class="t-name">Let&#x27;s Get Loud - Kung Pow Radio Mix</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/2k61rVdD1O9oOXGKJpNF7m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
