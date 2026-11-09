@@ -439,6 +439,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
+    <div class="t-name">RYDEEN</div>
+    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ride Like The Wind - Yacht House Mix - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b273691d50b75992ecc0371ae480" alt="Ride Like The Wind - Yacht House Mix">
+    <div class="t-name">Ride Like The Wind - Yacht House Mix</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Raye - John Splithoff">
+    <img src="https://i.scdn.co/image/ab67616d0000b27351439120681ecbd7fc4dd101" alt="Raye">
+    <div class="t-name">Raye</div>
+    <div class="t-artist">John Splithoff</div>
+    <a class="t-open" href="https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Out of Time - The Weeknd">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
+    <div class="t-name">Out of Time</div>
+    <div class="t-artist">The Weeknd</div>
+    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Call It Home - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c87a4a4a9da5e9353c0768c7" alt="Call It Home">
+    <div class="t-name">Call It Home</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/1wgvFw0EnfRCpQsrsjBPRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
+    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
+    <div class="t-name">Gorilla Grip</div>
+    <div class="t-artist">Greg Shilling</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Don&#x27;t Bring Me Down - Electric Light Orchestra">
     <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Don&#x27;t Bring Me Down">
     <div class="t-name">Don&#x27;t Bring Me Down</div>
@@ -516,48 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Let&#x27;s Get Loud - Kung Pow Radio Mix</div>
     <div class="t-artist">Jennifer Lopez</div>
     <a class="t-open" href="https://open.spotify.com/track/2k61rVdD1O9oOXGKJpNF7m" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Love Don&#x27;t Cost a Thing - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb" alt="Love Don&#x27;t Cost a Thing">
-    <div class="t-name">Love Don&#x27;t Cost a Thing</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Jenny from the Block - Bronx Remix - Edit - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d5cf73c1679244d959651dff" alt="Jenny from the Block - Bronx Remix - Edit">
-    <div class="t-name">Jenny from the Block - Bronx Remix - Edit</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/1aEZnPwWwL0ESJObzMsusD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="If You Had My Love - Radio Edit - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273adc91dc5346af24bdf07a55f" alt="If You Had My Love - Radio Edit">
-    <div class="t-name">If You Had My Love - Radio Edit</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/1p8GNE0OTH0khjLr8ztcpP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting for Tonight - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739f8872d948b2f5ec7b7c830b" alt="Waiting for Tonight">
-    <div class="t-name">Waiting for Tonight</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ffslNl0FbbFvorcEVLUFL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="蜉蝣 - Yukihiro Takahashi">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de986aa160c5707a546dc236" alt="蜉蝣">
-    <div class="t-name">蜉蝣</div>
-    <div class="t-artist">Yukihiro Takahashi</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Eg1iucdsJzt6LEkXwzfHL" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering - Yukihiro Takahashi">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d028b567f32046dbc4be0e4f" alt="ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering">
-    <div class="t-name">ドリップ・ドライ・アイズ - 2021 Yoshinori Sunahara Remastering</div>
-    <div class="t-artist">Yukihiro Takahashi</div>
-    <a class="t-open" href="https://open.spotify.com/track/5xDD6xL65xH0WugjRaX6E7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BLUE MOON BLUE - Yukihiro Takahashi">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eccd1c4db98d97ffcdba485a" alt="BLUE MOON BLUE">
-    <div class="t-name">BLUE MOON BLUE</div>
-    <div class="t-artist">Yukihiro Takahashi</div>
-    <a class="t-open" href="https://open.spotify.com/track/6X9UzPTbU6874ZPTrmtZuE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
