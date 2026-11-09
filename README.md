@@ -438,6 +438,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Last Train to London - Electric Light Orchestra">
+    <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Last Train to London">
+    <div class="t-name">Last Train to London</div>
+    <div class="t-artist">Electric Light Orchestra</div>
+    <a class="t-open" href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Mr. Blue Sky - Electric Light Orchestra">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2" alt="Mr. Blue Sky">
+    <div class="t-name">Mr. Blue Sky</div>
+    <div class="t-artist">Electric Light Orchestra</div>
+    <a class="t-open" href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Baila - from the film &quot;Music of the Heart&quot; - Jennifer Lopez">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735c34d7a87663652675cf3264" alt="Baila - from the film &quot;Music of the Heart&quot;">
+    <div class="t-name">Baila - from the film &quot;Music of the Heart&quot;</div>
+    <div class="t-artist">Jennifer Lopez</div>
+    <a class="t-open" href="https://open.spotify.com/track/2Lzolac6JFeTiNZtx6PH9r" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Dance Again - Jennifer Lopez">
     <img src="https://i.scdn.co/image/ab67616d0000b273de83c517bc250ad5eff2c951" alt="Dance Again">
     <div class="t-name">Dance Again</div>
@@ -539,24 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Loretta</div>
     <div class="t-artist">Ginger Root</div>
     <a class="t-open" href="https://open.spotify.com/track/4v3icU8NQfjM8uwIz9Ug1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
-    <div class="t-name">WATERMELON</div>
-    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Take on Me - a-ha">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Take on Me">
-    <div class="t-name">Take on Me</div>
-    <div class="t-artist">a-ha</div>
-    <a class="t-open" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
