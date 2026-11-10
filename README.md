@@ -439,6 +439,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Passionfruit - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" alt="Passionfruit">
+    <div class="t-name">Passionfruit</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Two Tens (feat. Anderson .Paak) - Bonus Track - Cordae">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c62b5211815dea65bfcdc2ee" alt="Two Tens (feat. Anderson .Paak) - Bonus Track">
+    <div class="t-name">Two Tens (feat. Anderson .Paak) - Bonus Track</div>
+    <div class="t-artist">Cordae</div>
+    <a class="t-open" href="https://open.spotify.com/track/7qFHp1RE5wF2NYX6nZGTfs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="luther (with sza) - Kendrick Lamar">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e5e269471fe4a43a42e2f15" alt="luther (with sza)">
+    <div class="t-name">luther (with sza)</div>
+    <div class="t-artist">Kendrick Lamar</div>
+    <a class="t-open" href="https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Final Fantasy: Main Theme - Nobuo Uematsu">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734f4da6220de4fe975241ae9b" alt="Final Fantasy: Main Theme">
+    <div class="t-name">Final Fantasy: Main Theme</div>
+    <div class="t-artist">Nobuo Uematsu</div>
+    <a class="t-open" href="https://open.spotify.com/track/7xhB3AA55ew6N2V0ysv7H4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="MMMBop - Hanson">
     <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
     <div class="t-name">MMMBop</div>
@@ -534,30 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Asleep Talking</div>
     <div class="t-artist">Magnus Ferrell</div>
     <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Bring Me Down - Electric Light Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Don&#x27;t Bring Me Down">
-    <div class="t-name">Don&#x27;t Bring Me Down</div>
-    <div class="t-artist">Electric Light Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Last Train to London - Electric Light Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f" alt="Last Train to London">
-    <div class="t-name">Last Train to London</div>
-    <div class="t-artist">Electric Light Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Mr. Blue Sky - Electric Light Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2" alt="Mr. Blue Sky">
-    <div class="t-name">Mr. Blue Sky</div>
-    <div class="t-artist">Electric Light Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Baila - from the film &quot;Music of the Heart&quot; - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735c34d7a87663652675cf3264" alt="Baila - from the film &quot;Music of the Heart&quot;">
-    <div class="t-name">Baila - from the film &quot;Music of the Heart&quot;</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Lzolac6JFeTiNZtx6PH9r" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
