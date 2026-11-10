@@ -439,6 +439,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="MMMBop - Hanson">
+    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
+    <div class="t-name">MMMBop</div>
+    <div class="t-artist">Hanson</div>
+    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
+    <div class="t-name">Galvanize</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SCHOOL GIRL 東京 Ver. - BENNIE K">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732154251515fcaf2f514b97e3" alt="SCHOOL GIRL 東京 Ver.">
+    <div class="t-name">SCHOOL GIRL 東京 Ver.</div>
+    <div class="t-artist">BENNIE K</div>
+    <a class="t-open" href="https://open.spotify.com/track/3RBy1SNM4ZuAQ4GBZwvepr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Attitude - Crystal Kay">
     <img src="https://i.scdn.co/image/ab67616d0000b273eff13a5ffd6fc16a243de094" alt="Attitude">
     <div class="t-name">Attitude</div>
@@ -540,24 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Baila - from the film &quot;Music of the Heart&quot;</div>
     <div class="t-artist">Jennifer Lopez</div>
     <a class="t-open" href="https://open.spotify.com/track/2Lzolac6JFeTiNZtx6PH9r" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dance Again - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de83c517bc250ad5eff2c951" alt="Dance Again">
-    <div class="t-name">Dance Again</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Can&#x27;t Get Enough - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c55a2100e9a5bb8cc5eba05c" alt="Can&#x27;t Get Enough">
-    <div class="t-name">Can&#x27;t Get Enough</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Get Right - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739ee4b5ffbc4dd4d336c799ff" alt="Get Right">
-    <div class="t-name">Get Right</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
