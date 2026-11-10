@@ -439,6 +439,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Attitude - Crystal Kay">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eff13a5ffd6fc16a243de094" alt="Attitude">
+    <div class="t-name">Attitude</div>
+    <div class="t-artist">Crystal Kay</div>
+    <a class="t-open" href="https://open.spotify.com/track/1LaFytNJrLsAYRw8snvghJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="LOVE TOGETHER RAP - lyrical school">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fe3dc029b7e3cc6515af8d13" alt="LOVE TOGETHER RAP">
+    <div class="t-name">LOVE TOGETHER RAP</div>
+    <div class="t-artist">lyrical school</div>
+    <a class="t-open" href="https://open.spotify.com/track/2t2bEHu1Sop3EUTuj4FwIC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Bメン - SCHA DARA PARR">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739ea9f1c46ab1ce67167069fd" alt="Bメン">
+    <div class="t-name">Bメン</div>
+    <div class="t-artist">SCHA DARA PARR</div>
+    <a class="t-open" href="https://open.spotify.com/track/7J9mbdP4eyHheOPuEkIEje" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="サマージャム&#x27;95 - SCHA DARA PARR">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d1c68890dafaff3c27816ce" alt="サマージャム&#x27;95">
+    <div class="t-name">サマージャム&#x27;95</div>
+    <div class="t-artist">SCHA DARA PARR</div>
+    <a class="t-open" href="https://open.spotify.com/track/6ZF81Gyd6PvhHLMSZ9CRkH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="トラベル・チャンス - SCHA DARA PARR">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" alt="トラベル・チャンス">
+    <div class="t-name">トラベル・チャンス</div>
+    <div class="t-artist">SCHA DARA PARR</div>
+    <a class="t-open" href="https://open.spotify.com/track/4JxgqaiTVhINyiq0mFf9YI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
     <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
     <div class="t-name">Dance Dance Dance!</div>
@@ -528,36 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Get Right</div>
     <div class="t-artist">Jennifer Lopez</div>
     <a class="t-open" href="https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;m Real - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb" alt="I&#x27;m Real">
-    <div class="t-name">I&#x27;m Real</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/3tnxGMetnz5YVivUWJJ8ay" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I&#x27;m Glad - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f" alt="I&#x27;m Glad">
-    <div class="t-name">I&#x27;m Glad</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Play - Radio Edit - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a3da0f6dfdc5a33c3f51efdb" alt="Play - Radio Edit">
-    <div class="t-name">Play - Radio Edit</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/7olHpJkZTI0EVrAASFRpeS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Una Noche Más - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739f8872d948b2f5ec7b7c830b" alt="Una Noche Más">
-    <div class="t-name">Una Noche Más</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix - Jennifer Lopez">
-    <img src="https://i.scdn.co/image/ab67616d0000b27397f70b437de0502815f545b7" alt="Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix">
-    <div class="t-name">Ain&#x27;t It Funny (feat. Ja Rule &amp; Caddillac Tah) - Murder Remix</div>
-    <div class="t-artist">Jennifer Lopez</div>
-    <a class="t-open" href="https://open.spotify.com/track/5amq728fXh4T5WmFN5Uh2t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
