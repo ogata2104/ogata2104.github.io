@@ -439,6 +439,66 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Take Care - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" alt="Take Care">
+    <div class="t-name">Take Care</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Too Good - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c" alt="Too Good">
+    <div class="t-name">Too Good</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Nonstop - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" alt="Nonstop">
+    <div class="t-name">Nonstop</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="National Treasures - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c" alt="National Treasures">
+    <div class="t-name">National Treasures</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Do Not Disturb - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" alt="Do Not Disturb">
+    <div class="t-name">Do Not Disturb</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Best I Ever Had - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd" alt="Best I Ever Had">
+    <div class="t-name">Best I Ever Had</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Headlines - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" alt="Headlines">
+    <div class="t-name">Headlines</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hotline Bling - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c" alt="Hotline Bling">
+    <div class="t-name">Hotline Bling</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Nice For What - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" alt="Nice For What">
+    <div class="t-name">Nice For What</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shabang - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c" alt="Shabang">
+    <div class="t-name">Shabang</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Hold On, We&#x27;re Going Home - Drake">
     <img src="https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8" alt="Hold On, We&#x27;re Going Home">
     <div class="t-name">Hold On, We&#x27;re Going Home</div>
@@ -498,66 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">SCHOOL GIRL 東京 Ver.</div>
     <div class="t-artist">BENNIE K</div>
     <a class="t-open" href="https://open.spotify.com/track/3RBy1SNM4ZuAQ4GBZwvepr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Attitude - Crystal Kay">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eff13a5ffd6fc16a243de094" alt="Attitude">
-    <div class="t-name">Attitude</div>
-    <div class="t-artist">Crystal Kay</div>
-    <a class="t-open" href="https://open.spotify.com/track/1LaFytNJrLsAYRw8snvghJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LOVE TOGETHER RAP - lyrical school">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe3dc029b7e3cc6515af8d13" alt="LOVE TOGETHER RAP">
-    <div class="t-name">LOVE TOGETHER RAP</div>
-    <div class="t-artist">lyrical school</div>
-    <a class="t-open" href="https://open.spotify.com/track/2t2bEHu1Sop3EUTuj4FwIC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Bメン - SCHA DARA PARR">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739ea9f1c46ab1ce67167069fd" alt="Bメン">
-    <div class="t-name">Bメン</div>
-    <div class="t-artist">SCHA DARA PARR</div>
-    <a class="t-open" href="https://open.spotify.com/track/7J9mbdP4eyHheOPuEkIEje" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="サマージャム&#x27;95 - SCHA DARA PARR">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d1c68890dafaff3c27816ce" alt="サマージャム&#x27;95">
-    <div class="t-name">サマージャム&#x27;95</div>
-    <div class="t-artist">SCHA DARA PARR</div>
-    <a class="t-open" href="https://open.spotify.com/track/6ZF81Gyd6PvhHLMSZ9CRkH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="トラベル・チャンス - SCHA DARA PARR">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" alt="トラベル・チャンス">
-    <div class="t-name">トラベル・チャンス</div>
-    <div class="t-artist">SCHA DARA PARR</div>
-    <a class="t-open" href="https://open.spotify.com/track/4JxgqaiTVhINyiq0mFf9YI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dance Dance Dance! - Barry Can&#x27;t Swim">
-    <img src="https://i.scdn.co/image/ab67616d0000b27385f385dffedccf8b642bf244" alt="Dance Dance Dance!">
-    <div class="t-name">Dance Dance Dance!</div>
-    <div class="t-artist">Barry Can&#x27;t Swim</div>
-    <a class="t-open" href="https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="RYDEEN - YELLOW MAGIC ORCHESTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="RYDEEN">
-    <div class="t-name">RYDEEN</div>
-    <div class="t-artist">YELLOW MAGIC ORCHESTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ride Like The Wind - Yacht House Mix - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b273691d50b75992ecc0371ae480" alt="Ride Like The Wind - Yacht House Mix">
-    <div class="t-name">Ride Like The Wind - Yacht House Mix</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/51DODhWus3Fepp3vjV8JXF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Raye - John Splithoff">
-    <img src="https://i.scdn.co/image/ab67616d0000b27351439120681ecbd7fc4dd101" alt="Raye">
-    <div class="t-name">Raye</div>
-    <div class="t-artist">John Splithoff</div>
-    <a class="t-open" href="https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Out of Time - The Weeknd">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" alt="Out of Time">
-    <div class="t-name">Out of Time</div>
-    <div class="t-artist">The Weeknd</div>
-    <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
