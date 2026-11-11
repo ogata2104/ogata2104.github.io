@@ -439,6 +439,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="I Can See Clearly Now - Edit - Johnny Nash">
+    <img src="https://i.scdn.co/image/ab67616d0000b273702689066bc17ee67203c2bc" alt="I Can See Clearly Now - Edit">
+    <div class="t-name">I Can See Clearly Now - Edit</div>
+    <div class="t-artist">Johnny Nash</div>
+    <a class="t-open" href="https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lovely Day - Bill Withers">
+    <img src="https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993" alt="Lovely Day">
+    <div class="t-name">Lovely Day</div>
+    <div class="t-artist">Bill Withers</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Pipe Down - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f" alt="Pipe Down">
+    <div class="t-name">Pipe Down</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Falling Back - Extended Version - Drake">
+    <img src="https://i.scdn.co/image/ab6742d3000053b7e00ad3a98007d8c04e04da6a" alt="Falling Back - Extended Version">
+    <div class="t-name">Falling Back - Extended Version</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/1UmERnfXBNJaVJKcUeWpDh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Take Care - Drake">
     <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" alt="Take Care">
     <div class="t-name">Take Care</div>
@@ -534,30 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">luther (with sza)</div>
     <div class="t-artist">Kendrick Lamar</div>
     <a class="t-open" href="https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Final Fantasy: Main Theme - Nobuo Uematsu">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734f4da6220de4fe975241ae9b" alt="Final Fantasy: Main Theme">
-    <div class="t-name">Final Fantasy: Main Theme</div>
-    <div class="t-artist">Nobuo Uematsu</div>
-    <a class="t-open" href="https://open.spotify.com/track/7xhB3AA55ew6N2V0ysv7H4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="MMMBop - Hanson">
-    <img src="https://i.scdn.co/image/ab67616d0000b273184227f002623fc19f44551a" alt="MMMBop">
-    <div class="t-name">MMMBop</div>
-    <div class="t-artist">Hanson</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
-    <div class="t-name">Galvanize</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="SCHOOL GIRL 東京 Ver. - BENNIE K">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732154251515fcaf2f514b97e3" alt="SCHOOL GIRL 東京 Ver.">
-    <div class="t-name">SCHOOL GIRL 東京 Ver.</div>
-    <div class="t-artist">BENNIE K</div>
-    <a class="t-open" href="https://open.spotify.com/track/3RBy1SNM4ZuAQ4GBZwvepr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
