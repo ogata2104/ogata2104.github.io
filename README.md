@@ -439,6 +439,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd) - Baby Keem">
+    <img src="https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7" alt="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)">
+    <div class="t-name">Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)</div>
+    <div class="t-artist">Baby Keem</div>
+    <a class="t-open" href="https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="California Dreamin&#x27; - The Mamas &amp; The Papas">
     <img src="https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df" alt="California Dreamin&#x27;">
     <div class="t-name">California Dreamin&#x27;</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Call It Home</div>
     <div class="t-artist">Ginger Root</div>
     <a class="t-open" href="https://open.spotify.com/track/1wgvFw0EnfRCpQsrsjBPRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
-    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
-    <div class="t-name">Gorilla Grip</div>
-    <div class="t-artist">Greg Shilling</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
