@@ -439,6 +439,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Hold On, We&#x27;re Going Home - Drake">
+    <img src="https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8" alt="Hold On, We&#x27;re Going Home">
+    <div class="t-name">Hold On, We&#x27;re Going Home</div>
+    <div class="t-artist">Drake</div>
+    <a class="t-open" href="https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd) - Baby Keem">
     <img src="https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7" alt="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)">
     <div class="t-name">Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Out of Time</div>
     <div class="t-artist">The Weeknd</div>
     <a class="t-open" href="https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Call It Home - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c87a4a4a9da5e9353c0768c7" alt="Call It Home">
-    <div class="t-name">Call It Home</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/1wgvFw0EnfRCpQsrsjBPRB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
