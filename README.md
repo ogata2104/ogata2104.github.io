@@ -439,6 +439,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Sunrise - Simply Red">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Sunrise">
+    <div class="t-name">Sunrise</div>
+    <div class="t-artist">Simply Red</div>
+    <a class="t-open" href="https://open.spotify.com/track/4LxDdYU3x9tyDxy3CghqdC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Game of Love (feat. Michelle Branch) - Main / Radio Mix - Santana">
+    <img src="https://i.scdn.co/image/ab67616d0000b27313bcd4bbfcf1fab9644e0f7b" alt="The Game of Love (feat. Michelle Branch) - Main / Radio Mix">
+    <div class="t-name">The Game of Love (feat. Michelle Branch) - Main / Radio Mix</div>
+    <div class="t-artist">Santana</div>
+    <a class="t-open" href="https://open.spotify.com/track/41IShViF79gmulEkIHAjcb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
+    <div class="t-name">Star Guitar</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Digital Love - Daft Punk">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="Digital Love">
+    <div class="t-name">Digital Love</div>
+    <div class="t-artist">Daft Punk</div>
+    <a class="t-open" href="https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="サンシャイン・ロマンス - Original Love">
     <img src="https://i.scdn.co/image/ab67616d0000b2731c0744f5a09297c71f8df8a4" alt="サンシャイン・ロマンス">
     <div class="t-name">サンシャイン・ロマンス</div>
@@ -534,30 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">BLOOM WORLD</div>
     <div class="t-artist">ふぉ～ゆ～</div>
     <a class="t-open" href="https://open.spotify.com/track/3L0Z9ZFAz6bxsSDzGkED9t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="When the Lavender Blooms - The Paper Kites">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d4444847a0cdc18a8291116" alt="When the Lavender Blooms">
-    <div class="t-name">When the Lavender Blooms</div>
-    <div class="t-artist">The Paper Kites</div>
-    <a class="t-open" href="https://open.spotify.com/track/2KsZmbctRyR06nI9HxHBkc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Riptide - Vance Joy">
-    <img src="https://i.scdn.co/image/ab67616d0000b27305d081cbdc2f67d37a364d63" alt="Riptide">
-    <div class="t-name">Riptide</div>
-    <div class="t-artist">Vance Joy</div>
-    <a class="t-open" href="https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Have It All - Jason Mraz">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731b84102f154deb7a798ed372" alt="Have It All">
-    <div class="t-name">Have It All</div>
-    <div class="t-artist">Jason Mraz</div>
-    <a class="t-open" href="https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Three Little Birds - Bob Marley &amp; The Wailers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d" alt="Three Little Birds">
-    <div class="t-name">Three Little Birds</div>
-    <div class="t-artist">Bob Marley &amp; The Wailers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
