@@ -439,6 +439,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="君といつまでも - together forever mix - ECD">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f8ae712f93a9553ed84a8d1c" alt="君といつまでも - together forever mix">
+    <div class="t-name">君といつまでも - together forever mix</div>
+    <div class="t-artist">ECD</div>
+    <a class="t-open" href="https://open.spotify.com/track/1x99RdrXhjrOwxnumMsBxP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="あの日の忘れ物 - Eri Hiramatsu">
     <img src="https://i.scdn.co/image/ab67616d0000b273d14dfc06464ecb03eae7ad14" alt="あの日の忘れ物">
     <div class="t-name">あの日の忘れ物</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Do It Again</div>
     <div class="t-artist">Steely Dan</div>
     <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Linger - Remastered 2026 - The Cranberries">
-    <img src="https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193" alt="Linger - Remastered 2026">
-    <div class="t-name">Linger - Remastered 2026</div>
-    <div class="t-artist">The Cranberries</div>
-    <a class="t-open" href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
