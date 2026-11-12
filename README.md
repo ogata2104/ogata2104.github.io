@@ -439,6 +439,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="君がいてくれた - ふぉ～ゆ～">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="君がいてくれた">
+    <div class="t-name">君がいてくれた</div>
+    <div class="t-artist">ふぉ～ゆ～</div>
+    <a class="t-open" href="https://open.spotify.com/track/4imc7PsvwhkhBmOegV01ih" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="BLOOM WORLD - ふぉ～ゆ～">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="BLOOM WORLD">
+    <div class="t-name">BLOOM WORLD</div>
+    <div class="t-artist">ふぉ～ゆ～</div>
+    <a class="t-open" href="https://open.spotify.com/track/3L0Z9ZFAz6bxsSDzGkED9t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="When the Lavender Blooms - The Paper Kites">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d4444847a0cdc18a8291116" alt="When the Lavender Blooms">
+    <div class="t-name">When the Lavender Blooms</div>
+    <div class="t-artist">The Paper Kites</div>
+    <a class="t-open" href="https://open.spotify.com/track/2KsZmbctRyR06nI9HxHBkc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Riptide - Vance Joy">
+    <img src="https://i.scdn.co/image/ab67616d0000b27305d081cbdc2f67d37a364d63" alt="Riptide">
+    <div class="t-name">Riptide</div>
+    <div class="t-artist">Vance Joy</div>
+    <a class="t-open" href="https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Have It All - Jason Mraz">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731b84102f154deb7a798ed372" alt="Have It All">
+    <div class="t-name">Have It All</div>
+    <div class="t-artist">Jason Mraz</div>
+    <a class="t-open" href="https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Three Little Birds - Bob Marley &amp; The Wailers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d" alt="Three Little Birds">
+    <div class="t-name">Three Little Birds</div>
+    <div class="t-artist">Bob Marley &amp; The Wailers</div>
+    <a class="t-open" href="https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Worry Be Happy - Bobby McFerrin">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc" alt="Don&#x27;t Worry Be Happy">
+    <div class="t-name">Don&#x27;t Worry Be Happy</div>
+    <div class="t-artist">Bobby McFerrin</div>
+    <a class="t-open" href="https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Me Lo Merezco - ELENA ROSE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27352008f3b8d71a07ca9616e2a" alt="Me Lo Merezco">
+    <div class="t-name">Me Lo Merezco</div>
+    <div class="t-artist">ELENA ROSE</div>
+    <a class="t-open" href="https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Tudo Vai Dar Certo - Natiruts">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c41e9113accd254115b6f433" alt="Tudo Vai Dar Certo">
+    <div class="t-name">Tudo Vai Dar Certo</div>
+    <div class="t-artist">Natiruts</div>
+    <a class="t-open" href="https://open.spotify.com/track/6B8pYtoS3XHrc821hExWf6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Here Comes The Sun - Remastered 2009 - The Beatles">
+    <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Here Comes The Sun - Remastered 2009">
+    <div class="t-name">Here Comes The Sun - Remastered 2009</div>
+    <div class="t-artist">The Beatles</div>
+    <a class="t-open" href="https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Put Your Records On - Corinne Bailey Rae">
+    <img src="https://i.scdn.co/image/ab67616d0000b27345bf20e3316005354593a800" alt="Put Your Records On">
+    <div class="t-name">Put Your Records On</div>
+    <div class="t-artist">Corinne Bailey Rae</div>
+    <a class="t-open" href="https://open.spotify.com/track/5f5YqZZe34nsabun39eqo8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="I Can See Clearly Now - Edit - Johnny Nash">
     <img src="https://i.scdn.co/image/ab67616d0000b273702689066bc17ee67203c2bc" alt="I Can See Clearly Now - Edit">
     <div class="t-name">I Can See Clearly Now - Edit</div>
@@ -492,72 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Do Not Disturb</div>
     <div class="t-artist">Drake</div>
     <a class="t-open" href="https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Best I Ever Had - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd" alt="Best I Ever Had">
-    <div class="t-name">Best I Ever Had</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Headlines - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550" alt="Headlines">
-    <div class="t-name">Headlines</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hotline Bling - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c" alt="Hotline Bling">
-    <div class="t-name">Hotline Bling</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Nice For What - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" alt="Nice For What">
-    <div class="t-name">Nice For What</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shabang - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c" alt="Shabang">
-    <div class="t-name">Shabang</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold On, We&#x27;re Going Home - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8" alt="Hold On, We&#x27;re Going Home">
-    <div class="t-name">Hold On, We&#x27;re Going Home</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd) - Baby Keem">
-    <img src="https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7" alt="Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)">
-    <div class="t-name">Good Flirts (feat. Kendrick Lamar &amp; Momo Boyd)</div>
-    <div class="t-artist">Baby Keem</div>
-    <a class="t-open" href="https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="California Dreamin&#x27; - The Mamas &amp; The Papas">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df" alt="California Dreamin&#x27;">
-    <div class="t-name">California Dreamin&#x27;</div>
-    <div class="t-artist">The Mamas &amp; The Papas</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Passionfruit - Drake">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700" alt="Passionfruit">
-    <div class="t-name">Passionfruit</div>
-    <div class="t-artist">Drake</div>
-    <a class="t-open" href="https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Two Tens (feat. Anderson .Paak) - Bonus Track - Cordae">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c62b5211815dea65bfcdc2ee" alt="Two Tens (feat. Anderson .Paak) - Bonus Track">
-    <div class="t-name">Two Tens (feat. Anderson .Paak) - Bonus Track</div>
-    <div class="t-artist">Cordae</div>
-    <a class="t-open" href="https://open.spotify.com/track/7qFHp1RE5wF2NYX6nZGTfs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="luther (with sza) - Kendrick Lamar">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737e5e269471fe4a43a42e2f15" alt="luther (with sza)">
-    <div class="t-name">luther (with sza)</div>
-    <div class="t-artist">Kendrick Lamar</div>
-    <a class="t-open" href="https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
