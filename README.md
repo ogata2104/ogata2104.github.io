@@ -439,6 +439,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
+    <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
+    <div class="t-artist">SIENNA SPIRO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="You Are The Universe - The Brand New Heavies">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f463d4bc53a9e53151b48d64" alt="You Are The Universe">
+    <div class="t-name">You Are The Universe</div>
+    <div class="t-artist">The Brand New Heavies</div>
+    <a class="t-open" href="https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Just Might - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="I Just Might">
+    <div class="t-name">I Just Might</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Sunrise - Simply Red">
     <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Sunrise">
     <div class="t-name">Sunrise</div>
@@ -540,24 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Starlight Cruise</div>
     <div class="t-artist">ふぉ～ゆ～</div>
     <a class="t-open" href="https://open.spotify.com/track/7pvI1vWCeDGiD9gigVrQyR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="39 4U.！！！！ - ふぉ～ゆ～">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="39 4U.！！！！">
-    <div class="t-name">39 4U.！！！！</div>
-    <div class="t-artist">ふぉ～ゆ～</div>
-    <a class="t-open" href="https://open.spotify.com/track/4q1h8xq6mWUJwgDRx0g96i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="君がいてくれた - ふぉ～ゆ～">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="君がいてくれた">
-    <div class="t-name">君がいてくれた</div>
-    <div class="t-artist">ふぉ～ゆ～</div>
-    <a class="t-open" href="https://open.spotify.com/track/4imc7PsvwhkhBmOegV01ih" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BLOOM WORLD - ふぉ～ゆ～">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="BLOOM WORLD">
-    <div class="t-name">BLOOM WORLD</div>
-    <div class="t-artist">ふぉ～ゆ～</div>
-    <a class="t-open" href="https://open.spotify.com/track/3L0Z9ZFAz6bxsSDzGkED9t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
