@@ -439,6 +439,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="サンシャイン・ロマンス - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731c0744f5a09297c71f8df8a4" alt="サンシャイン・ロマンス">
+    <div class="t-name">サンシャイン・ロマンス</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/1nomsbgaZUorI6cfuRkGoR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Ch-Check It Out - Beastie Boys">
     <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
     <div class="t-name">Ch-Check It Out</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Three Little Birds</div>
     <div class="t-artist">Bob Marley &amp; The Wailers</div>
     <a class="t-open" href="https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Don&#x27;t Worry Be Happy - Bobby McFerrin">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc" alt="Don&#x27;t Worry Be Happy">
-    <div class="t-name">Don&#x27;t Worry Be Happy</div>
-    <div class="t-artist">Bobby McFerrin</div>
-    <a class="t-open" href="https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
