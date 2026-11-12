@@ -439,6 +439,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="あの日の忘れ物 - Eri Hiramatsu">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d14dfc06464ecb03eae7ad14" alt="あの日の忘れ物">
+    <div class="t-name">あの日の忘れ物</div>
+    <div class="t-artist">Eri Hiramatsu</div>
+    <a class="t-open" href="https://open.spotify.com/track/5chqAyNmDAQMeUy2CmtShK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Keep Forgettin&#x27; (Every Time You&#x27;re Near) - Michael McDonald">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Keep Forgettin&#x27; (Every Time You&#x27;re Near)">
+    <div class="t-name">I Keep Forgettin&#x27; (Every Time You&#x27;re Near)</div>
+    <div class="t-artist">Michael McDonald</div>
+    <a class="t-open" href="https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WINDY SUMMER - Anri">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="WINDY SUMMER">
+    <div class="t-name">WINDY SUMMER</div>
+    <div class="t-artist">Anri</div>
+    <a class="t-open" href="https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="B・BLUE - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
+    <div class="t-name">B・BLUE</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Sussudio - 2025 Mix - Phil Collins">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d7fda735228397e5fb68e3c3" alt="Sussudio - 2025 Mix">
+    <div class="t-name">Sussudio - 2025 Mix</div>
+    <div class="t-artist">Phil Collins</div>
+    <a class="t-open" href="https://open.spotify.com/track/4VP36x3mfPwAvkSWYAweJP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
     <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
     <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
@@ -528,36 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">Linger - Remastered 2026</div>
     <div class="t-artist">The Cranberries</div>
     <a class="t-open" href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="接吻 kiss - Single Version - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="接吻 kiss - Single Version">
-    <div class="t-name">接吻 kiss - Single Version</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="YOU - Senri Oe">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731daa9b33308e483fa793b2c0" alt="YOU">
-    <div class="t-name">YOU</div>
-    <div class="t-artist">Senri Oe</div>
-    <a class="t-open" href="https://open.spotify.com/track/07b9aTXa7ixjM79HXKLimP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="This Night - Billy Joel">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613" alt="This Night">
-    <div class="t-name">This Night</div>
-    <div class="t-artist">Billy Joel</div>
-    <a class="t-open" href="https://open.spotify.com/track/6ZTRRn6pGCt2qxkiUKgqqk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Monsoon - Tokio Hotel">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
-    <div class="t-name">Monsoon</div>
-    <div class="t-artist">Tokio Hotel</div>
-    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Starlight Cruise - ふぉ～ゆ～">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="Starlight Cruise">
-    <div class="t-name">Starlight Cruise</div>
-    <div class="t-artist">ふぉ～ゆ～</div>
-    <a class="t-open" href="https://open.spotify.com/track/7pvI1vWCeDGiD9gigVrQyR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
