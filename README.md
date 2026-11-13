@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Don&#x27;t Speak - Loaded Honey">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e515a0c788f14697d9c6faa" alt="Don&#x27;t Speak">
+    <div class="t-name">Don&#x27;t Speak</div>
+    <div class="t-artist">Loaded Honey</div>
+    <a class="t-open" href="https://open.spotify.com/track/2sKjOX72UX1HiCDhI2HdlR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Just The Way You Are - Milky">
     <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
     <div class="t-name">Just The Way You Are</div>
@@ -531,12 +537,6 @@ From TOKYO JAPAN
     <div class="t-name">朝日のあたる道</div>
     <div class="t-artist">Original Love</div>
     <a class="t-open" href="https://open.spotify.com/track/25ungmBnnV2d6ri3RAPcNS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
-    <div class="t-name">Galvanize</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
