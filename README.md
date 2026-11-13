@@ -439,6 +439,90 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="東京は夜の七時 - ピチカート・ファイヴ">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469" alt="東京は夜の七時">
+    <div class="t-name">東京は夜の七時</div>
+    <div class="t-artist">ピチカート・ファイヴ</div>
+    <a class="t-open" href="https://open.spotify.com/track/0JhYO042gz7lBj98SCTM5P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ヴィーナス - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="ヴィーナス">
+    <div class="t-name">ヴィーナス</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/0fY0V51NSPguUicpYc4IHg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="BEAUTIFUL DAYS - FPM">
+    <img src="https://i.scdn.co/image/ab67616d0000b273378ef7ff9e5324e6b0b66603" alt="BEAUTIFUL DAYS">
+    <div class="t-name">BEAUTIFUL DAYS</div>
+    <div class="t-artist">FPM</div>
+    <a class="t-open" href="https://open.spotify.com/track/1izVhcdO4MhAwasyl9Y0yQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TOUCH - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
+    <div class="t-name">TOUCH</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ベステン ダンク - Hiroshi Takano">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e250ba589c59c9ffe1b8c7b" alt="ベステン ダンク">
+    <div class="t-name">ベステン ダンク</div>
+    <div class="t-artist">Hiroshi Takano</div>
+    <a class="t-open" href="https://open.spotify.com/track/5SmcegqB9az2Jqv6Kt8tui" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="トラベル・チャンス - SCHA DARA PARR">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" alt="トラベル・チャンス">
+    <div class="t-name">トラベル・チャンス</div>
+    <div class="t-artist">SCHA DARA PARR</div>
+    <a class="t-open" href="https://open.spotify.com/track/4JxgqaiTVhINyiq0mFf9YI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ベイビィ・ポータブル・ロック - ピチカート・ファイヴ">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469" alt="ベイビィ・ポータブル・ロック">
+    <div class="t-name">ベイビィ・ポータブル・ロック</div>
+    <div class="t-artist">ピチカート・ファイヴ</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bEoozuY94YJVuW04LxyPW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="接吻 kiss - Single Version - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="接吻 kiss - Single Version">
+    <div class="t-name">接吻 kiss - Single Version</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Wife - METAFIVE">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
+    <div class="t-name">Wife</div>
+    <div class="t-artist">METAFIVE</div>
+    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TECHNOVA - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
+    <div class="t-name">TECHNOVA</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
+    <div class="t-name">虹の都へ</div>
+    <div class="t-artist">Hiroshi Takano</div>
+    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
+    <div class="t-name">WATERMELON</div>
+    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
+    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="スウィート・ソウル・レヴュー - ピチカート・ファイヴ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273976f99ee07d81200e8268774" alt="スウィート・ソウル・レヴュー">
+    <div class="t-name">スウィート・ソウル・レヴュー</div>
+    <div class="t-artist">ピチカート・ファイヴ</div>
+    <a class="t-open" href="https://open.spotify.com/track/4QOeo7TtiJntEz9oehagTV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="接吻 - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a8a7354eb806c7ff02051033" alt="接吻">
+    <div class="t-name">接吻</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/15Z76oKtxXHQvaeFsFudIs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="come again - m-flo">
     <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
     <div class="t-name">come again</div>
@@ -474,90 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">VISION</div>
     <div class="t-artist">Quarters</div>
     <a class="t-open" href="https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="YES - Internet Girl">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732e29b6c8bed131158275950b" alt="YES">
-    <div class="t-name">YES</div>
-    <div class="t-artist">Internet Girl</div>
-    <a class="t-open" href="https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ACES - Fall Out Boy">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ba164a2207400c58899d22c6" alt="ACES">
-    <div class="t-name">ACES</div>
-    <div class="t-artist">Fall Out Boy</div>
-    <a class="t-open" href="https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Torn (feat. Dolly Parton) - U2">
-    <img src="https://i.scdn.co/image/ab67616d0000b27361e01f7770305ba2f88916b4" alt="Torn (feat. Dolly Parton)">
-    <div class="t-name">Torn (feat. Dolly Parton)</div>
-    <div class="t-artist">U2</div>
-    <a class="t-open" href="https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="君といつまでも - together forever mix - ECD">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f8ae712f93a9553ed84a8d1c" alt="君といつまでも - together forever mix">
-    <div class="t-name">君といつまでも - together forever mix</div>
-    <div class="t-artist">ECD</div>
-    <a class="t-open" href="https://open.spotify.com/track/1x99RdrXhjrOwxnumMsBxP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="あの日の忘れ物 - Eri Hiramatsu">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d14dfc06464ecb03eae7ad14" alt="あの日の忘れ物">
-    <div class="t-name">あの日の忘れ物</div>
-    <div class="t-artist">Eri Hiramatsu</div>
-    <a class="t-open" href="https://open.spotify.com/track/5chqAyNmDAQMeUy2CmtShK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Keep Forgettin&#x27; (Every Time You&#x27;re Near) - Michael McDonald">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922" alt="I Keep Forgettin&#x27; (Every Time You&#x27;re Near)">
-    <div class="t-name">I Keep Forgettin&#x27; (Every Time You&#x27;re Near)</div>
-    <div class="t-artist">Michael McDonald</div>
-    <a class="t-open" href="https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WINDY SUMMER - Anri">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="WINDY SUMMER">
-    <div class="t-name">WINDY SUMMER</div>
-    <div class="t-artist">Anri</div>
-    <a class="t-open" href="https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="B・BLUE - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
-    <div class="t-name">B・BLUE</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sussudio - 2025 Mix - Phil Collins">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d7fda735228397e5fb68e3c3" alt="Sussudio - 2025 Mix">
-    <div class="t-name">Sussudio - 2025 Mix</div>
-    <div class="t-artist">Phil Collins</div>
-    <a class="t-open" href="https://open.spotify.com/track/4VP36x3mfPwAvkSWYAweJP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
-    <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
-    <div class="t-artist">SIENNA SPIRO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You Are The Universe - The Brand New Heavies">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f463d4bc53a9e53151b48d64" alt="You Are The Universe">
-    <div class="t-name">You Are The Universe</div>
-    <div class="t-artist">The Brand New Heavies</div>
-    <a class="t-open" href="https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Just Might - Bruno Mars">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="I Just Might">
-    <div class="t-name">I Just Might</div>
-    <div class="t-artist">Bruno Mars</div>
-    <a class="t-open" href="https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Sunrise - Simply Red">
-    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Sunrise">
-    <div class="t-name">Sunrise</div>
-    <div class="t-artist">Simply Red</div>
-    <a class="t-open" href="https://open.spotify.com/track/4LxDdYU3x9tyDxy3CghqdC" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Game of Love (feat. Michelle Branch) - Main / Radio Mix - Santana">
-    <img src="https://i.scdn.co/image/ab67616d0000b27313bcd4bbfcf1fab9644e0f7b" alt="The Game of Love (feat. Michelle Branch) - Main / Radio Mix">
-    <div class="t-name">The Game of Love (feat. Michelle Branch) - Main / Radio Mix</div>
-    <div class="t-artist">Santana</div>
-    <a class="t-open" href="https://open.spotify.com/track/41IShViF79gmulEkIHAjcb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
