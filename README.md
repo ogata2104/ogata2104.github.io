@@ -357,25 +357,23 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 17; }
+.spotify-card:nth-child(2) { z-index: 16; }
+.spotify-card:nth-child(3) { z-index: 15; }
+.spotify-card:nth-child(4) { z-index: 14; }
+.spotify-card:nth-child(5) { z-index: 13; }
+.spotify-card:nth-child(6) { z-index: 12; }
+.spotify-card:nth-child(7) { z-index: 11; }
+.spotify-card:nth-child(8) { z-index: 10; }
+.spotify-card:nth-child(9) { z-index: 9; }
+.spotify-card:nth-child(10) { z-index: 8; }
+.spotify-card:nth-child(11) { z-index: 7; }
+.spotify-card:nth-child(12) { z-index: 6; }
+.spotify-card:nth-child(13) { z-index: 5; }
+.spotify-card:nth-child(14) { z-index: 4; }
+.spotify-card:nth-child(15) { z-index: 3; }
+.spotify-card:nth-child(16) { z-index: 2; }
+.spotify-card:nth-child(17) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -438,6 +436,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Man I Need - Olivia Dean">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2" alt="Man I Need">
+    <div class="t-name">Man I Need</div>
+    <div class="t-artist">Olivia Dean</div>
+    <a class="t-open" href="https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Last Train to London - Rikas">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303" alt="Last Train to London">
+    <div class="t-name">Last Train to London</div>
+    <div class="t-artist">Rikas</div>
+    <a class="t-open" href="https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Set Adrift On Memory Bliss - P.M. Dawn">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735423456a99eaf4218893d20a" alt="Set Adrift On Memory Bliss">
+    <div class="t-name">Set Adrift On Memory Bliss</div>
+    <div class="t-artist">P.M. Dawn</div>
+    <a class="t-open" href="https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Moon So High - Remi Wolf">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fa3db827a24dd8dbaa1bf245" alt="Moon So High">
+    <div class="t-name">Moon So High</div>
+    <div class="t-artist">Remi Wolf</div>
+    <a class="t-open" href="https://open.spotify.com/track/2aST6n3igBIOhdoCZQcmmX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cha Cha Cha - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Cha Cha Cha">
+    <div class="t-name">Cha Cha Cha</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Verano! - Ivana June">
+    <img src="https://i.scdn.co/image/ab67616d0000b27349f3bbad1cc5f0627ae87b4e" alt="Verano!">
+    <div class="t-name">Verano!</div>
+    <div class="t-artist">Ivana June</div>
+    <a class="t-open" href="https://open.spotify.com/track/7cN5M5xQgljTIDX65h9EF3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Worth It. - RAYE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
+    <div class="t-name">Worth It.</div>
+    <div class="t-artist">RAYE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Don&#x27;t Walk Away - Jade">
     <img src="https://i.scdn.co/image/ab67616d0000b27329cf454757f957fb528cb18e" alt="Don&#x27;t Walk Away">
     <div class="t-name">Don&#x27;t Walk Away</div>
@@ -485,72 +537,6 @@ From TOKYO JAPAN
     <div class="t-name">How You Like Me Now?</div>
     <div class="t-artist">m-flo</div>
     <a class="t-open" href="https://open.spotify.com/track/2OqSK7Ogjky23pBhmxOkTN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="楽園ベイベー - RIP SLYME">
-    <img src="https://i.scdn.co/image/ab67616d0000b273194c79ec164b20aa373429c6" alt="楽園ベイベー">
-    <div class="t-name">楽園ベイベー</div>
-    <div class="t-artist">RIP SLYME</div>
-    <a class="t-open" href="https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Jolie - COSA NOSTRA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273922e028f8aa46990df751e04" alt="Jolie">
-    <div class="t-name">Jolie</div>
-    <div class="t-artist">COSA NOSTRA</div>
-    <a class="t-open" href="https://open.spotify.com/track/0JGEQ4bpgXwpwwEHfD4rL7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Drop - Cornelius">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737f10a802b0304fc2534608cf" alt="Drop">
-    <div class="t-name">Drop</div>
-    <div class="t-artist">Cornelius</div>
-    <a class="t-open" href="https://open.spotify.com/track/6nbIWzYfTi7VNNXpYGjZJp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="東京は夜の七時 - ピチカート・ファイヴ">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469" alt="東京は夜の七時">
-    <div class="t-name">東京は夜の七時</div>
-    <div class="t-artist">ピチカート・ファイヴ</div>
-    <a class="t-open" href="https://open.spotify.com/track/0JhYO042gz7lBj98SCTM5P" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ヴィーナス - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="ヴィーナス">
-    <div class="t-name">ヴィーナス</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/0fY0V51NSPguUicpYc4IHg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BEAUTIFUL DAYS - FPM">
-    <img src="https://i.scdn.co/image/ab67616d0000b273378ef7ff9e5324e6b0b66603" alt="BEAUTIFUL DAYS">
-    <div class="t-name">BEAUTIFUL DAYS</div>
-    <div class="t-artist">FPM</div>
-    <a class="t-open" href="https://open.spotify.com/track/1izVhcdO4MhAwasyl9Y0yQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TOUCH - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
-    <div class="t-name">TOUCH</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ベステン ダンク - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733e250ba589c59c9ffe1b8c7b" alt="ベステン ダンク">
-    <div class="t-name">ベステン ダンク</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5SmcegqB9az2Jqv6Kt8tui" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="トラベル・チャンス - SCHA DARA PARR">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e377a0a2eb9d62ec9d83214c" alt="トラベル・チャンス">
-    <div class="t-name">トラベル・チャンス</div>
-    <div class="t-artist">SCHA DARA PARR</div>
-    <a class="t-open" href="https://open.spotify.com/track/4JxgqaiTVhINyiq0mFf9YI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ベイビィ・ポータブル・ロック - ピチカート・ファイヴ">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469" alt="ベイビィ・ポータブル・ロック">
-    <div class="t-name">ベイビィ・ポータブル・ロック</div>
-    <div class="t-artist">ピチカート・ファイヴ</div>
-    <a class="t-open" href="https://open.spotify.com/track/6bEoozuY94YJVuW04LxyPW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="接吻 kiss - Single Version - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="接吻 kiss - Single Version">
-    <div class="t-name">接吻 kiss - Single Version</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
