@@ -439,6 +439,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="朝日のあたる道 - Original Love">
+    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="朝日のあたる道">
+    <div class="t-name">朝日のあたる道</div>
+    <div class="t-artist">Original Love</div>
+    <a class="t-open" href="https://open.spotify.com/track/25ungmBnnV2d6ri3RAPcNS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Galvanize - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169" alt="Galvanize">
+    <div class="t-name">Galvanize</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="How You Like Me Now? - m-flo">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e3c02b072e4041d0814729ef" alt="How You Like Me Now?">
+    <div class="t-name">How You Like Me Now?</div>
+    <div class="t-artist">m-flo</div>
+    <a class="t-open" href="https://open.spotify.com/track/2OqSK7Ogjky23pBhmxOkTN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="楽園ベイベー - RIP SLYME">
+    <img src="https://i.scdn.co/image/ab67616d0000b273194c79ec164b20aa373429c6" alt="楽園ベイベー">
+    <div class="t-name">楽園ベイベー</div>
+    <div class="t-artist">RIP SLYME</div>
+    <a class="t-open" href="https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Jolie - COSA NOSTRA">
+    <img src="https://i.scdn.co/image/ab67616d0000b273922e028f8aa46990df751e04" alt="Jolie">
+    <div class="t-name">Jolie</div>
+    <div class="t-artist">COSA NOSTRA</div>
+    <a class="t-open" href="https://open.spotify.com/track/0JGEQ4bpgXwpwwEHfD4rL7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Drop - Cornelius">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737f10a802b0304fc2534608cf" alt="Drop">
+    <div class="t-name">Drop</div>
+    <div class="t-artist">Cornelius</div>
+    <a class="t-open" href="https://open.spotify.com/track/6nbIWzYfTi7VNNXpYGjZJp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="東京は夜の七時 - ピチカート・ファイヴ">
     <img src="https://i.scdn.co/image/ab67616d0000b2734dd516f08fcdf428f7ec1469" alt="東京は夜の七時">
     <div class="t-name">東京は夜の七時</div>
@@ -522,42 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">接吻</div>
     <div class="t-artist">Original Love</div>
     <a class="t-open" href="https://open.spotify.com/track/15Z76oKtxXHQvaeFsFudIs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="come again - m-flo">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
-    <div class="t-name">come again</div>
-    <div class="t-artist">m-flo</div>
-    <a class="t-open" href="https://open.spotify.com/track/477CB93mH986mrIheQD0RR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
-    <div class="t-name">NOTHING ELSE 2</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="EL Pence - Los Bitchos">
-    <img src="https://i.scdn.co/image/ab67616d0000b27324ed4cab4a4a8820568abd3b" alt="EL Pence">
-    <div class="t-name">EL Pence</div>
-    <div class="t-artist">Los Bitchos</div>
-    <a class="t-open" href="https://open.spotify.com/track/7gMgQeIZ9lWQKXf3LsDhk4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Winner - Sorry">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739b690e95f23e75162bba0574" alt="Winner">
-    <div class="t-name">Winner</div>
-    <div class="t-artist">Sorry</div>
-    <a class="t-open" href="https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Superstar - Maeta">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332ff97d8a143baad0437348d" alt="Superstar">
-    <div class="t-name">Superstar</div>
-    <div class="t-artist">Maeta</div>
-    <a class="t-open" href="https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="VISION - Quarters">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d3f54b5442c8e67f56fa0b7b" alt="VISION">
-    <div class="t-name">VISION</div>
-    <div class="t-artist">Quarters</div>
-    <a class="t-open" href="https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
