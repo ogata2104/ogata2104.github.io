@@ -439,6 +439,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="come again - m-flo">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
+    <div class="t-name">come again</div>
+    <div class="t-artist">m-flo</div>
+    <a class="t-open" href="https://open.spotify.com/track/477CB93mH986mrIheQD0RR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NOTHING ELSE 2 - TOWA TEI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="NOTHING ELSE 2">
+    <div class="t-name">NOTHING ELSE 2</div>
+    <div class="t-artist">TOWA TEI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1KoEpMzbhh083xCkySmJqN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="EL Pence - Los Bitchos">
+    <img src="https://i.scdn.co/image/ab67616d0000b27324ed4cab4a4a8820568abd3b" alt="EL Pence">
+    <div class="t-name">EL Pence</div>
+    <div class="t-artist">Los Bitchos</div>
+    <a class="t-open" href="https://open.spotify.com/track/7gMgQeIZ9lWQKXf3LsDhk4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Winner - Sorry">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739b690e95f23e75162bba0574" alt="Winner">
+    <div class="t-name">Winner</div>
+    <div class="t-artist">Sorry</div>
+    <a class="t-open" href="https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Superstar - Maeta">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332ff97d8a143baad0437348d" alt="Superstar">
+    <div class="t-name">Superstar</div>
+    <div class="t-artist">Maeta</div>
+    <a class="t-open" href="https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="VISION - Quarters">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d3f54b5442c8e67f56fa0b7b" alt="VISION">
+    <div class="t-name">VISION</div>
+    <div class="t-artist">Quarters</div>
+    <a class="t-open" href="https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="YES - Internet Girl">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732e29b6c8bed131158275950b" alt="YES">
+    <div class="t-name">YES</div>
+    <div class="t-artist">Internet Girl</div>
+    <a class="t-open" href="https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ACES - Fall Out Boy">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ba164a2207400c58899d22c6" alt="ACES">
+    <div class="t-name">ACES</div>
+    <div class="t-artist">Fall Out Boy</div>
+    <a class="t-open" href="https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Torn (feat. Dolly Parton) - U2">
+    <img src="https://i.scdn.co/image/ab67616d0000b27361e01f7770305ba2f88916b4" alt="Torn (feat. Dolly Parton)">
+    <div class="t-name">Torn (feat. Dolly Parton)</div>
+    <div class="t-artist">U2</div>
+    <a class="t-open" href="https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="君といつまでも - together forever mix - ECD">
     <img src="https://i.scdn.co/image/ab67616d0000b273f8ae712f93a9553ed84a8d1c" alt="君といつまでも - together forever mix">
     <div class="t-name">君といつまでも - together forever mix</div>
@@ -504,60 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">The Game of Love (feat. Michelle Branch) - Main / Radio Mix</div>
     <div class="t-artist">Santana</div>
     <a class="t-open" href="https://open.spotify.com/track/41IShViF79gmulEkIHAjcb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
-    <div class="t-name">Star Guitar</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Digital Love - Daft Punk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="Digital Love">
-    <div class="t-name">Digital Love</div>
-    <div class="t-artist">Daft Punk</div>
-    <a class="t-open" href="https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="サンシャイン・ロマンス - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731c0744f5a09297c71f8df8a4" alt="サンシャイン・ロマンス">
-    <div class="t-name">サンシャイン・ロマンス</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/1nomsbgaZUorI6cfuRkGoR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ch-Check It Out - Beastie Boys">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c1331ada4d1573ddc0c08888" alt="Ch-Check It Out">
-    <div class="t-name">Ch-Check It Out</div>
-    <div class="t-artist">Beastie Boys</div>
-    <a class="t-open" href="https://open.spotify.com/track/56H98l4uinRifnTH8e308N" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slipped Away - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
-    <div class="t-name">Slipped Away</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWN TOWN - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca11e986d5799c681096499e" alt="DOWN TOWN">
-    <div class="t-name">DOWN TOWN</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hey Boy Hey Girl - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Hey Boy Hey Girl">
-    <div class="t-name">Hey Boy Hey Girl</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Do It Again - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Do It Again">
-    <div class="t-name">Do It Again</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
