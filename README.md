@@ -357,26 +357,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -80px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -439,6 +438,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Don&#x27;t Walk Away - Jade">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329cf454757f957fb528cb18e" alt="Don&#x27;t Walk Away">
+    <div class="t-name">Don&#x27;t Walk Away</div>
+    <div class="t-artist">Jade</div>
+    <a class="t-open" href="https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Every Little Step - Bobby Brown">
+    <img src="https://i.scdn.co/image/ab67616d0000b27353cf43170dc29787984cf6b4" alt="Every Little Step">
+    <div class="t-name">Every Little Step</div>
+    <div class="t-artist">Bobby Brown</div>
+    <a class="t-open" href="https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Live and Learn - Joe Public">
+    <img src="https://i.scdn.co/image/ab67616d0000b273233b6404ed87261ad2d8cc36" alt="Live and Learn">
+    <div class="t-name">Live and Learn</div>
+    <div class="t-artist">Joe Public</div>
+    <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Right Here - Human Nature Radio Mix - SWV">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f56546aac4f5d002c4c3d705" alt="Right Here - Human Nature Radio Mix">
+    <div class="t-name">Right Here - Human Nature Radio Mix</div>
+    <div class="t-artist">SWV</div>
+    <a class="t-open" href="https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lost Weekend - Simply Red">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Lost Weekend">
+    <div class="t-name">Lost Weekend</div>
+    <div class="t-artist">Simply Red</div>
+    <a class="t-open" href="https://open.spotify.com/track/6l0NUzEkcdXQqiC8FCtqlv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="朝日のあたる道 - Original Love">
     <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="朝日のあたる道">
     <div class="t-name">朝日のあたる道</div>
@@ -522,42 +551,6 @@ From TOKYO JAPAN
     <div class="t-name">接吻 kiss - Single Version</div>
     <div class="t-artist">Original Love</div>
     <a class="t-open" href="https://open.spotify.com/track/4Wt9FQvfevDw0ZHUjgeUkv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Wife - METAFIVE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732cbbc1e43811c690c7de3ef3" alt="Wife">
-    <div class="t-name">Wife</div>
-    <div class="t-artist">METAFIVE</div>
-    <a class="t-open" href="https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TECHNOVA - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
-    <div class="t-name">TECHNOVA</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="虹の都へ - Hiroshi Takano">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd132b49717e7aa66a438" alt="虹の都へ">
-    <div class="t-name">虹の都へ</div>
-    <div class="t-artist">Hiroshi Takano</div>
-    <a class="t-open" href="https://open.spotify.com/track/5EstavFnsss0xUtyjLMmYX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WATERMELON - Tokyo Ska Paradise Orchestra">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a8376e569ed26ddaaf144363" alt="WATERMELON">
-    <div class="t-name">WATERMELON</div>
-    <div class="t-artist">Tokyo Ska Paradise Orchestra</div>
-    <a class="t-open" href="https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="スウィート・ソウル・レヴュー - ピチカート・ファイヴ">
-    <img src="https://i.scdn.co/image/ab67616d0000b273976f99ee07d81200e8268774" alt="スウィート・ソウル・レヴュー">
-    <div class="t-name">スウィート・ソウル・レヴュー</div>
-    <div class="t-artist">ピチカート・ファイヴ</div>
-    <a class="t-open" href="https://open.spotify.com/track/4QOeo7TtiJntEz9oehagTV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="接吻 - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a8a7354eb806c7ff02051033" alt="接吻">
-    <div class="t-name">接吻</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/15Z76oKtxXHQvaeFsFudIs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
