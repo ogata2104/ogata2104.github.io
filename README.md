@@ -436,6 +436,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Just The Way You Are - Milky">
+    <img src="https://i.scdn.co/image/ab67616d0000b2735054a99f9ce5b356db8d5852" alt="Just The Way You Are">
+    <div class="t-name">Just The Way You Are</div>
+    <div class="t-artist">Milky</div>
+    <a class="t-open" href="https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Man I Need - Olivia Dean">
     <img src="https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2" alt="Man I Need">
     <div class="t-name">Man I Need</div>
@@ -531,12 +537,6 @@ From TOKYO JAPAN
     <div class="t-name">Galvanize</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="How You Like Me Now? - m-flo">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e3c02b072e4041d0814729ef" alt="How You Like Me Now?">
-    <div class="t-name">How You Like Me Now?</div>
-    <div class="t-artist">m-flo</div>
-    <a class="t-open" href="https://open.spotify.com/track/2OqSK7Ogjky23pBhmxOkTN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
