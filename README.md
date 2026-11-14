@@ -456,6 +456,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="BLOOM WORLD - ふぉ～ゆ～">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="BLOOM WORLD">
+    <div class="t-name">BLOOM WORLD</div>
+    <div class="t-artist">ふぉ～ゆ～</div>
+    <a class="t-open" href="https://open.spotify.com/track/3L0Z9ZFAz6bxsSDzGkED9t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
+    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
+    <div class="t-name">The Walk</div>
+    <div class="t-artist">Mayer Hawthorne</div>
+    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="ファンファーレがきこえる - Base Ball Bear">
     <img src="https://i.scdn.co/image/ab67616d0000b2736713542f83aa31b91a5ffb91" alt="ファンファーレがきこえる">
     <div class="t-name">ファンファーレがきこえる</div>
@@ -491,12 +503,6 @@ From TOKYO JAPAN
     <div class="t-name">Set Adrift On Memory Bliss</div>
     <div class="t-artist">P.M. Dawn</div>
     <a class="t-open" href="https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Walk - Mayer Hawthorne">
-    <img src="https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152" alt="The Walk">
-    <div class="t-name">The Walk</div>
-    <div class="t-artist">Mayer Hawthorne</div>
-    <a class="t-open" href="https://open.spotify.com/track/4nd8rHES5zOlFhwDxDdugW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Moon So High - Remi Wolf">
     <img src="https://i.scdn.co/image/ab67616d0000b273fa3db827a24dd8dbaa1bf245" alt="Moon So High">
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Right Here - Human Nature Radio Mix</div>
     <div class="t-artist">SWV</div>
     <a class="t-open" href="https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lost Weekend - Simply Red">
-    <img src="https://i.scdn.co/image/ab67616d0000b27317a3d8e105d4f872fc66893d" alt="Lost Weekend">
-    <div class="t-name">Lost Weekend</div>
-    <div class="t-artist">Simply Red</div>
-    <a class="t-open" href="https://open.spotify.com/track/6l0NUzEkcdXQqiC8FCtqlv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
