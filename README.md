@@ -327,7 +327,9 @@ From TOKYO JAPAN
   display: flex;
   align-items: center;
   height: 325px;
-  margin: 24px 0 12px;
+  margin: 24px 0 0;
+  /* 床への映り込み(-webkit-box-reflect)がスクロール領域で切れないよう下側に余白を確保 */
+  padding-bottom: 80px;
   overflow-x: auto;
   overflow-y: visible;
   scroll-behavior: smooth;
@@ -351,6 +353,8 @@ From TOKYO JAPAN
   background-color: #f6f8fa;
   box-shadow: 0 2px 6px rgba(27,31,35,0.12);
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
+  /* iPodのCover Flow風の床への映り込み(Chrome/Safariのみ。Firefoxは非対応で映り込みなし) */
+  -webkit-box-reflect: below 4px linear-gradient(transparent 65%, rgba(255,255,255,0.35));
 }
 /* Cover Flow風に横のカードを深めに(=幅の約6割)重ねるよう、先頭以外は左に寄せる */
 .spotify-card:not(:first-child) {
