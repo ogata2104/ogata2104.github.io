@@ -456,6 +456,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="ファンファーレがきこえる - Base Ball Bear">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736713542f83aa31b91a5ffb91" alt="ファンファーレがきこえる">
+    <div class="t-name">ファンファーレがきこえる</div>
+    <div class="t-artist">Base Ball Bear</div>
+    <a class="t-open" href="https://open.spotify.com/track/7nHQr8zBVrZio8CgjVvSk3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Don&#x27;t Speak - Loaded Honey">
     <img src="https://i.scdn.co/image/ab67616d0000b2738e515a0c788f14697d9c6faa" alt="Don&#x27;t Speak">
     <div class="t-name">Don&#x27;t Speak</div>
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Lost Weekend</div>
     <div class="t-artist">Simply Red</div>
     <a class="t-open" href="https://open.spotify.com/track/6l0NUzEkcdXQqiC8FCtqlv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="朝日のあたる道 - Original Love">
-    <img src="https://i.scdn.co/image/ab67616d0000b273761b4552de9812c7abebfd0f" alt="朝日のあたる道">
-    <div class="t-name">朝日のあたる道</div>
-    <div class="t-artist">Original Love</div>
-    <a class="t-open" href="https://open.spotify.com/track/25ungmBnnV2d6ri3RAPcNS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
