@@ -332,7 +332,6 @@ From TOKYO JAPAN
   overflow-y: visible;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
-  scroll-padding-inline: 50%;
   padding-inline: calc(50% - 80px);
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE/Edge */
@@ -353,9 +352,9 @@ From TOKYO JAPAN
   box-shadow: 0 2px 6px rgba(27,31,35,0.12);
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
 }
-/* 隣のカードと半分(=幅の50%)ずつ重なるよう、先頭以外は左に寄せる */
+/* Cover Flow風に横のカードを深めに(=幅の約6割)重ねるよう、先頭以外は左に寄せる */
 .spotify-card:not(:first-child) {
-  margin-left: -80px;
+  margin-left: -100px;
 }
 .spotify-card:nth-child(1) { z-index: 17; }
 .spotify-card:nth-child(2) { z-index: 16; }
@@ -379,18 +378,28 @@ From TOKYO JAPAN
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
   z-index: 999;
 }
-/* CSSのscroll-driven animationはtransition/:hoverより優先度が高いため、対応ブラウザでは
-   これがhoverの代わりとして効き、「中央に来たカードが自動で拡大」を実現する */
+/* Cover Flow風エフェクト。CSSのscroll-driven animationはtransition/:hoverより優先度が高いため、
+   対応ブラウザではこれがhoverの代わりとして効く。
+   - spotify-coverflow: 中央の前後1枚分(±60px)の範囲だけで正面⇔斜めを切り替え、それより外側は
+     fill-mode bothで斜め向きのまま固定する(画面幅に依存せず、隣のカードは常に最大角度になる)
+   - spotify-coverflow-z: 画面全体(cover 0%〜100%)で中央に近いカードほどz-indexを高くし、
+     左右どちらの側でも中央寄りのカードが手前に重なるようにする
+   view(inline)の進行度は 0%=右端 → 50%=中央 → 100%=左端 */
 @supports (animation-timeline: view()) {
   .spotify-card {
-    animation: spotify-card-focus linear both;
-    animation-timeline: view(inline);
-    animation-range: cover 0% cover 100%;
+    animation: spotify-coverflow linear both, spotify-coverflow-z linear both;
+    animation-timeline: view(inline), view(inline);
+    animation-range: cover calc(50% - 60px) cover calc(50% + 60px), cover 0% cover 100%;
   }
 }
-@keyframes spotify-card-focus {
-  0%, 100% { transform: scale(0.88); box-shadow: 0 2px 6px rgba(27,31,35,0.12); z-index: 1; }
-  50% { transform: scale(1.08); box-shadow: 0 12px 28px rgba(27,31,35,0.35); z-index: 999; }
+@keyframes spotify-coverflow {
+  0% { transform: perspective(600px) translateX(30px) translateZ(-90px) rotateY(-55deg); box-shadow: 0 2px 6px rgba(27,31,35,0.12); }
+  50% { transform: perspective(600px) translateX(0) translateZ(0) rotateY(0) scale(1.08); box-shadow: 0 12px 28px rgba(27,31,35,0.35); }
+  100% { transform: perspective(600px) translateX(-30px) translateZ(-90px) rotateY(55deg); box-shadow: 0 2px 6px rgba(27,31,35,0.12); }
+}
+@keyframes spotify-coverflow-z {
+  0%, 100% { z-index: 1; }
+  50% { z-index: 999; }
 }
 .spotify-card img {
   position: relative;
