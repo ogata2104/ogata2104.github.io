@@ -456,6 +456,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Invisible Touch - 2007 Remaster - Genesis">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="Invisible Touch - 2007 Remaster">
+    <div class="t-name">Invisible Touch - 2007 Remaster</div>
+    <div class="t-artist">Genesis</div>
+    <a class="t-open" href="https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="BLOOM WORLD - ふぉ～ゆ～">
     <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="BLOOM WORLD">
     <div class="t-name">BLOOM WORLD</div>
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Live and Learn</div>
     <div class="t-artist">Joe Public</div>
     <a class="t-open" href="https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Right Here - Human Nature Radio Mix - SWV">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f56546aac4f5d002c4c3d705" alt="Right Here - Human Nature Radio Mix">
-    <div class="t-name">Right Here - Human Nature Radio Mix</div>
-    <div class="t-artist">SWV</div>
-    <a class="t-open" href="https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
