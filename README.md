@@ -456,6 +456,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="天使ちゃんだよ - Trooper Salute">
+    <img src="https://i.scdn.co/image/ab67616d0000b27339552b1668f9ab1dcd4c81ee" alt="天使ちゃんだよ">
+    <div class="t-name">天使ちゃんだよ</div>
+    <div class="t-artist">Trooper Salute</div>
+    <a class="t-open" href="https://open.spotify.com/track/55Kl6ZGDnxIcKVg3GBNAKr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Unbreakable - Michael Jackson">
     <img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" alt="Unbreakable">
     <div class="t-name">Unbreakable</div>
@@ -551,12 +557,6 @@ From TOKYO JAPAN
     <div class="t-name">Don&#x27;t Walk Away</div>
     <div class="t-artist">Jade</div>
     <a class="t-open" href="https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Every Little Step - Bobby Brown">
-    <img src="https://i.scdn.co/image/ab67616d0000b27353cf43170dc29787984cf6b4" alt="Every Little Step">
-    <div class="t-name">Every Little Step</div>
-    <div class="t-artist">Bobby Brown</div>
-    <a class="t-open" href="https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
