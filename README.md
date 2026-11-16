@@ -460,6 +460,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="RAW LIFE feat. 鎮座DOPENESS - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c422172fdfa022a3c507771e" alt="RAW LIFE feat. 鎮座DOPENESS">
+    <div class="t-name">RAW LIFE feat. 鎮座DOPENESS</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/4CkAoUK0CfJ2Z2bXvMKdYn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="よっしゃっしゃっす〆 - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27392865e7a853ea3062216dc37" alt="よっしゃっしゃっす〆">
+    <div class="t-name">よっしゃっしゃっす〆</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/75fF6bjNbeuIubddsvO1JI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Tokyo Swindlers Main Theme - Takkyu Ishino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273016e6dc65337b409f4553908" alt="Tokyo Swindlers Main Theme">
+    <div class="t-name">Tokyo Swindlers Main Theme</div>
+    <div class="t-artist">Takkyu Ishino</div>
+    <a class="t-open" href="https://open.spotify.com/track/09qwKDU6TwQoQC84UiQGaf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Night Distance - I love you Orchestra Swing Style">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bc6d25c51e2f9b43720c370b" alt="Night Distance">
+    <div class="t-name">Night Distance</div>
+    <div class="t-artist">I love you Orchestra Swing Style</div>
+    <a class="t-open" href="https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Cruisin’ Cruisin’ - bonobos">
     <img src="https://i.scdn.co/image/ab67616d0000b273c12de844ac9bf4d4e40a87db" alt="Cruisin’ Cruisin’">
     <div class="t-name">Cruisin’ Cruisin’</div>
@@ -555,30 +579,6 @@ From TOKYO JAPAN
     <div class="t-name">No Choice</div>
     <div class="t-artist">Fly By Midnight</div>
     <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tip Toe - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733f58c8ae420f64a314d54781" alt="Tip Toe">
-    <div class="t-name">Tip Toe</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
-    <div class="t-name">Asleep Talking</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TOUCH - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d348c6843f4ae660cdceb5bc" alt="TOUCH">
-    <div class="t-name">TOUCH</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Monsoon - Tokio Hotel">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
-    <div class="t-name">Monsoon</div>
-    <div class="t-artist">Tokio Hotel</div>
-    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
