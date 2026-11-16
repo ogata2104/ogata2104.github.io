@@ -367,24 +367,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -457,6 +458,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Monsoon - Tokio Hotel">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737fb7bd287f256b0f194d39bf" alt="Monsoon">
+    <div class="t-name">Monsoon</div>
+    <div class="t-artist">Tokio Hotel</div>
+    <a class="t-open" href="https://open.spotify.com/track/2pxqMhbQ9xN4epXsaJg6Qe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Worth It. - RAYE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f" alt="Worth It.">
+    <div class="t-name">Worth It.</div>
+    <div class="t-artist">RAYE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cha Cha Cha - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Cha Cha Cha">
+    <div class="t-name">Cha Cha Cha</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="So Easy (To Fall In Love) - Olivia Dean">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="So Easy (To Fall In Love)">
+    <div class="t-name">So Easy (To Fall In Love)</div>
+    <div class="t-artist">Olivia Dean</div>
+    <a class="t-open" href="https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Gorilla Grip - Greg Shilling">
+    <img src="https://i.scdn.co/image/ab67616d0000b273252a6a02526412e1ad455ea3" alt="Gorilla Grip">
+    <div class="t-name">Gorilla Grip</div>
+    <div class="t-artist">Greg Shilling</div>
+    <a class="t-open" href="https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="A Million Signs - Vividry">
     <img src="https://i.scdn.co/image/ab67616d0000b27334e5930e29b7c0f6a315d8fa" alt="A Million Signs">
     <div class="t-name">A Million Signs</div>
@@ -540,30 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Asleep Talking</div>
     <div class="t-artist">Magnus Ferrell</div>
     <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="天使ちゃんだよ - Trooper Salute">
-    <img src="https://i.scdn.co/image/ab67616d0000b27339552b1668f9ab1dcd4c81ee" alt="天使ちゃんだよ">
-    <div class="t-name">天使ちゃんだよ</div>
-    <div class="t-artist">Trooper Salute</div>
-    <a class="t-open" href="https://open.spotify.com/track/55Kl6ZGDnxIcKVg3GBNAKr" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Unbreakable - Michael Jackson">
-    <img src="https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75" alt="Unbreakable">
-    <div class="t-name">Unbreakable</div>
-    <div class="t-artist">Michael Jackson</div>
-    <a class="t-open" href="https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Invisible Touch - 2007 Remaster - Genesis">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b917174eb6069392e8a3cc7f" alt="Invisible Touch - 2007 Remaster">
-    <div class="t-name">Invisible Touch - 2007 Remaster</div>
-    <div class="t-artist">Genesis</div>
-    <a class="t-open" href="https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BLOOM WORLD - ふぉ～ゆ～">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734eb269db0236878baadd33f1" alt="BLOOM WORLD">
-    <div class="t-name">BLOOM WORLD</div>
-    <div class="t-artist">ふぉ～ゆ～</div>
-    <a class="t-open" href="https://open.spotify.com/track/3L0Z9ZFAz6bxsSDzGkED9t" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
