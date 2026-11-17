@@ -460,6 +460,48 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="START LINE feat. RYUZO - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="START LINE feat. RYUZO">
+    <div class="t-name">START LINE feat. RYUZO</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/4VSffG2zodK3hK0bR1RF2w" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="WONDER WHEEL - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="WONDER WHEEL">
+    <div class="t-name">WONDER WHEEL</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5PyLGT8Mf3PLmQ1R5fcLnQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ちゅうぶらりん feat. 後藤まりこ - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27392865e7a853ea3062216dc37" alt="ちゅうぶらりん feat. 後藤まりこ">
+    <div class="t-name">ちゅうぶらりん feat. 後藤まりこ</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5ZAkY5I700IU2ypCoVhBAu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PRINCE OF YOKOHAMA 2016 - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273096012cf02f9fade40fd082e" alt="PRINCE OF YOKOHAMA 2016">
+    <div class="t-name">PRINCE OF YOKOHAMA 2016</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5nOFDbTGWymTWlQjqAJew4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ぶっかます - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731af4b10c82720d6c77192e42" alt="ぶっかます">
+    <div class="t-name">ぶっかます</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/4YCdcog59Hu5UHzQbWG7ww" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ヨコハマシカ feat. OZROSAURUS - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bb748ebdde17c28fc5bf7fc9" alt="ヨコハマシカ feat. OZROSAURUS">
+    <div class="t-name">ヨコハマシカ feat. OZROSAURUS</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/3hM4fl1yY0ZRCIFBJ0rt6y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="空っぽの街角 REMIX feat. LUVRAW&amp;BTB - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27359953726ad30ff15609eb810" alt="空っぽの街角 REMIX feat. LUVRAW&amp;BTB">
+    <div class="t-name">空っぽの街角 REMIX feat. LUVRAW&amp;BTB</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bufABO9ZrP34Gq7FK4C5E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="RAW LIFE feat. 鎮座DOPENESS - Cypress Ueno To Robert Yoshino">
     <img src="https://i.scdn.co/image/ab67616d0000b273c422172fdfa022a3c507771e" alt="RAW LIFE feat. 鎮座DOPENESS">
     <div class="t-name">RAW LIFE feat. 鎮座DOPENESS</div>
@@ -537,48 +579,6 @@ From TOKYO JAPAN
     <div class="t-name">じゃむ (feat. iri)</div>
     <div class="t-artist">Mamiko Suzuki</div>
     <a class="t-open" href="https://open.spotify.com/track/3xxumPbg30v1wa4f1L1l17" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="水星 (feat. オノマトペ大臣) - tofubeats">
-    <img src="https://i.scdn.co/image/ab67616d0000b27343b747a9435fee60a9c7ddc2" alt="水星 (feat. オノマトペ大臣)">
-    <div class="t-name">水星 (feat. オノマトペ大臣)</div>
-    <div class="t-artist">tofubeats</div>
-    <a class="t-open" href="https://open.spotify.com/track/06JDsptZimkm2d09duPZsX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="君はQueen - ぷにぷに電機">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e26b3f38251df297a2ea6a77" alt="君はQueen">
-    <div class="t-name">君はQueen</div>
-    <div class="t-artist">ぷにぷに電機</div>
-    <a class="t-open" href="https://open.spotify.com/track/2qQUQyngVF9hSqWUlcbriG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Soft Spot - keshi">
-    <img src="https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5" alt="Soft Spot">
-    <div class="t-name">Soft Spot</div>
-    <div class="t-artist">keshi</div>
-    <a class="t-open" href="https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="真夜中のドア～stay with me - Yu Sakai">
-    <img src="https://i.scdn.co/image/ab67616d0000b273dc2ca08a274e4d967fada14c" alt="真夜中のドア～stay with me">
-    <div class="t-name">真夜中のドア～stay with me</div>
-    <div class="t-artist">Yu Sakai</div>
-    <a class="t-open" href="https://open.spotify.com/track/1SZCVGVWJJY4yeLWAc0XuW" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Rollin&#x27; Rollin&#x27; - Tavito Nanao">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe6206f380050c6013401f0d" alt="Rollin&#x27; Rollin&#x27;">
-    <div class="t-name">Rollin&#x27; Rollin&#x27;</div>
-    <div class="t-artist">Tavito Nanao</div>
-    <a class="t-open" href="https://open.spotify.com/track/7g3te2R6DZbqAdYiEqELhs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Orange Sea (prod. Tokimeki Records) - JU!iE">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733de71a722ea75e5c6779fe07" alt="Orange Sea (prod. Tokimeki Records)">
-    <div class="t-name">Orange Sea (prod. Tokimeki Records)</div>
-    <div class="t-artist">JU!iE</div>
-    <a class="t-open" href="https://open.spotify.com/track/25XJnOYZddUbAWM2TpL8My" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Choice - Fly By Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
-    <div class="t-name">No Choice</div>
-    <div class="t-artist">Fly By Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
