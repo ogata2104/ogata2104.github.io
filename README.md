@@ -165,9 +165,16 @@ From TOKYO JAPAN
 </style>
 <div class="threads-stack-wrapper">
   <div class="threads-stack">
+  <div class="threads-card" style="background-color: #f2f6fd; border-color: #dde8f5;">
+    <div class="t-content">
+      <div class="t-text t-text-long">最近、よくThreadsで見かける「Happy Birthday！」の深尾巴恵選手。気になって調べてみたら『龍が如く』ファンのようで、私の中で高感度上がった。</div>
+    </div>
+    <div class="t-date">2026-11-17 08:26</div>
+    <a class="t-open" href="https://www.threads.com/@ogata2104/post/Df0iJIQH573" target="_blank" rel="noopener noreferrer">Threadsで表示 &#9654;</a>
+  </div>
   <div class="threads-card" style="background-color: #f3fbf3; border-color: #ddefdd;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/904749021_18656931739027991_433454879039659302_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ukxcv0m3Rj0Q7kNvwHoBd9l&amp;_nc_oc=AdreWd2WrCCphRid7onWRwWieu16FISNFszrogYaQqMEJ9txx9341HkC2ekbLJDdhk0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQI355EA2PBPDDrkr_1QHGRTRmPRqEmxLi0kKLW4XEj7XBy22bGCOi8pa3Am_xjhymDgoTwrHYqZdA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSzX3b_A1R0rFfPM48twKBBAFcwaaoQUwV30e_Vf8USBA&amp;oe=6B012B65" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/904749021_18656931739027991_433454879039659302_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ukxcv0m3Rj0Q7kNvwFeMDqL&amp;_nc_oc=Adr7bkZoOJWOkxn89OCx0PJ1753edKOaQwmsBqDebiijIhW7TLFFR5FWnTfuvYr-lRM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQKNdjcYYOuuNIJkwDXJ37NzWo4LiCyLamz7vTGyx5JCiggu6mZq_tr-SXWEKCP7WVHU05kRKeGV9A&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRtmiYO4fRKgHNu8XcQo96qtnIaSXD_5nGuoTk2IWnG2g&amp;oe=6B019BE5" alt="" class="t-thumb">
       <div class="t-text">14日から始まってたガチャ。ダメ元で行ってみたら残り3個。どれが出てもいいやと思…</div>
     </div>
     <div class="t-date">2026-11-16 21:02</div>
@@ -175,7 +182,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f2f6fd; border-color: #dde8f5;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/898101417_18654497953027991_6536157268058947321_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=XE0KclzW5xUQ7kNvwEECpc1&amp;_nc_oc=AdoAU4HCKGryxXpMMR7JUKvehb_Kpv4Y5s-8OMceC8q15a0C2_H78PecBAnfoHldg7Q&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIzOmROjQIQn7Ntl-ZRrlI6d1L5wkwbezrNBzFLy98Fjrtkla5RZiQt4Z83dIwdvM8lbslfGmT3SQ&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQt3-2u3f05gDiEKqMqi-vi21_zIZLMbUY1wm34geSvsg&amp;oe=6B013B9D" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/898101417_18654497953027991_6536157268058947321_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=XE0KclzW5xUQ7kNvwFILIGU&amp;_nc_oc=AdrbSkc3f7U-UzYpG2iMIF1oeJ_mbvL0w751ZmKWyNGkyV-r7dDYEC1T-mHGJEjJoeM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQITeAAfB1W3z0WDa_FHx-CNU4IHNfKQH2W3OjWeD3wh6UuxORWKhttkTE0f5p7J4kOERVT8nN56wA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTnR_sV0U-UcWAx3l7BwEKK24x09E2hqgUfhEoHBCbDqQ&amp;oe=6B01AC1D" alt="" class="t-thumb">
       <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#…</div>
     </div>
     <div class="t-date">2026-11-10 00:51</div>
@@ -183,7 +190,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdf5ef; border-color: #f5e0cf;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/893633443_18653981236027991_7236061296758598069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Ok-cGax8GA4Q7kNvwF2pf5k&amp;_nc_oc=Ado0U0YF9xZGvuGblOW9pBsUFPAoUN_PpLN6cj_XBgdulx1bFOw2SJDn4xqmPih_sfc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQKR5BlGyAY7dJ8EpIJsrrW8pSsXirbqXXH76xBfvr3b9BIJ7wh6Be5o7r1cVQ-DAzJ7O96uABGKmg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTJtPL6BSX0xJBXh85WXpKOhV8KN3SM02qWe-lWiP9s9Q&amp;oe=6B011E1E" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/893633443_18653981236027991_7236061296758598069_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Ok-cGax8GA4Q7kNvwGbc7Di&amp;_nc_oc=AdqIa2hX6eMP6CbxJIckgMv8GWgeAhafkmxdo749Ocqle_gFbjAWbP8g3so3wrCbPhc&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQKx1hcl4wqwdQYQjBdotR8N9dA--p8HMCHxBaF0Qh36vN2IXcThcxkeo2Ma_11jwc1wV8D_-KhVCw&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQ2HQukovTgy2dE3rtBZBdQDwAuEC_ozIkncgZC-gNfyA&amp;oe=6B018E9E" alt="" class="t-thumb">
       <div class="t-text">杉並麺博で荻窪の手もみラーメン十八番とラーメン久保田のコラボラーメン頂いてきまし…</div>
     </div>
     <div class="t-date">2026-11-08 13:49</div>
@@ -191,7 +198,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdf5ef; border-color: #f5e0cf;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/893731854_18653757709027991_7505637550548605648_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4P2NmKQR0ZoQ7kNvwGaG9CP&amp;_nc_oc=AdoXycpKiA6rWW7BBCdE01IrlYQTPteckTUHUxc9g6jlNQ-70mx0g15g6tcOhQ6zrUs&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQK0SZIi8oMDZvQMn6eV_MP5pirsqNpS5arZhqAP4UCHK8LWY-yJhXKrf2gQKbCp-wlnhtDq-94AzA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTZ0ru0mocpkHsr0xbWbngxxL70jcjuiUsjYZRRtCD6Tg&amp;oe=6B0154E5" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/893731854_18653757709027991_7505637550548605648_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4P2NmKQR0ZoQ7kNvwH33zG0&amp;_nc_oc=AdrJhFIsTHVFjwA6eD8Wo-Cc_oqRZGUcWkerXkv9nTJ9c8ZSyikBsvWaEL15KOKIido&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQJQmqGvZ8PFi-2Z9rfu2oQaP5hgLEs4FdC8E3Ir4urU_8_J2l_7ZWt20XdGaJQHzGdEcC7EaFbxLA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSsRF-rWFRrLf9gO_gYwpVuhiD3siAJVDOEDAZSe45jfw&amp;oe=6B01C565" alt="" class="t-thumb">
       <div class="t-text">「彼女じゃないですデートじゃないです」のフレーズが面白くて、最近よく動画を観てし…</div>
     </div>
     <div class="t-date">2026-11-07 23:05</div>
@@ -199,7 +206,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdf5ef; border-color: #f5e0cf;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/867635185_18651044143027991_4608932839270804387_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=CiC_u11QyUIQ7kNvwFNCixQ&amp;_nc_oc=Adr7w3blWbRSRxrF5boxqHshb17I6E3nMpS7H1BPCBjdQgeVGZVXr7t1c1dYJBS_Qec&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIbFDqvXU8ySNUAHOVIjkXGfUCm00-RYbOotoV3rS9XOkDTU8p5RSO_gyIvYskHhOGRKBzp8OnJog&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQS2pkR8ifLyIuOy-pHzOiLToAPDO0MXVsGxAFsZsRhJ6A&amp;oe=6B011E19" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/867635185_18651044143027991_4608932839270804387_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=CiC_u11QyUIQ7kNvwFp_QIX&amp;_nc_oc=Adq6MhRLZjMtR27b2BJrVNDNLx-Tc_dkMuQ9g8YqooEfsc6jTkZtIYwq5ppmbDqn_Vg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQIrByAWlWOxeq9N4m15kh1EzGysaGP6_YjLzEL8raTo51ufXUCsa_FeXCSUq2J3Zn5WYeBZqL8ceg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSZl8PzVRIX670MKjSJdXlV1xwVu2vlB842RSyM7EUDSA&amp;oe=6B018E99" alt="" class="t-thumb">
       <div class="t-text">吉祥寺のドムドムバーガー、やっと来られた。<br>開店したばかりなのでまあまあ混んでた…</div>
     </div>
     <div class="t-date">2026-10-31 19:27</div>
@@ -207,7 +214,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f3fbf3; border-color: #ddefdd;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/866048677_18649167214027991_4009439321067173636_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=7YsI9zT8BR0Q7kNvwFFgFsA&amp;_nc_oc=Adp9L7IXGRCRwdCqfm-i2G9ye4BB9noinx_tZ4fKBI14LXHf32IL9WzXv70FXNNXrrc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIHHkdRyQH7TYIx1nQ_R2cXtFR3U0lxMtcFt_32c4j8aYTOnXpLB-03a9cZWxYX2SVawL632nv6wA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTVXJ7wnFt9juV8YH2vWUrLFaDNHDf1S0Wm4-uKAbgpkQ&amp;oe=6B01536E" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/866048677_18649167214027991_4009439321067173636_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=7YsI9zT8BR0Q7kNvwGLd6Iu&amp;_nc_oc=Adq9ZNW6_Ru17zfoiB5gFyykfYyMv9i3h2-xdOQEiKBy0WitZR5C5v0AhIdGOo3aNY4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQJGZqAR7hAs0NDMaogoCUq7O1uCBiTkDK4ij9M0RuhM2wetYPcMZ383pH3DYfEvG4ViikUWeCicrA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRWp4AXVekKM6vZN1qdrAsUWvldcu09wOckwwvMj8112Q&amp;oe=6B01C3EE" alt="" class="t-thumb">
       <div class="t-text">#わたしの知らない子どもたち 観てきました！<br>そして、何故この3人のトークイベン…</div>
     </div>
     <div class="t-date">2026-10-27 00:23</div>
@@ -222,7 +229,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f2f6fd; border-color: #dde8f5;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/859770126_18647590798027991_1999259896194795594_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Rz4F_ge4AL8Q7kNvwF7oV_-&amp;_nc_oc=AdpS1XBXLUAgSzl3ZBEewDq9UaYZAZsPJHd1aMT6MpQ-tPa70AID8QPmk6q8ffdKpEQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQKcwr0BEYkbcV0Mmyk-wIiaWKnIl_e4UNA7DyYwBSc2WYaiZUGgsCqfIWSTnFs4CGtRU2TsMaHW5Q&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRpFmxAU6NY3PTe4h1rmqOrkfMO1locV0_FOvP1csg5Ww&amp;oe=6B011E9E" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/859770126_18647590798027991_1999259896194795594_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Rz4F_ge4AL8Q7kNvwHMcMSt&amp;_nc_oc=AdoPSP3BkC6Hm6b_wd20_WvRTJ9nt5U7aEG6ze30sBrtmbuU6H95Ugc7kUHPLUhlJkg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQK-7JLBqqTGqkpfAbTk0pthR4H6cV2foNZQqgP5L9j_OFSIXkNz_11DULlPLe-r8QF2xvyycywH6Q&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTo8KTvP-De3ZfWltq957KqouPzRbtb_k3VrOPn0cjLKg&amp;oe=6B018F1E" alt="" class="t-thumb">
       <div class="t-text">幻影（ビジョン）とクリスタルを巡る冒険に旅立ちます。<br>#ファイナルファンタジーレ…</div>
     </div>
     <div class="t-date">2026-10-22 20:24</div>
@@ -230,7 +237,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f0fbfa; border-color: #d7efec;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/851718625_18646155523027991_6014022125073095588_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=f3XgNVFnN7EQ7kNvwFjqTaI&amp;_nc_oc=AdoWmeVZHdncw4F04VBGZld4Rgo66QMrp_3kOTESuui0AOAJXEx_SIVOvSWyhXEiJVM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIsQpqY6aJxKdVNzoNt5Y9hg-EoDIwnTeWuJUqDuZ31qOkHmPg9LoNEjYuMZ4RmU22WZf9W4kHPwg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQT2noVbSq2jTlrWWz1bI9gYJgXLWdhx1aT6Dehr58JFRg&amp;oe=6B012F75" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/851718625_18646155523027991_6014022125073095588_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=f3XgNVFnN7EQ7kNvwEnuIHv&amp;_nc_oc=Adp1yYxg9xC1HxCjyGwsSNBNySg-yTJ1-sNLwsVerRn3rVqRfh-mphXOxxzvXggeoy0&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQK6AqSLZVQot3qV5EqAmfAO-8AYEUWufK50VsiFMIj0sF18jPssMrd-hS-liqC4mlwJk0ioTOMGow&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSkSpdaNlt92NSVFDvuxSNN6f0kOg4-eS0L7uCQfQZiaA&amp;oe=6B019FF5" alt="" class="t-thumb">
       <div class="t-text">ここ最近、トイカメラに写っていたモノたち<br>#トイカメラ<br>#スリコトイカメラ <br>#…</div>
     </div>
     <div class="t-date">2026-10-18 19:55</div>
@@ -238,7 +245,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdf1f6; border-color: #f5d9e6;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/851459123_18645378745027991_6053858774232142271_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=MZ_n9EAlP5AQ7kNvwHQA7Lk&amp;_nc_oc=AdrsZwCTJwFUPenkV6Y5010vFJZxyjfU5puaVwdqhERhUAnCK43iRlPxydHU48OT_Z8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQKQIw_V4rk-bLWnB_koydHkI8jFAPzK2XfPdSjX_YrA2cHV4eLNJW-8SNDTJSq-3xcfGyWTE9PG2g&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQYEGTwf61ZYW4m08sZ2sAF2lkZe1Xu6c11REsO6XbvHw&amp;oe=6B015336" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/851459123_18645378745027991_6053858774232142271_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=MZ_n9EAlP5AQ7kNvwGeLKr7&amp;_nc_oc=AdrN-stXtiPN55ZUKv-EW258u-LAEYgYyAxI7G_qLNakKjif7LH_mMruLiZPCai_BEA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQJlmUv0qXKJJipUQ0ngwIGCQnqznpkUblmbKc0bKy1t6H8OGI1XisWepXmiHXBkgMxS3zdyFg7aHA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQR7uTFKV8A7KeaWHOwUmjUa7zgaNkRIrAY_yFxxzMH_MQ&amp;oe=6B01C3B6" alt="" class="t-thumb">
       <div class="t-text">初めての #南町田グランベリーパーク 。<br>楽しいところですね！<br>そして、やはりサ…</div>
     </div>
     <div class="t-date">2026-10-16 22:55</div>
@@ -246,7 +253,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdfaf0; border-color: #f5ecd0;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/844890011_18645131539027991_5892416747751645589_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=6J1dNTaPjzIQ7kNvwFvTusp&amp;_nc_oc=Ado910YdDBu3nzk4bITo-uAxr0nIUH9LG_FSE-IviRqZD6mttKNzCthzSXtzghlXoPo&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIbLCnOdV6nkgp1dJXsmNy4cYj3H8-x_u7_jNhMnp3VTo3D4IZ0ZF78EBfvYDa5AN_w67G6g6pQEQ&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTGgNtyBCVHVRgAn6CVie8JbkFOc0DyNfXiTrbpuzstzw&amp;oe=6B012B26" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/844890011_18645131539027991_5892416747751645589_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=6J1dNTaPjzIQ7kNvwH9h9Pv&amp;_nc_oc=AdrCpzj1F7uYgFrnCIAtlHWyzPbB5Rc-hWZRwmz6l46OxVaYFc27tbBUPWELtv2xH44&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQJSRzjtOotEh0T9-MYC6hMRVZFOB9_hWYuc8V2cRJ_YUwCAZM1fcVGitsf_0P7jyYagNwa393xSsA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSUyag4Q1TJfuKxxsjToATdUEUZbc002BU69xIcvhF1Zw&amp;oe=6B019BA6" alt="" class="t-thumb">
       <div class="t-text">噂に違わぬすごい映画でした。とにかく高密度で観終わった後、（いい意味で）どっと疲…</div>
     </div>
     <div class="t-date">2026-10-16 08:20</div>
@@ -261,7 +268,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f3fbf3; border-color: #ddefdd;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/837632219_18640785406027991_3004173811934432104_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=NNv2uQXsiEAQ7kNvwFG0wWw&amp;_nc_oc=Adr-IjpkURLPMebhgPhWeGn5tvoJ4u_B2mTCm3i3NhxHVZlqIFSlQm1GPXuxahaWpU8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQJxdETeoWF2W6AJ6T8-Ab5aKEg35aIfhqE0zUXhPkTKE3YNyxa7XEbUcjad2vwcbvrdGZAoq9SG-w&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQDwhWKDJC2XvXQv4LvsuyF3-zzcf8SY2_qSC8HUyWmQQ&amp;oe=6B011E41" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/837632219_18640785406027991_3004173811934432104_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=NNv2uQXsiEAQ7kNvwFa7TE3&amp;_nc_oc=AdoB0cpdIlkvZflLzspV8lYpgdb4GU_e5Tgf3joir8SlTaU882-CVPXygOvESBIgt_o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQKgXUf8Q3Qrwaeg4MtDGl77qMd_DgtBfBg26taYEV8wP7cTzf9-O3lPhK_xMds4-niWkyX9DJ_amg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQS2R-9qDwCHtNFe6SY3CES99re1zsCLzNV2RafvBaJKFQ&amp;oe=6B018EC1" alt="" class="t-thumb">
       <div class="t-text">監督スティーブン・スピルバーグ、音楽ジョン・ウィリアムズで◯◯◯モノって何故今w…</div>
     </div>
     <div class="t-date">2026-10-04 20:54</div>
@@ -269,7 +276,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f3fbf3; border-color: #ddefdd;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/835657708_18640424515027991_1173341551165914443_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Fn--GVOi_7wQ7kNvwHJNsZ7&amp;_nc_oc=Adoge4my90aCE44g5-zrYkXkxjRnBV4IMYMo87lGh93ZrViKfI0MJmctWHH3agWW6mA&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIcBnv3lRdYCc1EupLwaojGKjPU0_saN5v-an1sUjAgCTlhTjJDM_m0YHVkfjS2Wo_xb56EKudy0w&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSgjglVximH2NLIkyDwGL_hA8cpdceINEZ-Ln2mWpF5cg&amp;oe=6B011E9F" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/835657708_18640424515027991_1173341551165914443_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Fn--GVOi_7wQ7kNvwFw-bqC&amp;_nc_oc=Adp2Qh8vVcaUn1Towod4qtFez_yLDB18dnrGmbyeA5foyZZtF1R1NlSijpfuISE9joI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQI-K64mbpct__lQU6FLft3q6nF51KgjhMU4YdpkPBdvxkbr96Zx3-sFGqlx3hLCcbVEtD5KcURxWw&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQT66V23EnAmSQdv_ObHGGpcLyRFjTKoGKldRs6D6iRhoA&amp;oe=6B018F1F" alt="" class="t-thumb">
       <div class="t-text">#ナイルレストランのムルギーランチ 頂いてきました。<br>チキンとポテトの甘みで程よ…</div>
     </div>
     <div class="t-date">2026-10-03 22:12</div>
@@ -284,7 +291,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f3fbf3; border-color: #ddefdd;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/829380911_17989954749105617_4062963381675522656_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-306fbG4B-kQ7kNvwFjBVW4&amp;_nc_oc=Adqkzcyknp7dp7uLiuFdzjIRIiQFTxNM45E0DaJE-aoRkY8sXkMniLXsz7v8g8DEZM8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQLdw1bSPQj_U2ak_r8erk-2sxXzLU8hjPCvt_JlbOSAgUcevGZPjmWe6ZG82s15GPl8Kh-no3xvaA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSHrwQNIZpU8AaWNfORVWuKryKV3cU8ym761_ricPmnkA&amp;oe=6B01356A" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/829380911_17989954749105617_4062963381675522656_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-306fbG4B-kQ7kNvwEWVAZ9&amp;_nc_oc=AdpXXLl5WNaHWKzPqgIsH-MW_K9maZObO4b5Txsumam31QXYh7Q9r_WujtxHyurF9IE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQK9FdqH01Zx8E0qiQw6_iUDqTAYS8P8gKcr2cJjyD8H6pndzLy1kg92uiOOGrr1LbpJuftfCJoU6A&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQR1__LlswgroF_dls41a4kv0qcMYRbaa0VIv42jehaOVw&amp;oe=6B01A5EA" alt="" class="t-thumb">
       <div class="t-text">iOSアプリがクラッシュしまくり</div>
     </div>
     <div class="t-date">2026-09-29 10:32</div>
@@ -299,7 +306,7 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #f2f6fd; border-color: #dde8f5;">
     <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/796250294_18636321391027991_6360255075401647643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=hGUrTmchzBAQ7kNvwGsbQjz&amp;_nc_oc=Adp89qsCCHOssy_bfeZO4cbAO7xhFXCmiC73sBalChdVWcNqKOOFKlJDzFdjWlI3Uwc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQIH_NLAng5DUEv-cE6Qp-KrIrqvCFO7rg6HBf2bhCZTCUU21xn2CZSm6dRMyQrn_20tzLp57nQBnQ&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSbYhMXn3sR6AJGH29icm1ixoX_6TRe_8qZQIhntANm7w&amp;oe=6B0128DC" alt="" class="t-thumb">
+    <img src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/796250294_18636321391027991_6360255075401647643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=hGUrTmchzBAQ7kNvwF4fdBO&amp;_nc_oc=AdqoeU4_B9C5E4j3nKUxYQnv49NRE2qP5h-q2_5Zn1kqTZ_w178MyYcj0HNYH5wQQ4s&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQLKp6b6dQro7erKS_M7m0PCEZIvQPcSln1Ep9_1NhGZo2UXWLeSiltD_KGP9FdyV3jXx8uiKbOlGA&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQMH9cOwttMzDspSs0PfzODKKuOlWYtf4jcI6R5p1cA9w&amp;oe=6B01995C" alt="" class="t-thumb">
       <div class="t-text">ゲーム内で沖縄満喫中のシルバーウィーク。<br>『ラヴ上等』シーズン2観た後に、『龍が…</div>
     </div>
     <div class="t-date">2026-09-22 08:16</div>
@@ -307,19 +314,11 @@ From TOKYO JAPAN
   </div>
   <div class="threads-card" style="background-color: #fdf5ef; border-color: #f5e0cf;">
     <div class="t-content">
-    <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/795485663_18635776435027991_9049835800620332632_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=FCZEN9GI0W0Q7kNvwGUsCxA&amp;_nc_oc=AdpJbB4a214zYBaqGUCfaIy77H1xz28caExBmBbDifKFJhoGBO3yvGwUv5XYVLd7z4o&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQJJXJx5CM7h2bxFENq-fo09VTFntt4-VUyWpyMFsZxdrd5-r_RIqw7eLddyZIa5Q4UsK4NxRC9eOg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTGgib5FqiQBHMCxnYgDg2fZUum-7V9e2qL5l4d9RY8sg&amp;oe=6B0138F6" alt="" class="t-thumb">
+    <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795485663_18635776435027991_9049835800620332632_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=FCZEN9GI0W0Q7kNvwHq5hNc&amp;_nc_oc=AdpyDYkvWMPB0CrDtjv1e-g3F4C6tZN6yuHYNKTL5zyZHW-7vUgTZySoOwca5zEx8lo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=ftxXQUd7G4ZuDpZ4t9LrNw&amp;_nc_tpa=Q5bMBQKDnIVFfs9X2k_JekCJBOkuA9LJaP5LDgBzbhllATZ3Tf6yV3IfP6oNPOmj_dVaVygYUMK5jupLMg&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQvXXI6VK9WNKXGpEQnWQnURBqEyTHEiSSl92z4mcd87Q&amp;oe=6B01A976" alt="" class="t-thumb">
       <div class="t-text">台風接近中の中、2年ぶりのTGS。<br>始発で行って雨の中2時間半並んだ甲斐あって、…</div>
     </div>
     <div class="t-date">2026-09-20 20:52</div>
     <a class="t-open" href="https://www.threads.com/@ogata2104/post/Ddgha79ibTF" target="_blank" rel="noopener noreferrer">Threadsで表示 &#9654;</a>
-  </div>
-  <div class="threads-card" style="background-color: #fdf2f2; border-color: #f5dede;">
-    <div class="t-content">
-    <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/814470857_17988626214105617_8431201690405807241_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=S4ubk_1CmvAQ7kNvwGSuiQi&amp;_nc_oc=AdqsYGAPpWxbF1h7T5rmgTYQ6SBtDGaS-485y5u11TXSucwF7qm_6K3DzUzrdygWQmM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;edm=AIMHve8EAAAA&amp;_nc_gid=M8Y29E4bFgKSFakEDOs3dQ&amp;_nc_tpa=Q5bMBQL7DAijzHAucmjp6m4UOegZ_O0EGjYd_Xy2nn8AlE5HJXpcLmzCRyPwTitG7LrE79I2meV6if4pEQ&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTQ9QIZ7_WmpFmOWjPbRPpEyYB2hxatQzSfruO34aBFWA&amp;oe=6B015300" alt="" class="t-thumb">
-      <div class="t-text">TGS、月曜の最終日、開催中止になってしまった。</div>
-    </div>
-    <div class="t-date">2026-09-19 16:18</div>
-    <a class="t-open" href="https://www.threads.com/@ogata2104/post/DdddPfhGhKv" target="_blank" rel="noopener noreferrer">Threadsで表示 &#9654;</a>
   </div>
   </div>
 </div>
