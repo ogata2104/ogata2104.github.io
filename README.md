@@ -458,6 +458,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="恋は桃色 - Pearl &amp; The Oysters">
+    <img src="https://i.scdn.co/image/ab67616d0000b27373e7e22dbb7e19f39336cf56" alt="恋は桃色">
+    <div class="t-name">恋は桃色</div>
+    <div class="t-artist">Pearl &amp; The Oysters</div>
+    <a class="t-open" href="https://open.spotify.com/track/6zEO7maDyQ0Y8NOLR0BQTS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="スポーツマン - 2019 Remastering - Haruomi Hosono">
+    <img src="https://i.scdn.co/image/ab67616d0000b27340a8891322831968457944cb" alt="スポーツマン - 2019 Remastering">
+    <div class="t-name">スポーツマン - 2019 Remastering</div>
+    <div class="t-artist">Haruomi Hosono</div>
+    <a class="t-open" href="https://open.spotify.com/track/5I8Ld9qUriIBoYISAaQUTt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Heaven - Ebo Taylor">
+    <img src="https://i.scdn.co/image/ab67616d0000b27395c2db41b2c8152cf9560504" alt="Heaven">
+    <div class="t-name">Heaven</div>
+    <div class="t-artist">Ebo Taylor</div>
+    <a class="t-open" href="https://open.spotify.com/track/1XE4iQ35cADqpZeAOTmvOS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Enjoy - Tekno">
     <img src="https://i.scdn.co/image/ab67616d0000b273956ada26d88a0e264a2f7535" alt="Enjoy">
     <div class="t-name">Enjoy</div>
@@ -553,24 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">PRINCE OF YOKOHAMA 2016</div>
     <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
     <a class="t-open" href="https://open.spotify.com/track/5nOFDbTGWymTWlQjqAJew4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ぶっかます - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731af4b10c82720d6c77192e42" alt="ぶっかます">
-    <div class="t-name">ぶっかます</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/4YCdcog59Hu5UHzQbWG7ww" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ヨコハマシカ feat. OZROSAURUS - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bb748ebdde17c28fc5bf7fc9" alt="ヨコハマシカ feat. OZROSAURUS">
-    <div class="t-name">ヨコハマシカ feat. OZROSAURUS</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/3hM4fl1yY0ZRCIFBJ0rt6y" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="空っぽの街角 REMIX feat. LUVRAW&amp;BTB - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27359953726ad30ff15609eb810" alt="空っぽの街角 REMIX feat. LUVRAW&amp;BTB">
-    <div class="t-name">空っぽの街角 REMIX feat. LUVRAW&amp;BTB</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bufABO9ZrP34Gq7FK4C5E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
