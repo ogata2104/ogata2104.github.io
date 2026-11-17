@@ -458,6 +458,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Moments In Love - The Art Of Noise">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e14857f3ed3aa6e8bd818b3" alt="Moments In Love">
+    <div class="t-name">Moments In Love</div>
+    <div class="t-artist">The Art Of Noise</div>
+    <a class="t-open" href="https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Kiss (feat. Tom Jones) - The Art Of Noise">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d248c466c04233c09ddc54ac" alt="Kiss (feat. Tom Jones)">
+    <div class="t-name">Kiss (feat. Tom Jones)</div>
+    <div class="t-artist">The Art Of Noise</div>
+    <a class="t-open" href="https://open.spotify.com/track/58UEwo2r86awBBUSMZCP5X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
+    <div class="t-name">Star Guitar</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="福は内 鬼は外 (feat. The Mizuhara Sisters) - John Carroll Kirby">
     <img src="https://i.scdn.co/image/ab67616d0000b2739fa64012371b07ed31beaeb2" alt="福は内 鬼は外 (feat. The Mizuhara Sisters)">
     <div class="t-name">福は内 鬼は外 (feat. The Mizuhara Sisters)</div>
@@ -553,24 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">More &amp; More feat. ももいろクローバーZ</div>
     <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
     <a class="t-open" href="https://open.spotify.com/track/6tyDJit7oCemK3KXDXMCfh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="START LINE feat. RYUZO - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="START LINE feat. RYUZO">
-    <div class="t-name">START LINE feat. RYUZO</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/4VSffG2zodK3hK0bR1RF2w" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="WONDER WHEEL - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="WONDER WHEEL">
-    <div class="t-name">WONDER WHEEL</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5PyLGT8Mf3PLmQ1R5fcLnQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ちゅうぶらりん feat. 後藤まりこ - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27392865e7a853ea3062216dc37" alt="ちゅうぶらりん feat. 後藤まりこ">
-    <div class="t-name">ちゅうぶらりん feat. 後藤まりこ</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5ZAkY5I700IU2ypCoVhBAu" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
