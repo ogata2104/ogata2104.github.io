@@ -458,6 +458,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Enjoy - Tekno">
+    <img src="https://i.scdn.co/image/ab67616d0000b273956ada26d88a0e264a2f7535" alt="Enjoy">
+    <div class="t-name">Enjoy</div>
+    <div class="t-artist">Tekno</div>
+    <a class="t-open" href="https://open.spotify.com/track/2S81GqH8jtb6ZUM0wrux4v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Abraka - The Funkees">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d569d7877376c20c3cdc111b" alt="Abraka">
+    <div class="t-name">Abraka</div>
+    <div class="t-artist">The Funkees</div>
+    <a class="t-open" href="https://open.spotify.com/track/1tzQYuBIeGuTwfCWh0yFKz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Commas - Ayra Starr">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fa88b93bb6dde97f7258cdec" alt="Commas">
+    <div class="t-name">Commas</div>
+    <div class="t-artist">Ayra Starr</div>
+    <a class="t-open" href="https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Calm Down - Rema">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d68842aec8d8a5deec2c664c" alt="Calm Down">
+    <div class="t-name">Calm Down</div>
+    <div class="t-artist">Rema</div>
+    <a class="t-open" href="https://open.spotify.com/track/2IwCg4vsBwWgbtSKnq38no" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Africa - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
+    <div class="t-name">Africa</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Reelin&#x27; In The Years - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947" alt="Reelin&#x27; In The Years">
+    <div class="t-name">Reelin&#x27; In The Years</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Baby He&#x27;s Your Man - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Baby He&#x27;s Your Man">
     <div class="t-name">Baby He&#x27;s Your Man</div>
@@ -535,42 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">空っぽの街角 REMIX feat. LUVRAW&amp;BTB</div>
     <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
     <a class="t-open" href="https://open.spotify.com/track/0bufABO9ZrP34Gq7FK4C5E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="RAW LIFE feat. 鎮座DOPENESS - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c422172fdfa022a3c507771e" alt="RAW LIFE feat. 鎮座DOPENESS">
-    <div class="t-name">RAW LIFE feat. 鎮座DOPENESS</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/4CkAoUK0CfJ2Z2bXvMKdYn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="よっしゃっしゃっす〆 - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27392865e7a853ea3062216dc37" alt="よっしゃっしゃっす〆">
-    <div class="t-name">よっしゃっしゃっす〆</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/75fF6bjNbeuIubddsvO1JI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Tokyo Swindlers Main Theme - Takkyu Ishino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273016e6dc65337b409f4553908" alt="Tokyo Swindlers Main Theme">
-    <div class="t-name">Tokyo Swindlers Main Theme</div>
-    <div class="t-artist">Takkyu Ishino</div>
-    <a class="t-open" href="https://open.spotify.com/track/09qwKDU6TwQoQC84UiQGaf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Night Distance - I love you Orchestra Swing Style">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bc6d25c51e2f9b43720c370b" alt="Night Distance">
-    <div class="t-name">Night Distance</div>
-    <div class="t-artist">I love you Orchestra Swing Style</div>
-    <a class="t-open" href="https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cruisin’ Cruisin’ - bonobos">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c12de844ac9bf4d4e40a87db" alt="Cruisin’ Cruisin’">
-    <div class="t-name">Cruisin’ Cruisin’</div>
-    <div class="t-artist">bonobos</div>
-    <a class="t-open" href="https://open.spotify.com/track/1ZBiaJ7v6KHLoaytAVvCjA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="サーカスナイト - Tavito Nanao">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f3eea33cdd0429a65d438a53" alt="サーカスナイト">
-    <div class="t-name">サーカスナイト</div>
-    <div class="t-artist">Tavito Nanao</div>
-    <a class="t-open" href="https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
