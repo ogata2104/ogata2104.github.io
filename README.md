@@ -368,26 +368,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -460,6 +459,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Baby He&#x27;s Your Man - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Baby He&#x27;s Your Man">
+    <div class="t-name">Baby He&#x27;s Your Man</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5w2PPpREIfphI1XayqcxqH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="サ上とロ吉 - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="サ上とロ吉">
+    <div class="t-name">サ上とロ吉</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/373WK4HGaoZ0n9n4oYGkKJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="PRINCE OF YOKOHAMA 2222 - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a0ae148c841c81f9abc95d0c" alt="PRINCE OF YOKOHAMA 2222">
+    <div class="t-name">PRINCE OF YOKOHAMA 2222</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/1UKOYk4ZVxIqeQjw9ENSfY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27303e728a9ad440c4a7cfe1f49" alt="RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL">
+    <div class="t-name">RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5HcQ7gGLdsxNxURUmJB1fm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Three Musketeers Mic Relay - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b273825ca2f52579817a1828ece2" alt="The Three Musketeers Mic Relay">
+    <div class="t-name">The Three Musketeers Mic Relay</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/3JFK10dXAHjv2zeJ0QTCYo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="More &amp; More feat. ももいろクローバーZ - Cypress Ueno To Robert Yoshino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27355f8c188a6300394b31f101c" alt="More &amp; More feat. ももいろクローバーZ">
+    <div class="t-name">More &amp; More feat. ももいろクローバーZ</div>
+    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
+    <a class="t-open" href="https://open.spotify.com/track/6tyDJit7oCemK3KXDXMCfh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="START LINE feat. RYUZO - Cypress Ueno To Robert Yoshino">
     <img src="https://i.scdn.co/image/ab67616d0000b273370f9c1c7fccc0b7d95d2b6b" alt="START LINE feat. RYUZO">
     <div class="t-name">START LINE feat. RYUZO</div>
@@ -537,48 +572,6 @@ From TOKYO JAPAN
     <div class="t-name">サーカスナイト</div>
     <div class="t-artist">Tavito Nanao</div>
     <a class="t-open" href="https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Killer - HYBS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a" alt="Killer">
-    <div class="t-name">Killer</div>
-    <div class="t-artist">HYBS</div>
-    <a class="t-open" href="https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="In The Night - Fly By Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732856ca088c34c55fe61eb637" alt="In The Night">
-    <div class="t-name">In The Night</div>
-    <div class="t-artist">Fly By Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/6QMWZGwkpUS7RtgRgRcW5x" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="夜風に吹かれて - EVISBEATS">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732ff1abb7753664b2a470fe09" alt="夜風に吹かれて">
-    <div class="t-name">夜風に吹かれて</div>
-    <div class="t-artist">EVISBEATS</div>
-    <a class="t-open" href="https://open.spotify.com/track/5wIxVPqiHdWqERTcAUJAjt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Deep Green - Christian Kuria">
-    <img src="https://i.scdn.co/image/ab67616d0000b27348dc83b0ea81f3642d518a48" alt="Deep Green">
-    <div class="t-name">Deep Green</div>
-    <div class="t-artist">Christian Kuria</div>
-    <a class="t-open" href="https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="wrong way, right - Paul Bill Jr.">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732c7e3a8e379799584b021686" alt="wrong way, right">
-    <div class="t-name">wrong way, right</div>
-    <div class="t-artist">Paul Bill Jr.</div>
-    <a class="t-open" href="https://open.spotify.com/track/03nPFsGFUGQqNLaSOqZZWp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="HIT NUMBER - EVISBEATSとPUNCH REMIX - Emi Okamoto">
-    <img src="https://i.scdn.co/image/ab67616d0000b27315f4e740d07a59680b1f9d55" alt="HIT NUMBER - EVISBEATSとPUNCH REMIX">
-    <div class="t-name">HIT NUMBER - EVISBEATSとPUNCH REMIX</div>
-    <div class="t-artist">Emi Okamoto</div>
-    <a class="t-open" href="https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="じゃむ (feat. iri) - Mamiko Suzuki">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fdb9bb3a6d3140ea489ae213" alt="じゃむ (feat. iri)">
-    <div class="t-name">じゃむ (feat. iri)</div>
-    <div class="t-artist">Mamiko Suzuki</div>
-    <a class="t-open" href="https://open.spotify.com/track/3xxumPbg30v1wa4f1L1l17" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
