@@ -459,6 +459,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Ride Like the Wind - Christopher Cross">
+    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Ride Like the Wind">
+    <div class="t-name">Ride Like the Wind</div>
+    <div class="t-artist">Christopher Cross</div>
+    <a class="t-open" href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Here Comes The Hammer - MC Hammer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
+    <div class="t-name">Here Comes The Hammer</div>
+    <div class="t-artist">MC Hammer</div>
+    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Stop Loving You - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
+    <div class="t-name">Stop Loving You</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Slipped Away - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
     <div class="t-name">Slipped Away</div>
@@ -560,24 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">PRINCE OF YOKOHAMA 2222</div>
     <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
     <a class="t-open" href="https://open.spotify.com/track/1UKOYk4ZVxIqeQjw9ENSfY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27303e728a9ad440c4a7cfe1f49" alt="RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL">
-    <div class="t-name">RUN AND GUN feat. LEON a.k.a. 獅子, DOLLARBILL</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5HcQ7gGLdsxNxURUmJB1fm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Three Musketeers Mic Relay - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273825ca2f52579817a1828ece2" alt="The Three Musketeers Mic Relay">
-    <div class="t-name">The Three Musketeers Mic Relay</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/3JFK10dXAHjv2zeJ0QTCYo" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="More &amp; More feat. ももいろクローバーZ - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27355f8c188a6300394b31f101c" alt="More &amp; More feat. ももいろクローバーZ">
-    <div class="t-name">More &amp; More feat. ももいろクローバーZ</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/6tyDJit7oCemK3KXDXMCfh" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
