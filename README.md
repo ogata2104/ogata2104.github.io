@@ -458,6 +458,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="When Sunny Gets Blue - McCoy Tyner">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e2ad553a9862224408dedf0b" alt="When Sunny Gets Blue">
+    <div class="t-name">When Sunny Gets Blue</div>
+    <div class="t-artist">McCoy Tyner</div>
+    <a class="t-open" href="https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="サーカスナイト - Tavito Nanao">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f3eea33cdd0429a65d438a53" alt="サーカスナイト">
+    <div class="t-name">サーカスナイト</div>
+    <div class="t-artist">Tavito Nanao</div>
+    <a class="t-open" href="https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Asleep Talking - Magnus Ferrell">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a" alt="Asleep Talking">
+    <div class="t-name">Asleep Talking</div>
+    <div class="t-artist">Magnus Ferrell</div>
+    <a class="t-open" href="https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Docodemo - JURIANA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27387c74e9882dcb48604a98607" alt="Docodemo">
+    <div class="t-name">Docodemo</div>
+    <div class="t-artist">JURIANA</div>
+    <a class="t-open" href="https://open.spotify.com/track/7ayzezVyT0sSvHfgMf5Imk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Gift Of Faith - TOTO">
     <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Gift Of Faith">
     <div class="t-name">Gift Of Faith</div>
@@ -547,30 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Heaven</div>
     <div class="t-artist">Ebo Taylor</div>
     <a class="t-open" href="https://open.spotify.com/track/1XE4iQ35cADqpZeAOTmvOS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Enjoy - Tekno">
-    <img src="https://i.scdn.co/image/ab67616d0000b273956ada26d88a0e264a2f7535" alt="Enjoy">
-    <div class="t-name">Enjoy</div>
-    <div class="t-artist">Tekno</div>
-    <a class="t-open" href="https://open.spotify.com/track/2S81GqH8jtb6ZUM0wrux4v" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Abraka - The Funkees">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d569d7877376c20c3cdc111b" alt="Abraka">
-    <div class="t-name">Abraka</div>
-    <div class="t-artist">The Funkees</div>
-    <a class="t-open" href="https://open.spotify.com/track/1tzQYuBIeGuTwfCWh0yFKz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Commas - Ayra Starr">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fa88b93bb6dde97f7258cdec" alt="Commas">
-    <div class="t-name">Commas</div>
-    <div class="t-artist">Ayra Starr</div>
-    <a class="t-open" href="https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Calm Down - Rema">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d68842aec8d8a5deec2c664c" alt="Calm Down">
-    <div class="t-name">Calm Down</div>
-    <div class="t-artist">Rema</div>
-    <a class="t-open" href="https://open.spotify.com/track/2IwCg4vsBwWgbtSKnq38no" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
