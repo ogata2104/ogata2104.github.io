@@ -458,6 +458,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Gift Of Faith - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Gift Of Faith">
+    <div class="t-name">Gift Of Faith</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/6h65IMvC7UxaO3JR7KXmAQ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="七里ヶ浜スカイウォーク - ASIAN KUNG-FU GENERATION">
     <img src="https://i.scdn.co/image/ab67616d0000b27374cde1ce458ff27a75997f42" alt="七里ヶ浜スカイウォーク">
     <div class="t-name">七里ヶ浜スカイウォーク</div>
@@ -565,12 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Calm Down</div>
     <div class="t-artist">Rema</div>
     <a class="t-open" href="https://open.spotify.com/track/2IwCg4vsBwWgbtSKnq38no" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Africa - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Africa">
-    <div class="t-name">Africa</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
