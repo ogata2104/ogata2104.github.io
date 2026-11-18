@@ -459,6 +459,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Through Being Cool - DEVO">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a9850a67086009c64dbc369" alt="Through Being Cool">
+    <div class="t-name">Through Being Cool</div>
+    <div class="t-artist">DEVO</div>
+    <a class="t-open" href="https://open.spotify.com/track/7KgabRHMtg4fDaNTutYrDE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Ride Like the Wind - Christopher Cross">
     <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Ride Like the Wind">
     <div class="t-name">Ride Like the Wind</div>
@@ -572,12 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">サ上とロ吉</div>
     <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
     <a class="t-open" href="https://open.spotify.com/track/373WK4HGaoZ0n9n4oYGkKJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="PRINCE OF YOKOHAMA 2222 - Cypress Ueno To Robert Yoshino">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a0ae148c841c81f9abc95d0c" alt="PRINCE OF YOKOHAMA 2222">
-    <div class="t-name">PRINCE OF YOKOHAMA 2222</div>
-    <div class="t-artist">Cypress Ueno To Robert Yoshino</div>
-    <a class="t-open" href="https://open.spotify.com/track/1UKOYk4ZVxIqeQjw9ENSfY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
