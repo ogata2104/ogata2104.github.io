@@ -458,6 +458,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="まだ見ぬ朝 - Takuro Yoshida">
+    <img src="https://i.scdn.co/image/ab67616d0000b27329adc4b2b8662512df45f8d7" alt="まだ見ぬ朝">
+    <div class="t-name">まだ見ぬ朝</div>
+    <div class="t-artist">Takuro Yoshida</div>
+    <a class="t-open" href="https://open.spotify.com/track/6IL4VN5uuK0PKtSlUZGa3p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="人間なんて - Takuro Yoshida">
     <img src="https://i.scdn.co/image/ab67616d0000b273b4b6cc9a8c40f1a398f89e1c" alt="人間なんて">
     <div class="t-name">人間なんて</div>
@@ -565,12 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Moments In Love</div>
     <div class="t-artist">The Art Of Noise</div>
     <a class="t-open" href="https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Kiss (feat. Tom Jones) - The Art Of Noise">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d248c466c04233c09ddc54ac" alt="Kiss (feat. Tom Jones)">
-    <div class="t-name">Kiss (feat. Tom Jones)</div>
-    <div class="t-artist">The Art Of Noise</div>
-    <a class="t-open" href="https://open.spotify.com/track/58UEwo2r86awBBUSMZCP5X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
