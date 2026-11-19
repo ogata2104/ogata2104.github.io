@@ -367,25 +367,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -458,6 +459,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Marvel Studios Fanfare - From &quot;Thor: The Dark World&quot;/Score - Brian Tyler">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f7522b5f7b34e774cfba81f5" alt="Marvel Studios Fanfare - From &quot;Thor: The Dark World&quot;/Score">
+    <div class="t-name">Marvel Studios Fanfare - From &quot;Thor: The Dark World&quot;/Score</div>
+    <div class="t-artist">Brian Tyler</div>
+    <a class="t-open" href="https://open.spotify.com/track/0y6nWKlwppOXeprZxMsHQ2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="B-A-Y-M-A-X - Without Dialogue - Tokyo Disneyland">
+    <img src="https://i.scdn.co/image/ab67616d0000b273045ffc089890c9c7993ace19" alt="B-A-Y-M-A-X - Without Dialogue">
+    <div class="t-name">B-A-Y-M-A-X - Without Dialogue</div>
+    <div class="t-artist">Tokyo Disneyland</div>
+    <a class="t-open" href="https://open.spotify.com/track/4l29cPGOSXh9TRcYp1t5d9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Happy Song - Tokyo Disneyland">
+    <img src="https://i.scdn.co/image/ab67616d0000b273045ffc089890c9c7993ace19" alt="Happy Song">
+    <div class="t-name">Happy Song</div>
+    <div class="t-artist">Tokyo Disneyland</div>
+    <a class="t-open" href="https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="SHUT UP AND EXPLODE - BOOM BOOM SATELLITES">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736efc076b0f1f602a8c82e56e" alt="SHUT UP AND EXPLODE">
+    <div class="t-name">SHUT UP AND EXPLODE</div>
+    <div class="t-artist">BOOM BOOM SATELLITES</div>
+    <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="島のうた (島二郎ver.) - 島二郎（CV.最上嗣生）">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731bf3fb5516a583db659b5cac" alt="島のうた (島二郎ver.)">
+    <div class="t-name">島のうた (島二郎ver.)</div>
+    <div class="t-artist">島二郎（CV.最上嗣生）</div>
+    <a class="t-open" href="https://open.spotify.com/track/6qmMb8SRbNyyBdeofzho3s" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="夢中人 - Faye Wong">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9db763072c2ed8eb137532b" alt="夢中人">
+    <div class="t-name">夢中人</div>
+    <div class="t-artist">Faye Wong</div>
+    <a class="t-open" href="https://open.spotify.com/track/0T15exEGIIFqUaqr0LQCca" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="まだ見ぬ朝 - Takuro Yoshida">
     <img src="https://i.scdn.co/image/ab67616d0000b27329adc4b2b8662512df45f8d7" alt="まだ見ぬ朝">
     <div class="t-name">まだ見ぬ朝</div>
@@ -541,36 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Through Being Cool</div>
     <div class="t-artist">DEVO</div>
     <a class="t-open" href="https://open.spotify.com/track/7KgabRHMtg4fDaNTutYrDE" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ride Like the Wind - Christopher Cross">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b2be1b59f27ee3527fe643" alt="Ride Like the Wind">
-    <div class="t-name">Ride Like the Wind</div>
-    <div class="t-artist">Christopher Cross</div>
-    <a class="t-open" href="https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Here Comes The Hammer - MC Hammer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f5e5babccf665ef8c912b190" alt="Here Comes The Hammer">
-    <div class="t-name">Here Comes The Hammer</div>
-    <div class="t-artist">MC Hammer</div>
-    <a class="t-open" href="https://open.spotify.com/track/4yjM4lHNqVOaLwuD2TAThH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slipped Away - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
-    <div class="t-name">Slipped Away</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Moments In Love - The Art Of Noise">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e14857f3ed3aa6e8bd818b3" alt="Moments In Love">
-    <div class="t-name">Moments In Love</div>
-    <div class="t-artist">The Art Of Noise</div>
-    <a class="t-open" href="https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
