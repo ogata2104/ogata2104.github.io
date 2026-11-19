@@ -458,6 +458,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="TOWN - Minako Yoshida">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e5f2d8aff6114400c6939b90" alt="TOWN">
+    <div class="t-name">TOWN</div>
+    <div class="t-artist">Minako Yoshida</div>
+    <a class="t-open" href="https://open.spotify.com/track/13ulUUzvqr34si1Es8qbPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Lucky To Be Me - Bill Evans">
+    <img src="https://i.scdn.co/image/ab67616d0000b27386ae75aef90b01b817da4378" alt="Lucky To Be Me">
+    <div class="t-name">Lucky To Be Me</div>
+    <div class="t-artist">Bill Evans</div>
+    <a class="t-open" href="https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Moonlight In Vermont - Stan Getz">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cbeddc817202bc83a4272d11" alt="Moonlight In Vermont">
+    <div class="t-name">Moonlight In Vermont</div>
+    <div class="t-artist">Stan Getz</div>
+    <a class="t-open" href="https://open.spotify.com/track/2PoTPPNyExmShy24Mkm9Ii" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Summertime Daydream - Peter Sandberg">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731c07868248885ea7d8376039" alt="Summertime Daydream">
+    <div class="t-name">Summertime Daydream</div>
+    <div class="t-artist">Peter Sandberg</div>
+    <a class="t-open" href="https://open.spotify.com/track/21OfFSZFdsghlJ0HEkn4fp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="When Sunny Gets Blue - McCoy Tyner">
     <img src="https://i.scdn.co/image/ab67616d0000b273e2ad553a9862224408dedf0b" alt="When Sunny Gets Blue">
     <div class="t-name">When Sunny Gets Blue</div>
@@ -547,30 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Star Guitar</div>
     <div class="t-artist">The Chemical Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="福は内 鬼は外 (feat. The Mizuhara Sisters) - John Carroll Kirby">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739fa64012371b07ed31beaeb2" alt="福は内 鬼は外 (feat. The Mizuhara Sisters)">
-    <div class="t-name">福は内 鬼は外 (feat. The Mizuhara Sisters)</div>
-    <div class="t-artist">John Carroll Kirby</div>
-    <a class="t-open" href="https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="恋は桃色 - Pearl &amp; The Oysters">
-    <img src="https://i.scdn.co/image/ab67616d0000b27373e7e22dbb7e19f39336cf56" alt="恋は桃色">
-    <div class="t-name">恋は桃色</div>
-    <div class="t-artist">Pearl &amp; The Oysters</div>
-    <a class="t-open" href="https://open.spotify.com/track/6zEO7maDyQ0Y8NOLR0BQTS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="スポーツマン - 2019 Remastering - Haruomi Hosono">
-    <img src="https://i.scdn.co/image/ab67616d0000b27340a8891322831968457944cb" alt="スポーツマン - 2019 Remastering">
-    <div class="t-name">スポーツマン - 2019 Remastering</div>
-    <div class="t-artist">Haruomi Hosono</div>
-    <a class="t-open" href="https://open.spotify.com/track/5I8Ld9qUriIBoYISAaQUTt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Heaven - Ebo Taylor">
-    <img src="https://i.scdn.co/image/ab67616d0000b27395c2db41b2c8152cf9560504" alt="Heaven">
-    <div class="t-name">Heaven</div>
-    <div class="t-artist">Ebo Taylor</div>
-    <a class="t-open" href="https://open.spotify.com/track/1XE4iQ35cADqpZeAOTmvOS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
