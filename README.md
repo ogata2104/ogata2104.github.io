@@ -458,6 +458,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="人間なんて - Takuro Yoshida">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b4b6cc9a8c40f1a398f89e1c" alt="人間なんて">
+    <div class="t-name">人間なんて</div>
+    <div class="t-artist">Takuro Yoshida</div>
+    <a class="t-open" href="https://open.spotify.com/track/4Dl2WAzB3dsjJ9Br19uXZc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="TOWN - Minako Yoshida">
     <img src="https://i.scdn.co/image/ab67616d0000b273e5f2d8aff6114400c6939b90" alt="TOWN">
     <div class="t-name">TOWN</div>
@@ -565,12 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Kiss (feat. Tom Jones)</div>
     <div class="t-artist">The Art Of Noise</div>
     <a class="t-open" href="https://open.spotify.com/track/58UEwo2r86awBBUSMZCP5X" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
-    <div class="t-name">Star Guitar</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
