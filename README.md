@@ -458,6 +458,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="イケテナイ太陽 - ORANGE RANGE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378823b4e368a816a90378780" alt="イケテナイ太陽">
+    <div class="t-name">イケテナイ太陽</div>
+    <div class="t-artist">ORANGE RANGE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7hA4kaAFiM3Vr61JaFGzvy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="うさぎラップ (ソロver.) - うさぎ（CV.小澤亜李）">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f991d9ccecdbade375f6b0dd" alt="うさぎラップ (ソロver.)">
+    <div class="t-name">うさぎラップ (ソロver.)</div>
+    <div class="t-artist">うさぎ（CV.小澤亜李）</div>
+    <a class="t-open" href="https://open.spotify.com/track/4EXp6T9ou0y6BCLiaoYg0R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="イケナイ太陽 - ORANGE RANGE">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378823b4e368a816a90378780" alt="イケナイ太陽">
+    <div class="t-name">イケナイ太陽</div>
+    <div class="t-artist">ORANGE RANGE</div>
+    <a class="t-open" href="https://open.spotify.com/track/3rYx4H5RpE6tp4x1ZU01QS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="come again - m-flo">
     <img src="https://i.scdn.co/image/ab67616d0000b27340b9da3f4fc33ebdcae34c84" alt="come again">
     <div class="t-name">come again</div>
@@ -553,24 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">まだ見ぬ朝</div>
     <div class="t-artist">Takuro Yoshida</div>
     <a class="t-open" href="https://open.spotify.com/track/6IL4VN5uuK0PKtSlUZGa3p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="人間なんて - Takuro Yoshida">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b4b6cc9a8c40f1a398f89e1c" alt="人間なんて">
-    <div class="t-name">人間なんて</div>
-    <div class="t-artist">Takuro Yoshida</div>
-    <a class="t-open" href="https://open.spotify.com/track/4Dl2WAzB3dsjJ9Br19uXZc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TOWN - Minako Yoshida">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e5f2d8aff6114400c6939b90" alt="TOWN">
-    <div class="t-name">TOWN</div>
-    <div class="t-artist">Minako Yoshida</div>
-    <a class="t-open" href="https://open.spotify.com/track/13ulUUzvqr34si1Es8qbPS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Lucky To Be Me - Bill Evans">
-    <img src="https://i.scdn.co/image/ab67616d0000b27386ae75aef90b01b817da4378" alt="Lucky To Be Me">
-    <div class="t-name">Lucky To Be Me</div>
-    <div class="t-artist">Bill Evans</div>
-    <a class="t-open" href="https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
