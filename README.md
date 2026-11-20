@@ -458,6 +458,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Dream Weaver - Gary Wright">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730c51c850e900c074c093fce6" alt="Dream Weaver">
+    <div class="t-name">Dream Weaver</div>
+    <div class="t-artist">Gary Wright</div>
+    <a class="t-open" href="https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="All I Want for Christmas Is You - Mariah Carey">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0862332847213b151ffab31" alt="All I Want for Christmas Is You">
+    <div class="t-name">All I Want for Christmas Is You</div>
+    <div class="t-artist">Mariah Carey</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Last Christmas - Wham!">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="Last Christmas">
+    <div class="t-name">Last Christmas</div>
+    <div class="t-artist">Wham!</div>
+    <a class="t-open" href="https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="イケテナイ太陽 - ORANGE RANGE">
     <img src="https://i.scdn.co/image/ab67616d0000b27378823b4e368a816a90378780" alt="イケテナイ太陽">
     <div class="t-name">イケテナイ太陽</div>
@@ -553,24 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">SHUT UP AND EXPLODE</div>
     <div class="t-artist">BOOM BOOM SATELLITES</div>
     <a class="t-open" href="https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="島のうた (島二郎ver.) - 島二郎（CV.最上嗣生）">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731bf3fb5516a583db659b5cac" alt="島のうた (島二郎ver.)">
-    <div class="t-name">島のうた (島二郎ver.)</div>
-    <div class="t-artist">島二郎（CV.最上嗣生）</div>
-    <a class="t-open" href="https://open.spotify.com/track/6qmMb8SRbNyyBdeofzho3s" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="夢中人 - Faye Wong">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f9db763072c2ed8eb137532b" alt="夢中人">
-    <div class="t-name">夢中人</div>
-    <div class="t-artist">Faye Wong</div>
-    <a class="t-open" href="https://open.spotify.com/track/0T15exEGIIFqUaqr0LQCca" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="まだ見ぬ朝 - Takuro Yoshida">
-    <img src="https://i.scdn.co/image/ab67616d0000b27329adc4b2b8662512df45f8d7" alt="まだ見ぬ朝">
-    <div class="t-name">まだ見ぬ朝</div>
-    <div class="t-artist">Takuro Yoshida</div>
-    <a class="t-open" href="https://open.spotify.com/track/6IL4VN5uuK0PKtSlUZGa3p" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
