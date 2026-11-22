@@ -459,6 +459,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="B-A-Y-M-A-X - Without Dialogue - Tokyo Disneyland">
+    <img src="https://i.scdn.co/image/ab67616d0000b273045ffc089890c9c7993ace19" alt="B-A-Y-M-A-X - Without Dialogue">
+    <div class="t-name">B-A-Y-M-A-X - Without Dialogue</div>
+    <div class="t-artist">Tokyo Disneyland</div>
+    <a class="t-open" href="https://open.spotify.com/track/4l29cPGOSXh9TRcYp1t5d9" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Happy Song - Tokyo Disneyland">
+    <img src="https://i.scdn.co/image/ab67616d0000b273045ffc089890c9c7993ace19" alt="Happy Song">
+    <div class="t-name">Happy Song</div>
+    <div class="t-artist">Tokyo Disneyland</div>
+    <a class="t-open" href="https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Feelz - Yelloo Hill">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732f3193129b16e1e8766db53c" alt="Feelz">
+    <div class="t-name">Feelz</div>
+    <div class="t-artist">Yelloo Hill</div>
+    <a class="t-open" href="https://open.spotify.com/track/110dGMGjs2nFHC2pTurMB4" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="California Dreamin&#x27; - The Mamas &amp; The Papas">
     <img src="https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df" alt="California Dreamin&#x27;">
     <div class="t-name">California Dreamin&#x27;</div>
@@ -560,24 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Dancing Queen</div>
     <div class="t-artist">ABBA</div>
     <a class="t-open" href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shine - Original Mix - Chuck New">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732ff89e5c56347ccac1fae742" alt="Shine - Original Mix">
-    <div class="t-name">Shine - Original Mix</div>
-    <div class="t-artist">Chuck New</div>
-    <a class="t-open" href="https://open.spotify.com/track/6uYCP6MK1oxgQZAxxXOTLH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Thinking - Louis Cole">
-    <img src="https://i.scdn.co/image/ab67616d0000b27369f27ac28a49aadfd395b4ae" alt="Thinking">
-    <div class="t-name">Thinking</div>
-    <div class="t-artist">Louis Cole</div>
-    <a class="t-open" href="https://open.spotify.com/track/1JDS6yAk0wCsfkFLN9Tr7i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold Me Now - キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734378d9eb85031d774e94d17f" alt="Hold Me Now">
-    <div class="t-name">Hold Me Now</div>
-    <div class="t-artist">キャロル&amp;チューズデイ(Vo.Nai Br.XX&amp;Celeina Ann)</div>
-    <a class="t-open" href="https://open.spotify.com/track/7KYQfBt49UM0GYBHkD9TgF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
