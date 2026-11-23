@@ -459,6 +459,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Peg - Steely Dan">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
+    <div class="t-name">Peg</div>
+    <div class="t-artist">Steely Dan</div>
+    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Only You - Ginger Root">
     <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Only You">
     <div class="t-name">Only You</div>
@@ -572,12 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">What a Fool Believes</div>
     <div class="t-artist">The Doobie Brothers</div>
     <a class="t-open" href="https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="どON - RIP SLYME">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb8a9e0301b3af3977df375d" alt="どON">
-    <div class="t-name">どON</div>
-    <div class="t-artist">RIP SLYME</div>
-    <a class="t-open" href="https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
