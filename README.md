@@ -459,6 +459,60 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Only You - Ginger Root">
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Only You">
+    <div class="t-name">Only You</div>
+    <div class="t-artist">Ginger Root</div>
+    <a class="t-open" href="https://open.spotify.com/track/0I50Bs22HqESirPg66IkE2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="After the Love Is Gone - Airplay">
+    <img src="https://i.scdn.co/image/ab67616d0000b27322596cf6aeb42444b32b39be" alt="After the Love Is Gone">
+    <div class="t-name">After the Love Is Gone</div>
+    <div class="t-artist">Airplay</div>
+    <a class="t-open" href="https://open.spotify.com/track/06SfqJmXEWvO9V92l1yzJ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cha Cha Cha - Bruno Mars">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Cha Cha Cha">
+    <div class="t-name">Cha Cha Cha</div>
+    <div class="t-artist">Bruno Mars</div>
+    <a class="t-open" href="https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Slipped Away - TOTO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
+    <div class="t-name">Slipped Away</div>
+    <div class="t-artist">TOTO</div>
+    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="No Choice - Fly By Midnight">
+    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
+    <div class="t-name">No Choice</div>
+    <div class="t-artist">Fly By Midnight</div>
+    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
+    <div class="t-name">Star Guitar</div>
+    <div class="t-artist">The Chemical Brothers</div>
+    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Valerie - Steve Winwood">
+    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
+    <div class="t-name">Valerie</div>
+    <div class="t-artist">Steve Winwood</div>
+    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Da Du Dah - Kokoroko">
+    <img src="https://i.scdn.co/image/ab67616d0000b27395ee9ba6913b82d4724ec1f7" alt="Da Du Dah">
+    <div class="t-name">Da Du Dah</div>
+    <div class="t-artist">Kokoroko</div>
+    <a class="t-open" href="https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
+    <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
+    <div class="t-artist">SIENNA SPIRO</div>
+    <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="TECHNOVA - TOWA TEI">
     <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
     <div class="t-name">TECHNOVA</div>
@@ -524,60 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">どON</div>
     <div class="t-artist">RIP SLYME</div>
     <a class="t-open" href="https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Livin&#x27; It Up - Bill LaBounty">
-    <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Livin&#x27; It Up">
-    <div class="t-name">Livin&#x27; It Up</div>
-    <div class="t-artist">Bill LaBounty</div>
-    <a class="t-open" href="https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="99 - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5" alt="99">
-    <div class="t-name">99</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stick to the Status Quo - High School Musical Cast">
-    <img src="https://i.scdn.co/image/ab67616d0000b27386ea2533f3bfc5f1f08ab168" alt="Stick to the Status Quo">
-    <div class="t-name">Stick to the Status Quo</div>
-    <div class="t-artist">High School Musical Cast</div>
-    <a class="t-open" href="https://open.spotify.com/track/5aNagthlHAudbDZozQMjYP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dream Weaver - Gary Wright">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730c51c850e900c074c093fce6" alt="Dream Weaver">
-    <div class="t-name">Dream Weaver</div>
-    <div class="t-artist">Gary Wright</div>
-    <a class="t-open" href="https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All I Want for Christmas Is You - Mariah Carey">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0862332847213b151ffab31" alt="All I Want for Christmas Is You">
-    <div class="t-name">All I Want for Christmas Is You</div>
-    <div class="t-artist">Mariah Carey</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Last Christmas - Wham!">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="Last Christmas">
-    <div class="t-name">Last Christmas</div>
-    <div class="t-artist">Wham!</div>
-    <a class="t-open" href="https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="イケテナイ太陽 - ORANGE RANGE">
-    <img src="https://i.scdn.co/image/ab67616d0000b27378823b4e368a816a90378780" alt="イケテナイ太陽">
-    <div class="t-name">イケテナイ太陽</div>
-    <div class="t-artist">ORANGE RANGE</div>
-    <a class="t-open" href="https://open.spotify.com/track/7hA4kaAFiM3Vr61JaFGzvy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="うさぎラップ (ソロver.) - うさぎ（CV.小澤亜李）">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f991d9ccecdbade375f6b0dd" alt="うさぎラップ (ソロver.)">
-    <div class="t-name">うさぎラップ (ソロver.)</div>
-    <div class="t-artist">うさぎ（CV.小澤亜李）</div>
-    <a class="t-open" href="https://open.spotify.com/track/4EXp6T9ou0y6BCLiaoYg0R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="イケナイ太陽 - ORANGE RANGE">
-    <img src="https://i.scdn.co/image/ab67616d0000b27378823b4e368a816a90378780" alt="イケナイ太陽">
-    <div class="t-name">イケナイ太陽</div>
-    <div class="t-artist">ORANGE RANGE</div>
-    <a class="t-open" href="https://open.spotify.com/track/3rYx4H5RpE6tp4x1ZU01QS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
