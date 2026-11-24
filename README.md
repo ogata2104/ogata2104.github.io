@@ -458,6 +458,72 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Of Crime and Passion - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Of Crime and Passion - 2010 Remaster">
+    <div class="t-name">Of Crime and Passion - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/2q0Rd7yOvrDmST9UcsRf3o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="I Take the Dice - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="I Take the Dice - 2010 Remaster">
+    <div class="t-name">I Take the Dice - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/0SsbOWDsaXTl0olZ3kjwTt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster">
+    <div class="t-name">(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/6hqG4ZsbweeqsswEyGbZit" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="New Moon on Monday - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="New Moon on Monday - 2010 Remaster">
+    <div class="t-name">New Moon on Monday - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/74tXc7WOWxEDZahXcyPG9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Reflex - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="The Reflex - 2010 Remaster">
+    <div class="t-name">The Reflex - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/60StghTk9dzZHrtd470zcp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="かさぶた - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="かさぶた">
+    <div class="t-name">かさぶた</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/4PZEnhGLP1VBNg0C1cnbiF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NICE - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273f13bc2855e1fc4c443596edc" alt="NICE">
+    <div class="t-name">NICE</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/1nJuoNb3F6YJecgAQMNKsG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="キムチ - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d52b419dd7e59251f440c45d" alt="キムチ">
+    <div class="t-name">キムチ</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/5eD5dcX5WZnIvK9dlUFtpN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="あなたには - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273579cc8258bb53aa77f59694c" alt="あなたには">
+    <div class="t-name">あなたには</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/2ThWxQQVzTQBiNDGm8q7gS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="月ひとつ - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="月ひとつ">
+    <div class="t-name">月ひとつ</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/0bKhnh3MTxrixDjAXCvpAI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="これだけで十分なのに - (BASI REMIX) - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="これだけで十分なのに - (BASI REMIX)">
+    <div class="t-name">これだけで十分なのに - (BASI REMIX)</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="愛のままに - BASI">
     <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="愛のままに">
     <div class="t-name">愛のままに</div>
@@ -505,72 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">All I Want for Christmas Is You</div>
     <div class="t-artist">Mariah Carey</div>
     <a class="t-open" href="https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Higher Love - Single Version - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730225711dc520d382bf0d0b45" alt="Higher Love - Single Version">
-    <div class="t-name">Higher Love - Single Version</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Peg - Steely Dan">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6" alt="Peg">
-    <div class="t-name">Peg</div>
-    <div class="t-artist">Steely Dan</div>
-    <a class="t-open" href="https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Only You - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5" alt="Only You">
-    <div class="t-name">Only You</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/0I50Bs22HqESirPg66IkE2" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="After the Love Is Gone - Airplay">
-    <img src="https://i.scdn.co/image/ab67616d0000b27322596cf6aeb42444b32b39be" alt="After the Love Is Gone">
-    <div class="t-name">After the Love Is Gone</div>
-    <div class="t-artist">Airplay</div>
-    <a class="t-open" href="https://open.spotify.com/track/06SfqJmXEWvO9V92l1yzJ6" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Cha Cha Cha - Bruno Mars">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395" alt="Cha Cha Cha">
-    <div class="t-name">Cha Cha Cha</div>
-    <div class="t-artist">Bruno Mars</div>
-    <a class="t-open" href="https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Slipped Away - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384bb3ed07820b1b818abd2c9" alt="Slipped Away">
-    <div class="t-name">Slipped Away</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5c4Gjttd1A4NQCdyYhEVog" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Choice - Fly By Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b27363f215c50f7ee4746584507a" alt="No Choice">
-    <div class="t-name">No Choice</div>
-    <div class="t-artist">Fly By Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/74G0T9Zo5TAJQabpW4gIs3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Star Guitar - The Chemical Brothers">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a84e1d8c3a99de8e2e1e6c1a" alt="Star Guitar">
-    <div class="t-name">Star Guitar</div>
-    <div class="t-artist">The Chemical Brothers</div>
-    <a class="t-open" href="https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Valerie - Steve Winwood">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475f52997f4a82ff0740bcc9" alt="Valerie">
-    <div class="t-name">Valerie</div>
-    <div class="t-artist">Steve Winwood</div>
-    <a class="t-open" href="https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Da Du Dah - Kokoroko">
-    <img src="https://i.scdn.co/image/ab67616d0000b27395ee9ba6913b82d4724ec1f7" alt="Da Du Dah">
-    <div class="t-name">Da Du Dah</div>
-    <div class="t-artist">Kokoroko</div>
-    <a class="t-open" href="https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Material Lover - from The Devil Wears Prada 2 Original Motion Picture - SIENNA SPIRO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4" alt="Material Lover - from The Devil Wears Prada 2 Original Motion Picture">
-    <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
-    <div class="t-artist">SIENNA SPIRO</div>
-    <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
