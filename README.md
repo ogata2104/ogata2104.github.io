@@ -367,25 +367,26 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 19; }
-.spotify-card:nth-child(2) { z-index: 18; }
-.spotify-card:nth-child(3) { z-index: 17; }
-.spotify-card:nth-child(4) { z-index: 16; }
-.spotify-card:nth-child(5) { z-index: 15; }
-.spotify-card:nth-child(6) { z-index: 14; }
-.spotify-card:nth-child(7) { z-index: 13; }
-.spotify-card:nth-child(8) { z-index: 12; }
-.spotify-card:nth-child(9) { z-index: 11; }
-.spotify-card:nth-child(10) { z-index: 10; }
-.spotify-card:nth-child(11) { z-index: 9; }
-.spotify-card:nth-child(12) { z-index: 8; }
-.spotify-card:nth-child(13) { z-index: 7; }
-.spotify-card:nth-child(14) { z-index: 6; }
-.spotify-card:nth-child(15) { z-index: 5; }
-.spotify-card:nth-child(16) { z-index: 4; }
-.spotify-card:nth-child(17) { z-index: 3; }
-.spotify-card:nth-child(18) { z-index: 2; }
-.spotify-card:nth-child(19) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 20; }
+.spotify-card:nth-child(2) { z-index: 19; }
+.spotify-card:nth-child(3) { z-index: 18; }
+.spotify-card:nth-child(4) { z-index: 17; }
+.spotify-card:nth-child(5) { z-index: 16; }
+.spotify-card:nth-child(6) { z-index: 15; }
+.spotify-card:nth-child(7) { z-index: 14; }
+.spotify-card:nth-child(8) { z-index: 13; }
+.spotify-card:nth-child(9) { z-index: 12; }
+.spotify-card:nth-child(10) { z-index: 11; }
+.spotify-card:nth-child(11) { z-index: 10; }
+.spotify-card:nth-child(12) { z-index: 9; }
+.spotify-card:nth-child(13) { z-index: 8; }
+.spotify-card:nth-child(14) { z-index: 7; }
+.spotify-card:nth-child(15) { z-index: 6; }
+.spotify-card:nth-child(16) { z-index: 5; }
+.spotify-card:nth-child(17) { z-index: 4; }
+.spotify-card:nth-child(18) { z-index: 3; }
+.spotify-card:nth-child(19) { z-index: 2; }
+.spotify-card:nth-child(20) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -458,6 +459,36 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Faith in This Colour - Alternate Slow Mix; 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Faith in This Colour - Alternate Slow Mix; 2010 Remaster">
+    <div class="t-name">Faith in This Colour - Alternate Slow Mix; 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/2Qp5BTAvzxiVSV7txiHLHs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Faith in This Colour - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Faith in This Colour - 2010 Remaster">
+    <div class="t-name">Faith in This Colour - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/0BW7KUJw7J4onFwYL0v4oR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Is There Something I Should Know? - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Is There Something I Should Know? - 2010 Remaster">
+    <div class="t-name">Is There Something I Should Know? - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/2rzPxJ8y7ekQwmAIVyStmf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shadows on Your Side - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Shadows on Your Side - 2010 Remaster">
+    <div class="t-name">Shadows on Your Side - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/6LcGils4AoSADB9HVmGTJs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Union of the Snake - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Union of the Snake - 2010 Remaster">
+    <div class="t-name">Union of the Snake - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/3JpaL6FMH9kjVWMA1mTmRl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Of Crime and Passion - 2010 Remaster - Duran Duran">
     <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Of Crime and Passion - 2010 Remaster">
     <div class="t-name">Of Crime and Passion - 2010 Remaster</div>
@@ -547,30 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Georgy Porgy</div>
     <div class="t-artist">TOTO</div>
     <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Waiting for Your Love - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df" alt="Waiting for Your Love">
-    <div class="t-name">Waiting for Your Love</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Stop Loving You - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fc14cd7b4f461e14e57e281c" alt="Stop Loving You">
-    <div class="t-name">Stop Loving You</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="You&#x27;re the Only Woman - You &amp; I - Ambrosia">
-    <img src="https://i.scdn.co/image/ab67616d0000b27306fa32a1ead2c464ec2e2511" alt="You&#x27;re the Only Woman - You &amp; I">
-    <div class="t-name">You&#x27;re the Only Woman - You &amp; I</div>
-    <div class="t-artist">Ambrosia</div>
-    <a class="t-open" href="https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="All I Want for Christmas Is You - Mariah Carey">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0862332847213b151ffab31" alt="All I Want for Christmas Is You">
-    <div class="t-name">All I Want for Christmas Is You</div>
-    <div class="t-artist">Mariah Carey</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
