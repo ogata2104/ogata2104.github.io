@@ -458,6 +458,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="愛のままに - BASI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="愛のままに">
+    <div class="t-name">愛のままに</div>
+    <div class="t-artist">BASI</div>
+    <a class="t-open" href="https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="恋愛レボリューション21 - モーニング娘。">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d5ce4b850f55bdd565712794" alt="恋愛レボリューション21">
+    <div class="t-name">恋愛レボリューション21</div>
+    <div class="t-artist">モーニング娘。</div>
+    <a class="t-open" href="https://open.spotify.com/track/1pgmgpwz6iMYzZKAq2nb6n" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Loretta - Ginger Root">
     <img src="https://i.scdn.co/image/ab67616d0000b2738e9876be6bd512f0ff86de9e" alt="Loretta">
     <div class="t-name">Loretta</div>
@@ -559,18 +571,6 @@ From TOKYO JAPAN
     <div class="t-name">Material Lover - from The Devil Wears Prada 2 Original Motion Picture</div>
     <div class="t-artist">SIENNA SPIRO</div>
     <a class="t-open" href="https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="TECHNOVA - TOWA TEI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f7e2dc293bed7503de291791" alt="TECHNOVA">
-    <div class="t-name">TECHNOVA</div>
-    <div class="t-artist">TOWA TEI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1e2M83FZ6T13KjSFSWpNmg" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Life Or Death - Magnus Ferrell">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735468ec8cc5d91166e7536b55" alt="Life Or Death">
-    <div class="t-name">Life Or Death</div>
-    <div class="t-artist">Magnus Ferrell</div>
-    <a class="t-open" href="https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
