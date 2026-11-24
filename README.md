@@ -459,6 +459,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Come On Eileen - Dexys Midnight Runners">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" alt="Come On Eileen">
+    <div class="t-name">Come On Eileen</div>
+    <div class="t-artist">Dexys Midnight Runners</div>
+    <a class="t-open" href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Winner Takes It All - ABBA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="The Winner Takes It All">
+    <div class="t-name">The Winner Takes It All</div>
+    <div class="t-artist">ABBA</div>
+    <a class="t-open" href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Every Breath You Take - The Police">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" alt="Every Breath You Take">
+    <div class="t-name">Every Breath You Take</div>
+    <div class="t-artist">The Police</div>
+    <a class="t-open" href="https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Dress Down - Kaoru Akimoto">
+    <img src="https://i.scdn.co/image/ab67616d0000b273836acd8a3ec906b36c3e2ccf" alt="Dress Down">
+    <div class="t-name">Dress Down</div>
+    <div class="t-artist">Kaoru Akimoto</div>
+    <a class="t-open" href="https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="う、ふ、ふ、ふ、 - EPO">
     <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" alt="う、ふ、ふ、ふ、">
     <div class="t-name">う、ふ、ふ、ふ、</div>
@@ -554,30 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Of Crime and Passion - 2010 Remaster</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/2q0Rd7yOvrDmST9UcsRf3o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="I Take the Dice - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="I Take the Dice - 2010 Remaster">
-    <div class="t-name">I Take the Dice - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0SsbOWDsaXTl0olZ3kjwTt" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster">
-    <div class="t-name">(I&#x27;m Looking For) Cracks in the Pavement - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/6hqG4ZsbweeqsswEyGbZit" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="New Moon on Monday - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="New Moon on Monday - 2010 Remaster">
-    <div class="t-name">New Moon on Monday - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/74tXc7WOWxEDZahXcyPG9D" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Reflex - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="The Reflex - 2010 Remaster">
-    <div class="t-name">The Reflex - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/60StghTk9dzZHrtd470zcp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
