@@ -459,6 +459,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Radio Ga Ga - Queen">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65" alt="Radio Ga Ga">
+    <div class="t-name">Radio Ga Ga</div>
+    <div class="t-artist">Queen</div>
+    <a class="t-open" href="https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Come On Eileen - Dexys Midnight Runners">
     <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" alt="Come On Eileen">
     <div class="t-name">Come On Eileen</div>
@@ -572,12 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Union of the Snake - 2010 Remaster</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/3JpaL6FMH9kjVWMA1mTmRl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Of Crime and Passion - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Of Crime and Passion - 2010 Remaster">
-    <div class="t-name">Of Crime and Passion - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/2q0Rd7yOvrDmST9UcsRf3o" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
