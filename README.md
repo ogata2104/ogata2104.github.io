@@ -459,6 +459,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="会いたくて 会いたくて - Kana Nishino">
+    <img src="https://i.scdn.co/image/ab67616d0000b27311f9fa546e03d8ce188732b6" alt="会いたくて 会いたくて">
+    <div class="t-name">会いたくて 会いたくて</div>
+    <div class="t-artist">Kana Nishino</div>
+    <a class="t-open" href="https://open.spotify.com/track/5yp5wFjiFMI5TiYKBTUSzs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="DON-DON-DON - SixTONES">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ea16f576af7c77b8a9e6ef7f" alt="DON-DON-DON">
+    <div class="t-name">DON-DON-DON</div>
+    <div class="t-artist">SixTONES</div>
+    <a class="t-open" href="https://open.spotify.com/track/3DlCUluAs9BQsc80kYa0sK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Hold On - Wilson Phillips">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" alt="Hold On">
+    <div class="t-name">Hold On</div>
+    <div class="t-artist">Wilson Phillips</div>
+    <a class="t-open" href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Radio Ga Ga - Queen">
     <img src="https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65" alt="Radio Ga Ga">
     <div class="t-name">Radio Ga Ga</div>
@@ -560,24 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Faith in This Colour - 2010 Remaster</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/0BW7KUJw7J4onFwYL0v4oR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Is There Something I Should Know? - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Is There Something I Should Know? - 2010 Remaster">
-    <div class="t-name">Is There Something I Should Know? - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/2rzPxJ8y7ekQwmAIVyStmf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shadows on Your Side - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Shadows on Your Side - 2010 Remaster">
-    <div class="t-name">Shadows on Your Side - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/6LcGils4AoSADB9HVmGTJs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Union of the Snake - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Union of the Snake - 2010 Remaster">
-    <div class="t-name">Union of the Snake - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/3JpaL6FMH9kjVWMA1mTmRl" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
