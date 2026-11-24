@@ -459,6 +459,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="う、ふ、ふ、ふ、 - EPO">
+    <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" alt="う、ふ、ふ、ふ、">
+    <div class="t-name">う、ふ、ふ、ふ、</div>
+    <div class="t-artist">EPO</div>
+    <a class="t-open" href="https://open.spotify.com/track/1rUwkDtpGOztJ0j0GUnl0I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Shake Hip! - Kome Kome Club">
+    <img src="https://i.scdn.co/image/ab67616d0000b27373963e04d1828ac296810cee" alt="Shake Hip!">
+    <div class="t-name">Shake Hip!</div>
+    <div class="t-artist">Kome Kome Club</div>
+    <a class="t-open" href="https://open.spotify.com/track/5BwMJMrRRKNpve3huEHTic" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="BE MY BABY - COMPLEX">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ea4adb20da4035a8567fde72" alt="BE MY BABY">
+    <div class="t-name">BE MY BABY</div>
+    <div class="t-artist">COMPLEX</div>
+    <a class="t-open" href="https://open.spotify.com/track/2k3kCCpZ9ZGTYMJUSBlENJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="ONLY YOU - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
+    <div class="t-name">ONLY YOU</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="DOWNTOWN BOY - Yumi Matsutoya">
     <img src="https://i.scdn.co/image/ab67616d0000b27363bcc2884c5430c0465a1e92" alt="DOWNTOWN BOY">
     <div class="t-name">DOWNTOWN BOY</div>
@@ -554,30 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">The Reflex - 2010 Remaster</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/60StghTk9dzZHrtd470zcp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="かさぶた - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="かさぶた">
-    <div class="t-name">かさぶた</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/4PZEnhGLP1VBNg0C1cnbiF" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NICE - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f13bc2855e1fc4c443596edc" alt="NICE">
-    <div class="t-name">NICE</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/1nJuoNb3F6YJecgAQMNKsG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="キムチ - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d52b419dd7e59251f440c45d" alt="キムチ">
-    <div class="t-name">キムチ</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/5eD5dcX5WZnIvK9dlUFtpN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="あなたには - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273579cc8258bb53aa77f59694c" alt="あなたには">
-    <div class="t-name">あなたには</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/2ThWxQQVzTQBiNDGm8q7gS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
