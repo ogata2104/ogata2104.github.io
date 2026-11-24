@@ -459,6 +459,42 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="DOWNTOWN BOY - Yumi Matsutoya">
+    <img src="https://i.scdn.co/image/ab67616d0000b27363bcc2884c5430c0465a1e92" alt="DOWNTOWN BOY">
+    <div class="t-name">DOWNTOWN BOY</div>
+    <div class="t-artist">Yumi Matsutoya</div>
+    <a class="t-open" href="https://open.spotify.com/track/7Kk5e6Ipnm2uJQ6IrKbghy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="街のドルフィン - Kingo Hamada">
+    <img src="https://i.scdn.co/image/ab67616d0000b273d175d8963d44efb4cce117ae" alt="街のドルフィン">
+    <div class="t-name">街のドルフィン</div>
+    <div class="t-artist">Kingo Hamada</div>
+    <a class="t-open" href="https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="LOVE SONG - CHAGE and ASKA">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734618db4506605db64ee4832a" alt="LOVE SONG">
+    <div class="t-name">LOVE SONG</div>
+    <div class="t-artist">CHAGE and ASKA</div>
+    <a class="t-open" href="https://open.spotify.com/track/7vAcRz6gXkPcklJ53L28vf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="うれしい！たのしい！大好き！ - DREAMS COME TRUE">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ccada37f29851e60ff8d3d15" alt="うれしい！たのしい！大好き！">
+    <div class="t-name">うれしい！たのしい！大好き！</div>
+    <div class="t-artist">DREAMS COME TRUE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7tqltihMt6Z2DAFAi6eNzH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS - Anri">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS">
+    <div class="t-name">悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS</div>
+    <div class="t-artist">Anri</div>
+    <a class="t-open" href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="B・BLUE - BOØWY">
+    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
+    <div class="t-name">B・BLUE</div>
+    <div class="t-artist">BOØWY</div>
+    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Faith in This Colour - Alternate Slow Mix; 2010 Remaster - Duran Duran">
     <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Faith in This Colour - Alternate Slow Mix; 2010 Remaster">
     <div class="t-name">Faith in This Colour - Alternate Slow Mix; 2010 Remaster</div>
@@ -542,42 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">あなたには</div>
     <div class="t-artist">BASI</div>
     <a class="t-open" href="https://open.spotify.com/track/2ThWxQQVzTQBiNDGm8q7gS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="月ひとつ - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="月ひとつ">
-    <div class="t-name">月ひとつ</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/0bKhnh3MTxrixDjAXCvpAI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="これだけで十分なのに - (BASI REMIX) - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="これだけで十分なのに - (BASI REMIX)">
-    <div class="t-name">これだけで十分なのに - (BASI REMIX)</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="愛のままに - BASI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0fb329a2e1d454c0b4fd06c" alt="愛のままに">
-    <div class="t-name">愛のままに</div>
-    <div class="t-artist">BASI</div>
-    <a class="t-open" href="https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="恋愛レボリューション21 - モーニング娘。">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d5ce4b850f55bdd565712794" alt="恋愛レボリューション21">
-    <div class="t-name">恋愛レボリューション21</div>
-    <div class="t-artist">モーニング娘。</div>
-    <a class="t-open" href="https://open.spotify.com/track/1pgmgpwz6iMYzZKAq2nb6n" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Loretta - Ginger Root">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e9876be6bd512f0ff86de9e" alt="Loretta">
-    <div class="t-name">Loretta</div>
-    <div class="t-artist">Ginger Root</div>
-    <a class="t-open" href="https://open.spotify.com/track/4v3icU8NQfjM8uwIz9Ug1h" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Georgy Porgy - TOTO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94" alt="Georgy Porgy">
-    <div class="t-name">Georgy Porgy</div>
-    <div class="t-artist">TOTO</div>
-    <a class="t-open" href="https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
