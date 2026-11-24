@@ -459,6 +459,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="8号車との歌 (EUPHORIA Live ver.) - chotokkyu">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e8a7264fd908d006d958ecf5" alt="8号車との歌 (EUPHORIA Live ver.)">
+    <div class="t-name">8号車との歌 (EUPHORIA Live ver.)</div>
+    <div class="t-artist">chotokkyu</div>
+    <a class="t-open" href="https://open.spotify.com/track/6FZALqHoOxd0sFQ8uEqsWm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="会いたくて 会いたくて - Kana Nishino">
     <img src="https://i.scdn.co/image/ab67616d0000b27311f9fa546e03d8ce188732b6" alt="会いたくて 会いたくて">
     <div class="t-name">会いたくて 会いたくて</div>
@@ -572,12 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">Faith in This Colour - Alternate Slow Mix; 2010 Remaster</div>
     <div class="t-artist">Duran Duran</div>
     <a class="t-open" href="https://open.spotify.com/track/2Qp5BTAvzxiVSV7txiHLHs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Faith in This Colour - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Faith in This Colour - 2010 Remaster">
-    <div class="t-name">Faith in This Colour - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/0BW7KUJw7J4onFwYL0v4oR" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
