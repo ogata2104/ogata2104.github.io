@@ -459,6 +459,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Believe - ARASHI">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bafb5db86a45e011e1c144bf" alt="Believe">
+    <div class="t-name">Believe</div>
+    <div class="t-artist">ARASHI</div>
+    <a class="t-open" href="https://open.spotify.com/track/2vXuVpGXqIXF6KB2jeWhXI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Don&#x27;t Stop Believin&#x27; (2022 Remaster) - Journey">
+    <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" alt="Don&#x27;t Stop Believin&#x27; (2022 Remaster)">
+    <div class="t-name">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</div>
+    <div class="t-artist">Journey</div>
+    <a class="t-open" href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="8号車との歌 (EUPHORIA Live ver.) - chotokkyu">
     <img src="https://i.scdn.co/image/ab67616d0000b273e8a7264fd908d006d958ecf5" alt="8号車との歌 (EUPHORIA Live ver.)">
     <div class="t-name">8号車との歌 (EUPHORIA Live ver.)</div>
@@ -566,18 +578,6 @@ From TOKYO JAPAN
     <div class="t-name">悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS</div>
     <div class="t-artist">Anri</div>
     <a class="t-open" href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="B・BLUE - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="B・BLUE">
-    <div class="t-name">B・BLUE</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Faith in This Colour - Alternate Slow Mix; 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="Faith in This Colour - Alternate Slow Mix; 2010 Remaster">
-    <div class="t-name">Faith in This Colour - Alternate Slow Mix; 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/2Qp5BTAvzxiVSV7txiHLHs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
