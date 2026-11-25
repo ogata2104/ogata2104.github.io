@@ -368,26 +368,24 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 18; }
+.spotify-card:nth-child(2) { z-index: 17; }
+.spotify-card:nth-child(3) { z-index: 16; }
+.spotify-card:nth-child(4) { z-index: 15; }
+.spotify-card:nth-child(5) { z-index: 14; }
+.spotify-card:nth-child(6) { z-index: 13; }
+.spotify-card:nth-child(7) { z-index: 12; }
+.spotify-card:nth-child(8) { z-index: 11; }
+.spotify-card:nth-child(9) { z-index: 10; }
+.spotify-card:nth-child(10) { z-index: 9; }
+.spotify-card:nth-child(11) { z-index: 8; }
+.spotify-card:nth-child(12) { z-index: 7; }
+.spotify-card:nth-child(13) { z-index: 6; }
+.spotify-card:nth-child(14) { z-index: 5; }
+.spotify-card:nth-child(15) { z-index: 4; }
+.spotify-card:nth-child(16) { z-index: 3; }
+.spotify-card:nth-child(17) { z-index: 2; }
+.spotify-card:nth-child(18) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -460,6 +458,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="電気グルーヴ35周年の歌（試聴用動画） - Denki Groove">
+    <img src="https://i.scdn.co/image/ab6742d3000053b7cbcdbec1ee01752b821ae25b" alt="電気グルーヴ35周年の歌（試聴用動画）">
+    <div class="t-name">電気グルーヴ35周年の歌（試聴用動画）</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/0Bw3vMuXVDyJiTfRCELMov" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Set you Free - Video Edit - Denki Groove">
+    <img src="https://i.scdn.co/image/ab6742d3000053b77e0265ca82f943bfda4a879e" alt="Set you Free - Video Edit">
+    <div class="t-name">Set you Free - Video Edit</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/6zLec4tULnyWfKDmicBtsT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="N.O. - Denki Groove">
+    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="N.O.">
+    <div class="t-name">N.O.</div>
+    <div class="t-artist">Denki Groove</div>
+    <a class="t-open" href="https://open.spotify.com/track/78mnqVs0eo5h3gR0E7pKwe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Ding Dong Express - ZOO">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c3cafedc06f726cf858ecb7a" alt="Ding Dong Express">
+    <div class="t-name">Ding Dong Express</div>
+    <div class="t-artist">ZOO</div>
+    <a class="t-open" href="https://open.spotify.com/track/4DTeBZRyYtUGGt8wnO2oMf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Self Control (方舟に曳かれて) - TM NETWORK">
     <img src="https://i.scdn.co/image/ab67616d0000b27378dda3216b558e7017b6a822" alt="Self Control (方舟に曳かれて)">
     <div class="t-name">Self Control (方舟に曳かれて)</div>
@@ -543,42 +565,6 @@ From TOKYO JAPAN
     <div class="t-name">う、ふ、ふ、ふ、</div>
     <div class="t-artist">EPO</div>
     <a class="t-open" href="https://open.spotify.com/track/1rUwkDtpGOztJ0j0GUnl0I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Shake Hip! - Kome Kome Club">
-    <img src="https://i.scdn.co/image/ab67616d0000b27373963e04d1828ac296810cee" alt="Shake Hip!">
-    <div class="t-name">Shake Hip!</div>
-    <div class="t-artist">Kome Kome Club</div>
-    <a class="t-open" href="https://open.spotify.com/track/5BwMJMrRRKNpve3huEHTic" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="BE MY BABY - COMPLEX">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ea4adb20da4035a8567fde72" alt="BE MY BABY">
-    <div class="t-name">BE MY BABY</div>
-    <div class="t-artist">COMPLEX</div>
-    <a class="t-open" href="https://open.spotify.com/track/2k3kCCpZ9ZGTYMJUSBlENJ" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="ONLY YOU - BOØWY">
-    <img src="https://i.scdn.co/image/ab67616d0000b273039bea39433265a9ba2fe4da" alt="ONLY YOU">
-    <div class="t-name">ONLY YOU</div>
-    <div class="t-artist">BOØWY</div>
-    <a class="t-open" href="https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DOWNTOWN BOY - Yumi Matsutoya">
-    <img src="https://i.scdn.co/image/ab67616d0000b27363bcc2884c5430c0465a1e92" alt="DOWNTOWN BOY">
-    <div class="t-name">DOWNTOWN BOY</div>
-    <div class="t-artist">Yumi Matsutoya</div>
-    <a class="t-open" href="https://open.spotify.com/track/7Kk5e6Ipnm2uJQ6IrKbghy" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="街のドルフィン - Kingo Hamada">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d175d8963d44efb4cce117ae" alt="街のドルフィン">
-    <div class="t-name">街のドルフィン</div>
-    <div class="t-artist">Kingo Hamada</div>
-    <a class="t-open" href="https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="LOVE SONG - CHAGE and ASKA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734618db4506605db64ee4832a" alt="LOVE SONG">
-    <div class="t-name">LOVE SONG</div>
-    <div class="t-artist">CHAGE and ASKA</div>
-    <a class="t-open" href="https://open.spotify.com/track/7vAcRz6gXkPcklJ53L28vf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
