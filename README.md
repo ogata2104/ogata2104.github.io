@@ -458,6 +458,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Light the Way - Leon Bridges">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bb0c51f02a25bef0a34f3dd1" alt="Light the Way">
+    <div class="t-name">Light the Way</div>
+    <div class="t-artist">Leon Bridges</div>
+    <a class="t-open" href="https://open.spotify.com/track/3G1hTUddM2diIyYA0yy9kS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="One More Time - Daft Punk">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="One More Time">
+    <div class="t-name">One More Time</div>
+    <div class="t-artist">Daft Punk</div>
+    <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Man I Need - Olivia Dean">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="Man I Need">
+    <div class="t-name">Man I Need</div>
+    <div class="t-artist">Olivia Dean</div>
+    <a class="t-open" href="https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="flowers - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b27328e6909795cc2c798fc9e1da" alt="flowers">
+    <div class="t-name">flowers</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/00P7qBMdsxcgS4EnnAhf43" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="イケナイ太陽 - ORANGE RANGE">
     <img src="https://i.scdn.co/image/ab67616d0000b273dce91774924868ea69bd4b87" alt="イケナイ太陽">
     <div class="t-name">イケナイ太陽</div>
@@ -541,30 +565,6 @@ From TOKYO JAPAN
     <div class="t-name">Radio Ga Ga</div>
     <div class="t-artist">Queen</div>
     <a class="t-open" href="https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Come On Eileen - Dexys Midnight Runners">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905" alt="Come On Eileen">
-    <div class="t-name">Come On Eileen</div>
-    <div class="t-artist">Dexys Midnight Runners</div>
-    <a class="t-open" href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Winner Takes It All - ABBA">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa" alt="The Winner Takes It All">
-    <div class="t-name">The Winner Takes It All</div>
-    <div class="t-artist">ABBA</div>
-    <a class="t-open" href="https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Every Breath You Take - The Police">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" alt="Every Breath You Take">
-    <div class="t-name">Every Breath You Take</div>
-    <div class="t-artist">The Police</div>
-    <a class="t-open" href="https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Dress Down - Kaoru Akimoto">
-    <img src="https://i.scdn.co/image/ab67616d0000b273836acd8a3ec906b36c3e2ccf" alt="Dress Down">
-    <div class="t-name">Dress Down</div>
-    <div class="t-artist">Kaoru Akimoto</div>
-    <a class="t-open" href="https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
