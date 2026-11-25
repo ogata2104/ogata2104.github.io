@@ -458,6 +458,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Emotional Intelligence - Chaos In The CBD">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730d8286776d39d70c27bea553" alt="Emotional Intelligence">
+    <div class="t-name">Emotional Intelligence</div>
+    <div class="t-artist">Chaos In The CBD</div>
+    <a class="t-open" href="https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="APT. - ROSÉ">
+    <img src="https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a" alt="APT.">
+    <div class="t-name">APT.</div>
+    <div class="t-artist">ROSÉ</div>
+    <a class="t-open" href="https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Can&#x27;t Do Without (My Baby) - Cosmo&#x27;s Midnight">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e3439c31982a8c4801044924" alt="Can&#x27;t Do Without (My Baby)">
+    <div class="t-name">Can&#x27;t Do Without (My Baby)</div>
+    <div class="t-artist">Cosmo&#x27;s Midnight</div>
+    <a class="t-open" href="https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="NG - CHANMINA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27344a8d5c3ebd2eb029ea2f899" alt="NG">
+    <div class="t-name">NG</div>
+    <div class="t-artist">CHANMINA</div>
+    <a class="t-open" href="https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Light the Way - Leon Bridges">
     <img src="https://i.scdn.co/image/ab67616d0000b273bb0c51f02a25bef0a34f3dd1" alt="Light the Way">
     <div class="t-name">Light the Way</div>
@@ -541,30 +565,6 @@ From TOKYO JAPAN
     <div class="t-name">8号車との歌 (EUPHORIA Live ver.)</div>
     <div class="t-artist">chotokkyu</div>
     <a class="t-open" href="https://open.spotify.com/track/6FZALqHoOxd0sFQ8uEqsWm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="会いたくて 会いたくて - Kana Nishino">
-    <img src="https://i.scdn.co/image/ab67616d0000b27311f9fa546e03d8ce188732b6" alt="会いたくて 会いたくて">
-    <div class="t-name">会いたくて 会いたくて</div>
-    <div class="t-artist">Kana Nishino</div>
-    <a class="t-open" href="https://open.spotify.com/track/5yp5wFjiFMI5TiYKBTUSzs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="DON-DON-DON - SixTONES">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ea16f576af7c77b8a9e6ef7f" alt="DON-DON-DON">
-    <div class="t-name">DON-DON-DON</div>
-    <div class="t-artist">SixTONES</div>
-    <a class="t-open" href="https://open.spotify.com/track/3DlCUluAs9BQsc80kYa0sK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Hold On - Wilson Phillips">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733168e1f416b81862ccc83594" alt="Hold On">
-    <div class="t-name">Hold On</div>
-    <div class="t-artist">Wilson Phillips</div>
-    <a class="t-open" href="https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Radio Ga Ga - Queen">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65" alt="Radio Ga Ga">
-    <div class="t-name">Radio Ga Ga</div>
-    <div class="t-artist">Queen</div>
-    <a class="t-open" href="https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
