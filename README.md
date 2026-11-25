@@ -460,6 +460,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Self Control (方舟に曳かれて) - TM NETWORK">
+    <img src="https://i.scdn.co/image/ab67616d0000b27378dda3216b558e7017b6a822" alt="Self Control (方舟に曳かれて)">
+    <div class="t-name">Self Control (方舟に曳かれて)</div>
+    <div class="t-artist">TM NETWORK</div>
+    <a class="t-open" href="https://open.spotify.com/track/0XCbkMFU8U6dyhTAQvSm0s" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Twinkle Snow Powdery Snow - Perfume">
+    <img src="https://i.scdn.co/image/ab67616d0000b27306ca33f0236a9b67e18e2a85" alt="Twinkle Snow Powdery Snow">
+    <div class="t-name">Twinkle Snow Powdery Snow</div>
+    <div class="t-artist">Perfume</div>
+    <a class="t-open" href="https://open.spotify.com/track/0fqpebgPghAzMlJU09D6ZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Believe - ARASHI">
     <img src="https://i.scdn.co/image/ab67616d0000b273bafb5db86a45e011e1c144bf" alt="Believe">
     <div class="t-name">Believe</div>
@@ -567,18 +579,6 @@ From TOKYO JAPAN
     <div class="t-name">LOVE SONG</div>
     <div class="t-artist">CHAGE and ASKA</div>
     <a class="t-open" href="https://open.spotify.com/track/7vAcRz6gXkPcklJ53L28vf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="うれしい！たのしい！大好き！ - DREAMS COME TRUE">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ccada37f29851e60ff8d3d15" alt="うれしい！たのしい！大好き！">
-    <div class="t-name">うれしい！たのしい！大好き！</div>
-    <div class="t-artist">DREAMS COME TRUE</div>
-    <a class="t-open" href="https://open.spotify.com/track/7tqltihMt6Z2DAFAi6eNzH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS - Anri">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS">
-    <div class="t-name">悲しみがとまらない　I CAN&#x27;T STOP THE LONELINESS</div>
-    <div class="t-artist">Anri</div>
-    <a class="t-open" href="https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
