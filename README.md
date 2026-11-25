@@ -368,24 +368,22 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 18; }
-.spotify-card:nth-child(2) { z-index: 17; }
-.spotify-card:nth-child(3) { z-index: 16; }
-.spotify-card:nth-child(4) { z-index: 15; }
-.spotify-card:nth-child(5) { z-index: 14; }
-.spotify-card:nth-child(6) { z-index: 13; }
-.spotify-card:nth-child(7) { z-index: 12; }
-.spotify-card:nth-child(8) { z-index: 11; }
-.spotify-card:nth-child(9) { z-index: 10; }
-.spotify-card:nth-child(10) { z-index: 9; }
-.spotify-card:nth-child(11) { z-index: 8; }
-.spotify-card:nth-child(12) { z-index: 7; }
-.spotify-card:nth-child(13) { z-index: 6; }
-.spotify-card:nth-child(14) { z-index: 5; }
-.spotify-card:nth-child(15) { z-index: 4; }
-.spotify-card:nth-child(16) { z-index: 3; }
-.spotify-card:nth-child(17) { z-index: 2; }
-.spotify-card:nth-child(18) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 16; }
+.spotify-card:nth-child(2) { z-index: 15; }
+.spotify-card:nth-child(3) { z-index: 14; }
+.spotify-card:nth-child(4) { z-index: 13; }
+.spotify-card:nth-child(5) { z-index: 12; }
+.spotify-card:nth-child(6) { z-index: 11; }
+.spotify-card:nth-child(7) { z-index: 10; }
+.spotify-card:nth-child(8) { z-index: 9; }
+.spotify-card:nth-child(9) { z-index: 8; }
+.spotify-card:nth-child(10) { z-index: 7; }
+.spotify-card:nth-child(11) { z-index: 6; }
+.spotify-card:nth-child(12) { z-index: 5; }
+.spotify-card:nth-child(13) { z-index: 4; }
+.spotify-card:nth-child(14) { z-index: 3; }
+.spotify-card:nth-child(15) { z-index: 2; }
+.spotify-card:nth-child(16) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -458,11 +456,23 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
-  <div class="spotify-card" title="Emotional Intelligence - Chaos In The CBD">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730d8286776d39d70c27bea553" alt="Emotional Intelligence">
-    <div class="t-name">Emotional Intelligence</div>
-    <div class="t-artist">Chaos In The CBD</div>
-    <a class="t-open" href="https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="Water Baby - Tom Misch">
+    <img src="https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f" alt="Water Baby">
+    <div class="t-name">Water Baby</div>
+    <div class="t-artist">Tom Misch</div>
+    <a class="t-open" href="https://open.spotify.com/track/2xOdFPQn17smnZrFCtFNSv" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Stay With Me - Sam Smith">
+    <img src="https://i.scdn.co/image/ab67616d0000b273899983dd29114e8b29fb051b" alt="Stay With Me">
+    <div class="t-name">Stay With Me</div>
+    <div class="t-artist">Sam Smith</div>
+    <a class="t-open" href="https://open.spotify.com/track/7876ppTxozBmoZ2EZZqV1i" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="RASEN in OKINAWA - Awich">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737eca0a952a35b51d100c081e" alt="RASEN in OKINAWA">
+    <div class="t-name">RASEN in OKINAWA</div>
+    <div class="t-artist">Awich</div>
+    <a class="t-open" href="https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="APT. - ROSÉ">
     <img src="https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a" alt="APT.">
@@ -470,71 +480,11 @@ From TOKYO JAPAN
     <div class="t-artist">ROSÉ</div>
     <a class="t-open" href="https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Can&#x27;t Do Without (My Baby) - Cosmo&#x27;s Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e3439c31982a8c4801044924" alt="Can&#x27;t Do Without (My Baby)">
-    <div class="t-name">Can&#x27;t Do Without (My Baby)</div>
-    <div class="t-artist">Cosmo&#x27;s Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="NG - CHANMINA">
-    <img src="https://i.scdn.co/image/ab67616d0000b27344a8d5c3ebd2eb029ea2f899" alt="NG">
-    <div class="t-name">NG</div>
-    <div class="t-artist">CHANMINA</div>
-    <a class="t-open" href="https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Light the Way - Leon Bridges">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bb0c51f02a25bef0a34f3dd1" alt="Light the Way">
-    <div class="t-name">Light the Way</div>
-    <div class="t-artist">Leon Bridges</div>
-    <a class="t-open" href="https://open.spotify.com/track/3G1hTUddM2diIyYA0yy9kS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One More Time - Daft Punk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="One More Time">
-    <div class="t-name">One More Time</div>
-    <div class="t-artist">Daft Punk</div>
-    <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Man I Need - Olivia Dean">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="Man I Need">
-    <div class="t-name">Man I Need</div>
-    <div class="t-artist">Olivia Dean</div>
-    <a class="t-open" href="https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="flowers - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b27328e6909795cc2c798fc9e1da" alt="flowers">
-    <div class="t-name">flowers</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/00P7qBMdsxcgS4EnnAhf43" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
   <div class="spotify-card" title="イケナイ太陽 - ORANGE RANGE">
     <img src="https://i.scdn.co/image/ab67616d0000b273dce91774924868ea69bd4b87" alt="イケナイ太陽">
     <div class="t-name">イケナイ太陽</div>
     <div class="t-artist">ORANGE RANGE</div>
     <a class="t-open" href="https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="電気グルーヴ35周年の歌（試聴用動画） - Denki Groove">
-    <img src="https://i.scdn.co/image/ab6742d3000053b7cbcdbec1ee01752b821ae25b" alt="電気グルーヴ35周年の歌（試聴用動画）">
-    <div class="t-name">電気グルーヴ35周年の歌（試聴用動画）</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/0Bw3vMuXVDyJiTfRCELMov" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Set you Free - Video Edit - Denki Groove">
-    <img src="https://i.scdn.co/image/ab6742d3000053b77e0265ca82f943bfda4a879e" alt="Set you Free - Video Edit">
-    <div class="t-name">Set you Free - Video Edit</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/6zLec4tULnyWfKDmicBtsT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="N.O. - Denki Groove">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd6dfed922f09a160a9cebbb" alt="N.O.">
-    <div class="t-name">N.O.</div>
-    <div class="t-artist">Denki Groove</div>
-    <a class="t-open" href="https://open.spotify.com/track/78mnqVs0eo5h3gR0E7pKwe" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ding Dong Express - ZOO">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c3cafedc06f726cf858ecb7a" alt="Ding Dong Express">
-    <div class="t-name">Ding Dong Express</div>
-    <div class="t-artist">ZOO</div>
-    <a class="t-open" href="https://open.spotify.com/track/4DTeBZRyYtUGGt8wnO2oMf" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   <div class="spotify-card" title="Self Control (方舟に曳かれて) - TM NETWORK">
     <img src="https://i.scdn.co/image/ab67616d0000b27378dda3216b558e7017b6a822" alt="Self Control (方舟に曳かれて)">
@@ -548,23 +498,59 @@ From TOKYO JAPAN
     <div class="t-artist">Perfume</div>
     <a class="t-open" href="https://open.spotify.com/track/0fqpebgPghAzMlJU09D6ZH" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Believe - ARASHI">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bafb5db86a45e011e1c144bf" alt="Believe">
-    <div class="t-name">Believe</div>
-    <div class="t-artist">ARASHI</div>
-    <a class="t-open" href="https://open.spotify.com/track/2vXuVpGXqIXF6KB2jeWhXI" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="NO WAY - DONGURIZU">
+    <img src="https://i.scdn.co/image/ab67616d0000b27333428b64f27c48685c59de3b" alt="NO WAY">
+    <div class="t-name">NO WAY</div>
+    <div class="t-artist">DONGURIZU</div>
+    <a class="t-open" href="https://open.spotify.com/track/2vjH6qrmEcwrvEQ5WGipUM" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="Don&#x27;t Stop Believin&#x27; (2022 Remaster) - Journey">
-    <img src="https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018" alt="Don&#x27;t Stop Believin&#x27; (2022 Remaster)">
-    <div class="t-name">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</div>
-    <div class="t-artist">Journey</div>
-    <a class="t-open" href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="P.Y.T. (Pretty Young Thing) - Michael Jackson">
+    <img src="https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5" alt="P.Y.T. (Pretty Young Thing)">
+    <div class="t-name">P.Y.T. (Pretty Young Thing)</div>
+    <div class="t-artist">Michael Jackson</div>
+    <a class="t-open" href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="8号車との歌 (EUPHORIA Live ver.) - chotokkyu">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e8a7264fd908d006d958ecf5" alt="8号車との歌 (EUPHORIA Live ver.)">
-    <div class="t-name">8号車との歌 (EUPHORIA Live ver.)</div>
-    <div class="t-artist">chotokkyu</div>
-    <a class="t-open" href="https://open.spotify.com/track/6FZALqHoOxd0sFQ8uEqsWm" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  <div class="spotify-card" title="September - Earth, Wind &amp; Fire">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" alt="September">
+    <div class="t-name">September</div>
+    <div class="t-artist">Earth, Wind &amp; Fire</div>
+    <a class="t-open" href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="One More Time - Daft Punk">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="One More Time">
+    <div class="t-name">One More Time</div>
+    <div class="t-artist">Daft Punk</div>
+    <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="It&#x27;s My Life - Bon Jovi">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58" alt="It&#x27;s My Life">
+    <div class="t-name">It&#x27;s My Life</div>
+    <div class="t-artist">Bon Jovi</div>
+    <a class="t-open" href="https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Man I Need - Olivia Dean">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="Man I Need">
+    <div class="t-name">Man I Need</div>
+    <div class="t-artist">Olivia Dean</div>
+    <a class="t-open" href="https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Can&#x27;t Do Without (My Baby) - Cosmo&#x27;s Midnight">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e3439c31982a8c4801044924" alt="Can&#x27;t Do Without (My Baby)">
+    <div class="t-name">Can&#x27;t Do Without (My Baby)</div>
+    <div class="t-artist">Cosmo&#x27;s Midnight</div>
+    <a class="t-open" href="https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Light the Way - Leon Bridges">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bb0c51f02a25bef0a34f3dd1" alt="Light the Way">
+    <div class="t-name">Light the Way</div>
+    <div class="t-artist">Leon Bridges</div>
+    <a class="t-open" href="https://open.spotify.com/track/3G1hTUddM2diIyYA0yy9kS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="flowers - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b27328e6909795cc2c798fc9e1da" alt="flowers">
+    <div class="t-name">flowers</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/00P7qBMdsxcgS4EnnAhf43" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
