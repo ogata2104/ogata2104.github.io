@@ -458,6 +458,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="イケナイ太陽 - ORANGE RANGE">
+    <img src="https://i.scdn.co/image/ab67616d0000b273dce91774924868ea69bd4b87" alt="イケナイ太陽">
+    <div class="t-name">イケナイ太陽</div>
+    <div class="t-artist">ORANGE RANGE</div>
+    <a class="t-open" href="https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="電気グルーヴ35周年の歌（試聴用動画） - Denki Groove">
     <img src="https://i.scdn.co/image/ab6742d3000053b7cbcdbec1ee01752b821ae25b" alt="電気グルーヴ35周年の歌（試聴用動画）">
     <div class="t-name">電気グルーヴ35周年の歌（試聴用動画）</div>
@@ -559,12 +565,6 @@ From TOKYO JAPAN
     <div class="t-name">Dress Down</div>
     <div class="t-artist">Kaoru Akimoto</div>
     <a class="t-open" href="https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="う、ふ、ふ、ふ、 - EPO">
-    <img src="https://i.scdn.co/image/ab67616d0000b27305e0d091d113e687913e91fb" alt="う、ふ、ふ、ふ、">
-    <div class="t-name">う、ふ、ふ、ふ、</div>
-    <div class="t-artist">EPO</div>
-    <a class="t-open" href="https://open.spotify.com/track/1rUwkDtpGOztJ0j0GUnl0I" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
