@@ -368,22 +368,21 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 16; }
-.spotify-card:nth-child(2) { z-index: 15; }
-.spotify-card:nth-child(3) { z-index: 14; }
-.spotify-card:nth-child(4) { z-index: 13; }
-.spotify-card:nth-child(5) { z-index: 12; }
-.spotify-card:nth-child(6) { z-index: 11; }
-.spotify-card:nth-child(7) { z-index: 10; }
-.spotify-card:nth-child(8) { z-index: 9; }
-.spotify-card:nth-child(9) { z-index: 8; }
-.spotify-card:nth-child(10) { z-index: 7; }
-.spotify-card:nth-child(11) { z-index: 6; }
-.spotify-card:nth-child(12) { z-index: 5; }
-.spotify-card:nth-child(13) { z-index: 4; }
-.spotify-card:nth-child(14) { z-index: 3; }
-.spotify-card:nth-child(15) { z-index: 2; }
-.spotify-card:nth-child(16) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 15; }
+.spotify-card:nth-child(2) { z-index: 14; }
+.spotify-card:nth-child(3) { z-index: 13; }
+.spotify-card:nth-child(4) { z-index: 12; }
+.spotify-card:nth-child(5) { z-index: 11; }
+.spotify-card:nth-child(6) { z-index: 10; }
+.spotify-card:nth-child(7) { z-index: 9; }
+.spotify-card:nth-child(8) { z-index: 8; }
+.spotify-card:nth-child(9) { z-index: 7; }
+.spotify-card:nth-child(10) { z-index: 6; }
+.spotify-card:nth-child(11) { z-index: 5; }
+.spotify-card:nth-child(12) { z-index: 4; }
+.spotify-card:nth-child(13) { z-index: 3; }
+.spotify-card:nth-child(14) { z-index: 2; }
+.spotify-card:nth-child(15) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -456,6 +455,24 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="It&#x27;s My Life - Bon Jovi">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58" alt="It&#x27;s My Life">
+    <div class="t-name">It&#x27;s My Life</div>
+    <div class="t-artist">Bon Jovi</div>
+    <a class="t-open" href="https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="flowers - Nujabes">
+    <img src="https://i.scdn.co/image/ab67616d0000b27328e6909795cc2c798fc9e1da" alt="flowers">
+    <div class="t-name">flowers</div>
+    <div class="t-artist">Nujabes</div>
+    <a class="t-open" href="https://open.spotify.com/track/00P7qBMdsxcgS4EnnAhf43" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="TUI - FKJ">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730324f3751e44962fff83e72a" alt="TUI">
+    <div class="t-name">TUI</div>
+    <div class="t-artist">FKJ</div>
+    <a class="t-open" href="https://open.spotify.com/track/0syxBXqvW4MhO3yYGcxkuw" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Water Baby - Tom Misch">
     <img src="https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f" alt="Water Baby">
     <div class="t-name">Water Baby</div>
@@ -522,35 +539,11 @@ From TOKYO JAPAN
     <div class="t-artist">Daft Punk</div>
     <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
-  <div class="spotify-card" title="It&#x27;s My Life - Bon Jovi">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58" alt="It&#x27;s My Life">
-    <div class="t-name">It&#x27;s My Life</div>
-    <div class="t-artist">Bon Jovi</div>
-    <a class="t-open" href="https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
   <div class="spotify-card" title="Man I Need - Olivia Dean">
     <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="Man I Need">
     <div class="t-name">Man I Need</div>
     <div class="t-artist">Olivia Dean</div>
     <a class="t-open" href="https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Can&#x27;t Do Without (My Baby) - Cosmo&#x27;s Midnight">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e3439c31982a8c4801044924" alt="Can&#x27;t Do Without (My Baby)">
-    <div class="t-name">Can&#x27;t Do Without (My Baby)</div>
-    <div class="t-artist">Cosmo&#x27;s Midnight</div>
-    <a class="t-open" href="https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Light the Way - Leon Bridges">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bb0c51f02a25bef0a34f3dd1" alt="Light the Way">
-    <div class="t-name">Light the Way</div>
-    <div class="t-artist">Leon Bridges</div>
-    <a class="t-open" href="https://open.spotify.com/track/3G1hTUddM2diIyYA0yy9kS" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="flowers - Nujabes">
-    <img src="https://i.scdn.co/image/ab67616d0000b27328e6909795cc2c798fc9e1da" alt="flowers">
-    <div class="t-name">flowers</div>
-    <div class="t-artist">Nujabes</div>
-    <a class="t-open" href="https://open.spotify.com/track/00P7qBMdsxcgS4EnnAhf43" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
