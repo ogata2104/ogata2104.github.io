@@ -455,6 +455,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm - Ken Ishii">
+    <img src="https://i.scdn.co/image/ab6742d3000053b73aec90a6cfab3e060d413ba1" alt="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm">
+    <div class="t-name">Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm</div>
+    <div class="t-artist">Ken Ishii</div>
+    <a class="t-open" href="https://open.spotify.com/track/2s1z92YuCgeXOj6EhaZzh3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="It&#x27;s My Life - Bon Jovi">
     <img src="https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58" alt="It&#x27;s My Life">
     <div class="t-name">It&#x27;s My Life</div>
@@ -538,12 +544,6 @@ From TOKYO JAPAN
     <div class="t-name">One More Time</div>
     <div class="t-artist">Daft Punk</div>
     <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Man I Need - Olivia Dean">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417" alt="Man I Need">
-    <div class="t-name">Man I Need</div>
-    <div class="t-artist">Olivia Dean</div>
-    <a class="t-open" href="https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
