@@ -368,21 +368,22 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 15; }
-.spotify-card:nth-child(2) { z-index: 14; }
-.spotify-card:nth-child(3) { z-index: 13; }
-.spotify-card:nth-child(4) { z-index: 12; }
-.spotify-card:nth-child(5) { z-index: 11; }
-.spotify-card:nth-child(6) { z-index: 10; }
-.spotify-card:nth-child(7) { z-index: 9; }
-.spotify-card:nth-child(8) { z-index: 8; }
-.spotify-card:nth-child(9) { z-index: 7; }
-.spotify-card:nth-child(10) { z-index: 6; }
-.spotify-card:nth-child(11) { z-index: 5; }
-.spotify-card:nth-child(12) { z-index: 4; }
-.spotify-card:nth-child(13) { z-index: 3; }
-.spotify-card:nth-child(14) { z-index: 2; }
-.spotify-card:nth-child(15) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 16; }
+.spotify-card:nth-child(2) { z-index: 15; }
+.spotify-card:nth-child(3) { z-index: 14; }
+.spotify-card:nth-child(4) { z-index: 13; }
+.spotify-card:nth-child(5) { z-index: 12; }
+.spotify-card:nth-child(6) { z-index: 11; }
+.spotify-card:nth-child(7) { z-index: 10; }
+.spotify-card:nth-child(8) { z-index: 9; }
+.spotify-card:nth-child(9) { z-index: 8; }
+.spotify-card:nth-child(10) { z-index: 7; }
+.spotify-card:nth-child(11) { z-index: 6; }
+.spotify-card:nth-child(12) { z-index: 5; }
+.spotify-card:nth-child(13) { z-index: 4; }
+.spotify-card:nth-child(14) { z-index: 3; }
+.spotify-card:nth-child(15) { z-index: 2; }
+.spotify-card:nth-child(16) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -455,6 +456,18 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="No Pasa Nada - RHYMESTER">
+    <img src="https://i.scdn.co/image/ab67616d0000b273aac506fd6b6aa991ae4357c7" alt="No Pasa Nada">
+    <div class="t-name">No Pasa Nada</div>
+    <div class="t-artist">RHYMESTER</div>
+    <a class="t-open" href="https://open.spotify.com/track/3VmuX2r1qZiPUhu9iDC217" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="The Reflex - 2010 Remaster - Duran Duran">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="The Reflex - 2010 Remaster">
+    <div class="t-name">The Reflex - 2010 Remaster</div>
+    <div class="t-artist">Duran Duran</div>
+    <a class="t-open" href="https://open.spotify.com/track/60StghTk9dzZHrtd470zcp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm - Ken Ishii">
     <img src="https://i.scdn.co/image/ab6742d3000053b73aec90a6cfab3e060d413ba1" alt="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm">
     <div class="t-name">Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm</div>
@@ -538,12 +551,6 @@ From TOKYO JAPAN
     <div class="t-name">September</div>
     <div class="t-artist">Earth, Wind &amp; Fire</div>
     <a class="t-open" href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="One More Time - Daft Punk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade" alt="One More Time">
-    <div class="t-name">One More Time</div>
-    <div class="t-artist">Daft Punk</div>
-    <a class="t-open" href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
