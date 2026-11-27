@@ -457,6 +457,12 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="夜明けのスキャット - Saori Yuki">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b7076fccb9efbcf254b0e687" alt="夜明けのスキャット">
+    <div class="t-name">夜明けのスキャット</div>
+    <div class="t-artist">Saori Yuki</div>
+    <a class="t-open" href="https://open.spotify.com/track/5EWqdfxKvQxnfE9DTh7mRU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Yeah! 年末 - Bakufu Slump">
     <img src="https://i.scdn.co/image/ab67616d0000b27393994f4f8b1b1bdcaa9e71dc" alt="Yeah! 年末">
     <div class="t-name">Yeah! 年末</div>
@@ -552,12 +558,6 @@ From TOKYO JAPAN
     <div class="t-name">P.Y.T. (Pretty Young Thing)</div>
     <div class="t-artist">Michael Jackson</div>
     <a class="t-open" href="https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="September - Earth, Wind &amp; Fire">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" alt="September">
-    <div class="t-name">September</div>
-    <div class="t-artist">Earth, Wind &amp; Fire</div>
-    <a class="t-open" href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
