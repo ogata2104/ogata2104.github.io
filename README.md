@@ -368,26 +368,25 @@ From TOKYO JAPAN
 .spotify-card:not(:first-child) {
   margin-left: -100px;
 }
-.spotify-card:nth-child(1) { z-index: 20; }
-.spotify-card:nth-child(2) { z-index: 19; }
-.spotify-card:nth-child(3) { z-index: 18; }
-.spotify-card:nth-child(4) { z-index: 17; }
-.spotify-card:nth-child(5) { z-index: 16; }
-.spotify-card:nth-child(6) { z-index: 15; }
-.spotify-card:nth-child(7) { z-index: 14; }
-.spotify-card:nth-child(8) { z-index: 13; }
-.spotify-card:nth-child(9) { z-index: 12; }
-.spotify-card:nth-child(10) { z-index: 11; }
-.spotify-card:nth-child(11) { z-index: 10; }
-.spotify-card:nth-child(12) { z-index: 9; }
-.spotify-card:nth-child(13) { z-index: 8; }
-.spotify-card:nth-child(14) { z-index: 7; }
-.spotify-card:nth-child(15) { z-index: 6; }
-.spotify-card:nth-child(16) { z-index: 5; }
-.spotify-card:nth-child(17) { z-index: 4; }
-.spotify-card:nth-child(18) { z-index: 3; }
-.spotify-card:nth-child(19) { z-index: 2; }
-.spotify-card:nth-child(20) { z-index: 1; }
+.spotify-card:nth-child(1) { z-index: 19; }
+.spotify-card:nth-child(2) { z-index: 18; }
+.spotify-card:nth-child(3) { z-index: 17; }
+.spotify-card:nth-child(4) { z-index: 16; }
+.spotify-card:nth-child(5) { z-index: 15; }
+.spotify-card:nth-child(6) { z-index: 14; }
+.spotify-card:nth-child(7) { z-index: 13; }
+.spotify-card:nth-child(8) { z-index: 12; }
+.spotify-card:nth-child(9) { z-index: 11; }
+.spotify-card:nth-child(10) { z-index: 10; }
+.spotify-card:nth-child(11) { z-index: 9; }
+.spotify-card:nth-child(12) { z-index: 8; }
+.spotify-card:nth-child(13) { z-index: 7; }
+.spotify-card:nth-child(14) { z-index: 6; }
+.spotify-card:nth-child(15) { z-index: 5; }
+.spotify-card:nth-child(16) { z-index: 4; }
+.spotify-card:nth-child(17) { z-index: 3; }
+.spotify-card:nth-child(18) { z-index: 2; }
+.spotify-card:nth-child(19) { z-index: 1; }
 .spotify-card:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(27,31,35,0.35);
@@ -460,6 +459,30 @@ From TOKYO JAPAN
 </style>
 <div class="spotify-stack-wrapper">
   <div class="spotify-stack">
+  <div class="spotify-card" title="蛍の光(AULD LANG SYNE) - Instrumental Cover Ver. - NIYARI計画">
+    <img src="https://i.scdn.co/image/ab67616d0000b273b153f03178f365d4be8838bf" alt="蛍の光(AULD LANG SYNE) - Instrumental Cover Ver.">
+    <div class="t-name">蛍の光(AULD LANG SYNE) - Instrumental Cover Ver.</div>
+    <div class="t-artist">NIYARI計画</div>
+    <a class="t-open" href="https://open.spotify.com/track/755a4tZiOWsiNmwQitSwPT" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Defying Gravity - Cynthia Erivo">
+    <img src="https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c" alt="Defying Gravity">
+    <div class="t-name">Defying Gravity</div>
+    <div class="t-artist">Cynthia Erivo</div>
+    <a class="t-open" href="https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="Cosmic Girl - Remastered 2013 - Jamiroquai">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1" alt="Cosmic Girl - Remastered 2013">
+    <div class="t-name">Cosmic Girl - Remastered 2013</div>
+    <div class="t-artist">Jamiroquai</div>
+    <a class="t-open" href="https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
+  <div class="spotify-card" title="September - Earth, Wind &amp; Fire">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282" alt="September">
+    <div class="t-name">September</div>
+    <div class="t-artist">Earth, Wind &amp; Fire</div>
+    <a class="t-open" href="https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
+  </div>
   <div class="spotify-card" title="Jingle Bells - Frank Sinatra">
     <img src="https://i.scdn.co/image/ab67616d0000b273292a3767391b5767f95e708f" alt="Jingle Bells">
     <div class="t-name">Jingle Bells</div>
@@ -549,36 +572,6 @@ From TOKYO JAPAN
     <div class="t-name">夜明けのスキャット</div>
     <div class="t-artist">Saori Yuki</div>
     <a class="t-open" href="https://open.spotify.com/track/5EWqdfxKvQxnfE9DTh7mRU" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Yeah! 年末 - Bakufu Slump">
-    <img src="https://i.scdn.co/image/ab67616d0000b27393994f4f8b1b1bdcaa9e71dc" alt="Yeah! 年末">
-    <div class="t-name">Yeah! 年末</div>
-    <div class="t-artist">Bakufu Slump</div>
-    <a class="t-open" href="https://open.spotify.com/track/5L8NAOTEDbunSVO9sMaNpz" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="No Pasa Nada - RHYMESTER">
-    <img src="https://i.scdn.co/image/ab67616d0000b273aac506fd6b6aa991ae4357c7" alt="No Pasa Nada">
-    <div class="t-name">No Pasa Nada</div>
-    <div class="t-artist">RHYMESTER</div>
-    <a class="t-open" href="https://open.spotify.com/track/3VmuX2r1qZiPUhu9iDC217" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="The Reflex - 2010 Remaster - Duran Duran">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b66a8f4f3f57f2cc43c88775" alt="The Reflex - 2010 Remaster">
-    <div class="t-name">The Reflex - 2010 Remaster</div>
-    <div class="t-artist">Duran Duran</div>
-    <a class="t-open" href="https://open.spotify.com/track/60StghTk9dzZHrtd470zcp" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm - Ken Ishii">
-    <img src="https://i.scdn.co/image/ab6742d3000053b73aec90a6cfab3e060d413ba1" alt="Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm">
-    <div class="t-name">Ken Ishii at Circus Nation 2026, playing &quot;Strange Attractor&quot; by Brainstorm</div>
-    <div class="t-artist">Ken Ishii</div>
-    <a class="t-open" href="https://open.spotify.com/track/2s1z92YuCgeXOj6EhaZzh3" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
-  </div>
-  <div class="spotify-card" title="It&#x27;s My Life - Bon Jovi">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58" alt="It&#x27;s My Life">
-    <div class="t-name">It&#x27;s My Life</div>
-    <div class="t-artist">Bon Jovi</div>
-    <a class="t-open" href="https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l" target="_blank" rel="noopener noreferrer">Spotifyで再生 &#9654;</a>
   </div>
   </div>
 </div>
